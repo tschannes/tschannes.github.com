@@ -1,0 +1,17 @@
+# Site settings
+title: Hannes Tscherrig
+email: tschannes@gmx.ch
+description: "Hannes Tscherrig ist Redaktor, Konzepter und Content-Spezialist. Er liest, was ihm unter die Augen kommt, liebt seichte Serien und lernt grad Fliegen."
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+twitter_username: tscherris
+github_username:  tschannes
+permalink: /:title
+date_format: ordinal
+
+# Build settings
+markdown: kramdown
+
+ # This will require each of these gems automatically.
+gems: []
+
