@@ -2,3 +2,6 @@ _site
 .sass-cache
 references
 images
+*.jpg
+*.jpeg
+*.pdf
