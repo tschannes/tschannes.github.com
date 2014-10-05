@@ -10,7 +10,6 @@ github_username:  tschannes
 linkedin: tschannes
 
 permalink: /:title
-date_format: ordinal
 
 # Build settings
 markdown: kramdown
