@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Über mich
-permalink: /ueber-mich/
+title: Lebenslauf
+permalink: /lebenslauf/
 excerpt: "Berufserfahrung, Ausbildung, Sprachen und Kompetenzen: Lesen Sie den Lebenslauf von Hannes Tscherrig."
 ---
 
