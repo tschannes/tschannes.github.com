@@ -1,3 +1,19 @@
 ul{
 	list-style-type: square;
 }
+
+#about-container{
+max-width:100%;
+display:flex;
+padding-bottom:$spacing-unit;
+border-bottom:1px solid #e8e8e8;
+}
+#about-foto{
+background-color:#252525;
+order:1;
+position:center;
+}
+#about-text{
+order:2;
+margin-left:1em;
+}
