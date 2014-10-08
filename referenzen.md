@@ -17,7 +17,7 @@ Marc Lustenberger und Ueli Bischof, Kommunikationsagentur media-work ([Arbeitsze
 
 > Er hat mit viel Engagement unterrichtet und gezeigt, dass ihm die Fortschritte seiner Studenten sehr am Herzen liegen.
 
-Armin Weissen, Instituto Chileno Suizo de Idiomas y Cultura ([Arbeitszeugnis Instituto Chileno Suizo](references/santiago.jpg))
+Armin Weissen, Instituto Chileno Suizo de Idiomas y Cultura ([Arbeitszeugnis Instituto Chileno Suizo](/references/santiago.jpg))
 
 > Wir lernten Herr Tscherrig als ehrlichen, einsatzbereiten und verantwortungsvollen Mitarbeiter kennen.
 
@@ -30,5 +30,5 @@ Joerg Jahn, S&F Zürich ([Arbeitszeugnis S&F Zürich](/references/sf_zuerich.jpg
 ##Referenzen aus dem Studium
 
 - [Diplom: Master of Science in Language Sciences (with specialisation in Linguistics with Neuroscience)](/references/msc_ucl.jpg)
-- [Diplom: Master of Arts in Languages and Literatures English](/referencesma_unifr.jpg)
+- [Diplom: Master of Arts in Languages and Literatures English](/references/ma_unifr.jpg)
 - [Maturitätsausweis](/references/matura_brig.jpg)
