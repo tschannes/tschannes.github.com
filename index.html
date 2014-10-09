@@ -8,15 +8,17 @@ layout: default
 
   <ul class="post-list"> 
     {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{% include monat.html %}</span>
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        <p>
-          {{post.excerpt}}
-        </p> 
-      </li>
+      <div class="card">
+        <li>
+          <span class="post-meta">{% include monat.html %}</span>
+          <h2>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h2>
+          <p>
+            {{post.excerpt}}
+          </p> 
+        </li>
+      </div>
     {% endfor %}
   </ul>
 

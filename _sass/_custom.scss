@@ -3,16 +3,56 @@ ul{
 }
 
 #about-container{
-max-width:100%;
-display:flex;
-padding-bottom:$spacing-unit;
-border-bottom:1px dashed $brand-color-dark;
+	max-width:100%;
+	@include flex-container;
+	border-top: 3px solid $brand-color-dark;
+	border-bottom: 3px solid $brand-color-dark;
+	background-color:$grey-color-light;
+	margin-bottom:1em;
 }
-#about-foto{
-order:1;
-position:center;
+#about-part{
+	@include flex-wrap;
+	width:50%;
+	p{
+		padding:1em;
+	}
 }
-#about-text{
-order:2;
-margin-left:1em;
+
+
+// front page customization
+
+.card{
+	width:33.33333333333333%;
+	border-bottom:1px solid $grey-color-light;
+	border-top: 3px solid white;
+    /* For Safari 3.1 to 6.0 */
+    -webkit-transition-property: border-color;
+    -webkit-transition-duration: 0.5s;
+    -webkit-transition-timing-function: linear;
+    /* Standard syntax */
+    transition-property: border-color;
+    transition-duration: 0.5s;
+    transition-timing-function: linear;
+
 }
+.card:hover, .card:active, .card:focus{
+	background-color:$grey-color-light;
+	border-top: 3px solid $brand-color-dark;
+}
+
+.post-list li {
+	padding:$spacing-unit / 2;
+}
+
+.post-list {
+	margin-left: 0;
+	list-style: none;
+	@include flex-container;
+	@include flex-wrap;
+}
+
+@include media-query($on-palm) {
+     #about-part, .card{
+     	width: 100%;
+     }
+ }
