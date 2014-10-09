@@ -1,6 +1,18 @@
-ul{
-	list-style-type: square;
+ul {
+	list-style:none;
 }
+
+.post-content li:before {
+      /* For a square bullet */
+      content:'\25A0';
+      display: block;
+      position: relative;
+      left:-1.2em;
+      bottom:0.1em;
+      max-width: 0px;
+      max-height: 0px;
+      color: $brand-color-dark;
+    }
 #about-container{
 max-width:100%;
 display:flex;
