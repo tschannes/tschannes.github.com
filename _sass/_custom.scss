@@ -34,7 +34,7 @@ ul{
 .card{
 	width:33.33333333333333%;
 	border-bottom:1px solid $grey-color-light;
-	border-top: 3px solid white;
+	border-top: 3px solid $background-color;
     /* For Safari 3.1 to 6.0 */
     -webkit-transition-property: border-color;
     -webkit-transition-duration: 0.5s;
