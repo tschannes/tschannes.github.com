@@ -49,12 +49,14 @@
         }
 
         .trigger {
-            clear: both;
-            display: none;
+            height:0px;
+            overflow:hidden;
+            -webkit-transition: height 0.5s; 
+            transition: height 0.5s;
         }
 
         &:hover .trigger {
-            display: block;
+            height:7em;
             padding-bottom: 5px;
         }
 
