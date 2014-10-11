@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Monster, Held und Glanztat: Wege zu besseren Web-Texten"
+title:  "Monster-Rezepte für Hammer-Texte"
 date:   2014-10-07
-excerpt: "Die These: Web-Texte werden besser, wenn man Schreibende mit den Schwächen, Fehler-Mustern und der Phrasenhaftigkeit ihrer Texte konfrontiert und sie auffordert  erst einmal im Dialekt zu erzählen."
+excerpt: "Die These: Web-Texte werden besser, wenn man Schreibende mit den Schwächen, Fehler-Mustern und der Phrasenhaftigkeit ihrer Texte konfrontiert, sie auffordert  erst einmal im Dialekt zu erzählen und ihren Monstern zu begegnen."
 comments: true
 ---
 
