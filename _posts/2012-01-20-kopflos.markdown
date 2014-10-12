@@ -3,6 +3,7 @@ layout: post
 title: "Die Sage des Kopflosen Reiters, neu erzählt"
 date: 2012-01-20
 excerpt: "Ein Enthaupteter trifft auf einen ganz normalen Menschen. In windgepeitschter Nacht überlebt dieser die Begegnung nicht."
+related: true
 ---
 
 

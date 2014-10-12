@@ -3,6 +3,7 @@ layout: post
 title:  "Lukas Stuber erklärt SEO"
 date:   2013-11-10
 excerpt: "Lukas Stuber, Suchmaschinen-Spezialist und CEO von yourposition, erklärt Mitgliedern des Schweizer Textverbandes, warum sie für Search Engines und für Menschen schreiben müssen."
+related: true
 ---
 
 ### Klassische Ranking-Kriterien gelten noch immer

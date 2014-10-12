@@ -1,6 +1,9 @@
 ul{
 	list-style:square;
 }
+.related{
+	border-top:1px dashed $brand-color-dark;
+}
 
 #about-container{
 	max-width:100%;

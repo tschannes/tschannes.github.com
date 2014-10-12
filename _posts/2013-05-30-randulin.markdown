@@ -3,6 +3,7 @@ layout: post
 title: "Guarda. Ein Besuch im Dorf der Randulins"
 date: 2013-05-30
 excerpt: "Der 'Schellen Ursli' hat Guarda - das Dorf der Wandervögel - berühmt gemacht. Es lebt seit jeher von 'Randulins': Menschen, die kommen und gehen."
+related: true
 ---
 
 Wer vor 300 Jahren mit seinen Maultieren von Innsbruck an den Comer See wollte, passierte Guarda im Unterengadin auf 1653 Metern über Meer. Mit den Händlern, die in den Herbergen Unterschlupf fanden, kamen neue Bräuche ins Dorf. Gleich­ zeitig zog es viele Einheimische in die Ferne, wo sie sich ein leichteres Leben erhofften.
