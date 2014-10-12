@@ -10,8 +10,8 @@ layout: default
 
   <article class="post-content">
     {{ content }}
-    {% if page.related %}{% include related.html %}{% endif %}
     {% if page.comments %}{% include discus.html %}{% endif %}
+    {% if page.related %}{% include related.html %}{% endif %}
   </article>
 
 </div>
