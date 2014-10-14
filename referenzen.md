@@ -32,3 +32,13 @@ excerpt: "Wie ist es, mit Hannes Tscherrig zusammenzuarbeiten? Ehemalige Arbeits
 - [Diplom: Master of Science in Language Sciences (with specialisation in Linguistics with Neuroscience)](/references/msc_ucl.jpg)
 - [Diplom: Master of Arts in Languages and Literatures English](/references/ma_unifr.jpg)
 - [Maturitätsausweis](/references/matura_brig.jpg)
+
+<div id="about-container" style="margin-top:2em;">
+	<div style="padding:1em;">
+			<h2>Alle Referenzen zum Download</h2>
+			<a href="/references/{{ site.zip_name }}">Referenzen-Hannes-Tscherrig.zip</a>
+	</div>
+</div>
+
+
+
