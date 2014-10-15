@@ -35,8 +35,7 @@ excerpt: "Wie ist es, mit Hannes Tscherrig zusammenzuarbeiten? Ehemalige Arbeits
 
 <div id="about-container" style="margin-top:2em;">
 	<div style="padding:1em;">
-			<h2>Alle Referenzen zum Download</h2>
-			<a href="/references/{{ site.zip_name }}">Referenzen-Hannes-Tscherrig.zip</a>
+			Alle Referenzen als <a href="/references/{{ site.zip_name }}">Referenzen-Hannes-Tscherrig.zip</a> downloaden.
 	</div>
 </div>
 
