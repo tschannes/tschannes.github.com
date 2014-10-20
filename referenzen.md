@@ -7,6 +7,13 @@ excerpt: "Wie ist es, mit Hannes Tscherrig zusammenzuarbeiten? Ehemalige Arbeits
 
 ##Rückmeldungen aus der Arbeitswelt
 
+###Hochschule Luzern
+
+> Hervorzuheben ist die konsequente Nutzersicht von Hannes Tscherrig auf Web-Inhalte.
+
+> Er wusste Texte so zu schreiben, dass einerseits die jeweiligen Personas optimal angesprochen wurden und andererseits die Texte für Suchmaschinen optimiert waren. (Adrian Stitzel, [Arbeitszeugnis Hochschule Luzern](/references/hochschule_luzern.pdf))
+
+
 ###Kommunikationsagentur media-work
 
 > Aufgrund seiner schnellen Auffassungsgabe, dem guten Auftreten gegenüber Kunden und der grossen Schreib- und Textsicherheit wurde seine Funktion auf den 1. September 2012 in die eines Junior-Beraters/Redaktors umgewandelt.
