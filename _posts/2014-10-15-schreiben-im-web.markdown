@@ -15,7 +15,7 @@ Die Antwort ist einfach: Zwinge deine Kunden nicht dazu nachzudenken, wie Usabil
 
 Als Inhaltsschaffende haben wir also zwei Grössen, die wir manipulieren können, um gut lesbare Texte zu schreiben: 
 
-### [Relevance Theory](http://www.relevance.com) im Online-Text
+### [Relevance Theory](http://www.phon.ucl.ac.uk/publications/WPL/02papers/wilson_sperber.pdf) im Online-Text
 
 1. Inhalte müssen möglichst einfach verständlich sein.
 2. Inhalte müssen möglichst grossen Nutzen bieten. 
@@ -47,7 +47,7 @@ Auch die Verwendung von bestimmten Genres und Text-Typen hilft Lesern und Zuhör
 4. **Bildlegenden** erklären und konzeptualisieren Medien. 
 5. **Zitate** stellen den Blickwinkel einer bestimmten Person dar. 
 
-Diese konventionellen Kleistgattungen nehmen dem Publikum Arbeit ab, indem sie ihm die Orientierung erleichtern. So wissen wir ja alle was folgt, wenn jemand eine Erzählung beginnt mit: "Es war einmal..." Wenn Leser wissen, was sie erwartet, fällt es ihnen leichter das Kommende zu verarbeiten (mehr zu diesem [sogenannten Priming-Effekt](http://www.dd.ch)?).
+Diese konventionellen Kleistgattungen nehmen dem Publikum Arbeit ab, indem sie ihm die Orientierung erleichtern. So wissen wir ja alle was folgt, wenn jemand eine Erzählung beginnt mit: "Es war einmal..." Wenn Leser wissen, was sie erwartet, fällt es ihnen leichter das Kommende zu verarbeiten (mehr zu diesem [sogenannten Priming-Effekt](http://en.wikipedia.org/wiki/Priming_(psychology))?).
 
 #### Texte sprechen die Sprache des Publikums!
 
@@ -57,9 +57,12 @@ Diese konventionellen Kleistgattungen nehmen dem Publikum Arbeit ab, indem sie i
 
 Oft haben Texter Mühe, ihre Vereinfachungs-Entscheidungen zu begründen. Warum etwa ist es hier besser von "Texter", als von "Schreiberling" zu sprechen? Lange mussten sich Textschaffende auf ihr Gefühl, ihre Erfahrung oder ihre Autorität bei Kunden verlassen. Für Texte im Internet sind diese Zeiten vorbei. 
 
-Mit den von Such-Giganten angehäuften Nutzerdaten, kann die Wortwahl auch mit sehr wenig Aufwand ganz einfach mit Zahlen begründet werden: 
+Mit den von Such-Giganten angehäuften Nutzerdaten, kann die Wortwahl auch mit sehr wenig Aufwand ganz einfach datenbasiert begründet werden. Ein Vergleich der drei Begriffe 'Texter', 'Redaktor' und 'Schreiberling' auf Google Trends zeigt schnell: Praktisch niemand sucht nach Schreiberling, während die Worte 'Texter' und 'Redaktor' weit öfter gesucht werden.
 
-BILD GOOGLE TRENDS SCHREIBERLING VERSUS TEXTER
+<!--![Vergleich der drei Begriffe 'Texter', 'Redaktor' und 'Schreiberling' auf Google Trends: Praktisch niemand sucht nach Schreiberling](/images/trends-texter-schreiberling-redaktor-2014-10-18.png "Texter gewinnt, Schreiberling verliert, Redaktor im Mittelfeld.")-->
+<embed>
+<script type="text/javascript" src="//www.google.ca/trends/embed.js?hl=en-US&q=texter,+redaktor,+schreiberling&geo=CH&cmpt=q&content=1&cid=TIMESERIES_GRAPH_AVERAGES_CHART&export=5"></script>
+<embed>
 
 
 ### Make their effort worthwile!
