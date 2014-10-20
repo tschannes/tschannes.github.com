@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Schreiben im Web ist Schreiben fürs Radio"
-date: 2014-10-15
+date: 2014-10-20
 excerpt: "Web-Texte haben viel mit Texten fürs Radio gemein: Sie müssen kurz, sehr strukturiert und häppchenweise verdaubar sein. Es gilt: 'Sag es möglichst einfach'. Und: 'Belohne deine Zuhörer fürs Zuhören.'"
 comments: true
 related: true
