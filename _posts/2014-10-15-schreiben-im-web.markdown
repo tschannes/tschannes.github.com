@@ -16,10 +16,11 @@ Die Antwort ist einfach: Zwinge deine Kunden nicht dazu nachzudenken, wie Usabil
 
 Als Inhaltsschaffende haben wir also zwei Grössen, die wir manipulieren können, um gut lesbare Texte zu schreiben: 
 
-	1. Inhalte müssen möglichst einfach verständlich sein.
-	2. Inhalte müssen möglichst grossen Nutzen bieten. 
+1. Inhalte müssen möglichst einfach verständlich sein.
+2. Inhalte müssen möglichst grossen Nutzen bieten. 
 
 ### Don't make them think! 
+
 Meine Aufgabe als Texter besteht darin, Information einfacher darzustellen, Wichtiges von weniger Wichtigem zu unterscheiden. Natürlich funktionieren Texte auch ohne sorgfältige Überarbeitung ([Schliesslich ist Text die flexibelste Art Information zu speichern](http://graydon2.dreamwidth.org/193447.html)). 
 
 Die Arbeit, welche User, Leser oder Hörer aber investieren müssen, um in schlechten Texten Information zu finden, sie zu verstehen und einzuschätzen ist viel grösser als nötig: Unsorgfältige Texte verschieben die Arbeit des Texters und Redaktors auf den Leser. Und wenn eines sicher ist, dann dass wir Leser und Hörer faul sind. Schreibt oder spricht jemand  unkonzentriert daher, verabschiedet sich unweigerlich das Publikum.
@@ -27,10 +28,12 @@ Die Arbeit, welche User, Leser oder Hörer aber investieren müssen, um in schle
 Wie am Radio gilt im Web: Kürze, Struktur und Sprachwahl machen Texte verständlicher und reduzieren fürs Publikum die Arbeit auf ein Minimum:
 
 #### Online-Text muss kurz sein.
+
 - **Warum**: Menschen im Web haben wenig Zeit und begegnen Inhalten gerade unterwegs im Mobile Web mit einem sehr beschränkten Aufmerksamkeits-Budget. Für Schreibende gilt: Nicht lange einleiten, sondern direkt zum Punkt kommen.
 - **Wie**: Alles streichen, was nicht unbedingt nötig ist. Punkt. Alles heisst: Überflüssige Adjektive, für die Gesamtwirkung überflüssige Inhaltselemente, Seiten, die nur sehr selten besucht werden. Die Streicherei sollte allerdings nicht übertrieben und ganz sicher nicht pauschalisiert betrieben werden. Absolute Zeichen-Maxima sind nicht die Lösung. Ein etwas längerer, dafür aber interessanter und gut lesbarer Text ist dem kurzen, allgemein-langweiligen auf jeden Fall vorzuziehen.
 
 #### Web-Texte brauchen Struktur!
+
 - **Warum**: Wir wissen nicht, wo Nutzer in eine Website einsteigen. Wie bei einer Radiosendung können an allen möglichen Stellen eines Skripts neue Hörer und Leser dazustossen. Wir müssen also modular texten, sodass Neuankömmlinge möglichst schnell einen Einstiegspunkt finden. 
 - **Wie**: Grundsätzlich kann alles eingesetzt werden, was einen Text in Module zerlegt und ihn dadurch strukturiert: Das fängt an beim einfachen Satzzeichen, welche Abschnitte in verdaubare Häppchen unterteilen. Freiraum segmentiert Text-Blöcke in Abschnitte und Titel machen klar, aus welchen Sektionen ein Text besteht und wo über was gesprochen wird.
 
@@ -62,7 +65,7 @@ Oft haben Texter Mühe, ihre Vereinfachungs-Entscheidungen zu begründen. Warum 
 
 Mit den von Such-Giganten angehäuften Nutzerdaten, kann die Wortwahl auch mit sehr wenig Aufwand ganz einfach datenbasiert begründet werden. Ein Vergleich der drei Begriffe 'Texter', 'Redaktor' und 'Schreiberling' auf Google Trends zeigt schnell: Praktisch niemand tippt Schreiberling ins Suchfeld, während die Worte 'Texter' und 'Redaktor' weit öfter gesucht werden.
 
-![Weltweiter Vergleich der drei Begriffe 'Texter', 'Redaktor' und 'Schreiberling' auf Google Trends: Praktisch niemand sucht nach Schreiberling](/images/trends-texter-schreiberling-redaktor-2014-10-18.png "Texter gewinnt, Schreiberling verliert, Redaktor im Mittelfeld.")
+![Weltweiter Vergleich der drei Begriffe 'Texter', 'Redaktor' und 'Schreiberling' auf Google Trends: Praktisch niemand sucht nach Schreiberling](/images/trends-2014-10-18.png "Texter gewinnt, Schreiberling verliert, Redaktor im Mittelfeld.")
 
 ### Make their effort worthwile!
 Erfolgreiche Texte im Web sind also möglichst einfach. Einfache Texte sind aber lediglich die Pflicht. Die zweite Aufgabe und Kür eines guten Online-Textes besteht darin, zu nützen, also zu informieren, zu unterhalten, zu berühren. Dabei gibt es mindestens zwei Ansätze:
