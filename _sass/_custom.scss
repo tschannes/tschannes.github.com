@@ -26,6 +26,7 @@ ul{
 // front page customization
 
 .card{
+	@include flex-wrap;
 	width:33.33333333333333%;
 	border-bottom:1px solid $grey-color-light;
 	border-top: 3px solid $background-color;
@@ -45,7 +46,6 @@ ul{
 
 .post-list li {
 	padding:$spacing-unit / 2;
-	@include flex-wrap;
 }
 
 .post-list {
