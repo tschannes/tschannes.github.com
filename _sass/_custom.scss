@@ -26,6 +26,7 @@ ul{
 // front page customization
 
 .card{
+	@include flex-wrap;
 	width:33.33333333333333%;
 	border-bottom:1px solid $grey-color-light;
 	border-top: 3px solid $background-color;
@@ -52,16 +53,34 @@ ul{
 	margin-left: 0;
 	list-style: none;
 	@include flex-container;
-	@include flex-wrap;
+}
+
+.post-content > p, .post-content ul > li, .post-conent ol > li, blockquote, #disqus_thread {
+   	max-width:66.6666666666666%;
+}
+
+
+@include media-query($on-big) {
+    .card {
+         width:33.3333333333333333%;
+    }
+}
+
+@include media-query($on-laptop) {
+    .card {
+         width:50%;
+    }
 }
 
 @include media-query($on-palm) {
-     #about-part, .card{
+    #about-part, .card{
      	width: 100%;
      	img{
      		min-width:100%;
      		padding-top:1em;
      	}
-     }
-
- }
+    }
+    .post-content > p, .post-content ul > li, .post-conent ol > li, blockquote, #disqus_thread {
+     	max-width:100%;
+    }
+}

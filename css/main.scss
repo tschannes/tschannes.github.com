@@ -7,7 +7,7 @@
 
 // Our variables
 $base-font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
+$base-font-size:   18px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
@@ -23,8 +23,9 @@ $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
-$on-palm:          600px;
-$on-laptop:        800px;
+$on-palm:          700px;
+$on-laptop:        1000px;
+$on-big:           1200px;
 
 
 //Flex-Container
@@ -60,19 +61,19 @@ $on-laptop:        800px;
     align-items: flex-start;
 }
 @mixin flex-wrap{
-	-webkit-box-ordinal-group: 1;
+     -webkit-box-ordinal-group: 1;
     -moz-box-ordinal-group: 1;
     -webkit-order: 0;
     -ms-flex-order: 0;
     order: 0;
-    -webkit-box-flex: 0;
-    -moz-box-flex: 0;
-    -webkit-flex: 0 1 auto;
-    -ms-flex: 0 1 auto;
-    flex: 0 1 auto;
-    -webkit-align-self: auto;
-    -ms-flex-item-align: auto;
-    align-self: auto;
+    -webkit-box-flex: 1;
+    -moz-box-flex: 1;
+    -webkit-flex: 1 0 auto;
+    -ms-flex: 1 0 auto;
+    flex: 1 0 auto;
+    -webkit-align-self: stretch;
+    -ms-flex-item-align: stretch;
+    align-self: stretch;
 }
 
 
