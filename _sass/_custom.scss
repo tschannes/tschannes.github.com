@@ -54,7 +54,7 @@ ul{
 	@include flex-container;
 }
 
-.post-content > p, .post-content ul > li, .post-conent ol > li, blockquote, #disqus_thread {
+.post-content > p, .post-content ul > li, .post-content ol > li, blockquote, #disqus_thread {
    	max-width:66.6666666666666%;
 }
 
@@ -62,7 +62,7 @@ ul{
     .card {
          width:50%;
     }
-        .post-content > p, .post-content ul > li, .post-conent ol > li, blockquote, #disqus_thread {
+        .post-content > p, .post-content ul > li, .post-content ol > li, blockquote, #disqus_thread {
      	max-width:100%;
     }
 }
