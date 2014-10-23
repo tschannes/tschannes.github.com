@@ -6,16 +6,15 @@ ul{
 }
 
 #about-container{
-	max-width:100%;
 	@include flex-container;
-	@include flex-wrap;
+	max-width:100%;
 	border-top: 3px solid $brand-color-dark;
 	border-bottom: 3px solid $brand-color-dark;
 	background-color:$grey-color-light;
 	margin-bottom:1em;
 }
 #about-part{
-	
+	@include flex-wrap;
 	width:50%;
 	p {
 		padding:1em;
@@ -75,7 +74,7 @@ ul{
      		padding-top:1em;
      	}
     }
-    .post-list {
+    .post-list, #about-container {
     	@include flex-container-mobile;
     }
 }
