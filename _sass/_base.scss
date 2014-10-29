@@ -155,7 +155,7 @@ pre {
 /**
  * Wrapper
  */
-.wrapper {
+.wrapper, page-content {
     max-width: -webkit-calc(80% - (#{$spacing-unit} * 2));
     max-width:         calc(80% - (#{$spacing-unit} * 2));
     margin-right: auto;
@@ -171,7 +171,7 @@ pre {
         padding-left: $spacing-unit / 2;
     }
 }
-header .wrapper, .page-content{
+.wrapper, .page-content{
     max-width:1600px;
 }
 
