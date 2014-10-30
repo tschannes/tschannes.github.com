@@ -54,10 +54,16 @@ ul{
     transition-property: border-color;
     transition-duration: 0.5s;
     transition-timing-function: linear;
+    p {
+        color:$text-color;
+    }
 }
 .card:hover, .card:active, .card:focus{
 	background-color:$grey-color-light;
 	border-top: 3px solid $brand-color-dark;
+    a{
+        text-decoration:none;
+    }
 }
 
 .post-list li {

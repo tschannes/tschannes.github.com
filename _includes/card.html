@@ -1,11 +1,13 @@
 <div class="card">
-    <li>
+    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+    	<li>
           <span class="post-meta">{% include monat.html %}</span>
           <h2>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            {{ post.title }}
           </h2>
           <p>
             {{post.excerpt}}
-          </p> 
-    </li>
+          </p>
+    	</li>
+    </a>
 </div>
