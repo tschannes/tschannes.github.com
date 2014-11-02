@@ -70,10 +70,21 @@ ul{
 	padding:$spacing-unit / 2;
 }
 
+
 .post-list {
 	margin-left: 0;
 	list-style: none;
 	@include flex-container;
+}
+
+.home .post-list{
+    > :first-child{
+        min-width:66%;
+        font-size:1.5em;
+        @include media-query($on-palm){
+            font-size:1em;
+        }
+    } 
 }
 
 .post-content > p, .post-content ul > li, .post-content ol > li, blockquote, #disqus_thread, .frame {
