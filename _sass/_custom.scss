@@ -12,12 +12,16 @@ ul{
 	border-bottom: 3px solid $brand-color-dark;
 	background-color:$grey-color-light;
 	margin-bottom:1em;
+        > :first-child{
+        max-width:33.3333333333333333333%;
+    }
 }
 #about-part{
 	@include flex-wrap;
-	width:50%;
+    align-self:center;
+    max-width:66.6666666666666666666%;
 	p {
-		padding:1em;
+		padding:5%;
 	}
 }
 
@@ -102,7 +106,8 @@ ul{
 
 @include media-query($on-palm) {
     #about-part, .card{
-     	width: 100%;
+     	max-width: 100%;
+        width:100%;
      	img{
      		min-width:100%;
      		padding-top:1em;
@@ -110,5 +115,10 @@ ul{
     }
     .post-list, #about-container {
     	@include flex-container-mobile;
+    }
+    #about-container{
+        > :first-child{
+            max-width:100%;
+        }
     }
 }
