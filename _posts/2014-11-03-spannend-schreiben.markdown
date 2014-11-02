@@ -2,7 +2,7 @@
 layout: post
 title: "Spannend Schreiben ist nicht schwer"
 date: 2014-11-03
-excerpt: "Schreiben kann jeder. Texte so gestalten, dass sie gelesen werden, fällt schwerer. Gerade im Internet, wo jeder Text mit Tausenden konkurrenziert, lohnt sich der Aufwand."
+excerpt: "Schreiben kann jeder. Texte so gestalten, dass sie gelesen werden, fällt schwerer. Wenn Texte Geschichten erzählen, Dinge zeigen, statt zu beschreiben und Lesenden einen Nutzen bieten, bleiben sie spannend."
 comments: false
 related: true
 ---
