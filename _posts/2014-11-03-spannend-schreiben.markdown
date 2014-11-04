@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Spannend Schreiben ist nicht schwer"
+title: "Texte spannend schreiben"
 date: 2014-11-03
-excerpt: "Schreiben kann jeder. Texte so gestalten, dass sie gelesen werden, fällt schwerer. Wenn Texte Geschichten erzählen, Dinge zeigen, statt zu beschreiben und Lesenden einen Nutzen bieten, bleiben sie spannend."
+excerpt: "Gute Web-Texte sind leicht lesbar und interessant. Wenn sie Geschichten erzählen, Dinge zeigen, statt sie zu beschreiben und Lesenden einen Nutzen bieten, bleiben sie spannend."
 comments: false
 related: true
 ---
