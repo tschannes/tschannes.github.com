@@ -80,7 +80,7 @@ Dabei muss nicht unbedingt gleich Weltfrieden gestiftet oder Unsterblichkeit wie
 
 Manchmal wollen wir aber nichts dazulernen. Manchmal wollen wir uns an wunderschön dahingeschnörkelten, sich sphärisch über mehrere Zeilen schwingenden Wort-Konstellationen ergötzen, manchmal wollen wir fühlen und nicht denken, uns selbst, unser hier und so sein vergessen. [Manchmal wollen wir einfach nur kopflos unterhalten werden](/kopflos).
 
-Klingt etwas gar einfach? Genau! Für meinen nächsten Post hier auf tschannes.ch stelle ich langweilige Rezepte für spannende Texte zusammen. Stay tuned!
+Klingt etwas gar einfach? Genau! Für meinen nächsten Post hier auf tschannes.ch stelle ich [langweilige Rezepte für spannende Texte](/spannend-schreiben) zusammen. Stay tuned!
 
 
 
