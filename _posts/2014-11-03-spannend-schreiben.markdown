@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Texte spannend schreiben"
-date: 2014-11-03
+date: 2014-11-06
 excerpt: "Gute Web-Texte erzählen Geschichten, zeigen Dinge, statt sie zu beschreiben, bieten Lesenden einen Nutzen. Und sie wiederholen sich."
 comments: false
 related: true
