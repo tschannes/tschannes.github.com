@@ -70,7 +70,7 @@ Mit den von Such-Giganten angehäuften Nutzerdaten, kann die Wortwahl auch mit s
 ### Make their effort worthwile!
 Erfolgreiche Texte im Web sind also möglichst einfach. Einfache Texte sind aber lediglich die Pflicht. Die zweite Aufgabe und Kür eines guten Online-Textes besteht darin, zu nützen, also zu informieren, zu unterhalten, zu berühren. Dabei gibt es mindestens zwei Ansätze:
 
-#### [Der Monster-Ansatz](/monster-held-glanztat)
+#### [Der Monster-Ansatz](/Monster-Held-Glanztat)
 
 Wer ein weit verbreitetes Problem lösen kann, und sein Wissen teilt (oder auch nur andeutet, dass er als Held, dem Monster Problem in einer Glanztat beikommen könnte) hat einen Web-Inhalt, der Besucher anziehen wird. Denn Besuchern wittern eine grosse Belohnung: Sie erwarten etwas dazuzulernen.
 
