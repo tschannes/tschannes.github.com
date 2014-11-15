@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tools für Texter"
-date: 2014-11-11
+date: 2014-11-14
 excerpt: "Gute Schreib-Tools erlauben Textern schnelles, konzentriertes Schreiben, einen frischen Blick auf ihre Texte und sie vereinfachen Kollaboration und Versionierung."
 comments: true
 related: true
