@@ -29,7 +29,7 @@ Zwei Techniken machen diese reduzierten Text-Interfaces möglich: Kodierung und 
 
 #### Markdown: Struktur aus der Tastatur
 
-iA-Writer und Draftin, aber Medium oder die puristische [Blogging-Plattform Ghost](https://ghost.org/) setzen auf das [Text-zu-HTML-Konversions-Tool markdown](http://daringfireball.net/projects/markdown/). Mit Markdown erstellen Web Writers semantische Inhalte, ohne dass auf überladene Toolbars (und ihre Maus) zurückgreifen zu müssen. 
+iA-Writer und Draftin, Medium und die puristische [Blogging-Plattform Ghost](https://ghost.org/) setzen auf das [Text-zu-HTML-Konversions-Tool markdown](http://daringfireball.net/projects/markdown/). Mit Markdown erstellen Web Writers semantisch strukturierte Inhalte, ohne auf überladene Toolbars (und ihre Maus) zurückgreifen zu müssen. 
 
 Natürlich müssen die wichtigsten Codierungen in Markdown gelernt werden. Viele Markdown-Editoren (für Windows etwa [MarkdownPad](http://markdownpad.com/) oder [die besten Markdown-Editoren für Mac](http://www.slant.co/topics/899/~what-are-the-best-markdown-editors-for-os-x) zeigen Markdown und HTML Seite an Seite, wodurch schnell klar wird, wie Markdown funktioniert und wie viel Zeit sich Web Texter damit sparen können.
 
@@ -59,19 +59,19 @@ Kein guter Text entsteht in einem Wurf. In meiner Erfahrung sind es erst die vie
 
 Das heisst, dass ein professioneller Text eigentlich immer aus mehreren Texten entsteht: Das finale Produkt ist das Resultat aller vorangegangener Versionen. Die Geschichte dieser Versionen ist wichtig, gerade wenn mehrere Personen an einem Dokument zusammenarbeiten.
 
-Aber auch für Einzelkämpfer ist es wichtig, auf die Entstehungsgeschichte ihrer Texte zurückgreifen zu können. Denn nicht jede Revision ist eine Verbesserung. Manchmal wollen wir nichts sehnlicher, als die eben überschriebene Text-Version zurück.
+Aber auch für Einzelkämpfer ist es von Vorteil, auf die Entstehungsgeschichte ihrer Texte zurückgreifen zu können. Denn nicht jede Revision ist eine Verbesserung. Manchmal wollen wir nichts sehnlicher, als die eben überschriebene Text-Version zurück.
 
 Tools wie [Draftin](https://draftin.com/) stellen die verschiedenen Text-Versionen übersichtlich nebeneinander. So ist es zu jedem Zeitpunkt möglich auf verworfene Versionen zurückzugreifen. Ganz ohne Ordner-Chaos, Datei-Benennungs-Konventionen, Versionen-Konflikte und Konsorten:
 
 ![Draftin stellt die verschiedenen Versionen übersichtlich nebeneinander. So ist es zu jedem Zeitpunkt möglich auf verworfene Versionen zurückzugreifen. Ganz ohne Datei-Chaos und Versionen-Konflikte.](/images/draftin.png)
 
-Mit moderner Versionierungs-Software (beispielsweise [git](http://www.git-scm.com/)) lässt sich unabhängig von System und präferiertem Dokument-Typ die Geschichte textbasierter Projekte festhalten. 
+Mit moderner Versionierungs-Software (beispielsweise [git](http://www.git-scm.com/), Wordpress erhält die Versionen eines Eintrags automatisch) lässt sich unabhängig von System und präferiertem Dokument-Typ die Geschichte textbasierter Projekte festhalten. 
 
 Auch hier besteht der Vorteil darin, dass immer klar ist, welches Dokument dem neuesten Stand entspricht. Gleichzeitig stehen ältere und alternative Versionen jederzeit zur Verfügung.
 
 In Punkto Feedback ist Word schon länger nicht mehr das Mass aller Dinge. Webbasierte-Plattformen wie Ghost oder Wordpress, oder dedizierte Plattformen wie Draftin, aber auch Google Docs machen Formen der Kollaboration möglich, die den Kommentaren in Word mindestens ebenbürtig sind. 
 
-Die [Social-Content-Plattform Medium.com](https://medium.com/about/welcome-to-medium-9e53ca408c48) ist von Grund auf dem Gedanken verpflichtet, dass gute Geschichten nur dank **möglichst viel Feedback** möglich werden:
+Die [Social-Content-Plattform Medium.com](https://medium.com/about/welcome-to-medium-9e53ca408c48) ist von Grund auf dem Gedanken verpflichtet, dass gute Geschichten nur dank **vielen verschiedenen Feedbacks** möglich werden:
 
 > On Medium, you’re not alone. You write beside and with other people. This means your posts link to each other, your ideas bump into each other, and instead of living on an island somewhere out on the web, you’re part of a dynamic whole, where each part makes the others better.
 
