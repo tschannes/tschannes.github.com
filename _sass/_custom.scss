@@ -1,3 +1,14 @@
+.site-header{
+    position:fixed;
+    z-index:1;
+    opacity:0.9;
+    background:white;
+}
+
+.page-content{
+    padding-top:5em;
+}
+
 ul{
 	list-style:square;
 }
@@ -56,25 +67,41 @@ ul{
 .card{
 	@include flex-wrap;
 	width:33.33333333333333%;
-	border-bottom:1px solid $grey-color-light;
-	border-top: 3px solid $background-color;
-    /* For Safari 3.1 to 6.0 */
-    -webkit-transition-property: border-color;
-    -webkit-transition-duration: 0.5s;
-    -webkit-transition-timing-function: linear;
-    /* Standard syntax */
-    transition-property: border-color;
-    transition-duration: 0.5s;
-    transition-timing-function: linear;
+    background-color:white;
+    -webkit-transition: background-color 0.5s ease-in-out;
+    -moz-transition: background-color 0.5s ease-in-out;
+    -ms-transition: background-color 0.5s ease-in-out;
+    -o-transition: background-color 0.5s ease-in-out;
+    transition: background-color 0.5s ease-in-out;
     p {
         color:$text-color;
     }
 }
 .card:hover, .card:active, .card:focus{
 	background-color:$grey-color-light;
-	border-top: 3px solid $brand-color-dark;
+    .home-pic-container img{
+        opacity:0.7;
+    }
     a{
         text-decoration:none;
+    }
+}
+
+.home-pic-container{
+    background-color:$brand-color-dark;
+    max-height:300px;
+    overflow:hidden;
+    img{
+        height:100%;
+        width:100%;
+        padding:-50%;
+        opacity:0.9;
+        -webkit-transition: opacity 0.5s ease-in-out;
+        -moz-transition: opacity 0.5s ease-in-out;
+        -ms-transition: opacity 0.5s ease-in-out;
+        -o-transition: opacity 0.5s ease-in-out;
+        transition: opacity 0.5s ease-in-out;
+
     }
 }
 
@@ -89,10 +116,19 @@ ul{
 	@include flex-container;
 }
 
+.wrapper{
+    max-width:$wrapper-width;
+    margin-left:auto;
+    margin-right:auto;
+}
+
 .home .post-list{
     > :first-child{
         width:66.66666666666666666%;
         font-size:1.3em;
+        @include media-query($on-laptop){
+            width:100%;
+        }
         @include media-query($on-palm){
             width:100%;
             font-size:1em;
@@ -106,21 +142,22 @@ ul{
 
 @include media-query($on-laptop) {
     .card {
-         width:50%;
+        width:50%;
     }
         .post-content > p, .post-content ul > li, .post-content ol > li, blockquote, #disqus_thread, .frame {
-     	max-width:100%;
+     	width:100%;
     }
 }
 
 @include media-query($on-palm) {
     #about-part, .card{
-     	max-width: 100%;
-        width:100%;
+     	width: 100%;
      	img{
      		min-width:100%;
-     		padding-top:1em;
      	}
+        > :first-child{
+            width:100%;
+        }
     }
     .post-list, #about-container {
     	@include flex-container-mobile;

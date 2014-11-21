@@ -5,6 +5,7 @@ date: 2014-11-06
 excerpt: "Gute Web-Texte erzählen Geschichten, zeigen Dinge, statt sie zu beschreiben, bieten Lesenden einen Nutzen. Und sie wiederholen sich."
 comments: false
 related: true
+img: "images/hannes_tscherrig.jpg"
 ---
 
 Erfolgreiche Texte im Internet haben mindestens eine von zwei Eigenschaften:
