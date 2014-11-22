@@ -1,5 +1,8 @@
 <div class="card" >
     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+    	<div class="home-pic-container">
+        {% if post.img %}<img src="/{{ post.img }}">{% else %}<img src="/images/tiger.jpg">{% endif %}
+      </div>
       <li>
           <span class="post-meta">{% include monat.html %}</span>
           <h2>
