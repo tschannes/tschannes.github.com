@@ -78,7 +78,9 @@ Wer ist der Held? Die Fotovoltaik Fassade. Hindernis: Akzeptanzbarriere. Die Mor
 
 > Elektrizität aus Fotovoltaik-Anlagen soll zur Energiewende des 21. Jahrhunderts beitragen. Nur: Im öffentlichen Raum werden Solar-Anlagen noch abgelehnt. Zu auffällig sind die reflektierenden neuen Energiequellen. Forscher der Hochschule Luzern lösen das Problem, indem sie Fotovoltaik und Lochbleche zu revolutionären PV-FM-Modulen verbinden. Diese sind in hinterlüfteten Fassaden und Steildächern praktisch unsichtbar.
 
-## Kurz zusammengefasst
+<a name="short" class="anchor">&nbsp</a>
+<h2>Kurz zusammengefasst</h2>
+
 - Erzähle Geschichten.
 - Biete einen Nutzen.
 - Zeige, statt zu beschreiben. 

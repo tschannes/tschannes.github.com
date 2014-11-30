@@ -5,6 +5,12 @@
     background:white;
 }
 
+.anchor {
+  position: relative;
+  opacity:0;
+  top: -40px;  /* depending on the size of the sticky menu */
+}
+
 .page-content{
     padding-top:5em;
 }
@@ -135,15 +141,18 @@ ul{
     } 
 }
 
-.post-content > p, .post-content ul > li, .post-content ol > li, blockquote, #disqus_thread, .frame {
+.post-content > p, .post-content ul > li, .post-content ol > li, #disqus_thread, .frame {
    	max-width:66.6666666666666%;
+    @include media-query($on-palm){
+        max-width:100%;
+    }
 }
 
 @include media-query($on-laptop) {
     .card {
         width:50%;
     }
-        .post-content > p, .post-content ul > li, .post-content ol > li, blockquote, #disqus_thread, .frame {
+        .post-content > p, .post-content ul > li, .post-content ol > li, #disqus_thread, .frame {
      	width:100%;
     }
 }

@@ -79,7 +79,9 @@ Die [Social-Content-Plattform Medium.com](https://medium.com/about/welcome-to-me
 Steht uns also das Open-Sourcing des Schreib-Prozesses bevor? Ich wünsche es mir!
 
 
-## Kurz zusammengefasst<a name="short"></a>
+<a name="short" class="anchor">&nbsp</a>
+<h2>Kurz zusammengefasst</h2>
+
 - Wähle einen Editor, der sich auf das konzentriert, was du brauchst. Spar Zeit mit Markdown und Shortcuts. Profitier vom Geek-Bonus.
 - Nutze ein Tool, welches deinen Texten viele verschiedene Gesichter geben kann. 
 - Gute Schreibe beruht auf Versionen, Revisionen und Feedback. Ein gutes Text-Werkzeug macht all dies einfacher.
