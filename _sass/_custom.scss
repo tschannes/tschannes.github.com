@@ -3,6 +3,9 @@
     z-index:1;
     opacity:0.9;
     background:white;
+    &:hover, &:focus, &:active{
+        opacity:1;
+    }
 }
 
 .anchor {
@@ -93,26 +96,20 @@ ul{
     p {
         color:$text-color;
     }
-    @include media-query($on-laptop) {
-        .card {
-            width:50%;
+    &:hover, &:active, &focus{
+        background-color:$grey-color-light;
+        .home-pic-container img{
+            opacity:0.7;
         }
+        a{
+            text-decoration:none;
+        }
+    }
+    @include media-query($on-laptop){
+        width:50%;
     }
     @include media-query($on-palm){
         width: 100%;
-        > :first-child{
-            width:100%;
-        }
-    }
-}
-
-.card:hover, .card:active, .card:focus{
-	background-color:$grey-color-light;
-    .home-pic-container img{
-        opacity:0.7;
-    }
-    a{
-        text-decoration:none;
     }
 }
 
