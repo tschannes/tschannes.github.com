@@ -7,8 +7,11 @@ layout: default
   <!--<h1 class="page-heading">Posts</h1>-->
 
   <ul class="post-list"> 
-    {% for post in site.posts %}
-      {% include card.html %}
+    {% for post in site.posts limit:5 %}
+      {% include card-with-image.html  %}
+    {% endfor %}
+    {% for post in site.posts offset:5 %}
+      {% include card.html  %}
     {% endfor %}
   </ul>
 
