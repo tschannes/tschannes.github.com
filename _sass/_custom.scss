@@ -31,15 +31,11 @@ ul{
 	border-bottom: 3px solid $brand-color-dark;
 	background-color:$grey-color-light;
 	margin-bottom:1em;
-        > :first-child{
-            width:33.3333333333333333333%;
-    }
     @include media-query($on-palm){
-        > :first-child{
-            width:100%;
-        }
+        @include flex-container-mobile;
     }
 }
+
 #about-part{
 	@include flex-wrap;
     -webkit-align-self: center;
@@ -49,6 +45,20 @@ ul{
 	p {
 		padding:1.3em;
 	}
+    @include media-query($on-palm) {
+        width:100%;
+        img{
+            min-width:100%;
+        }
+    }
+}
+
+#about-foto{
+    @extend #about-part;
+    width:33.3333333333333333333333333%;
+    @include media-query($on-palm){
+        width:100%;
+    }
 }
 
 // Adding support for responsive iframes
@@ -83,7 +93,19 @@ ul{
     p {
         color:$text-color;
     }
+    @include media-query($on-laptop) {
+        .card {
+            width:50%;
+        }
+    }
+    @include media-query($on-palm){
+        width: 100%;
+        > :first-child{
+            width:100%;
+        }
+    }
 }
+
 .card:hover, .card:active, .card:focus{
 	background-color:$grey-color-light;
     .home-pic-container img{
@@ -119,6 +141,9 @@ ul{
 	margin-left: 0;
 	list-style: none;
 	@include flex-container;
+    @include media-query($on-palm){
+        @include flex-container-mobile;
+    }
 }
 
 .wrapper{
@@ -147,33 +172,7 @@ ul{
     @include media-query($on-palm){
         max-width:100%;
     }
-}
-
-@include media-query($on-laptop) {
-    .card {
-        width:50%;
-    }
-        .post-content > p, .post-content ul > li, .post-content ol > li, #disqus_thread, .frame {
-     	width:100%;
-    }
-}
-
-@include media-query($on-palm) {
-    #about-part, .card{
-     	width: 100%;
-     	img{
-     		min-width:100%;
-     	}
-        > :first-child{
-            width:100%;
-        }
-    }
-    .post-list, #about-container {
-    	@include flex-container-mobile;
-    }
-    #about-container{
-        > :first-child{
-            max-width:100%;
-        }
+    @include media-query($on-laptop) {
+        width:100%;
     }
 }
