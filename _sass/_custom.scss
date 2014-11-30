@@ -90,12 +90,10 @@ ul{
 
 .home-pic-container{
     background-color:$brand-color-dark;
-    max-height:300px;
+    width:100%;
     overflow:hidden;
     img{
-        height:100%;
-        width:100%;
-        padding:-50%;
+        min-width:100%;
         opacity:0.9;
         -webkit-transition: opacity 0.5s ease-in-out;
         -moz-transition: opacity 0.5s ease-in-out;
