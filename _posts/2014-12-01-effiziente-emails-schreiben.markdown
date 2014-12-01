@@ -3,7 +3,7 @@ layout: post
 title: "Sieben einfache Tipps für effizientere E-Mails"
 date: 2014-12-01
 excerpt: "Kurze, sachliche Texte mit Links, klarer Struktur, etwas Kontext, einer Handlungsanweisung und den nötigen Meta-Daten machen Mails um Meilen besser."
-img: false
+img: "images/mail.jpg"
 comments: false
 related: true
 ---
@@ -51,7 +51,7 @@ Niemand liest gerne lange E-Mails. Deshalb: Spare deinem Leser unnötiges Gebabb
 
 Kurze, auf den Punkt gebrachte E-Mails entstehen nicht in einem Draft. Es lohnt sich Nachrichten zumindest einmal zu editieren und dabei möglichst die Perspektive der Adressaten einzunehmen. Es gilt alles Überflüssige zu streichen und sicherzustellen, dass alles Nötige vorhanden ist.
 
-## 4. Sag an, was zu tun ist (Call to Action)
+## 4. Sag an, was zu tun ist
 
 Eine E-Mail sollte eine klare Handlungsanweisung (Call to Action) enthalten. Zu oft lesen wir elektronische Post und fragen uns, was die Absenderin oder der Absender von uns erwartet.
 

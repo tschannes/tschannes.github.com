@@ -5,6 +5,7 @@ date: 2014-10-20
 excerpt: "Web-Texte haben viel mit Texten fürs Radio gemein: Sie müssen kurz, sehr strukturiert und häppchenweise verdaubar sein. Hier wie dort gilt: 'Sag es einfach'. Und: 'Belohne dein Publikum.'"
 comments: true
 related: true
+img: "images/leicht.jpg"
 ---
 
 
