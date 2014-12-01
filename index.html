@@ -13,8 +13,7 @@ layout: default
     {% for post in site.posts offset:5 %}
       {% include card.html  %}
     {% endfor %}
+    
   </ul>
 
-  <p class="rss-subscribe">Als <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS-Feed</a> abonnieren</p>
-
-</div>
+ <p class="rss-subscribe">Als <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS-Feed</a> abonnieren</p> 
