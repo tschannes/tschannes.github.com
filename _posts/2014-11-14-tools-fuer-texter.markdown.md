@@ -4,6 +4,8 @@ title: "Tools für Texter"
 date: 2014-11-14
 excerpt: "Gute Schreib-Tools erlauben Textern schnelles, konzentriertes Schreiben, einen frischen Blick auf ihre Texte und sie vereinfachen Kollaboration und Versionierung."
 img: "images/tools.jpg"
+alt: "Notizheft und Kugelschreiber sind schon lange nicht mehr die einzigen Tools für Texter."
+caption: "Original Photo: Markus Spiske, www.temporausch.com, CC-BY"
 comments: true
 related: true
 ---

@@ -4,6 +4,8 @@ title: "Sieben einfache Tipps für effizientere E-Mails"
 date: 2014-12-01
 excerpt: "Kurze, sachliche Texte mit Links, klarer Struktur, etwas Kontext, einer Handlungsanweisung und den nötigen Meta-Daten machen Mails um Meilen besser."
 img: "images/mail.jpg"
+alt: "Die Postkarte: Eine Vorgängerin der E-Mail."
+caption: "Original Photo: Markus Spiske, www.temporausch.com, CC-BY"
 comments: false
 related: true
 ---

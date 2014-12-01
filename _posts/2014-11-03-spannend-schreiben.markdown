@@ -6,6 +6,8 @@ excerpt: "Gute Web-Texte erzählen Geschichten, zeigen Dinge, statt sie zu besch
 comments: false
 related: true
 img: "images/spannend.jpg"
+alt: "Texte überbrücken Distanzen und erzeugen dabei Spannung, wie Stromkabel zwischen Masten."
+caption: "Original Photo: Markus Spiske, www.temporausch.com, CC-BY"
 ---
 
 Erfolgreiche Texte im Internet haben mindestens eine von zwei Eigenschaften:

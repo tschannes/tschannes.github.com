@@ -2,7 +2,19 @@
     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
     	
       {% if post.img %}<div class="home-pic-container">
-        <img src="/{{ post.img }}">
+        <figure>
+          <img src="/{{ post.img }}" 
+          {% if post.alt %}
+            alt="{{ post.alt }}"
+          {% elsif post.caption %}
+            alt="{{ post.caption }}"
+          {% else %}
+            alt="{{ post.title }}"
+          {% endif %}>
+          {% if post.caption %}<figcaption>
+            {{ post.caption }}
+          </figcaption>{% endif %}
+        </figure>
       </div>{% endif %}
       
       <li>

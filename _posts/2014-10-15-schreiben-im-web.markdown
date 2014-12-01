@@ -6,6 +6,8 @@ excerpt: "Web-Texte haben viel mit Texten fürs Radio gemein: Sie müssen kurz, 
 comments: true
 related: true
 img: "images/leicht.jpg"
+alt: "Leichte Texte tragen Leser, wie heisse Luft Ballonfahrer trägt."
+caption: "Original Photo: Markus Spiske, www.temporausch.com, CC-BY"
 ---
 
 
