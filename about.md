@@ -55,20 +55,21 @@ excerpt: "Berufserfahrung, Ausbildung, Sprachen und Kompetenzen: Lesen Sie den L
 ## Redaktion
 
 ### Am Anfang die Frage
-
+  
 Gute Information und spannende Geschichten sind die Kehrseite besserer Fragen. Das gilt für ein informelles Gespräch ebenso wie für ein Interview oder eine Recherche im Internet. Ich stelle die wichtigen Fragen und forme daraus Antworten, die packen, informieren oder weiterhelfen.
-
+  
 ### Dann der Plan
-
+ 
 Gute Kommunikation steht und fällt mit einem Plan. Wer nicht weiss, was er sagen will, schweigt besser. Das Entwerfen eines Planes zwingt dazu, grundlegende Fragen zu beantworten: Wer spricht? Was ist die Botschaft? Wer ist angesprochen?
-
+  
 Mit einem soliden Plan fällt es leichter, klare Aussagen zu machen. Es fällt leichter Produkte zu verkaufen, wenn klar ist, worin -- immer aus Kundensicht -- die besonderen Vorteile liegen. Diese Einfachheit ist gerade für Internet-Inhalte ungeheuer wichtig. 
-
+  
 Als Content-Spezialist und Konzepter entwerfe ich Online-Interaktionen: Ich entwickle Ideen für spannende Geschichten, setze sie um, plane den Seitenaufbau oder prüfe Kleinst-Texte, welche Nutzenden die Orientierung auf einer Internetseite erleichtern.
-
+  
 ### Zum Schluss der Text
-
+  
 Im Grunde der Dinge bin ich aber ein Schreiberling. Es ist meine Leidenschaft, Unnützes zu kürzen, Wörter zu wenden und Texte besser zu machen. Ich arbeite iterativ, denn Texte sind immer Entwürfe. Jede Überarbeitung, jedes konstruktive Feedback macht sie besser und bringt sie etwas näher ans Ziel.
+
 
 
  [2]: http://www.hslu.ch

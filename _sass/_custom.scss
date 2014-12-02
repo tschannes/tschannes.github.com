@@ -59,7 +59,7 @@ ul{
 
 #about-container{
 	@include flex-container;
-	max-width:100%;
+	width:100%;
 	border-top: 3px solid $brand-color-dark;
 	border-bottom: 3px solid $brand-color-dark;
 	background-color:$grey-color-light;
@@ -89,6 +89,7 @@ ul{
 #about-foto{
     @extend #about-part;
     width:33.3333333333333333333333333%;
+    min-width:200px;
     @include media-query($on-palm){
         width:100%;
     }
@@ -116,8 +117,9 @@ ul{
 
 .card{
 	@include flex-wrap;
-	width:50%;
+	width:48%;
     background-color:white;
+    margin-right:2%;
     -webkit-transition: background-color 0.5s ease-in-out;
     -moz-transition: background-color 0.5s ease-in-out;
     -ms-transition: background-color 0.5s ease-in-out;
@@ -135,11 +137,9 @@ ul{
             text-decoration:none;
         }
     }
-    //@include media-query($on-laptop){
-    //    width:50%;
-    //}
     @include media-query($on-palm){
         width: 100%;
+        margin-right: 0px;
     }
 }
 
@@ -157,6 +157,28 @@ ul{
         transition: opacity 0.5s ease-in-out;
 
     }
+}
+
+.ad{
+    @extend #about-container;
+    position: absolute;
+    width:26.5%;
+    @include media-query($on-laptop){
+        position:static;
+        width:48%;
+        margin-right:2%;
+    }
+    @include media-query($on-palm){
+        position:static;
+        width:100%;
+    }
+}
+
+.contact{
+    padding:1em;
+    li{
+        padding:0px !important;
+            }
 }
 
 .post-list li {
@@ -177,11 +199,6 @@ ul{
         width:100%;
     }
 }
-
-//.sidebar{
-//    width:33.3333%;
-//    float:left;
-//}
 
 .wrapper{
     max-width:$wrapper-width;
