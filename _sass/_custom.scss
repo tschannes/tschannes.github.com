@@ -17,6 +17,7 @@ figcaption{
 //header
 
 .site-header{
+    @include transition(opacity);
     position:fixed;
     z-index:1;
     opacity:0.9;
@@ -59,9 +60,9 @@ ul{
 
 #about-container{
 	@include flex-container;
+    @include shadow;
 	width:100%;
-	border-top: 3px solid $brand-color-dark;
-	border-bottom: 3px solid $brand-color-dark;
+	border-top: 5px solid $brand-color-dark;
 	background-color:$grey-color-light;
 	margin-bottom:1em;
     @include media-query($on-palm){
@@ -117,14 +118,12 @@ ul{
 
 .card{
 	@include flex-wrap;
+    @include shadow;
+    @include transition(background-color);
 	width:48%;
     background-color:white;
     margin-right:2%;
-    -webkit-transition: background-color 0.5s ease-in-out;
-    -moz-transition: background-color 0.5s ease-in-out;
-    -ms-transition: background-color 0.5s ease-in-out;
-    -o-transition: background-color 0.5s ease-in-out;
-    transition: background-color 0.5s ease-in-out;
+    margin-bottom:1em;
     p {
         color:$text-color;
     }
@@ -138,24 +137,23 @@ ul{
         }
     }
     @include media-query($on-palm){
+        width: 49%;
+    }
+    @include media-query($on-palm){
         width: 100%;
         margin-right: 0px;
     }
 }
 
 .home-pic-container{
+
     background-color:$brand-color-dark;
     width:100%;
     overflow:hidden;
     img{
+        @include transition(opacity);
         min-width:100%;
         opacity:0.9;
-        -webkit-transition: opacity 0.5s ease-in-out;
-        -moz-transition: opacity 0.5s ease-in-out;
-        -ms-transition: opacity 0.5s ease-in-out;
-        -o-transition: opacity 0.5s ease-in-out;
-        transition: opacity 0.5s ease-in-out;
-
     }
 }
 
@@ -197,6 +195,9 @@ ul{
     }
     @include media-query($on-laptop){
         width:100%;
+        :first-child, :nth-child(2n+1){
+            margin-right:0px;
+        }
     }
 }
 

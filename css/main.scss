@@ -85,6 +85,20 @@ $on-laptop:        1200px;
     align-self: stretch;
 }
 
+@mixin shadow{
+    -webkit-box-shadow: 5px 5px 5px 0px $grey-color;
+    -moz-box-shadow: 5px 5px 5px 0px $grey-color;
+    box-shadow: 5px 5px 5px 0px $grey-color;
+}
+
+@mixin transition($property){
+    -webkit-transition: #{$property} 0.5s ease-in-out;
+    -moz-transition: #{$property} 0.5s ease-in-out;
+    -ms-transition: #{$property} 0.5s ease-in-out;
+    -o-transition: #{$property} 0.5s ease-in-out;
+    transition: #{$property} 0.5s ease-in-out;
+}
+
 // Using media queries with like this:
 // @include media-query($palm) {
 //     .wrapper {
