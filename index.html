@@ -7,11 +7,26 @@ layout: default
   <!--<h1 class="page-heading">Posts</h1>-->
 
   <ul class="post-list"> 
-    {% for post in site.posts limit:5 %}
+  	<!-- top article -->
+    {% for post in site.posts limit:1 %}
       {% include card-with-image.html  %}
     {% endfor %}
+    <!-- what i can do for you -->
+    <h2>Here comes the about container</h2>
+    {% include about.html %}
+    
+    <!-- featured articles -->
+	{% for post in site.posts offset:1 limit:4 %}
+      {% include card-with-image.html  %}
+    {% endfor %}
+    <h2 style="display:block;width:100%;">How I work</h2>
+
+    <!-- how i work -->
+    Here I shall insert some content that tells vitors about my work ethic.
+	
+	<!-- older posts -->
     {% for post in site.posts offset:5 %}
-      {% include card.html  %}
+      {% include card.html %}
     {% endfor %}
     
   </ul>
