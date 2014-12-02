@@ -43,23 +43,6 @@ ul{
 	list-style:square;
 }
 
-.related{
-    margin-top:2em;
-    border-top: 5px solid $grey-color-light;
-    width: 100% !important;
-    .card{
-        margin-top: 1em;
-        margin-right:2% !important;
-        width:31.3333333333333%;
-        @include media-query($on-laptop){
-            width:48%;
-        }
-        @include media-query($on-palm){
-            width:100%;
-        }
-    }
-}
-
 #about-container{
 	@include flex-container;
     @include shadow;
@@ -147,6 +130,24 @@ ul{
     }
 }
 
+.related .card{
+    margin-top: 1em;
+    margin-right:2% !important;
+    width:31.3333333333333%;
+    @include media-query($on-laptop){
+        width:48%;
+    }
+    @include media-query($on-palm){
+        width:100%;
+    }
+}
+
+.related{
+    margin-top:2em;
+    border-top: 5px solid $grey-color-light;
+    width: 100% !important;
+}
+
 .home-pic-container{
 
     background-color:$brand-color-dark;
@@ -225,9 +226,10 @@ ul{
 }
 
 .post-content > p, .post-content ul > li, .post-content ol > li, #disqus_thread, .frame {
-   	max-width:66.6666666666666%;
+   	width:66.6666666666666%;
+    max-width:35em;
     @include media-query($on-palm){
-        max-width:100%;
+        width:100%;
     }
     @include media-query($on-laptop) {
         width:100%;
