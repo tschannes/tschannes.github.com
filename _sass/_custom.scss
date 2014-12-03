@@ -186,6 +186,12 @@ ul{
 	padding:$spacing-unit / 2;
 }
 
+.home .post-list > :first-child {
+    width:98% !important;
+    @include media-query($on-palm){
+        width: 100% !important;
+    }
+}
 
 .post-list {
     //float:left;
