@@ -53,3 +53,5 @@ Deshalb begegnet die Redaktion dem neuen Umfeld pragmatisch: Sie arbeitet mit de
 ## Eigene Design-First-Erfahrung?
 
 Haben Sie eigene Erfahrungen gemacht mit Projekten, in denen das Design den Ton an- und den Tarif durchgibt? Lassen Sie mich wissen, wie Sie zu Lösungen gekommen sind!
+
+<a name="short" class="anchor">&nbsp</a>

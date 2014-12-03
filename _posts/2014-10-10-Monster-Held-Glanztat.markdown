@@ -71,3 +71,4 @@ Statt ratlosem Blinken ernte ich Lacher. Was natürlich besser ist. Dann erklär
 
 ## Mehr Rezepte?
 Welche Erfahrungen haben Sie gemacht auf den abenteuerlichen Wegen zu besseren Texten im Web? Kommentieren Sie!
+<a name="short" class="anchor">&nbsp</a>
