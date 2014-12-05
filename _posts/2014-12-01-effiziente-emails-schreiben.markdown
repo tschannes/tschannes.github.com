@@ -8,6 +8,7 @@ alt: "Die Postkarte: Eine Vorgängerin der E-Mail."
 caption: "Original Photo: Markus Spiske, www.temporausch.com, CC-BY"
 comments: false
 related: true
+categories: text tools
 ---
 
 > [Nur Zeit für kurz und bündig? Die sieben Mailing-Tipps im Überblick!](#short)

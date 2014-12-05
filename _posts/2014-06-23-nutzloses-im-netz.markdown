@@ -4,6 +4,7 @@ title:  "Nutzloses im Netz: Ein Gespräch"
 date:   2014-06-23
 excerpt: "Content-Strategen sind Planmeister. Sie konzipieren sinnvolle Inhaltstypen und entscheiden, welche Texte nutzlos sind. Dabei werfen sie auch schon mal das ein oder andere Kleinod über Bord. Ein Gespräch."
 related: true
+categories: content
 ---
 
 > Warum bloggst du nicht, fragt eine Freundin mich neulich beim Brunch.

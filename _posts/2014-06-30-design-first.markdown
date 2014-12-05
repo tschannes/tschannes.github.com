@@ -5,6 +5,7 @@ date:   2014-06-30
 excerpt: "Designer, Texter und Konzepter ringen um die neue Website: Bald soll sie stehen und die noch-nicht-ganz-digitale Organisation ins Web-2.0-Zeitalter katapultieren. Das Design kommt schliesslich und stellt die Redaktion vor Probleme."
 comments: true
 img: false
+categories: content
 ---
 
 Der Spielstand: Ein müder Internet-Auftritt aus den Anfängen des digitalen Zeitalters kann nicht mehr und muss ausgewechselt werden.

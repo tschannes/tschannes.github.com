@@ -8,6 +8,7 @@ alt: "Regentropfen. Langsamkeit und grosse Nähe resultieren in neuen Bild-Ideen
 caption: false
 comments: true
 related: true
+categories: content tools
 ---
 
 
