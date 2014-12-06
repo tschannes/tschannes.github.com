@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Text
+header: "Text-Tools und Schreib im Web"
 permalink: /text/
+excerpt: "Hier sammelt Hannes Tscherrig Tools, Tipps und Erfahrungen zum Texten im Internet."
 order: 1
 ---
 
-## Intro to Text
-
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime enim pariatur, excepturi deserunt velit aperiam necessitatibus eius aspernatur minus ipsa ut? Quam eaque quidem possimus porro cumque ducimus, fugit eum!
+> {{ page.excerpt }}
 
 <ul class="post-list"> 
 	{% for post in site.categories.text %}

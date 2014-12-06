@@ -6,6 +6,8 @@ excerpt: "Wie ist es, mit Hannes Tscherrig zusammenzuarbeiten? Ehemalige Arbeits
 order: 3
 ---
 
+
+
 ##Rückmeldungen aus der Arbeitswelt
 
 ###Hochschule Luzern

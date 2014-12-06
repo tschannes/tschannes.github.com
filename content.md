@@ -2,12 +2,12 @@
 layout: page
 title: Content
 permalink: /content/
+header: "Content: Strategie, Tools und Erfahrungen"
+excerpt: "Hier sammelt Hannes Tscherrig Tools und Methoden für den Umgang mit Content. Ausserdem schildert er seine Erfahrungen mit Content-Strategie und der Strukturierung von Inhalten fürs Internet."
 order: 2
 ---
 
-## Intro to Content
-
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime enim pariatur, excepturi deserunt velit aperiam necessitatibus eius aspernatur minus ipsa ut? Quam eaque quidem possimus porro cumque ducimus, fugit eum!
+> {{ page.excerpt }}
 
 <ul class="post-list"> 
 	{% for post in site.categories.content %}
