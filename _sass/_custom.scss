@@ -123,7 +123,7 @@ ul{
     p {
         color:$text-color;
     }
-    &:hover, &:active, &focus{
+    &:hover, &:active, &:focus{
         background-color:$grey-color-light;
         .home-pic-container img{
             opacity:0.7;
@@ -132,8 +132,8 @@ ul{
             text-decoration:none;
         }
     }
-    @include media-query($on-palm){
-        width: 49%;
+    @include media-query($on-laptop){
+        width: 48%;
     }
     @include media-query($on-palm){
         width: 100%;
@@ -185,7 +185,7 @@ ul{
     width:26.5%;
     @include media-query($on-laptop){
         position:static;
-        width:48%;
+        width:49%;
         margin-right:2%;
     }
     @include media-query($on-palm){
@@ -201,32 +201,50 @@ ul{
     }
 }
 
-.home .post-list > :first-child{
+/* .home .post-list > :first-child{
     width:98%;
     @include media-query($on-palm){
         width:100%;
+    }
+} */
+
+.home .post-list{
+    @extend .post-list;
+    @include media-query($on-laptop){
+        :first-child{
+            margin-right:0px;
+            width:100%;
+        }
+        :nth-child(2n+1){
+            margin-right:0px;
+        }
+        :nth-child(2n+2){
+            margin-right:2%;
+        }
     }
 }
 
 .post-list {
     @include flex-container;
-    margin-left: 0;
+    /* margin-left: 0px; */
     list-style: none;
     width:66.6666%;
-
     li {
         padding:$spacing-unit / 2;
+        max-width:88%;
     }
     @include media-query($on-palm){
         @include flex-container-mobile;
     }
     @include media-query($on-laptop){
         width:100%;
-        :first-child, :nth-child(2n+1){
+        :nth-child(2n+2){
             margin-right:0px;
         }
     }
 }
+
+
 
 .wrapper{
     max-width:$wrapper-width;

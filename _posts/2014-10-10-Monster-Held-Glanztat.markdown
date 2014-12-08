@@ -3,7 +3,6 @@ layout: post
 title:  "Monster, Held und Glanztat: Muster für Web-Texte"
 date:   2014-10-07
 excerpt: "Die These: Web-Texte werden besser, wenn man Schreibende mit den Schwächen, Fehler-Mustern und der Phrasenhaftigkeit ihrer Texte konfrontiert, sie auffordert im Dialekt zu erzählen und als Helden nach Monstern zu suchen."
-comments: true
 related: true
 img: "images/held.jpg"
 alt: "Geschichten mit Helden erzählen sich leichter."

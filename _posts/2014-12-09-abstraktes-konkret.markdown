@@ -94,7 +94,7 @@ Zeige das Gegenteil von dem, was du sagen möchtest und übertreibe dabei.
 6. **Kontext**: Zeige etwas ausserhalb seines angestammten Kontextes. 
 7. **Kontrast**: Stelle das Konzept so dar, dass es der Realität widerspricht. Fliegende Autos. Sprechende Computer...
 8. **Beispiel**: Zeige nicht das Konzept, sondern eine Anwendung, ein Beispiel.
-9. **[Synästhesie](ADDLINK)**: Beziehe dich auf ungewöhnliche Sinneseindrücke, welche durch das Konzept verursacht oder in im Zusammenhang auftreten. Beispiel: Wetten dass???
+9. **[Synästhesie](http://de.wikipedia.org/wiki/Syn%C3%A4sthesie)**: Beziehe dich auf ungewöhnliche Sinneseindrücke, welche durch das Konzept verursacht oder in im Zusammenhang auftreten.
 10. **Übertreibung**: Stelle etwas (oder einen Aspekt eines Konzeptes) in einer übertriebenen Art und Weise dar, um es interessanter zu machen. 
 12. **Personifikation**: Stelle dein Konzept so dar, als ob es eine Person wäre (oder ein Lebewesen).
 13. **Paradox**: Zeige etwas so, dass es in sich widersprüchlich ist.
