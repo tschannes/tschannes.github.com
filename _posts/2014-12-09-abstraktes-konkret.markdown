@@ -35,14 +35,12 @@ Verwende einen Teil, um das Ganze darzustellen.
 # 3. Symbol
 Setze etwas ein, was per Konvention immer für etwas anderes gebraucht wird. 
 
-{% include image.html url="/images/abstrakt/symbol.jpg" description="'Weihnachten' lässt sich am einfachsten mit einem der vielen Symbole dafür visualisieren: Tannenbaum, Weihnachtsstern und Deko. Bild: Markus Spiske, 
-<a target='_blank' href='http://www.temporausch.com'>temporausch.com</a>, CC BY." %}
+{% include image.html url="/images/abstrakt/symbol.jpg" description="'Weihnachten' lässt sich am einfachsten mit einem der vielen Symbole dafür visualisieren: Tannenbaum, Weihnachtsstern und Deko. Bild: Markus Spiske, <a target='_blank' href='http://www.temporausch.com'>temporausch.com</a>, CC BY." %}
 
 # 4. Simile (Vergleich)
 Bringe das Konzept mit einem ungewohnt anderen in Verbindung. 
 
-{% include image.html url="https://m1.behance.net/rendition/modules/107428831/hd/637177a5690a3ec80c48632269a67e05.jpg" description="'Der Hund ist wie sein Herrchen': Ein klassischer Vergleich visuell umgesetzt, mit aufsehenserregendem Resultat. Bild: Sebastian Magnani, 
-<a target='_blank' href='http://www.sebastianmagnani.com/'>sebastianmagnani.com</a>, Copyright Sebastian Magnani." %}
+{% include image.html url="https://m1.behance.net/rendition/modules/107428831/hd/637177a5690a3ec80c48632269a67e05.jpg" description="'Der Hund ist wie sein Herrchen': Ein klassischer Vergleich visuell umgesetzt, mit aufsehenserregendem Resultat. Bild: Sebastian Magnani, <a target='_blank' href='http://www.sebastianmagnani.com/'>sebastianmagnani.com</a>, Copyright Sebastian Magnani." %}
 
 # 5. Kontext
 Zeige etwas ausserhalb seines angestammten Kontextes.
