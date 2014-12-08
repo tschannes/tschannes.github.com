@@ -24,7 +24,7 @@ layout: default
     <!-- how i work -->
 	
 	<!-- older posts -->
-    {% for post in site.posts offset:5 %}
+    {% for post in site.posts offset:5 limit:4 %}
       {% include card.html %}
     {% endfor %}
     

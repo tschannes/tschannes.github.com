@@ -207,6 +207,7 @@ ul{
         width:98%;
         @include media-query($on-palm){
             width:100%;
+        }
     }
     @include media-query($on-laptop){
         > :first-child{
@@ -218,10 +219,6 @@ ul{
         }
         > :nth-child(2n+2){
             margin-right:2%; 
-        }
-        > :last-child{
-            margin-right:0px;
-            width:100%;
         }
     }
 }
