@@ -14,7 +14,7 @@ categories: content tools
 
 > [Nur Zeit für kurz und bündig?](#short)
 
-Jede Content-Verantwortliche kennt das Problem: Die Story steht,  der Text ist in der Mache, aber die passenden Visualisierungen fehlen. Gerade wenn es gilt abstrakte Themen wie Wirtschaftsforschung, Informatik oder Mathematik zu veranschaulichen, gehen schnell die Ideen für Bilder aus.
+Jede Content-Verantwortliche kennt das Problem: Die Story steht,  der Text ist in der Mache, aber die passenden Visualisierungen fehlen. Gerade abstrakte Themen wie Wirtschaftsforschung, Informatik oder Mathematik zu veranschaulichen sind, gehen schnell die Ideen für Bilder aus.
 
 Die Standardlösung: Stock-Bilder, die die immer gleichen mehr oder weniger generisch wirkenden Dinge zeigen: Männer hinter Krawatten, Frauen hinter Bildschirmen, elegant gekleidete Männer und Frauen im Gespräch.
 
@@ -25,47 +25,47 @@ Dabei gibt es sie, die Rezepte für neue Bild-Ideen. Ein wenig Zeit und Mut gen�
 # 1. Metonymie
 Setze ein Attribut (eine Eigenschaft, eine Folgeerscheinung) ein statt das ganze Konzept.
 
-{% include image.html url="/images/abstrakt/wind.jpg" description="Wind ist unsichtbar. Nicht so die Bewegung, welche er verursacht: Ein Windsack zeigt metonymisch Wind. Bild: Markus Spiske, <a href='http:://www.temporausch.com'>temporausch.com</a>, CC BY." %}
+{% include image.html url="/images/abstrakt/wind.jpg" description="Wind ist unsichtbar. Nicht so die Bewegung, welche er verursacht: Ein Windsack zeigt metonymisch Wind. Bild: Markus Spiske, <a target='_blank' href='http://www.temporausch.com'>http://www.temporausch.com</a>, CC BY." %}
 
 # 2. Pars pro toto
 Verwende einen Teil, um das Ganze darzustellen.
 
-{% include image.html url="/images/abstrakt/thron.jpg" description="Das ganze Schloss lässt sich nicht photographisch einfangen? Ein Teil, hier der Thronsaal, repräsentiert das Ganze. Bild: Markus Spiske, <a href='http:://www.temporausch.com'>temporausch.com</a>, CC BY." %}
+{% include image.html url="/images/abstrakt/thron.jpg" description="Das ganze Schloss lässt sich nicht photographisch einfangen? Ein Teil, hier der Thronsaal, repräsentiert das Ganze. Bild: Markus Spiske, <a target='_blank' href='http:://www.temporausch.com'>temporausch.com</a>, CC BY." %}
 
 # 3. Symbol
 Setze etwas ein, was per Konvention immer für etwas anderes gebraucht wird. 
 
-{% include image.html url="/images/abstrakt/symbol.jpg" description="'Weihnachten' lässt sich am einfachsten mit einem der vielen Symbole dafür visualisieren: Tannenbaum, Weihnachtsstern und Deko. Bild: Markus Spiske, <a href='http:://www.temporausch.com'>temporausch.com</a>, CC BY." %}
+{% include image.html url="/images/abstrakt/symbol.jpg" description="'Weihnachten' lässt sich am einfachsten mit einem der vielen Symbole dafür visualisieren: Tannenbaum, Weihnachtsstern und Deko. Bild: Markus Spiske, <a target='_blank' href='http:://www.temporausch.com'>temporausch.com</a>, CC BY." %}
 
 # 4. Simile (Vergleich)
 Bringe das Konzept mit einem ungewohnt anderen in Verbindung. 
 
-{% include image.html url="https://m1.behance.net/rendition/modules/107428831/hd/637177a5690a3ec80c48632269a67e05.jpg" description="'Der Hund ist wie sein Herrchen': Ein klassischer Vergleich visuell umgesetzt. Mit aufsehenserregendem Resultat. Bild: Sebastian Magnani, <a href='http:://www.sebastianmagnani.com'>sebastianmagnani.com</a>, Copyright Sebastian Magnani." %}
+{% include image.html url="https://m1.behance.net/rendition/modules/107428831/hd/637177a5690a3ec80c48632269a67e05.jpg" description="'Der Hund ist wie sein Herrchen': Ein klassischer Vergleich visuell umgesetzt, mit aufsehenserregendem Resultat. Bild: Sebastian Magnani, <a target='_blank' href='http://www.sebastianmagnani.com/'>sebastianmagnani.com</a>, Copyright Sebastian Magnani." %}
 
 # 5. Kontext
 Zeige etwas ausserhalb seines angestammten Kontextes.
 
-{% include image.html url="/images/abstrakt/musik.jpg" description="'Schattenseiten des Musikerlebens': Gitarre und Verstärker werden auf einem Parkplatz, ausserhalb ihres angestammten Kontexts auf der Bühne abgebildet. Bild: Markus Spiske, <a href='http:://www.temporausch.com'>temporausch.com</a>, CC BY." %}
+{% include image.html url="/images/abstrakt/musik.jpg" description="'Schattenseiten des Musikerlebens': Gitarre und Verstärker werden auf einem Parkplatz, ausserhalb ihres angestammten Kontexts auf der Bühne abgebildet. Bild: Markus Spiske, <a target='_blank' href='http:://www.temporausch.com'>temporausch.com</a>, CC BY." %}
 
 # 6. Kontrast
 Stelle ein Konzept so dar, dass es der Realität, wie wir sie kennen, widerspricht.
 
-{% include image.html url="/images/abstrakt/verkehr.jpg" description="Es ist für uns nicht möglich, dies zu sehen. Und doch wissen wir, dass die farbigen Streifen auf vorbeischiessende Autos zurückzuführen sind. Der Kontrast macht das Bild spannend. Bild: Markus Spiske, <a href='http:://www.temporausch.com'>temporausch.com</a>, CC BY." %}
+{% include image.html url="/images/abstrakt/verkehr.jpg" description="Es ist für uns nicht möglich, dies zu sehen. Und doch wissen wir, dass die farbigen Streifen auf vorbeischiessende Autos zurückzuführen sind. Der Kontrast macht das Bild spannend. Bild: Markus Spiske, <a target='_blank' href='http:://www.temporausch.com'>temporausch.com</a>, CC BY." %}
 
 # 7. Beispiel
 Zeige nicht das Konzept, sondern eine Anwendung, ein Beispiel davon.
 
-{% include image.html url="/images/abstrakt/energie.jpg" description="Energie ist unsichtbar. Der Herstellungsprozess aber, hier eine Windturbine, kann sehr wohl visualisiert werden. Bild: Markus Spiske, <a href='http:://www.temporausch.com'>temporausch.com</a>, CC BY." %}
+{% include image.html url="/images/abstrakt/energie.jpg" description="Energie ist unsichtbar. Der Herstellungsprozess aber, hier eine Windturbine, kann sehr wohl visualisiert werden. Bild: Markus Spiske, <a target='_blank' href='http:://www.temporausch.com'>temporausch.com</a>, CC BY." %}
 
 # 8. Synästhesie
 Wechsle die Sinne. Statt etwas direkt visuell zeigen zu wollen: Denke an Gerüche, Geräusche, Gefühle.
 
-{% include image.html url="/images/abstrakt/dorn.jpg" description="Natürlich sehen wir die Dornen. Dass wir wissen, wie sich Dornen anfühlen, macht das Bild aber erst eindrücklich. Bild: Markus Spiske, <a href='http:://www.temporausch.com'>temporausch.com</a>, CC BY." %}
+{% include image.html url="/images/abstrakt/dorn.jpg" description="Natürlich sehen wir die Dornen. Dass wir wissen, wie sich Dornen anfühlen, macht das Bild aber erst eindrücklich. Bild: Markus Spiske, <a target='_blank' href='http:://www.temporausch.com'>temporausch.com</a>, CC BY." %}
 
 # 9. Übertreibung
 Stelle etwas übertrieben dar.
 
-{% include image.html url="/images/abstrakt/uebertrieben.jpg" description="Machen Bilder etwas ganz gross, gewinnt es neue Eigenschaften. Plötzlich sehen wir die feinen Mikrostrukturen, statt die gesamten Panels. Bild: Markus Spiske, <a href='http:://www.temporausch.com'>temporausch.com</a>, CC BY." %}
+{% include image.html url="/images/abstrakt/uebertrieben.jpg" description="Machen Bilder etwas ganz gross, gewinnt es neue Eigenschaften. Plötzlich sehen wir die feinen Mikrostrukturen, statt die gesamten Panels. Bild: Markus Spiske, <a target='_blank' href='http:://www.temporausch.com'>temporausch.com</a>, CC BY." %}
 
 # 10. Personifikation
 Stelle etwas dar, als ob es eine Person wäre.
@@ -75,7 +75,7 @@ Stelle etwas dar, als ob es eine Person wäre.
 # 11. Paradox
 Zeige etwas so, dass es in sich widersprüchlich ist.
 
-{% include image.html url="https://m1.behance.net/rendition/modules/134673015/disp/7202e2048d202098b98cc2dafb98b534.jpg" description="Einen Baum, der an der Wand wächst, gibt es nicht. Und doch sehen wir einen. Paradoxale Bilder fesseln. Bild: Sebastian Magnani, <a href='http:://www.sebastianmagnani.com'>sebastianmagnani.com</a>, Copyright Sebastian Magnani." %}
+{% include image.html url="https://m1.behance.net/rendition/modules/134673015/disp/7202e2048d202098b98cc2dafb98b534.jpg" description="Einen Baum, der an der Wand wächst, gibt es nicht. Und doch sehen wir einen. Paradoxale Bilder fesseln. Bild: Sebastian Magnani, <a target='_blank' href='http://www.sebastianmagnani.com/'>sebastianmagnani.com</a>, Copyright Sebastian Magnani." %}
 
 
 # 12. Ironie
