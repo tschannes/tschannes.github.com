@@ -25,7 +25,7 @@ Dabei gibt es sie, die Rezepte f√ºr neue Bild-Ideen. Ein wenig Zeit und Mut gen√
 # 1. Metonymie
 Setze ein Attribut (eine Eigenschaft, eine Folgeerscheinung) ein statt das ganze Konzept.
 
-{% include image.html url="/images/abstrakt/wind.jpg" description="Wind ist unsichtbar. Nicht so die Bewegung, welche er verursacht: Ein Windsack zeigt metonymisch Wind. Bild: Markus Spiske, <a target='_blank' href='http://www.temporausch.com'>http://www.temporausch.com</a>, CC BY." %}
+{% include image.html url="/images/abstrakt/wind.jpg" description="Wind ist unsichtbar. Nicht so die Bewegung, welche er verursacht: Ein Windsack zeigt metonymisch Wind. Bild: Markus Spiske, <a target='_blank' href='http://www.temporausch.com'>temporausch.com</a>, CC BY." %}
 
 # 2. Pars pro toto
 Verwende einen Teil, um das Ganze darzustellen.
