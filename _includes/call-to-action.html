@@ -7,11 +7,11 @@
 		<li>Oder hinterlassen Sie einen Kommentar:
 			<ul class="commented">
 				{% for post in site.posts %}
-				{% if post.comments %}
-				<li>
-      				<a href="{{ post.url | prepend: site.baseurl | append: "#short" }}">{{ post.title}}</a>
-    			</li>
-    			{% endif %}
+					{% if post.comments %}
+					<li>
+	      				<a href="{{ post.url | prepend: site.baseurl | append: "#short" }}">{{ post.title}}</a>
+	    			</li>
+	    			{% endif %}
 				{% endfor %}
 			</ul>
 		</li>

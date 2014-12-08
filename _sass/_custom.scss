@@ -4,7 +4,7 @@ figure{
     margin-bottom:0px;
 }
 
-figcaption{
+.home figcaption{
     position:relative;
     height:0px;
     color:$grey-color-light;
@@ -12,6 +12,14 @@ figcaption{
     text-align:right;
     padding-right:1em;
     font-size:$base-font-size / 2.5;
+}
+
+.inpost{
+   margin-top: 0.5em;
+   margin-bottom: 1em;
+    @include media-query($on-palm){
+        font-size:0.8em;
+    }
 }
 
 //header
@@ -227,7 +235,7 @@ ul{
     margin-right:auto;
 }
 
-.post-content > p, .post-content ul > li, .post-content ol > li, #disqus_thread, .frame {
+.post-content > p, .post-content ul > li, .post-content ol > li, #disqus_thread, .frame, img, .inpost {
    	width:66.6666666666666%;
     max-width:35em;
     @include media-query($on-palm){

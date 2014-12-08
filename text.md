@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Text
-header: "Text-Tools und Schreib im Web"
+header: "Text-Tools und Schreiben im Web"
 permalink: /text/
 excerpt: "Hier sammelt Hannes Tscherrig Tools, Tipps und Erfahrungen zum Texten im Internet."
 order: 1
