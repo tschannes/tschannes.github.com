@@ -81,7 +81,7 @@ Zeige etwas so, dass es in sich widersprüchlich ist.
 # 12. Ironie
 Zeige das Gegenteil von dem, was du sagen möchtest und übertreibe dabei.
 
-{% include image.html url="/images/abstrakt/putin.jpg" description="Vladimir Putin ist kein Astronaut. Oder? Schliesslich ist er Grosswildjäger, proffessioneller Held und regelmässiger Retter der Nation. Ironie im Bild." %}
+{% include image.html url="/images/abstrakt/putin.jpg" description="Vladimir Putin ist kein Astronaut. Oder? Schliesslich ist er Grosswildjäger, professioneller Held und regelmässiger Retter der Nation. Ironie im Bild." %}
 
 
 <a name="short" class="anchor">&nbsp</a>
