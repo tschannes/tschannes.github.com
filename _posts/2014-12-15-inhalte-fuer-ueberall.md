@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Modulare Inhalte: Content für Überall"
+title: "Inhalte für Überall"
 date: 2014-12-15
-excerpt: "Inhalte müssen modularer und flexibler werden, schreibt Sara Wachter-Boettchers in ihrem Buch 'Content Everywhere'. Sie zeigt, wie eine solide Struktur zu Content führt, der überall funktioniert."
+excerpt: "Content muss modularer und flexibler werden, schreibt Sara Wachter-Boettcher in ihrem Buch 'Content Everywhere'. Sie zeigt, wie eine solide Struktur zu Inhalten führt, die überall funktionieren."
 img: "images/containers.jpg"
 alt: "Container: Können modulartig und effizient überall hin transportiert werden."
 caption: "By Lucarelli (Own workby uploader), CC-BY-SA-3.0, via Wikimedia Commons"
@@ -11,7 +11,7 @@ related: true
 categories: content
 ---
 
-> [Nur Zeit für kurz und bündig?](#short)
+> [Nur Zeit für die Kurzfassung?](#short)
 
 ## Was ist faul an der ganzen Content-Sache?
 
