@@ -251,7 +251,7 @@ ul{
     margin-right:auto;
 }
 
-.post-content > p, .post-content ul > li, .post-content ol > li, #disqus_thread, .frame, img, .inpost {
+.post-content > p, .post-content ul > li, .post-content ol > li, #disqus_thread, .frame, img, .inpost, blockquote{
    	width:66.6666666666666%;
     max-width:35em;
     @include media-query($on-palm){
