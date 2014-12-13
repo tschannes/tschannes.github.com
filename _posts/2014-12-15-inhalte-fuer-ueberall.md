@@ -15,15 +15,15 @@ categories: content
 
 ## Was ist faul an der ganzen Content-Sache?
 
-Im Alltag lassen sich Content-Probleme am einfachsten lösen, indem man mehr Content produziert. Die Prüfung, ob es dieses Formular, jenen Intro-Text oder das neueste PDF bereits gibt entfällt. 
+**Mehr Content ist auch keine Lösung.**: Im Alltag lassen sich Content-Probleme am einfachsten lösen, indem man mehr Content produziert. Die Prüfung, ob es dieses Formular, jenen Intro-Text oder das neueste PDF bereits gibt, entfällt. 
 
 > You want content that's ready for what the future holds, it's time to **stop making more content**, and instead start building systems that allow you to do more.
 
-Wenn wir bemerken, dass unser Content überhand nimmt, schreien wir nach technischen Lösungen: Eine neue App muss her! Ein neues Content Management System! Mit der neuen Technologie wird alles besser, so der Irrglaube.
+**Mit etwas mehr Technik wird alles besser**: Wenn wir bemerken, dass unser Content überhand nimmt, schreien wir nach technischen Lösungen: Eine neue App muss her! Ein neues Content Management System! Mit der neuen Technologie wird alles besser, so der Irrglaube.
 
 > Luke Woblewski writes in his book Mobile First, 'Even if you can create **native apps** for each platform, the cost of maintaining them can quickly make it prohibitive.
 
-Wir glauben, dass das Webseiten sich verhalten wie Druckbögen. Deshalb investieren wir Millionen in Design und Frontend-Code.
+**Web-Seiten sind Druckbögen**: Wir glauben, dass das Webseiten sich verhalten wie Druckbögen. Deshalb investieren wir Millionen in Design und Frontend-Code.
 
 > The more you strive for the **perfect page**, the more you limit yourself to just that page.
 
@@ -33,7 +33,7 @@ Dabei wäre es viel wichtiger, modulare, wiederverwendbare Inhalts-Systeme zu sc
 
 > You need to create content in **chunks**, giving it the fluidity and flexibility for it to travel--across devices, sites, and channels--so users can experience it in whatever context they choose.
 
-Wenn Inhalte überallhin wandern, verändern sie sich gezwungenermassen. Veränderung ist auch hier die einzige Konstante.
+Wenn Inhalte überallhin wandern, verändern sie sich gezwungenermassen. Veränderung ist die einzige Konstante.
 
 > As your content travels, unfixed from a single site, you must learn to let it go.
 
@@ -41,9 +41,11 @@ Als Inhaltsschaffende sind wir dafür verantwortlich Inhaltssysteme zu schaffen,
 
 > We need **Interfaces that will help guide content creators** on how to write and structure their content for reuse.
 
+Idealerweise integrieren wir Handlungsanweisungen, Style Guides, Zeichenbeschränkungen, Dokument-Abmessungen direkt ins CMS.
+
 ## Modulare Inhalte. So what?
 
-Zwei Gründe sprechen für eine gründliche Auseinandersetzung mit dem Thema 'granularer Content': Content Shifting (unsere Inhalte leben in mehreren Kontexten) und SEO (Suchmaschinenoptimierung).
+Drei Gründe sprechen für eine gründliche Auseinandersetzung mit dem Thema 'granularer Content': **Content Shifting** (unsere Inhalte leben in mehreren Kontexten), **SEO** (Suchmaschinenoptimierung) und **Responsive Web Design** (Inhalte müssen auf einer unendlichen Anzahl an Geräten funktionieren).
 
 ### Content Shifting: Deine Inhalte wandern in die Pockets deiner Nutzer
 
@@ -51,7 +53,7 @@ Von 'Content Shifting' sprechen wir, wenn Nutzer Inhalte von einem Kontext kopie
 
 > Content Shifting is the process of taking content from one context--as in, a specific website or application--and shifting it to another location.
 
-Diesem Phänomen kann man ablehnend begegnen. Aufzuhalten ist diese Entwicklung aber nicht: Zu einfach machen es Applikationen wie Readability und Instapaper, Pocket und Evernote Internaten Inhalte hier zu finden und dort zu neuen Kollektionen zusammenzufügen.
+Diesem Phänomen kann man ablehnend begegnen. Aufzuhalten ist die Entwicklung aber nicht: Zu einfach machen es Applikationen wie Readability und Instapaper, Pocket und Evernote Internauten Inhalte hier zu finden und dort zu neuen Kollektionen zusammenzufügen.
 
 > Content Shifting makes it easier for new Audiences to discover your content.
 
@@ -60,7 +62,7 @@ Statt 'Content Shifting' negativ als Diebstahl zu bewerten, schlägt Sara Wachte
 > They're not taking content away from you; they're taking a piece of you along with them. And that's a powerful thing.
 
 
-#### Drei Gründe, warum Internauten Content shiften
+#### Warum Internauten Content shiften
 
 1. Leute wollen personalisierte Sammlungen und nicht alles mögliche Wissen.
 2. Sie wollen die Informationsflut eindämmen, der sie jeden Tag ausgesetzt sind. 'Content Shifting' hilft ihnen dabei.
@@ -68,20 +70,20 @@ Statt 'Content Shifting' negativ als Diebstahl zu bewerten, schlägt Sara Wachte
 
 #### Wie sollen wir umgehen mit Content Shifting?
 
-1. Zuerst müssen wir akzeptieren, dass 'Content Shifting' passiert. Ob wir als Content-Schaffende das wollen oder nicht.
-2. Innovation statt Protektionismus: Unternehmen müssen in Inhalte investieren, die besser sind, als die der Konkurrenz. Inhalte sind wirksam, wenn sie in Konsumierenden in Erinnerung bleiben.
+1. 'Content Shifting' ist ein Fakt. Als Inhaltsschaffende müssen wir dies akzeptieren, ob wir das wollen oder nicht.
+2. Innovation statt Protektionismus: Unternehmen müssen in Inhalte investieren, die besser sind, als die der Konkurrenz. Inhalte sind wirksam, wenn sie Konsumierenden in Erinnerung bleiben.
 
-Besonders wichtig dabei ist, dass Firmen nicht nur ein Corporate Design haben, sondern auch ihre Corporate Voice pflegen:
+Wichtig ist deshalb, dass Firmen nicht nur ein Corporate Design haben, sondern auch ihre Corporate Voice pflegen:
 
 > Great content is memorable, and being memorable is about more than your URL. It's about your voice, your message, and your ability to help others.
 
 Bürokratische Formulierungen und schwerfällige Satzkonstruktionen sind Leseblocker. Stattdessen muss auch die Unternehmenskommunikation die Sprache der Kundschaft sprechen lernen. Und: Sie muss mit ihrer Kundschaft interagieren.
 
-> If your organization is obsessed with broadcasting its message--rather than allowing customers to deine their own experiences--then you're only going to get more uncomfortable as the future unfolds.
+> If your organization is obsessed with broadcasting its message--rather than allowing customers to define their own experiences--then you're only going to get more uncomfortable as the future unfolds.
 
 ### SEO: Suchmaschinen werden zur eigentlichen Ersatz-Navigation
 
-Der zweite Grund für modulare Inhalte liegt darin, dass sich Module beliebig neu zusammensetzen lassen. Damit lassen sich mit sehr wenig Aufwand sogenannte 'Content Hubs' erstellen: Ein 'Content Hub' fasst Inhalte zu einem bestimmten Thema zusammen.
+Der zweite Grund für modulare Inhalte liegt in ihrer Wiederverwendbarkeit. Aus Inhalts-Modulen lassen sich mit sehr wenig Aufwand sogenannte 'Content Hubs' erstellen: Ein 'Content Hub' fasst Inhalte zu einem bestimmten Thema zusammen.
 
 > Content Hubs: not only can this sort of hubs help users find things in the way they want, [...] but they can also help you gain more traction with search engines.
 
@@ -91,13 +93,15 @@ Es ist deshalb nicht unbedingt wichtig, genaue Rankings vorhersagen zu können, 
 
 > It's near impossible to know where you 'rank' on the search engine results page for any given term.
 
-Wichtiger sei auch für SEO, so zu sprechen, wie Kundinnen und Kunden suchen:
+Vielmehr fange SEO-Optimierung damit an, über das zu schreiben, was Kundinnen und Kunden suchen und so darüber zu sprechen, wie das Zielpublikum sucht:
 
 > Keywords: In reality they're simply the words your audience naturally uses when looking for your product, service, or information.
 
+> Publish content in the name of the people, not the name of the agency that happens to produce it.
+
 ### Responsive Web Design
 
-Modulare Inhalte sind der einzige Weg, wie Inhalte nicht nur auf einem Gerät Sinn machen, sondern auf jedem Gerät in der richtigen Priorisierung aufscheinen. Denn: 
+Modulare Inhalte sind der einzige Weg, wie Inhalte nicht nur auf einem spezifischen Gerät Sinn machen, sondern auf jedem möglichen Gerät genau die Geschichte erzählen, die vorgesehen war. Klar muss sein: 
 
 > Getting Responsive isn't just a design-and-dev Problem. It's a content problem.
 
@@ -111,29 +115,26 @@ Modulare Inhalte lassen sich auch auf Geräten mit kleinen Bildschirmen genau do
 ### Etwas Content-Strategie
 Ihren Anfang nehmen modularer Inhalte in einer soliden Content-Strategie: 
 
-- Welche Ziele unterstützt ein gewisser Inhalt? Was erwartet eine Firma als Gegenleistung für die Kreation eines Inhaltes?
+- Welche Ziele unterstützt ein Inhalt? Was erwartet eine Firma als Gegenleistung für die Kreation eines Inhaltes?
 - Inwiefern ist ein Inhalt relevant für eine Nutzerin? Was zeichnet einen Inhalt aus?
 - Was sollen User machen, nachdem sie einen Inhalt konsumiert haben?
 
-Die Antworten auf diese Fragen führen zu den Grundbausteinen einer Content-Strategie: 
+Die Antworten auf diese Fragen führen zu den Grundbausteinen einer Content-Strategie. Sie führen gleichzeitig zu einer Liste möglicher Inhaltsmodule: 
 
 1. Dieser **Blog-Eintrag** zeigt, dass sich Hannes Tscherrig vertieft mit Inhalten im Web und deren Strukturierung befasst.
-2. Der **Artikel** bietet eine **Zusammenfassung** eines viel längeren Buches und so dass Lesende schnell die Hauptaussage des Buches erfassen können.
-3. User auf einen der **verwandten Artikel** klicken, einen der beiden **Themenarchive** besuchen und via **Kommentar** ihre **Inputs** hinterlassen.
-
-> Publish content in the name of the people, not the name of the agency that happens to produce it.
-
+2. Der **Artikel** bietet eine **Zusammenfassung** eines viel längeren Buches, so dass Lesende die Hauptaussage der Publikation schnell erfassen können.
+3. User sollen auf einen der **verwandten Artikel** klicken, eines der beiden **Themenarchive** besuchen und via **Kommentar** ihre Inputs hinterlassen.
 
 ### Eine Prise Markup
 
-> Markup related to Appearance "is a lot like Make-up. While my olive-skinned friend looks fantastic in scarlet lipstick, that same schade gives my face a particularly ghastly pallor."
+> Markup related to Appearance "is a lot like Make-up. While my olive-skinned friend looks fantastic in scarlet lipstick, that same shade gives my face a particularly ghastly pallor."
 
 > Semantic Markup, on the other hand, is designed to reveal, in a machine-readable way, the intrinsic meaning in your content.
 
 
 ### Eine Messerspitze Mobile
 
-Es ist schlicht nicht möglich, zu wissen, auf welche Inhalte ein Nutzer auf einem mobilen Gerät verzichten können.
+Inhalte müssen grundsätzlich immer überall auffindbar sein. Denn: Niemand weiss, was Nutzende auf was mobile Nutzende wirklich verzichten können.
 
 > It's nearly impossible to say what a user will or won't want to do from her mobile device.
 
@@ -141,7 +142,7 @@ Eine Technik, die Inhalte auf mobilen Geräten zwar darstellt aber stark minimie
 
 > Of course, in order to layer content, that content needs to be structured--written and stored in such a way that parts can be exposed and parts hidden.
 
-Mobile ist eine Art Inhalte zu entwerfen, sagt Karen McGrane:
+Mobile ist eine Art Inhalte zu entwerfen, schreibt die Autorin des Buches 'Content Strategy for Mobile', Karen McGrane:
 
 > What I do advocate is that organizations use mobile as a lense to help them improve all their content. Here's a chance to edit your content to be more concise and written more clearly (that's not 'writing for mobile,' however--that's just good writing). Karen McGrane
 
@@ -159,12 +160,11 @@ Denn solange nur ein eingeschworenes Digital-Team Bescheid weiss, was ein gut-st
 
 > Shifting for mobile is great. But it's only enough to get by **right now**.
 
-Wie merken Sie, ob in Ihrer Organisation eine solche Vision fehlt?
+Wie merken Sie, ob in Ihrer Organisation eine solche Kultur des Lernens und der ständigen Weiterentwicklung fehlt?
 
 > it's actually pretty easy to spot: emphasis on the 'bottom line' rather than on product or service quality, endlessly chasing after new clients or markets, departmental infighting over budgets and priorities, and disagreement over who your audience is--or the desire to have 'everyone' as a customer.
 
 > Lack of customer centricity telltales? One big ones is if Folks insist on asking new customers for excessive personal data because the 'organization needs it'.
-
 
 <a name="short" class="anchor">&nbsp</a>
 <h2>Inhalte, die überall funktionieren</h2>
