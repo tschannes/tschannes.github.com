@@ -27,6 +27,8 @@ $grey-color-dark:  darken($grey-color, 25%);
 $on-palm:          700px;
 $on-laptop:        1200px;
 
+$header-height: 5em;
+
 
 //Flex-Container
 
@@ -51,14 +53,14 @@ $on-laptop:        1200px;
     -webkit-justify-content: center;
     -ms-flex-pack: center;
     justify-content: center;
-    -webkit-align-content: flex-start;
-    -ms-flex-line-pack: start;
-    align-content: flex-start;
-    -webkit-box-align: start;
-    -moz-box-align: start;
-    -webkit-align-items: flex-start;
-    -ms-flex-align: start;
-    align-items: flex-start;
+    -webkit-align-content: space-between;
+    -ms-flex-line-pack: space-between;
+    align-content: space-between;
+    -webkit-box-align: space-between;
+    -moz-box-align: space-between;
+    -webkit-align-items: space-between;
+    -ms-flex-align: space-between;
+    align-items: space-between;
 }
 
 @mixin flex-container-mobile{
