@@ -6,7 +6,7 @@ excerpt: "Content muss modularer und flexibler werden, schreibt Sara Wachter-Boe
 img: "images/containers.jpg"
 alt: "Container: Können modulartig und effizient überall hin transportiert werden."
 caption: "By Lucarelli (Own workby uploader), CC-BY-SA-3.0, via Wikimedia Commons"
-comments: false
+comments: true
 related: true
 categories: content
 ---
@@ -15,7 +15,7 @@ categories: content
 
 ## Was ist faul an der ganzen Content-Sache?
 
-**Mehr Content ist auch keine Lösung.**: Im Alltag lassen sich Content-Probleme am einfachsten lösen, indem man mehr Content produziert. Die Prüfung, ob es dieses Formular, jenen Intro-Text oder das neueste PDF bereits gibt, entfällt. 
+**Mehr Content ist auch keine Lösung**: Im Alltag lassen sich Content-Probleme am einfachsten lösen, indem man mehr Content produziert. Die Prüfung, ob es dieses Formular, jenen Intro-Text oder das neueste PDF bereits gibt, entfällt. 
 
 > You want content that's ready for what the future holds, it's time to **stop making more content**, and instead start building systems that allow you to do more.
 
@@ -23,7 +23,7 @@ categories: content
 
 > Luke Woblewski writes in his book Mobile First, 'Even if you can create **native apps** for each platform, the cost of maintaining them can quickly make it prohibitive.
 
-**Web-Seiten sind Druckbögen**: Wir glauben, dass das Webseiten sich verhalten wie Druckbögen. Deshalb investieren wir Millionen in Design und Frontend-Code.
+**Web-Pages sind Druckseiten**: Wir glauben, dass das Webseiten sich verhalten wie Druckseiten. Deshalb investieren wir Millionen in pixelperfektes Design und wartungsreichen Frontend-Code.
 
 > The more you strive for the **perfect page**, the more you limit yourself to just that page.
 
@@ -41,7 +41,7 @@ Als Inhaltsschaffende sind wir dafür verantwortlich Inhaltssysteme zu schaffen,
 
 > We need **Interfaces that will help guide content creators** on how to write and structure their content for reuse.
 
-Idealerweise integrieren wir Handlungsanweisungen, Style Guides, Zeichenbeschränkungen, Dokument-Abmessungen direkt ins CMS.
+Idealerweise integrieren wir Handlungsanweisungen, Style Guides, Zeichenbeschränkungen, Bild-Abmessungen direkt ins CMS.
 
 ## Modulare Inhalte. So what?
 
@@ -81,7 +81,7 @@ Bürokratische Formulierungen und schwerfällige Satzkonstruktionen sind Leseblo
 
 > If your organization is obsessed with broadcasting its message--rather than allowing customers to define their own experiences--then you're only going to get more uncomfortable as the future unfolds.
 
-### SEO: Suchmaschinen werden zur eigentlichen Ersatz-Navigation
+### SEO: Suchmaschinen sind Ersatz-Navigation
 
 Der zweite Grund für modulare Inhalte liegt in ihrer Wiederverwendbarkeit. Aus Inhalts-Modulen lassen sich mit sehr wenig Aufwand sogenannte 'Content Hubs' erstellen: Ein 'Content Hub' fasst Inhalte zu einem bestimmten Thema zusammen.
 
@@ -110,10 +110,10 @@ Modulare Inhalte lassen sich auch auf Geräten mit kleinen Bildschirmen genau do
 > When you **interdigitate content**, key elements, like calls to action, can retain their emphasis at any display size.
 
 
-## Wie erreichen wir modulare Inhalte?
+## Wie machen wir Inhalte modularer?
 
 ### Etwas Content-Strategie
-Ihren Anfang nehmen modularer Inhalte in einer soliden Content-Strategie: 
+Ihren Anfang nehmen modulare Inhalte in einer soliden Content-Strategie: 
 
 - Welche Ziele unterstützt ein Inhalt? Was erwartet eine Firma als Gegenleistung für die Kreation eines Inhaltes?
 - Inwiefern ist ein Inhalt relevant für eine Nutzerin? Was zeichnet einen Inhalt aus?
@@ -142,13 +142,13 @@ Eine Technik, die Inhalte auf mobilen Geräten zwar darstellt aber stark minimie
 
 > Of course, in order to layer content, that content needs to be structured--written and stored in such a way that parts can be exposed and parts hidden.
 
-Mobile ist eine Art Inhalte zu entwerfen, schreibt die Autorin des Buches 'Content Strategy for Mobile', Karen McGrane:
+Der Mobile-First-Ansatz ist eine gute Methode bessere Inhalte zu entwerfen, schreibt die Autorin des Buches 'Content Strategy for Mobile', Karen McGrane:
 
 > What I do advocate is that organizations use mobile as a lense to help them improve all their content. Here's a chance to edit your content to be more concise and written more clearly (that's not 'writing for mobile,' however--that's just good writing). Karen McGrane
 
 Technik kann einige der Probleme auf kleinen Bildschirmen lösen, aber im Grunde verbergen sich unter vielen technischen Optimierungsmassnahmen für mobile Geräte ungelöste Content-Probleme.
 
-> While lazy-loading content or removing some images may sometimes make sense for small screens, this approach to solving the road time problem also begs another question: Should that content be there in the first place?
+> While lazy-loading content or removing some images may sometimes make sense for small screens, this approach to solving the load time problem also begs another question: Should that content be there in the first place?
 
 ### Und ein Pfund Organisationsentwicklung
 
@@ -160,9 +160,9 @@ Denn solange nur ein eingeschworenes Digital-Team Bescheid weiss, was ein gut-st
 
 > Shifting for mobile is great. But it's only enough to get by **right now**.
 
-Wie merken Sie, ob in Ihrer Organisation eine solche Kultur des Lernens und der ständigen Weiterentwicklung fehlt?
+Wie merken Sie, ob in Ihrer Organisation eine solche Kultur des Lernens und der ständigen Weiterentwicklung fehlt? Sara Wachter-Boettcher zählt einige Indizien auf:
 
-> it's actually pretty easy to spot: emphasis on the 'bottom line' rather than on product or service quality, endlessly chasing after new clients or markets, departmental infighting over budgets and priorities, and disagreement over who your audience is--or the desire to have 'everyone' as a customer.
+> Emphasis on the 'bottom line' rather than on product or service quality, endlessly chasing after new clients or markets, departmental infighting over budgets and priorities, and disagreement over who your audience is--or the desire to have 'everyone' as a customer.
 
 > Lack of customer centricity telltales? One big ones is if Folks insist on asking new customers for excessive personal data because the 'organization needs it'.
 
@@ -174,7 +174,7 @@ Wie merken Sie, ob in Ihrer Organisation eine solche Kultur des Lernens und der 
 3. **Warum?** Strukturierte Inhalte sind Inhalte, die für die Zukunft gerüstet sind. Sie funktionieren auf mobile, sind bereit für 'Content Shifting', sie erleichtern die SEO-Optimierung.
 4. **Wie umsetzen?** Eine solide Content-Strategie zeigt an, wie Inhalte strukturiert werden müssen, semantisches Markup, mobile Web-Technologien und vor allem ein Umdenken im Unternehmen machen das Umdenken möglich.
 
-## Links zum Buch
+## Links zum Buch 'Content Everywhere'
 
 - Sara Wachter-Boettcher schrieb das hier behandelte Buch [Content Everywhere](http://rosenfeldmedia.com/books/content-everywhere/)
 - SEO Keyword Tool: [Wordtracker](https://freekeywords.wordtracker.com)

@@ -17,16 +17,16 @@ layout: default
 	</div>
     
     <!-- featured articles -->
-	{% for post in site.posts offset:1 limit:4 %}
+	{% for post in site.posts offset:1 limit:8 %}
       {% include card-with-image.html  %}
     {% endfor %}
 
     <!-- how i work -->
 	
 	<!-- older posts -->
-    {% for post in site.posts offset:5 limit:4 %}
+<!--     {% for post in site.posts offset:5 limit:4 %}
       {% include card.html %}
-    {% endfor %}
+    {% endfor %} -->
     
   </ul>
 
