@@ -181,14 +181,13 @@ ul{
 .ad{
     @extend #about-container;
     position: absolute;
-    width:26.5%;
+    width:29.5%;
     @include media-query($on-laptop){
         position:static;
         width:49%;
         margin-right:2%;
     }
     @include media-query($on-palm){
-        position:static;
         width:100%;
     }
 }
@@ -245,9 +244,12 @@ ul{
 
 .wrapper{
     max-width:$wrapper-width;
-    width:80%;
+    width:90%;
     margin-left:auto;
     margin-right:auto;
+    @include media-query($on-laptop){
+        width: 90%;
+    }
 }
 
 .post-content > p, .post-content ul > li, .post-content ol > li, #disqus_thread, .frame, img, .inpost, blockquote{
