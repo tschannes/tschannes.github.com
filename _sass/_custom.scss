@@ -181,7 +181,7 @@ ul{
 .ad{
     @extend #about-container;
     position: absolute;
-    width:29.5%;
+    width:30%;
     @include media-query($on-laptop){
         position:static;
         width:49%;
