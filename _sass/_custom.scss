@@ -1,10 +1,43 @@
+.intro{
+    @extend #about-container;
+/*         background-color:$brand-color-dark !important;
+        border-top:0px !important; */
+    .portrait{
+        @extend #about-foto;
+    }
+    span{
+        @extend #about-part;
+/*         color:white; */
+        font-size:1.5em;
+        @include media-query($on-laptop){
+            font-size:1em;
+        }
+        p{
+            padding-left:5%;
+            padding-right:5%;
+        }
+/*      a{
+            text-decoration: underline;
+            color:white;
+            padding-left:2px;
+            padding-right:2px;
+            &:hover, &:focus{
+                background-color:white;
+                color: $brand-color-dark;
+                padding:2px;
+            }
+        }*/
+    } 
+}
+
+
 //figure and caption
 
 figure{
     margin-bottom:0px;
 }
 
-.home figcaption{
+.card figcaption{
     position:relative;
     height:0px;
     color:$grey-color-light;
@@ -181,7 +214,9 @@ ul{
 .ad{
     @extend #about-container;
     position: absolute;
+    top:none;
     width:30%;
+
     @include media-query($on-laptop){
         position:static;
         width:49%;
@@ -190,6 +225,11 @@ ul{
     @include media-query($on-palm){
         width:100%;
     }
+}
+
+.fixed{
+    position:fixed;
+    top:5em;
 }
 
 .contact{

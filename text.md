@@ -11,6 +11,6 @@ order: 1
 
 <ul class="post-list"> 
 	{% for post in site.categories.text %}
-	   {% include card.html  %}
+	   {% include card-with-image.html  %}
 	{% endfor %}
 </ul>
