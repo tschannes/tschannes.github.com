@@ -71,6 +71,8 @@ figure{
 .anchor {
   position: relative;
   opacity:0;
+  height:0px;
+  width:0px;
   top: -40px;  /* depending on the size of the sticky menu */
 }
 

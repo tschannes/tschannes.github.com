@@ -69,7 +69,7 @@ Als Content-Spezialist und Konzepter entwerfe ich Online-Interaktionen: Ich entw
   
 ### Zum Schluss der Text
   
-Im Grunde der Dinge bin ich aber ein Schreiberling. Es ist meine Leidenschaft, Unnützes zu kürzen, Wörter zu wenden und Texte besser zu machen. Ich arbeite iterativ, denn Texte sind immer Entwürfe. Jede Überarbeitung, jedes konstruktive Feedback macht sie besser und bringt sie etwas näher ans Ziel.
+Im Grunde der Dinge bin ich aber Texter. Es ist meine Leidenschaft, Unnützes zu kürzen, Wörter zu wenden und Texte besser zu machen. Ich arbeite iterativ, denn Texte sind immer Entwürfe. Jede Überarbeitung, jedes konstruktive Feedback macht sie besser und bringt sie etwas näher ans Ziel.
 
 
 
