@@ -87,9 +87,9 @@ $header-height: 5em;
 }
 
 @mixin shadow{
-    -webkit-box-shadow: 5px 5px 5px 0px $grey-color-light;
-    -moz-box-shadow: 5px 5px 5px 0px $grey-color-light;
-    box-shadow: 5px 5px 5px 0px $grey-color-light;
+    -webkit-box-shadow: 5px 5px 5px 0px $grey-color;
+    -moz-box-shadow: 5px 5px 5px 0px $grey-color;
+    box-shadow: 5px 5px 5px 0px $grey-color;
 }
 
 @mixin transition($property){
