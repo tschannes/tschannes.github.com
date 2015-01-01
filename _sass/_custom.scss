@@ -1,3 +1,11 @@
+.active{
+    color:$brand-color-dark !important;
+    border-top: 10px solid $brand-color-dark;
+    &:hover{
+        text-decoration:none;
+    }
+}
+
 .intro{
     @extend #about-container;
     .portrait{
