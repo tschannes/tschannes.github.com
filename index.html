@@ -4,6 +4,11 @@ layout: default
 
 <div class="home">
 
+<!--   <div class="intro">
+    <img class="portrait" src="/images/hannes_tscherrig.jpg" alt="">
+    <span><p>Guten Tag. Ich bin Hannes Tscherrig: Texter, Konzepter und Content-Spezialist. Erfahren Sie, <a href="/angebot">wie ich Sie dabei unterstützen kann, hochwertige Web-Inhalte zu schaffen</a>.</p></span>
+  </div> -->
+
   <ul class="post-list"> 
 
   	<!-- top article -->
@@ -11,13 +16,13 @@ layout: default
       {% include card-with-image.html  %}
     {% endfor %}
 
-    <!-- what i can do for you -->
-	<div class="ad">
+    <!-- Contact -->
+	
 		{% include call-to-action.html %}
-	</div>
+	
     
     <!-- featured articles -->
-	{% for post in site.posts offset:1 limit:6 %}
+	  {% for post in site.posts offset:1 limit:6 %}
       {% include card-with-image.html  %}
     {% endfor %}
     

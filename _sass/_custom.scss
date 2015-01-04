@@ -1,10 +1,56 @@
+.active{
+    color:$brand-color-dark !important;
+    border-top: 5px solid $brand-color-dark;
+    &:hover{
+        text-decoration:none;
+    }
+}
+
+.intro{
+    @extend #about-container;
+    .portrait{
+        @extend #about-foto;
+    }
+    span{
+        @extend #about-part;
+        font-size:1.5em;
+        @include media-query($on-laptop){
+            font-size:1em;
+        }
+        p{
+            padding-left:5%;
+            padding-right:5%;
+        }
+    } 
+}
+
+/**
+ * Blockquotes
+ */
+blockquote {
+    color: $grey-color;
+    border-left: 4px solid $grey-color-light;
+    padding-left: $spacing-unit / 2;
+    font-size: 1.125em;
+    letter-spacing: -0.0625em;
+    font-style: italic;
+    width:60%;
+    @include media-query($on-laptop){
+        width:95%;
+    }
+
+    > :last-child {
+        margin-bottom: 0;
+    }
+}
+
 //figure and caption
 
 figure{
     margin-bottom:0;
 }
 
-.home figcaption{
+.card figcaption{
     position:relative;
     height:0;
     color:$grey-color-light;
@@ -38,6 +84,8 @@ figure{
 .anchor {
   position: relative;
   opacity:0;
+  height:0px;
+  width:0px;
   top: -40px;  /* depending on the size of the sticky menu */
 }
 
@@ -55,7 +103,7 @@ ul{
 	@include flex-container;
     @include shadow;
 	width:100%;
-	border-top: 5px solid $brand-color-dark;
+	/* border-top: 5px solid $brand-color-dark; */
 	background-color:$grey-color-light;
 	margin-bottom:1em;
     @include media-query($on-palm){
@@ -181,7 +229,9 @@ ul{
 .ad{
     @extend #about-container;
     position: absolute;
+    top:none;
     width:30%;
+
     @include media-query($on-laptop){
         position:static;
         width:49%;
@@ -192,8 +242,17 @@ ul{
     }
 }
 
+.fixed{
+    position:fixed;
+    top:5em;
+}
+
 .contact{
     padding:1em;
+    border-top: 5px solid $brand-color-dark;
+    ul li{
+        width:100% !important;
+    }
     li{
         padding:0 !important;
     }
@@ -252,8 +311,9 @@ ul{
     }
 }
 
-.post-content > p, .post-content ul > li, .post-content ol > li, #disqus_thread, .frame, img, .inpost, blockquote{
-   	width:66.6666666666666%;
+
+.post-content > p, .post-content ul > li, .post-content ol > li, #disqus_thread, .frame, img, .inpost{
+   	width:60%;
     max-width:35em;
     @include media-query($on-palm){
         width:100%;

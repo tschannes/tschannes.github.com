@@ -14,7 +14,7 @@ categories: content tools
 
 > [Nur Zeit für kurz und bündig?](#short)
 
-Jede Content-Verantwortliche kennt das Problem: Die Story steht,  der Text ist in der Mache, aber die passenden Visualisierungen fehlen. Gerade abstrakte Themen wie Wirtschaftsforschung, Informatik oder Mathematik zu veranschaulichen sind, gehen schnell die Ideen für Bilder aus.
+Jede Content-Verantwortliche kennt das Problem: Die Story steht,  der Text ist in der Mache, aber die passenden Visualisierungen fehlen. Gerade, wenn abstrakte Themen wie Wirtschaftsforschung, Informatik oder Mathematik zu veranschaulichen sind, gehen schnell die Ideen für Bilder aus.
 
 Die Standardlösung: Stock-Bilder, die die immer gleichen mehr oder weniger generisch wirkenden Dinge zeigen: Männer hinter Krawatten, Frauen hinter Bildschirmen, elegant gekleidete Männer und Frauen im Gespräch.
 
