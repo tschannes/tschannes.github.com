@@ -43,6 +43,8 @@ order: 3
 - [Diplom: Master of Arts in Languages and Literatures English](/referenzen/ma_unifr.jpg)
 - [Maturitätsausweis](/referenzen/matura_brig.jpg)
 
+{% include call-to-action.html %}
+
 <div id="about-container" style="margin-top:2em;">
 	<div style="padding:1em;">
 			Alle Referenzen als <a href="/referenzen/{{ site.zip_name }}">Referenzen-Hannes-Tscherrig.zip</a> downloaden.

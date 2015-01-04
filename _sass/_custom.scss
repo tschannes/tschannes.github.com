@@ -1,6 +1,6 @@
 .active{
     color:$brand-color-dark !important;
-    border-top: 10px solid $brand-color-dark;
+    border-top: 5px solid $brand-color-dark;
     &:hover{
         text-decoration:none;
     }
@@ -250,7 +250,6 @@ ul{
 .contact{
     padding:1em;
     border-top: 5px solid $brand-color-dark;
-    width:100%;
     ul li{
         width:100% !important;
     }

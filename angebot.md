@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Angebot
 permalink: /angebot/
@@ -36,4 +36,4 @@ Manchmal können oder wollen Unternehmen ihre Kernbotschaft nicht definieren, wi
 In diesen Fällen helfe ich dabei, Botschaften zu identifizieren und festzuhalten und zeige bekannte und **neue Wege, wie Sie digital und crossmedial kommunizieren können**.
 
 
-{% include call-to-action.html %}
+{% include call-to-action.html %} -->
