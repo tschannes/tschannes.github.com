@@ -14,7 +14,7 @@ function ad() {
 		if (distance_from_top > CheckAdHeight()) {
 			ad.style.position = "fixed";
 			ad.style.top = "5em";
-			ad.style.right = "5%";
+			ad.style.right = (window.innerWidth) - 1200 /2;
 		}
 	});
 

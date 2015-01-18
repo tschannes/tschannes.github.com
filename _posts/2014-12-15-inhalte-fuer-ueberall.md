@@ -169,10 +169,10 @@ Wie merken Sie, ob in Ihrer Organisation eine solche Kultur des Lernens und der 
 <a name="short" class="anchor">&nbsp</a>
 <h2>Inhalte, die überall funktionieren</h2>
 
-1. **Das Problem**: Unstrukturierter Inhalt lässt sich nur an sehr beschränkten Stellen einsetzen.
+1. **Das Problem**: Unstrukturierter Inhalt lässt sich nur sehr beschränkt einsetzen.
 2. **Die Lösung**: Struktur macht Inhalte wesentlich flexibler, so dass sie etwa auch auf mobilen Geräten problemlos eingesetzt werden können.
-3. **Warum?** Strukturierte Inhalte sind Inhalte, die für die Zukunft gerüstet sind. Sie funktionieren auf mobile, sind bereit für 'Content Shifting', sie erleichtern die SEO-Optimierung.
-4. **Wie umsetzen?** Eine solide Content-Strategie zeigt an, wie Inhalte strukturiert werden müssen, semantisches Markup, mobile Web-Technologien und vor allem ein Umdenken im Unternehmen machen das Umdenken möglich.
+3. **Warum?** Strukturierte Inhalte sind Inhalte, die für die Zukunft gerüstet sind. Sie funktionieren auf mobile, sind bereit für 'Content Shifting' und erleichtern die SEO-Optimierung.
+4. **Wie umsetzen?** Eine solide Content-Strategie zeigt an, wie Inhalte strukturiert werden müssen, semantisches Markup, mobile Web-Technologien und vor allem ein Umdenken im Unternehmen machen den Wechsel möglich.
 
 ## Links zum Buch 'Content Everywhere'
 
