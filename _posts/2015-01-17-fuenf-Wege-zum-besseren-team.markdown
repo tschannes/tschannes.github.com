@@ -40,7 +40,7 @@ Neues Personal bringt frischen Wind in die Bude. Ganz entscheidend, so Lynne Wal
 
 Ein einfacher Charaktertest würde zeigen, ob ein neues Team-Mitglied auch persönlich eine Verstärkung und eine Ergänzung des bestehenden Teams ist.
 
-- [Eine Einführung zum Five Factor Model](/../images/introduction_five_factor_model.pdf)
+- [Eine Einführung zum Five Factor Model](http://psych.colorado.edu/~carey/Courses/PSYC5112/Readings/psnBig5_Mccrae03.pdf)
 - [Online-Beispiel des Big-Five-Charakter-Tests](http://www.truity.com/test/big-five-personality-test)
 
 ## Kaffee-Klatsch ist gelebte Interdisziplinarität
@@ -86,9 +86,4 @@ Eine einzelne Mitarbeitende führt ein neues Arbeitsinstrument ein. Sie hebt sic
 Nicht jede Organisation ist gleich wandelbar. In trägen, sich nur langsam entwickelnden Strukturen ist es wichtig, immer mal wieder aus dem Fahrwasser interner Geplänkel und politischer Spielchen aufzutauchen.
 
 Nur so bewahren sich Change Agents die nötige Aussenperspektive. Nur so können sie ihrer Organisation immer wieder neue Wege und Alternativen zu eingespielten Mustern aufzeigen.
-
-## Fussnote zu den fünf Charaktertypen
-
-
-<!-- - [Meine Resultate](https://www.evernote.com/l/AOrkAzgw2pNC-KETz5oeyhJrePzQljYk9JA) -->
 
