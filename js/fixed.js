@@ -1,6 +1,6 @@
 bigScreenLimit = 1200;
 
-function makeAdSticky() {
+function restyle() {
 	function checkAdHeight() {
 		var distance = "";
 		if (document.getElementsByClassName('intro').length > 0) {
@@ -18,7 +18,6 @@ function makeAdSticky() {
 		var distance_from_top = (document.documentElement.scrollTop || document.body.scrollTop);
 		var ad = document.getElementsByClassName('ad')[0];
 
-
 		// The user has scrolled to the tippy top of the page. Set appropriate style.
 		if (distance_from_top < checkAdHeight()) {
 			ad.removeAttribute("style");
@@ -33,14 +32,18 @@ function makeAdSticky() {
 	});
 }
 
-function watchWidth() {
-	var w = window.innerWidth;
-	if (w > bigScreenLimit) {
-		makeAdSticky();
+function watchIt() {
+	function isBigScreen() {
+		if (window.innerWidth > bigScreenLimit) {
+			return true;
+		}
+	}
+	if (isBigScreen()) {
+		restyle();
 	}
 	window.addEventListener("resize", function(evt) {
-		if (w > bigScreenLimit) {
-			makeAdSticky();
+		if (isBigScreen()) {
+			restyle();
 		} else {
 			location.reload();
 		}
@@ -48,4 +51,4 @@ function watchWidth() {
 }
 
 /*Calling functions*/
-watchWidth();
+watchIt();
