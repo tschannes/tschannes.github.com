@@ -72,7 +72,7 @@ Passen die Rahmenbedingungen, lohnt sich der Aufwand für lockende Inhalte aber 
 
 ## Effiziente Inhalte erleichtern Kunden den Weg an die Kasse
 
-Der zweite Content-Typus einer funktionierenden Content-Strategie ist das inhaltliche Gleitgel zwischen der Landung eines neuen Kunden und dessen ersten Kauf.
+Der zweite Content-Typus einer funktionierenden Content-Strategie ist das inhaltliche Schmiermittel zwischen der Landung eines neuen Kunden und dessen ersten Kauf.
 
 Dieser zweite Content-Typ will nicht auffallen, locken, unterhalten. Stattdessen ist es das primäre Ziel dieser Inhalte, den kognitiven Aufwand für einen Kaufentscheid möglichst gering zu halten. Das heisst:
 
@@ -82,7 +82,7 @@ Dieser zweite Content-Typ will nicht auffallen, locken, unterhalten. Stattdessen
 - **Die Dinge einfacher sagen**: [Knapp und gut geschriebene Texte](/schreiben-im-web) nehmen Kunden Arbeit ab. Multimedia-Komponenten gehen sparsamer mit den kognitiven Ressourcen des Kunden um als lange monomediale Abhandlungen.
 
 <a name="short" class="anchor">&nbsp</a>
-<h2>Content: Lockstoff und Gleitgel</h2>
+<h2>Content: Lockstoff und Schmiermittel</h2>
 
 Sollen Inhalte im Rahmen einer Content-Strategie funktionieren, müssen sie zwei Aufgaben übernehmen:
 
