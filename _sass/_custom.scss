@@ -229,6 +229,7 @@ ul{
 
 .ad{
     @extend #about-container;
+    border-top: 5px solid $brand-color-dark;
     position: absolute;
     top:none;
     width:30%;
@@ -251,7 +252,6 @@ ul{
 
 .contact{
     padding:1em;
-    border-top: 5px solid $brand-color-dark;
     ul li{
         width:100% !important;
     }
