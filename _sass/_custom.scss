@@ -233,7 +233,7 @@ ul{
     position: absolute;
     top:none;
     width:30%;
-    max-width:$on-laptop/3;
+    max-width:$wrapper-width/3;
 
     @include media-query($on-laptop){
         position:static;
