@@ -314,7 +314,7 @@ ul{
 }
 
 
-.post-content > p, .post-content ul > li, .post-content ol > li, #disqus_thread, .frame, img, .inpost{
+.post-content > p, .post-content ul > li, .post-content ol > li, #disqus_thread, .frame, .inpost{
    	width:60%;
     max-width:35em;
     @include media-query($on-palm){
