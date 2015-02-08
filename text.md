@@ -13,4 +13,5 @@ order: 1
 	{% for post in site.categories.text %}
 	   {% include card-with-image.html  %}
 	{% endfor %}
+	{% include call-to-action.html %}
 </ul>
