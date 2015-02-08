@@ -8,3 +8,4 @@ images
 *.yml
 letters
 bilder-original
+.DS-Store
