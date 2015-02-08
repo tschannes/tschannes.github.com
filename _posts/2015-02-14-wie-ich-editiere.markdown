@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wie ich editiere"
-date: 2015-02-09
+date: 2015-02-14
 excerpt: ""
 img: "images/edit.jpg"
 alt: ""
