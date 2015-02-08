@@ -1,7 +1,6 @@
 ---
 ---
 
-
 restyle = ->
   adHeight = ->
     distance = ""
