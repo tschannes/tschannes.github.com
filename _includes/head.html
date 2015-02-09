@@ -21,7 +21,7 @@
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@{{ site.twitter_username }}">
     <meta name="twitter:title" content="{% if page.title %}{{ page.title}}{% else %}{{ site.title }}{% endif %}">
-    <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt}}{% else %}{{ site.description }}{% endif %}">
+    <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt }}{% else %}{{ site.description }}{% endif %}">
     <meta name="twitter:creator" content="@{{ site.twitter_username }}">
     <!-- Twitter Summary card images must be at least 120x120px -->
     <meta name="twitter:image" content="{% if page.img %}{{ page.img | prepend: site.baseurl | | prepend: "/" | prepend: site.url }}{% endif %}">
@@ -30,7 +30,5 @@
     <meta property="og:type" content="article" />
     <meta property="og:url" content="{% if page.url %}{{ page.url | prepend: site.baseurl | prepend: site.url }}{% else %}{{ post.url | prepend: site.baseurl | prepend: site.url }}{% endif %}" />
     <meta property="og:image" content="{% if page.img %}{{ page.img | prepend: site.baseurl | | prepend: "/" | prepend: site.url }}{% endif %}" />
-    <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt}}{% else %}{{ site.description }}{% endif %}" /> 
+    <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt }}{% else %}{{ site.description }}{% endif %}" /> 
     <meta property="og:site_name" content="{{ site.title }}" />
-    <!-- Google Fonts -->
-    <link href='http://fonts.googleapis.com/css?family=Roboto:300' rel='stylesheet' type='text/css' async>
