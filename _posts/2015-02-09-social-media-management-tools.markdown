@@ -11,20 +11,20 @@ related: true
 categories: content
 ---
 
-Social Media stellen Unternehmen nicht nur vor die Herausforderung, mit einer neuen Kommunikationsart umzugehen. Die Vielfalt der Kanäle erhöht auch den Publikationsaufwand. Facebook, Twitter, Google Plus, LinkedIn und unzählige weitere Kanäle könnten oder müssten bespielt werden. 
+Social Media stellen Unternehmen nicht nur vor die Herausforderung, mit einer neuen Kommunikationstechnologie umzugehen. Die Vielfalt der Kanäle erhöht auch den Publikationsaufwand. Facebook, Twitter, Google Plus, LinkedIn und unzählige weitere Kanäle könnten oder müssten bespielt werden. 
 
-Medien manuell zu bewirtschaften funktioniert, solange sich ein Unternehmen auf einen oder zwei Kanäle beschränkt. Soll die Social-Media-Präsenz aber ausgeweitet werden, kommen selbst personalstarke Abteilungen an ihre Grenzen. 
+Medien manuell zu bewirtschaften funktioniert nur so lange, wie sich ein Unternehmen auf einen oder zwei Kanäle beschränkt. Soll die Social-Media-Präsenz aber ausgeweitet werden, kommen selbst personalstarke Abteilungen an ihre Grenzen. 
 
 ## Minimalauststattung eines Social Media Management Tools
 
-Das richtige Social Media Management Tool schafft mit den folgenden Minimal-Features Abhilfe: 
+Ein solides Social Media Management Tool schafft mit den folgenden Minimal-Features Abhilfe: 
 
-- Publiziert auf allen Kanälen in einem Interface.
-- Sammelt alle Inputs und Feedbacks aus den Social Media an einem Ort.
+- Erfasst Inhalte in einem Interface, publiziert auf allen Kanälen.
+- Sammelt Inputs und Feedbacks aus den Social Media an einem Ort.
 - Liefert Statistiken darüber, was funktioniert und was nicht.
 - Erleichtert Teams die effiziente Social-Media-Kollaboration.
 - Verwaltet Social-Media-Konakte (CRM).
-- Bindet mindestens die populärsten Social Media an: Facebook, Twitter, LinkedIn, Google (Plus oder Pages)
+- Bindet mindestens die populärsten Social Media an: Facebook, Twitter, LinkedIn, Google (Plus oder Pages).
 
 
 ## [Hootsuite](https://hootsuite.com/)
@@ -40,7 +40,7 @@ Das wohl professionellste Social Media Management Tool. Alle Social Media. Inklu
 
 ## [Socioboard](http://www.socioboard.org/) 
 
-Selbstgehostet flexibel und Open Source: Das sind die Verkaufs- (oder besser Nutzungs-)argumente dieses Frameworks. Standardmässig funktionieren Twitter, Facebook, LinkedIn, Google Plus und Instagram. Basiert auf C# und .NET, ist also grundsätzlich mit Microsoft IT-Umgebungen kompatibel. Existiert auch als [gehostete Variante](http://www.socioboard.com/).
+Selbstgehostet flexibel und Open Source: Das sind die Verkaufs- (oder besser Nutzungs-) argumente dieses Frameworks. Standardmässig funktionieren Twitter, Facebook, LinkedIn, Google Plus und Instagram. Basiert auf C# und .NET, ist also grundsätzlich mit Microsoft IT-Umgebungen kompatibel. Existiert auch als [gehostete Variante](http://www.socioboard.com/).
 
 - Facebook
 - Twitter
@@ -68,7 +68,7 @@ Dieser gehostete Service ermöglicht die Verwaltung und Analytics von Twitter- u
 
 ## [SproutSocial](http://sproutsocial.com/ )
 
-Bietet die Standardfunktionen Publishing, Statistiken, Kollaborations-Tools, eine CRM-Funktionalität und gesammelte Inbox. Es ist mobile-tauglich.
+Bietet die Standardfunktionen Publishing, Statistiken, Kollaborations-Tools, eine CRM-Funktionalität und gesammelte Inbox. Der Service ist mobile-tauglich.
 
 - Facebook
 - Twitter
@@ -89,7 +89,7 @@ Wie Bufferapp ist MavSocial ein gehosteter Service. Verknüpfungen zu Facebook, 
 
 ## [Qberhood](http://www.qberhood.com/)
 
-Qberhood bietet die Standardfunktionen eines Social Media Tools. Eine Inbox für alle Kanäle, Publishing auf alle Kanäle, Kontakt-Verwaltung (CRM), Kollaborationsunterstützung. Auch hier können Teams an Social Media arbeiten und eine Qualiätskontrolle ist möglich.
+Qberhood bietet die Standardfunktionen eines Social Media Tools. Eine Inbox für alle Kanäle, Publishing auf alle Kanäle, Kontakt-Verwaltung (CRM), Kollaborationsunterstützung. Auch hier können Teams an Social Media arbeiten und die inhaltliche Qualiätskontrolle ist integriert.
 
 - Facebook
 - Twitter
@@ -121,7 +121,7 @@ Verwendet bei der Publikation einen Al­go­rith­mus, der den Zeitpunkt, den Ka
 
 ## [Spredfast](https://www.spredfast.com/)
 
-Diese Plattform schliesst zusätzlich zu Social Media Fernseh und On- und Offline-Werbungen ein und erleichtert die Kuration von Inhalten aus den Social Media.
+Diese Plattform schliesst zusätzlich zum eigentlichen Social Media Management Fernseh und On- und Offline-Werbungen ein und erleichtert die Kuration und Weiterverbreitung von Inhalten aus den Social Media.
 
 - Keine genauere Angaben zu den integrierbaren Kanälen.
 
