@@ -7,6 +7,13 @@
     top: -9999px;
 }
 
+.simple-post{
+    border-top: 1px dashed $brand-color-dark;
+    display: block;
+    padding-top:0.5em;
+    padding-bottom:0.5em;
+}
+
 .active{
     color:$brand-color-dark !important;
     border-top: 5px solid $brand-color-dark;

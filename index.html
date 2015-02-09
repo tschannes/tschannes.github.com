@@ -25,7 +25,9 @@ layout: default
 	  {% for post in site.posts offset:1 limit:6 %}
       {% include card-with-image.html  %}
     {% endfor %}
-    
+
   </ul>
 
- <p class="rss-subscribe">Als <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS-Feed</a> abonnieren</p> 
+  {% for post in site.posts offset:7 %}
+      {% include simple-post.html  %}
+  {% endfor %}
