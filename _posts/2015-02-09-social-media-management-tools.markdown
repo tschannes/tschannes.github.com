@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Social Media Management Tools"
+title: "Elf Tools für effizienteres Social Media Management"
 date: 2015-02-09
 excerpt: "Social Media Management Tools ermöglichen das Publizieren auf mehreren Kanälen, liefern Statistiken, sammeln Inputs an einem Ort und ermöglichen Teams einen effizienten Social Media Workflow."
 img: "images/social-media.jpg"
@@ -27,7 +27,7 @@ Ein solides Social Media Management Tool schafft mit den folgenden Minimal-Featu
 - Bindet mindestens die populärsten Social Media an: Facebook, Twitter, LinkedIn, Google (Plus oder Pages).
 
 
-## [Hootsuite](https://hootsuite.com/)
+## 1. [Hootsuite](https://hootsuite.com/)
 
 Das wohl professionellste Social Media Management Tool. Alle Social Media. Inklusive Team Management und kontrollierter Workflows, einem Applet für Chrome, Apps (Extensions). Ist bedienbar auf mobilen Geräten. Nutzbar als Gratis-Service.
 
@@ -38,7 +38,7 @@ Das wohl professionellste Social Media Management Tool. Alle Social Media. Inklu
 - Instagram
 - Insgesamt über 35 Social Media Services (gemäss Hootsuite)
 
-## [Socioboard](http://www.socioboard.org/) 
+## 2. [Socioboard](http://www.socioboard.org/) 
 
 Selbstgehostet flexibel und Open Source: Das sind die Verkaufs- (oder besser Nutzungs-) argumente dieses Frameworks. Standardmässig funktionieren Twitter, Facebook, LinkedIn, Google Plus und Instagram. Basiert auf C# und .NET, ist also grundsätzlich mit Microsoft IT-Umgebungen kompatibel. Existiert auch als [gehostete Variante](http://www.socioboard.com/).
 
@@ -48,7 +48,7 @@ Selbstgehostet flexibel und Open Source: Das sind die Verkaufs- (oder besser Nut
 - Google Plus
 - Instagram
 
-## [Bufferapp](https://bufferapp.com/)
+## 3. [Bufferapp](https://bufferapp.com/)
 
 Bufferapp ist einer der bekanntesten Anbieter und Vorbild für viele der unten gelisteten Applikationen. Sticht hervor durch eingängige Analytics und das automatisierte Scheduling von Posts auf verschiedenen Kanälen. Ein aufs Wesentliche beschränktes Produkt. Nutzbar als Gratis-Service.
 
@@ -57,7 +57,7 @@ Bufferapp ist einer der bekanntesten Anbieter und Vorbild für viele der unten g
 - LinkedIn
 - Google Pages
 
-## [Sociota](https://www.sociota.net/)
+## 4. [Sociota](https://www.sociota.net/)
 
 Dieser gehostete Service ermöglicht die Verwaltung und Analytics von Twitter- und Facebook-Kampagnen. Anbindungen an Google Plus und LinkedIn sind möglich, ebenso wie die Möglichkeit als Team zu posten (Content-Review-Prozess).
 
@@ -66,7 +66,7 @@ Dieser gehostete Service ermöglicht die Verwaltung und Analytics von Twitter- u
 - LinkedIn
 - Google Plus
 
-## [SproutSocial](http://sproutsocial.com/ )
+## 5. [SproutSocial](http://sproutsocial.com/ )
 
 Bietet die Standardfunktionen Publishing, Statistiken, Kollaborations-Tools, eine CRM-Funktionalität und gesammelte Inbox. Der Service ist mobile-tauglich.
 
@@ -75,7 +75,7 @@ Bietet die Standardfunktionen Publishing, Statistiken, Kollaborations-Tools, ein
 - LinkedIn
 - Google Plus
 
-## [MavSocial](http://mavsocial.com/)
+## 6. [MavSocial](http://mavsocial.com/)
 
 Wie Bufferapp ist MavSocial ein gehosteter Service. Verknüpfungen zu Facebook, Twitter, LinkedIn, Youtube und Tumblr sind gewährleistet. Ausserdem können chinesische Netzwerke (RenRen und YouKu) angebunden werden. Eine Google Plus-Verknüpfung fehlt.
 
@@ -87,7 +87,7 @@ Wie Bufferapp ist MavSocial ein gehosteter Service. Verknüpfungen zu Facebook, 
 - RenRen
 - YouKu
 
-## [Qberhood](http://www.qberhood.com/)
+## 7. [Qberhood](http://www.qberhood.com/)
 
 Qberhood bietet die Standardfunktionen eines Social Media Tools. Eine Inbox für alle Kanäle, Publishing auf alle Kanäle, Kontakt-Verwaltung (CRM), Kollaborationsunterstützung. Auch hier können Teams an Social Media arbeiten und die inhaltliche Qualiätskontrolle ist integriert.
 
@@ -95,7 +95,7 @@ Qberhood bietet die Standardfunktionen eines Social Media Tools. Eine Inbox für
 - Twitter
 - LinkedIn
 
-## [Reachpod](https://www.reachpod.com/)
+## 8. [Reachpod](https://www.reachpod.com/)
 
 Türkischer Bufferapp-Clon mit Anbindung an Facebook, Twitter und LinkedIn.
 
@@ -104,7 +104,7 @@ Türkischer Bufferapp-Clon mit Anbindung an Facebook, Twitter und LinkedIn.
 - LinkedIn
 
 
-## [SocialBakers](http://www.socialbakers.com/products/suite/analytics)
+## 9. [SocialBakers](http://www.socialbakers.com/products/suite/analytics)
 
 Integriert zusätzlich zu den Publishing- und Team-Kollaborations-Funktionen anderer Lösungen das Management von Facebook- und Twitter-Werbung.
 
@@ -113,13 +113,13 @@ Integriert zusätzlich zu den Publishing- und Team-Kollaborations-Funktionen and
 - Keine genaueren Angaben
 
 
-## [SocialFlow](http://www.socialflow.com/)
+## 10. [SocialFlow](http://www.socialflow.com/)
 
 Verwendet bei der Publikation einen Al­go­rith­mus, der den Zeitpunkt, den Kanal und die Ansprechgruppe je nach zu postendem Inhalt optimiert. Integriert zusätzlich zu den Publishing-Funktionen anderer Lösungen das Management von Facebook- und Twitter-Werbung.
 
 - "Major Social Media Platforms", keine genaueren Angaben
 
-## [Spredfast](https://www.spredfast.com/)
+## 11. [Spredfast](https://www.spredfast.com/)
 
 Diese Plattform schliesst zusätzlich zum eigentlichen Social Media Management Fernseh und On- und Offline-Werbungen ein und erleichtert die Kuration und Weiterverbreitung von Inhalten aus den Social Media.
 
