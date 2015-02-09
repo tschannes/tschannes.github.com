@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wie ich editiere"
+title: "5 Redigier-Routinen"
 date: 2015-02-14
 excerpt: ""
 img: "images/edit.jpg"
@@ -11,7 +11,9 @@ related: true
 categories: text
 ---
 
-# My 5 steps of copy editing
+Texte besser machen ist ein Handwerk. Wie zu jedem Handwerk gehören auch zum Texten gewisse Routinen. 
+
+
 
 - Cleanse Input. Identify passives, marketese, nominalese. Check grammar.
 - Dig up the Gold
