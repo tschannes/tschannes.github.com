@@ -21,7 +21,6 @@ restyle = ->
     
     # The user has scrolled down the page.
     marginRight = (window.innerWidth - document.querySelectorAll('.home, .post')[0].offsetWidth - scrollbarWidth) / 2 + "px";
-    console.log(marginRight)
     if distance_from_top > adHeight()
       ad.style.position = "fixed"
       ad.style.top = "5em"
