@@ -1,15 +1,10 @@
-<header class="site-header">
-  
+<header class="site-header">  
   <div class="wrapper">
-
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-
     <nav class="site-nav">
       <a href="#" class="menu-icon">MENU</a>
-
       <div class="trigger">
         {% assign pages = site.pages | sort:"order" %}
-        
         {% for node in pages %}
         {% if node.title %}
             {% if page.url == node.url %}
@@ -21,8 +16,6 @@
         {% endfor %}
       </div>
     </nav>
-
   </div>
-
 </header>
 
