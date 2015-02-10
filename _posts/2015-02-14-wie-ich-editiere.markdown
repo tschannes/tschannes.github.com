@@ -11,6 +11,15 @@ related: true
 categories: text
 ---
 
+How to edit
+-----------
+
+[Simon Sinek on 'The Golden Circle'](https://www.youtube.com/watch?v=l5Tw0PGcyN0)
+
+- Why do you guys edit my text? It was great as I did it?
+- How do you do it? Your method seems strange!
+- What exactly is it you are doing?
+
 Texte besser machen ist ein Handwerk. Wie zu jedem Handwerk gehören auch zum Texten gewisse Routinen. 
 
 
