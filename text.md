@@ -86,7 +86,7 @@ The Yahoo! Style Guide -->
 	{% include call-to-action.html %}
 </ul>
 
-## Posts zum Thema
+## Posts zum Thema Text:
 
 {% for post in site.categories.text %}
   {% include simple-post.html  %}
