@@ -3,7 +3,7 @@ layout: page
 title: Text
 header: "Text-Tools und Schreiben im Web"
 permalink: /text/
-excerpt: "Information, Suche, Meta-Daten: Text ist das Rückgrat des Internet. Hier finden sich Tools, Ressourcen und Erfahrungen aus der praktischen Arbeit an digitalen Texten."
+excerpt: "Das Internet ist Information, Suche, Meta-Daten, Text: Tools, Ressourcen und Erfahrungen, welche meinen Zugang zum digitalen Text geprägt haben, finden sich hier."
 order: 1
 ---
 
@@ -86,7 +86,7 @@ The Yahoo! Style Guide -->
 	{% include call-to-action.html %}
 </ul>
 
-## Posts zum Thema
+## Posts zum Thema Text:
 
 {% for post in site.categories.text %}
   {% include simple-post.html  %}
