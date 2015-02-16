@@ -11,16 +11,25 @@ related: true
 categories: text
 ---
 
-How to edit
------------
+Ich darf Texte nicht editieren -- nicht ohne den Autoren oder den Verwantwortlichen zuvor drei Fragen zu beantworten:
 
-[Simon Sinek on 'The Golden Circle'](https://www.youtube.com/watch?v=l5Tw0PGcyN0)
+- Warum ist es nötig unsere Texte zu editieren? Es war alles genau so, wie ich es haben wollte!?
+- Wie soll mein Text noch besser gemacht werden?
+- Was wird verändert? Es ist alles genau so, wie es sein soll!
 
-- Why do you guys edit my text? It was great as I did it?
-- How do you do it? Your method seems strange!
-- What exactly is it you are doing?
+Ganz klar: Auch nicht-professionelle Texter halten ihre Schreibe für genau richtig. Die [Prinzipien des Golden Circle]() eröffnen einen Dialog zwischen Inhaltslieferanten oder Quellen auf der einen und Redakteuren oder Textenden auf der anderen Seite. 
 
-Texte besser machen ist ein Handwerk. Wie zu jedem Handwerk gehören auch zum Texten gewisse Routinen. 
+Die drei Fragen machen professionellen Textarbeitenden klar, warum Inhaltslieferanten mit einem Edit Probleme haben. Umgekehrt schafft ein Gespräch über die drei goldenen Fragen Nicht-Profis verständlich, warum ihr Text nicht in seiner ursprünglichen Version publiziert werden konnte.
+
+- Warum: Redakteure machen Texte einfacher, schneller verständlich, besser strukturiert und markenkonform.
+- Wie: Füllwörter streichen, Fachwörter erklären, Nachrecherchieren, Zwischentitel einsetzen, aktiv schreiben.
+- Was: Verändert wird, was den Text für Lesende und die Firma (Corporate Wording und Voice of Tone) besser macht. Nicht mehr und nicht weniger.
+
+<div class="frame">
+	[Simon Sinek on 'The Golden Circle'](https://www.youtube.com/watch?v=l5Tw0PGcyN0)
+</div>
+
+Texte besser zu machen ist ein Handwerk. Wie zu jedem Handwerk gehören auch zum Redigieren gewisse Routinen. 
 
 
 
