@@ -84,19 +84,6 @@ figure{
     }
 }
 
-//header
-
-.site-header{
-    @include transition(opacity);
-    position:fixed;
-    z-index:1;
-    opacity:0.9;
-    background:white;
-    &:hover, &:focus, &:active{
-        opacity:1;
-    }
-}
-
 .anchor {
   position: relative;
   opacity:0;

@@ -3,12 +3,12 @@
  */
 .site-header {
     border-top: 5px solid $brand-color-dark;
-    border-bottom: 1px dashed $brand-color-dark;
     min-height: 56px;
     width:100%;
-
-    // Positioning context for the mobile navigation icon
-    position: relative;
+    position:fixed;
+    z-index:1;
+    background-color:white;
+    @include shadow;
 }
 
 .site-title {
