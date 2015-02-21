@@ -2,9 +2,11 @@
 layout: post
 title:  "Design-First: Ein Rezept für Flickwerk"
 date:   2014-06-30
-excerpt: "Designer, Texter und Konzepter ringen um die neue Website: Bald soll sie stehen und die noch-nicht-ganz-digitale Organisation ins Web-2.0-Zeitalter katapultieren. Das Design kommt schliesslich und stellt die Redaktion vor Probleme."
+excerpt: "Die neue Website stellt die Organisation vor redaktionelle und strukturelle Probleme und zwingt sie zu improvisieren. Grund fürs Flickwerk ist die Methode: Zuerst kam das Design, dann der Inhalt."
+img: "images/flickwerk.jpg"
+alt: "Kommt das Design, bevor die Inhaltsstrukturen stehen, entsteht Flickwerk."
+caption: "Bild: http://en.wikipedia.org/wiki/Patchwork."
 comments: true
-img: false
 categories: content
 ---
 
@@ -55,4 +57,9 @@ Deshalb begegnet die Redaktion dem neuen Umfeld pragmatisch: Sie arbeitet mit de
 
 Haben Sie eigene Erfahrungen gemacht mit Projekten, in denen das Design den Ton an- und den Tarif durchgibt? Lassen Sie mich wissen, wie Sie zu Lösungen gekommen sind!
 
-<a name="short" class="anchor">&nbsp</a>
+## Artikel zum Thema
+
+- [Smashing Magazine sagt: 'Design Last'.](http://www.smashingmagazine.com/2015/02/20/design-last/)
+- [Mark Boulton setzt sich für 'Structure First, Content Always' ein.](http://www.markboulton.co.uk/journal/structure-first-content-always)
+- [Ezequiel Bruni argumentiert "Why 'Content First' Should Be Your New War Cry"](http://www.webdesignerdepot.com/2014/11/why-content-first-should-be-your-new-war-cry/)
+- [Benjie Moss kontert mit 'How to be Web Content Agnostic (And Why You Should)'](http://www.webdesignerdepot.com/2015/02/how-to-be-web-content-agnostic-and-why-you-should/)
