@@ -96,10 +96,6 @@ figure{
   top: -40px;  /* depending on the size of the sticky menu */
 }
 
-/* .page-content{
-    padding-top:5em;
-} */
-
 //Small UI-Components
 
 ul{
@@ -322,7 +318,7 @@ ul{
 }
 
 
-.post-content > p, .post-content ul > li, .post-content ol > li, #disqus_thread, .frame, .inpost{
+.post-content, .post-header img{
    	width:60%;
     max-width:35em;
     @include media-query($on-palm){

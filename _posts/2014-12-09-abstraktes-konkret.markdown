@@ -11,7 +11,6 @@ related: true
 categories: content tools
 ---
 
-
 > [Nur Zeit für kurz und bündig?](#short)
 
 Jede Content-Verantwortliche kennt das Problem: Die Story steht,  der Text ist in der Mache, aber die passenden Visualisierungen fehlen. Gerade, wenn abstrakte Themen wie Wirtschaftsforschung, Informatik oder Mathematik zu veranschaulichen sind, gehen schnell die Ideen für Bilder aus.

@@ -11,17 +11,9 @@ related: true
 categories: text
 ---
 
-<!-- Ich darf Texte nicht editieren -- nicht ohne den Autoren oder den Verwantwortlichen zuvor drei Fragen zu beantworten:
-
-- Warum ist es nötig unsere Texte zu editieren? Es war alles genau so, wie ich es haben wollte!?
-- Wie soll mein Text noch besser gemacht werden?
-- Was wird verändert? Es ist alles genau so, wie es sein soll! -->
-
 Ganz klar: Jeder -- egal ob Profi, Hobby-Literat oder Teilzeit-Epiker -- schreibt genau richtig, Kritik ist immer ein persönlicher Angriff aufs Schreiber-Ego.
 
 Die [Prinzipien des Golden Circle](http://en.wikipedia.org/wiki/Simon_Sinek) räumen deshalb als erstes das grösste Hindernis im Dialog zwischen Inhaltsverantwortlichen und Textenden aus dem Weg: Die Emotionen. 
-
-<!-- Die drei Fragen machen professionellen Textarbeitenden klar, warum Inhaltslieferanten mit einem Edit Probleme haben. Umgekehrt schafft ein Gespräch über die drei goldenen Fragen Nicht-Profis verständlich, warum ihr Text nicht in seiner ursprünglichen Version publiziert werden konnte. -->
 
 - **Warum**: Redakteure arbeiten für die Lesenden. Sie nehmen ihnen Arbeit ab, indem sie Texte einfacher machen, schneller verständlich, besser strukturiert und markenkonform.
 - **Wie**: Redigierende streichen Füllwörter, erklären Fachwörter, recherchieren Fehlendes nach, setzen Zwischentitel ein, schreiben aktiv, vermeiden Nominalstil.

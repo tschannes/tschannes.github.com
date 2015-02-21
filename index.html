@@ -22,8 +22,13 @@ layout: default
 	
     
     <!-- featured articles -->
-	  {% for post in site.posts offset:1 limit:6 %}
+	  {% for post in site.posts offset:1 limit:4 %}
       {% include card-with-image.html  %}
+    {% endfor %}
+
+    <!-- featured articles no images -->
+    {% for post in site.posts offset:5 limit:2 %}
+      {% include card.html  %}
     {% endfor %}
 
   </ul>
