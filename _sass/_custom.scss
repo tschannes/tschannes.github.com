@@ -8,8 +8,7 @@
 }
 
 .simple-post{
-    border-top: 1px dashed $brand-color-dark;
-    display: block;
+    border-top: 1px dotted $brand-color-dark;
     padding-top:0.5em;
     padding-bottom:0.5em;
     width: 65%;
@@ -54,11 +53,6 @@ blockquote {
     font-size: 1.125em;
     letter-spacing: -0.0625em;
     font-style: italic;
-    width:60%;
-    @include media-query($on-laptop){
-        width:95%;
-    }
-
     > :last-child {
         margin-bottom: 0;
     }
@@ -193,7 +187,7 @@ ul{
     }
 }
 
-.related .card{
+/* .related .card{
     margin-top: 1em;
     margin-right:2% !important;
     width:31.3333333333333%;
@@ -203,7 +197,7 @@ ul{
     @include media-query($on-palm){
         width:100%;
     }
-}
+} */
 
 .commented{
     list-style:none;
@@ -215,8 +209,10 @@ ul{
 
 .related{
     margin-top:2em;
-    border-top: 5px solid $grey-color-light;
-    width: 100% !important;
+    width: 100%;
+    .simple-post{
+        width: 100%;
+    }
 }
 
 .home-pic-container{
