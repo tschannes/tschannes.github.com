@@ -35,7 +35,6 @@
         line-height: $base-line-height;
         margin-left:1em;
         padding-top:13px;
-        vertical-align: middle;
     }
 
     @include media-query($on-palm) {
