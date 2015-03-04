@@ -24,7 +24,7 @@ Die [Prinzipien des Golden Circle](http://en.wikipedia.org/wiki/Simon_Sinek) rä
 Beginnen Redigierende und Verfasser ihren Dialog mit der Warum-Frage -- und einer verständlichen Antwort darauf -- ist es sehr viel unwahrscheinlicher, dass Edits als Angriffe wahrgenommen werden. Stimmt erst die Gefühlslage, ist der Weg frei für sachlichere Argumente.
 
 <div class="frame">
-	<iframe width="420" height="315" src="https://www.youtube.com/embed/l5Tw0PGcyN0" frameborder="0" allowfullscreen></iframe>
+	<iframe src="https://www.youtube.com/embed/l5Tw0PGcyN0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Checklisten und Routinen erlauben eine sachliche Diskussionen über die Qualität eines Textes: Sie helfen Redakteuren dabei, ihre Arbeit möglichst gut zu machen und erleichtern es Nicht-Profis Textarbeit als gutes oder nicht so gutes Handwerk einordnen zu können.

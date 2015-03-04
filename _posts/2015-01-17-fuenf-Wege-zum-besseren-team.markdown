@@ -11,13 +11,6 @@ related: true
 categories: content
 ---
 
-<div class="frame">
-	<iframe src="//player.vimeo.com/video/46048160"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
-	<p>
-		<a href="http://vimeo.com/46048160">MX 2012 | Lynne Waldera | Making Culture</a> from <a href="http://vimeo.com/adaptivepath">Adaptive Path</a> on <a href="https://vimeo.com">Vimeo</a>.
-	</p>
-</div>
-
 ## Klare Rahmenbedingungen setzen
 
 > Clarify your starting points, values, principles. The iffier your principles the less likely they are to have an impact.
@@ -31,6 +24,12 @@ Anzeichen dafür, dass Ziele falsch oder unpräzis gesetzt sind, listet [Sarah W
 - Kampf der Organisationseinheiten: Wenn sich Organisationseinheiten intern bekämpfen, ist dies ein Beleg dafür, dass die Ziele der Gesamtorganisation nicht greifen. Konsequenz: Jede Einheit definiert eigene Ziele.
 - Uneinigkeit darüber, wer das Publikum ist. Auch hier gilt: Jede Unternehmenseinheit definiert ein eigenes Kundensegment, was zur Folge hat, dass sich das Profil des Gesamtunternehmens verwässert.
 
+<div class="frame">
+	<iframe src="//player.vimeo.com/video/46048160"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+	<p>
+		<a href="http://vimeo.com/46048160">MX 2012 | Lynne Waldera | Making Culture</a> from <a href="http://vimeo.com/adaptivepath">Adaptive Path</a> on <a href="https://vimeo.com">Vimeo</a>.
+	</p>
+</div>
 
 ## Neues Personal anheuern
 
