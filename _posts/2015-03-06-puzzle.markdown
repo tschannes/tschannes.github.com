@@ -1,21 +1,41 @@
 ---
 layout: post
-title: "Professionell Schreiben ist Puzzle-Arbeit"
+title: "Schreiben ist Puzzeln"
 date: 2015-03-06
-excerpt: ""
+excerpt: "Texte schreiben und optimieren ist wie das Spiel mit Puzzle-Teilen: Gruppieren, Übersicht gewinnen und neu zusammensetzen."
 img: "images/puzzle.jpg"
-alt: "Schreiben ist wie ein Puzzle. Teilchen finden, sich einen Überblick verschaffen und alles neu zusammensetzen."
+alt: "Schreiben ist wie ein Puzzle. Teilchen finden, sich einen Überblick verschaffen und alles neu ordnen und zusammensetzen."
 caption: "Bild: http://commons.wikimedia.org"
 comments: true
 related: true
 categories: text
 ---
 
-## Puzzle-Steine erkennen
+##1. Puzzle-Steine erkennen
 
-## Überblick gewinnen
+Titel, Lead-Texte, Abschnitte, Untertitel, Listen, Sätze, Wörter: Das sind einige der Puzzle-Teilchen mit denen Texter spielen. 
 
-## Teile neu zusammensetzen
+Selten ist von Anfang an klar, was wohin gehört: Manchmal versteckt sich im zweitletzten Zitat der Hammer-Titel und Listen verbergen sich in nicht-enden-wollenden Absätzen.
+
+Der Redaktion erster Teil heisst also immer: Genau hinschauen. Ist dieser Abschnitt ein Lead-Text? Hat dieses Zitat das Zeug zum Titel?
+
+- **Titel**: Der Titel lockt den Leser, verspricht, was der Text liefern wird. Dieses Element entscheidet darüber, ob ein Text gelesen wird oder nicht.
+- **Spitzmarke**: Die Spitzmarke definiert das Thema eines Textes. Im Web sind ist eine Spitzmarke das, wonach jemand suchen würde (z.B 'Professionell schreiben'). Sie ist die Kategorie oder das Label, welches man einem Text zuordnen könnte. Spitzmarken sollten Teil des [Title Tag](http://moz.com/learn/seo/title-tag) sein.
+- **Lead-Text**: Lead-Texte sind Zusammenfassungen. Sie klären kurz (in unter 160 Zeichen), worum es geht. Dabei beantworten sie die aus dem Journalismus bekannten W-Fragen (wer, wo, wann, wie, warum). Lead-Texte lassen sich, wenn sie gut geschrieben sind, als [Meta Descriptions](http://moz.com/learn/seo/meta-description) wiederverwenden.
+- **Abschnitt**: Abschnitte sind Denkeinheiten. Sie machen eine Aussage und gleich im ersten Satz klar, was sie behandeln. Die nachfolgenden Sätze belegen und unterstützen die Aussage des eröffnenden Satzes. Der Schlusssatz schliesslich fasst idealerweise zusammen und schliesst die Denkeinheit ab (das [Absätzeschreiben ist im anglophonen Raum](http://www.time4writing.com/writing-resources/paragraph-writing-secrets/) viel klarer geregelt als im Deutschen, was sehr hilfreich sein kann).
+- **Untertitel**: Untertitel ermöglichen es Lesenden zusammen mit gut geschriebenen Absätzen, beliebige Texte anzuspringen. Untertitel funktionieren wie Titel: Sie sagen an, was die nachfolgenden Absätze bieten. Dabei sollten Untertitel im Web nicht zu feuilletonistisch-verspielt daherkommen. Zu kurze, metaphorische, viel-Wissen-voraussetzende Untertitel funktionieren sowohl für Leser als auch für Suchmaschinen schlechter. 
+- **Liste**: Viele Texte zählen Dinge auf, nur wenige zeigen, dass sie dies tun. Ein sehr einfaches Mittel um lange Texte aufzulockern ist es, nach Aufzählungen Ausschau zu halten und die Elemente einer Liste als Puzzle-Steine herauszuheben. Denn: Auch Listen helfen Lesenden dabei Text-Quereinsteiger zu werden.
+- **Sätze**: Der deutsche Satz ist ein vielgesichtiges Biest. Er kann [parataktisch kurz](http://de.wikipedia.org/wiki/Parataxe) sein. Oder er kann sich eminent wichtig nehmen, lange kreisend zirkeln, auf Nebenschauplätzen in aller Ausführlichkeit die Vorzüge schwingender Relativsätze erörtern, um schliesslich – in gravierenden [Fällen des hypotaktischen Satzwurm-Befalls](http://de.wikipedia.org/wiki/Hypotaxe) erst nach mehreren Zeilen – auf den Punkt zu kommen. Grundsätzlich spricht nichts gegen verschachtelte Sätze. Sie haben durchaus ihre Berechtigung. Gehäuft sind sie aber nicht nur schwieriger zu lesen, sondern oft auch schwieriger zu schreiben.
+
+##2. Überblick gewinnen
 
 
+
+- **Das Gesamte sehen**:
+- **Gleiches zu Gleichem**:
+- **Gruppen ordnen**: Was soll nach oben, was nach unten?
+
+##3. Teile neu zusammensetzen
+
+- **Teile überarbeiten**:
 
