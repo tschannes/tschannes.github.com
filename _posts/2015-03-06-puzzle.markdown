@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Professionell Schreiben ist Puzzle-Arbeit"
+date: 2015-03-06
+excerpt: ""
+img: "images/puzzle.jpg"
+alt: "Schreiben ist wie ein Puzzle. Teilchen finden, sich einen Überblick verschaffen und alles neu zusammensetzen."
+caption: "Bild: http://commons.wikimedia.org"
+comments: true
+related: true
+categories: text
+---
+
+## Puzzle-Steine erkennen
+
+## Überblick gewinnen
+
+## Teile neu zusammensetzen
+
+
+
