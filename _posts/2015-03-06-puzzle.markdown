@@ -2,7 +2,7 @@
 layout: post
 title: "Schreiben ist Puzzeln"
 date: 2015-03-06
-excerpt: "Texte schreiben und optimieren ist wie das Spiel mit Puzzle-Teilen: Gruppieren, Übersicht gewinnen und neu zusammensetzen."
+excerpt: "Texte zu überarbeiten und zu optimieren ist wie das Spiel mit Puzzle-Teilen: Auslegeordnung machen, gruppieren, Übersicht gewinnen und neu zusammensetzen."
 img: "images/puzzle.jpg"
 alt: "Schreiben ist wie ein Puzzle. Teilchen finden, sich einen Überblick verschaffen und alles neu ordnen und zusammensetzen."
 caption: "Bild: http://commons.wikimedia.org"
@@ -29,13 +29,27 @@ Der Redaktion erster Teil heisst also immer: Genau hinschauen. Ist dieser Abschn
 
 ##2. Überblick gewinnen
 
+Sobald alle Puzzle-Steinchen identifiziert sind, gilt es sich einen Überblick über alle Text-Elemente zu verschaffen. Am leichtesten gelingt dies, wenn in einem ersten Schritt thematisch Ähnliches zusammen gruppiert und zweitens diese Gruppen neu angeordnet werden:
 
+- **Themen identifizieren**: Welche Stichwörter fallen immer wieder? Was steht in Untertiteln? Was im Lead-Text? Die zusammenfassenden Text-Puzzles geben Hinweise darauf, wo die Kernthemen liegen könnten. Beim Neuschreiben eines Lead-Textes stösst man automatisch auf die Themen eines Textes, weil man ja die W-Fragen kurz und knapp beantworten muss.
 
-- **Das Gesamte sehen**:
-- **Gleiches zu Gleichem**:
-- **Gruppen ordnen**: Was soll nach oben, was nach unten?
+- **Gleiches zu Gleichem**: Ganz unabhängig davon, ob ein Element nun ein Absatz, ein Listen-Element oder ein Zitat ist, es kommt in eine Gruppe, was thematisch zusammengehört. 
+
+<!-- Alles, was mit Text-Elementen zu tun hat, gehört in Gruppe 1, alles, was Übersicht zum Thema hat, in Gruppe 2. So ergeben sich verschiedene Häufchen mit Puzzle-Steinchen. --> 
+
+- **Elemente einer Gruppe ordnen**: Die Elemente einer Gruppe sinnvoll anzuordnen und zu einer Text-Sektion zu verbinden ist wesentlich einfacher, als wenn das mit allen Elementen direkt zu Beginn versucht wird. Die thematische Gruppierung verhindert ausserdem, dass an mehreren Stellen über ein und diesselbe Sache geschrieben wird.
 
 ##3. Teile neu zusammensetzen
 
-- **Teile überarbeiten**:
+**Gruppen in eine Rangliste bringen**: Nachdem die Gruppen bereits wohlgeformte Erzähleinheiten bilden, bleibt noch die Aufgabe die einzelnen Themen in eine sinnvolle Reihenfolge zu bringen. Anhaltspunkte dafür bieten die Grundprinzipien des Storytelling (basierend auf [Storytelling für Journalisten](http://storytelling.mazblog.ch/) von Marie Lampert und Rolf Wespe:
+
+- **Chronologie**: Textteile werden entsprechend ihrer zeitlichen Abfolge angeordnet. Bei entsprechendem Material ist dies die einfachste Art Texte zu organisieren. Beispiel: Dieser Text ist grundsätzlich chronologisch aufgebaut.
+- **[Held, Monster und Glanztat](/monster-held-glanztat/)**: Diese Strukturierungsform ist das Grundprinzip vieler How-to-Texte: Ein Problem wird präsentiert, eine Person oder ein Unternehmen tritt auf und überwindet das Hindernis mit wehenden Fahnen. Beispiel: Die SEO-Agentur [moz.com](http://moz.com/) schreibt viele ihrer Inhalte basierend auf diesem Prinzip.
+- **Widerspruch**: Ein starker Widerspruch zwischen zwei Inhaltsgruppen kann als Strukturierungsprinzip des Gesamttextes ausreichen. Präsentiert wird zuerst die These, dann die Antithese. Eine Synthese, also die Bewertung der beiden Hauptteiel, schliesst Texte dieses Typs ab. Beispiel: Mein Artikel '[Zwei Inhaltstypen, eine Content-Strategie](/zwei-content-typen/)'.
+- **Rahmen**: Die Rahmenerzählung basiert auf einem Kunstgriff, der sehr verschiedene Teile eines Grosstextes unter ein Dach bringt. Berühmtestes Beispiel sind die [Erzählungen aus Tausendundeiner Nacht](http://de.wikipedia.org/wiki/Tausendundeine_Nacht). Ein ähnliches Prinzip ist in vielen Firmenpublikationen am Werk, wo ein Editorial den Werterahmen der jeweiligen Firma aufspannt, welcher von den einzelnen thematisch nur bedingt verbundenen Schachtelerzählungen (Reportagen, Porträts etc.) unterstützt werden. Beispiele für dieses Prinzip sind Publikationen wie das [UBS Magazin](http://www.ubs.com/ch/de/swissbank/privatkunden/ubs-magazin/home.html), das [Bergsport-Magazin Inspiration](http://katalog.baechli-bergsport.ch/inspiration_012015_dt/index.html) oder [das Magazin der Hochschule Luzern](https://www.hslu.ch/de-ch/hochschule-luzern/ueber-uns/medien/magazin/vielversprechende-verbindungen/).
+- **Hauptstrang und Exkurse**: Die Strukturierungsmethode der Gondelbahngeschichte stellt einen am Rande mit den verschiedenen Elementen verwandten Aspekt als Organisationsprinzip in den Mittelpunkt und nimmt immer wieder darauf Bezug. Beispiel: Diesem Text liegt neben seinem chronologischen Grundmuster auch der Vergleich von Texteschreiben und Puzzeln zugrunde. Der Aspekt ist nicht zentral, kann aber immer wieder zur Einordnung eines Text-Elementes herangezogen werden. 
+- **Szene, Fakt, Szene**: Das Prinzip erzählerische Text-Teile immer wieder mit schildernden Passagen zu unterbrechen ist in seiner literarischen/feuilletonistischen Reinform nur sehr wenigen Schreibenden zugänglich. Das Muster des Facts-Kastens, welches viele Zeitungen verwenden nimmt aber diesselbe Aufgabe wahr, ohne auf kunstvolle Übergänge angewiesen zu sein. Ein exzellentes Beispiel für die Kombination von erzählenden und informierenden Inhalten liefert die [News-Plattform vox.com](http://www.vox.com/cards/network-neutrality/whats-network-neutrality). Hier werden News Items immer in den Kontext von Hintergrund-Informationen (sogenannten 'Cards') gesetzt. 
+- **Nur Exkurse**: Episoden ohne offensichtliche Makrostruktur organisieren zu wollen ist ambitiös. Als Ersatz für ein Organisationsprinzip dienen kunstvolle Übergänge und die Einheit von Zeit und Ort. Ein Paradebeispiel hierfür ist der episodische [Film 'Short Cuts' (Trailer)](https://www.youtube.com/watch?v=aQZD0vKvSJY) von Robert Altman.
+
+Steht einmal die Struktur des Gesamttextes, bleibt noch das Fein-Tuning: Übergänge feilen, zusammenfassende Text-Gattungen (Titel, Lead-Texte) auf die neue Struktur anpassen, generell Korrektheit anpassen.
 
