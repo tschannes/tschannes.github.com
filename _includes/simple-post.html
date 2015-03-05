@@ -1,6 +1,6 @@
 <div class="simple-post">
 	{% if page.url == '/index.html' %}
-		<a href="{{ post.url | prepend: site.baseurl }}"><span itemprop="title">{{ post.title }}</span></a>, publiziert am <span itemprop="datePublished">{% include monat.html %}</span>.
+		<a href="{{ post.url | prepend: site.baseurl }}" property="url"><span itemprop="title">{{ post.title }}</span></a>, publiziert am <span itemprop="datePublished">{% include monat.html %}</span>.
 	{% else %}
   		<a href="{{ post.url | prepend: site.baseurl }}" itemprop="relatedLink">{{ post.title }}</a>, publiziert am {% include monat.html %}.
   {% endif %}

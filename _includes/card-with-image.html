@@ -1,7 +1,7 @@
 <div class="card" >
-    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}" property="url">
     	
-      {% if post.img %}<div class="home-pic-container" itemprop="image">
+      {% if post.img %}<div class="home-pic-container">
         <figure>
           <img src="/{{ post.img }}" 
           {% if post.alt %}
@@ -10,7 +10,7 @@
             alt="{{ post.caption }}"
           {% else %}
             alt="{{ post.title }}"
-          {% endif %}>
+          {% endif %} itemprop="image">
           {% if post.caption %}<figcaption>
             {{ post.caption }}
           </figcaption>{% endif %}
