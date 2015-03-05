@@ -1,7 +1,7 @@
 <div class="card" >
     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
     	
-      {% if post.img %}<div class="home-pic-container">
+      {% if post.img %}<div class="home-pic-container" itemprop="image">
         <figure>
           <img src="/{{ post.img }}" 
           {% if post.alt %}
@@ -18,11 +18,11 @@
       </div>{% endif %}
       
       <li>
-          <span class="post-meta">{% include monat.html %}</span>
-          <h2>
+          <span class="post-meta" itemprop="datePublished">{% include monat.html %}</span>
+          <h2 itemprop="name">
             {{ post.title }}
           </h2>
-          <p>
+          <p itemprop="description">
             {{post.excerpt}}
           </p>
     	</li>
