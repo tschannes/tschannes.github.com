@@ -1,7 +1,9 @@
-<div class="simple-post">
-	{% if page.url == '/index.html' %}
+{% if page.url == '/index.html' %}
+	<div class="simple-post" itemscope itemtype="http://schema.org/Article">
 		<a href="{{ post.url | prepend: site.baseurl }}" property="url"><span itemprop="name">{{ post.title }}</span></a>, publiziert am <span itemprop="datePublished">{% include monat.html %}</span>.
-	{% else %}
+	</div>
+{% else %}
+	<div class="simple-post">
   		<a href="{{ post.url | prepend: site.baseurl }}" itemprop="relatedLink">{{ post.title }}</a>, publiziert am {% include monat.html %}.
-  {% endif %}
-</div>
+	</div>
+{% endif %}
