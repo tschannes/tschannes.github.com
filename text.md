@@ -89,5 +89,5 @@ The Yahoo! Style Guide -->
 ## Posts zum Thema Text:
 
 {% for post in site.categories.text %}
-  {% include simple-post.html  %}
+  {% include simple-post.html %}
 {% endfor %}

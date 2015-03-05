@@ -49,5 +49,5 @@ order: 2
 ## Posts zum Thema Content:
 
 {% for post in site.categories.content %}
-   {% include simple-post.html  %}
+   {% include simple-post.html %}
 {% endfor %}

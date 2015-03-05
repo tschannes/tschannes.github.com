@@ -1,3 +1,13 @@
+/* toggle styles */
+#toggle{
+    display:none;
+}
+.btn{
+    background-color:$grey-color-light;
+    color: $brand-color-dark;
+    text-align: center;
+}
+
 /* Measuring Scrollbar Width by David Walsh */
 .scrollbar-measure{
     width: 100px;
@@ -7,7 +17,7 @@
     top: -9999px;
 }
 
-.simple-post{
+.simple-post, .button{
     border-top: 1px dotted $brand-color-dark;
     padding-top:0.5em;
     padding-bottom:0.5em;
@@ -187,18 +197,6 @@ ul{
     }
 }
 
-/* .related .card{
-    margin-top: 1em;
-    margin-right:2% !important;
-    width:31.3333333333333%;
-    @include media-query($on-laptop){
-        width:48%;
-    }
-    @include media-query($on-palm){
-        width:100%;
-    }
-} */
-
 .commented{
     list-style:none;
     margin-left: 0px;
@@ -208,7 +206,6 @@ ul{
 }
 
 .related{
-    margin-top:2em;
     width: 100%;
     .simple-post{
         width: 100%;

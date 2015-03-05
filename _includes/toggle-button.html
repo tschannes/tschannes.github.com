@@ -1,0 +1,16 @@
+<script type = "text/javascript" >
+	var toggleVisibility = function(id) {
+			var e = document.getElementById(id);
+			var button = document.getElementById('tglBtn');
+			if (e.style.display == 'block') {
+				e.style.display = 'none';
+				button.textContent = 'Ältere Artikel anzeigen!';
+			} else {
+				e.style.display = 'block';
+				button.textContent = 'Ältere Artikel ausblenden!';
+			}
+		} 
+</script> 
+<div class = "btn button simple-post" >
+ <a href = "javascript:toggleVisibility('toggle');" id="tglBtn"> Ältere Beiträge anzeigen!</a>
+ </div>
