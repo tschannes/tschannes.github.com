@@ -1,1 +1,1 @@
-{% if page.img %}<p><img src="{{page.img | prepend: site.baseurl | prepend: '/' }}" alt="{% if page.alt %}{{page.alt}}{% endif %}"></p>{% endif %}
+{% if page.img %}<p itemprop="image"><img src="{{page.img | prepend: site.baseurl | prepend: '/' }}" alt="{% if page.alt %}{{page.alt}}{% endif %}"></p>{% endif %}
