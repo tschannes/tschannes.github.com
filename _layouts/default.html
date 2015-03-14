@@ -20,7 +20,7 @@
       // Open external links in new windows
       function linkTargets() {
          for (var links = document.links, i = 0, a; a = links[i]; i++) {
-              if (a.host !== location.host) {
+              if (a.host !== location.host && a.id !== "tglBtn") {
                       a.target = '_blank';
               }
           }
