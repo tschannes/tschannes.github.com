@@ -248,13 +248,13 @@ ul{
 } */
 
 .contact{
-    padding:1em;
-    ul li{
+    padding:$spacing-unit;
+/*     ul li{
         width:100% !important;
     }
     li{
         padding:0 !important;
-    }
+    } */
 }
 
 .home .post-list{
