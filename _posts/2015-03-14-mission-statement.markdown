@@ -1,27 +1,37 @@
 ---
 layout: post
-title: "Mission Statement: schreiben"
+title: "Mission Statement: Wegweiser für Content-Strategie"
 date: 2015-03-14
-excerpt: "Ein Mission Statement ist der Grundpfeiler jeder Content-Strategie. Das Statement beantwortet nicht nur die Warum-Frage, sondern dient als auch Massstab dafür, welche Inhalte produziert und welche vergessen werden sollen."
+excerpt: "Ein Mission Statement klärt nach innen und aussen, warum und für wen welche Marketing-Inhalte produziert werden sollen."
 img: "images/mission.jpg"
 alt: "Ein klarer Fokus für die Content-Efforts einer Unternehmung ist das Ziel eines Mission Statements."
-caption: "Bild: http://pixabay.com/p-282741"
+caption: "Bild: http://pixabay.com/p-95475"
 comments: true
 related: true
 categories: content
 ---
 
-Das Mission Statement ist eine einfache Aussage, die folgende Punkte klarifiziert:
+Das Mission Statement ist eine einfache Aussage, die die drei folgenden Fragen beantwortet:
 
 - Wer ist das Kernpublikum? 
 - Was wird publiziert?
 - Was hat das Publikum davon?
 
-Hannes Tscherrig zeigt, wie Leute, die am Inhalt von Webpages arbeiten, ihre Jobs leichter, besser oder effizienter machen können.
+In seinem Buch [Epic Content Marketing](http://www.amazon.com/Epic-Content-Marketing-Different-Customers/dp/0071819894/ref=sr_1_1?s=books&ie=UTF8&qid=1426589504&sr=1-1&keywords=epic+content+marketing) gibt Joe Pulizzi folgendes Beispiel:
+
+> Welcome to Inc.com, the place where entrepreneurs and business owners can find useful information, advice, insights, resources and inspiration for running and growing their businesses.
+
+D
+
+Hannes Tscherrig zeigt Menschen, die Inhalte für Webpages entwickeln, wie sie ihre Arbeit leichter, besser oder effizienter machen können.
 
 Leute, die an Web-Inhalten arbeiten, finden auf tschannes.ch Beiträge, welche zeigen, wie sie ihre Jobs leichter, besser oder effizienter machen können.
 
-Content-Schaffende, Inhaltsverantwortliche, Web-Redakteurinnen und Noch-nicht-Redakteure finden auf tschannes.ch Inputs dazu, wie sie ihren Job§ leichter, besser oder effizienter machen können.
+Content-Schaffende, Inhaltsverantwortliche, Web-Redakteurinnen und Noch-nicht-Redakteure finden auf tschannes.ch Inputs dazu, wie sie ihren Job leichter, besser oder effizienter machen können.
+
+Guten Tag. Mein Name ist Hannes Tscherrig. Diese Seite ist für Menschen, die Inhalte für Webpages machen. Sie zeigt, wie digitales Schaffen besser einfacher oder effizienter geht.
+
+Guten Tag! Schaffen Sie Inhalte für Webpages? Hier finden Sie Mittel, die Ihre Arbeit besser, einfacher oder effizienter machen.
 
 ## Beispiel inc.com
 

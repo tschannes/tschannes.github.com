@@ -239,6 +239,7 @@ ul{
     }
     @include media-query($on-palm){
         width:100%;
+        max-width:100%;
     }
 }
 
