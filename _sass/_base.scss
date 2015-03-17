@@ -22,6 +22,9 @@ body {
     @include media-query($on-palm) {
        font-size: 0.8 * $base-font-size;
     }
+    strong{
+        font-weight:bold;
+    }
 }
 
 
