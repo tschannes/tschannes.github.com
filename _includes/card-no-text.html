@@ -1,0 +1,23 @@
+{% if post %}
+  {% assign item = post %}
+{% else %}
+  {% assign item = page %}
+{% endif %}
+
+{% if item.img %}<div class="home-pic-container">
+  <figure>
+     <img src="/{{ item.img }}" 
+          {% if item.alt %}
+            alt="{{ item.alt }}"
+          {% elsif item.caption %}
+            alt="{{ item.caption }}"
+          {% else %}
+            alt="{{ item.title }}"
+          {% endif %} itemprop="image">
+      {% if item.caption %}
+      <figcaption>
+            {{ item.caption }}
+      </figcaption>
+      {% endif %}
+  </figure>
+</div>{% endif %}

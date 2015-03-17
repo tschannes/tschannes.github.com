@@ -1,21 +1,7 @@
 <div class="card" itemscope itemtype="http://schema.org/Article">
     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}" property="url">
-    	
-      {% if post.img %}<div class="home-pic-container">
-        <figure>
-          <img src="/{{ post.img }}" 
-          {% if post.alt %}
-            alt="{{ post.alt }}"
-          {% elsif post.caption %}
-            alt="{{ post.caption }}"
-          {% else %}
-            alt="{{ post.title }}"
-          {% endif %} itemprop="image">
-          {% if post.caption %}<figcaption>
-            {{ post.caption }}
-          </figcaption>{% endif %}
-        </figure>
-      </div>{% endif %}
+    	{% include card-no-text.html %}
+    
       
       <li>
           <span class="post-meta" itemprop="datePublished">{% include monat.html %}</span>

@@ -14,10 +14,11 @@ layout: default
       </span>
       {% if page.excerpt %} | <span itemprop="description">{{ page.excerpt }}</span>{% endif %}
     </p>
-    {% include featured-img.html %}
   </header>
 
   <article class="post-content" itemprop="articleBody">
+    {% include card-no-text.html %}
+    <p></p>
     {{ content }}
     {% if page.comments %}{% include discus.html %}{% endif %}
     {% if page.related %}{% include related.html %}{% endif %}
