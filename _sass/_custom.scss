@@ -1,9 +1,21 @@
 form{
-    input{
+    width: 100%;
+    input,textarea{
         font-family: $base-font-family;
         font-size: $base-font-size;
-        width: 100%;
+        padding:0.25*$spacing-unit;
+        width: inherit;
+        border:none;
+        margin-bottom:0.5*$spacing-unit;
+        border:3px solid $grey-color-light;
     }
+    input:focus,textarea:focus{
+        border:3px solid $brand-color-dark;
+    }
+    input[type=submit]{
+        background-color: $brand-color-dark;
+        color:white;
+        }
 }
 
 /* toggle styles */
