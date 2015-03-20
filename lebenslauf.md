@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: CV
 permalink: /lebenslauf/
 excerpt: "Berufserfahrung, Ausbildung, Sprachen und Kompetenzen: Lesen Sie den Lebenslauf von Hannes Tscherrig."
 order: 4
