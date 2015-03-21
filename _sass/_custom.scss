@@ -1,21 +1,42 @@
 form{
     width: 100%;
+    max-width: 100%;
     input,textarea{
         font-family: $base-font-family;
         font-size: $base-font-size;
-        padding:0.25*$spacing-unit;
+        padding-top:0.25*$spacing-unit;
         width: inherit;
-        border:none;
         margin-bottom:0.5*$spacing-unit;
-        border:3px solid $grey-color-light;
+        border:none;
+        /* border:3px solid $grey-color-light; */
     }
-    input:focus,textarea:focus{
+    input:focus,textarea:focus,input[type=submit]{
         border:3px solid $brand-color-dark;
     }
     input[type=submit]{
         background-color: $brand-color-dark;
         color:white;
-        }
+        font-weight: bold;
+    }
+    ::-webkit-input-placeholder {
+       padding-left:0.25*$spacing-unit;
+       padding-right:0.25*$spacing-unit;
+    }
+
+    :-moz-placeholder { /* Firefox 18- */
+       padding-left:0.25*$spacing-unit;
+       padding-right:0.25*$spacing-unit;  
+    }
+
+    ::-moz-placeholder {  /* Firefox 19+ */
+       padding-left:0.25*$spacing-unit;
+       padding-right:0.25*$spacing-unit;  
+    }
+
+    :-ms-input-placeholder {  
+       padding-left:0.25*$spacing-unit;
+       padding-right:0.25*$spacing-unit;  
+    }
 }
 
 /* toggle styles */

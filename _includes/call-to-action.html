@@ -1,13 +1,15 @@
 <div class="ad">
   <div class="contact">
+  	<p>Welche Frage bleibt für Sie offen? Was möchten Sie hier als Nächstes lesen?</p>
 	<form action="http://formspree.io/tschannes@gmx.ch" method="post">
-	  <input type="hidden" name="_next" value="/" />
-	  <input type="hidden" name="_subject" value="New Subscriber to tschannes.ch" />
+	  <input type="hidden" name="_next" value="/danke/" />
+	  <input type="hidden" name="_subject" value="Feedback tschannes.ch" />
 	  <input type="text" name="_gotcha" style="display:none" />
-	  <textarea name="body" rows="4" placeholder="Ihr Feedback?" onfocus="this.value=''; this.onfocus=null;"></textarea>
-	  <input type="email" placeholder="Ihre E-Mail" name="_replyto" onfocus="this.value=''; this.onfocus=null;">
-	  <input type="submit" value="Sofort Rückmelden!">
+	  <!-- <label for="input">Inputs, Feedbacks, Kritik:</label> -->
+	  <textarea onfocus="this.placeholder=''" onblur="this.placeholder='Fragen, Inputs? Kritik, Feedback? Immer her damit!'" name="body" id="input" rows="4" placeholder="Fragen, Inputs? Kritik, Feedback? Immer her damit!" required></textarea>
+	  <!-- <label for="email">Email:</label> -->
+	  <input onfocus="this.placeholder=''" onblur="this.placeholder='Ihre Email!'" type="email" id="email" placeholder="Ihre Email!" name="_replyto" required>
+	  <input type="submit" value="Jetzt anschreiben!">
 	</form>
   </div>
 </div>
-
