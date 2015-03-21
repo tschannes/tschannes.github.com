@@ -37,6 +37,7 @@ order: 2
 - [Clout: The Art and Science of Influential Web Content](http://content-science.com/clout-the-book/): Colleen Jones gibt praktische Tipps, wie Content Professionals Inhalte besser planen, produzieren und evaluieren können.
 - [The Digital Crown: Winning at Content on the Web](http://www.amazon.co.uk/The-Digital-Crown-Winning-Content/dp/0124076742): Ahava Leibtag knöpft sich in ihrem Buch die organisatorischen Hürden vor, die gute Inhalte gerne verhindern: Wie sich ein rückwärtsgerichtetes Team für gute Inhalte und das Management für entsprechende Entscheide und Investitionen gewinnen lässt. Und: Wie ein solcher Change-Prozess auch -- ganz Guerrilla-strategisch -- von unten nach oben ablaufen kann.
 - [Content Everywhere](http://rosenfeldmedia.com/books/content-everywhere/): Sara Wachter Wachter-Boettcher zeigt nur warum sauber strukturierte Inhalte zukunftsfähig sind und wie wir zu solchen Inhalten gelangen ([meine Zusammenfassung lesen](/inhalte-fuer-ueberall)).
+- [Epic Content Marketing](http://joepulizzi.com/books/): Joe Pulizzi erklärt wie Content Marketing funktioniert: Verkaufen mit Storytelling statt Marketing-Phrasen.
 
 ##Weiterführende Ressourcen
 - [The Epic List of Content Strategy Resources](http://www.jonathoncolman.org/2013/02/04/content-strategy-resources/): Jonathon Colman führt auf seiner Website eine sehr ausführliche Liste mit Lektürevorschlägen für alle, die mehr zu Content-Strategie wissen wollen.

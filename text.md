@@ -40,6 +40,8 @@ Redaktion
 
 - [Schreiben im Web: Muster und Gegenmuster](https://www.swipe.to/7086q): Hannes Tscherrig analysiert Textbeispiele, zeigt Schwachstellen auf und deutet an, wie Texte fürs Web optimiert werden könnten.
 
+- [Headline Writing and Title Tag SEO](http://moz.com/blog/headline-writing-title-tag-seo-clickbait-world-whiteboard-friday): Rand Fishkin von moz.com bringt das Dilemma des Titels im Web auf den Punkt: Online Titel müssen für die Suche, für Social Media und für Marketing-Absichten optimiert sein. Sein Rat: Aus eins mach drei: Ein Click-Bait-Inhalt für Social Media verlinkt auf Educational Content, der via Call to Action auf Marketing-Inhalte zeigt.
+
 SEO
 ---
 
