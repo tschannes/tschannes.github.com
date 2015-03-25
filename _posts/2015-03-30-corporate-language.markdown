@@ -27,5 +27,50 @@ Defining features of voice:
 
 Check [Harriet Cumming's excellent guide on how to create a guide to a brand's tone of voice](https://www.distilled.net/tone-of-voice/).
 
-- Choice and ordering of pronouns (You, )
+- Choice and ordering of pronouns (You, We)
 
+Real author, implied author, narrator, narratee, implied reader, Real reader.
+
+Temporal relations: ulterior narration (leading to choice of grammatical time, past, present and future tenses)
+
+> The narrative level to which the narrator belongs, the extent of his participation in the story, the degree of perceptibility of his role, and finally his reliability are crucial factors in the reader's understanding of and attitude to the story. Narrative Fiction
+
+## Narrators described
+
+- Is the brand part of the story it tells? Or does the brand tell a story, as if it were, from the outside?
+
+- Is the brand a character in a narrator's story? Can brand narrators deal with their brands as characters? What are the advantages?
+
+- How involved is the branded-narrator in the things he tells readers about? Is he part of the action?
+
+- Do brand characters or brand narrators comment? I.E. Do they communicate opinion? Are they commenting on the stuff they recount?
+
+- How much authority has a brand narrator? Can unreliable brand narrators make sense for brands? After all brands tend to have limited knowledge, personal involvement, and a rather problematic value scheme?
+
+- contrast (fact and the way it is told), incongruities (before and after), understatement (not quite showing off).
+
+- How overt is the narrator? Does it reveal everything? Just a select few things? How does the reader know about how selective a narrator is?
+
+## Narratee described
+
+- Is the narratee (the character narrators tell their stories to) part of (present in) our stories?
+
+## Features of narratives
+
+- monologue versus dialogue
+- telling (diegesis, narrator very much present, metaphor: campfire talesk) and showing (mimesis, narrator disappearing, metaphor: stage)
+
+## Intention of brand character
+
+- "We would like you to like us, kind of." Brand intention may be helpful in shaping brand character.
+
+> An author should never preach. Even in a tale with an obvious moral or philosophical purpose an author should never be seen to preach. Postmodern Narrative Theory
+
+- Distance: Do we use adjectives to qualify our own products?
+
+
+## Resources
+
+- Leech and Short, Style in Fiction
+- Currie, Mark. Postmodern Narrative Theory. Basingstoke and London: Macmillan, 1998.
+- Rimmon-Kenan, Shlomith. Narrative Fiction. London and New York: Routledge, 1983.
