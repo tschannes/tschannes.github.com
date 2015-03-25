@@ -1,15 +1,23 @@
 ---
 layout: post
-title: "Ein Raster zum Entwickeln einer Corporate Language"
+title: "Vier Dimensionen einer Corporate Language"
 date: 2015-03-30
 excerpt: "Anders als Corporate Design, welches das visuelle Auftreten einer Marke regelt, kommt Corporate Language, also die sprachliche Brand-Charakteristik, oft zu kurz. Ein Kriterienraster hilft Marken sprachlich auf die Sprünge."
-img: "images/mission.jpg"
+img: "images/tiger.jpg"
 alt: "sf"
 caption: "Bild: http://pixabay.com/p-95475"
 comments: true
 related: true
 categories: text
 ---
+
+## Identität, Distanz, Zuverlässigkeit, Medium
+
+- Identity (narrator persona)
+- Distance (Perspective, involvement, humour, formality)
+- Reliableness (consistency, informedness, authority)
+- Medium (letters, emails, print, web, social media, speeches)
+
 
 Theory of voice and literary character lent from literary theory: Narrative Fiction by Shlomith Rimmon-Kennan.
 
