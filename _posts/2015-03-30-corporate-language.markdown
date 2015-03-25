@@ -3,9 +3,9 @@ layout: post
 title: "Vier Dimensionen einer Corporate Language"
 date: 2015-03-30
 excerpt: "Anders als Corporate Design, welches das visuelle Auftreten einer Marke regelt, kommt Corporate Language, also die sprachliche Brand-Charakteristik, oft zu kurz. Ein Kriterienraster hilft Marken sprachlich auf die Sprünge."
-img: "images/tiger.jpg"
+img: "images/voice.jpg"
 alt: "sf"
-caption: "Bild: http://pixabay.com/p-95475"
+caption: "Bild: http://pixabay.com/en/microphone-mic-vocal-music-audio-395382/"
 comments: true
 related: true
 categories: text
