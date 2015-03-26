@@ -13,72 +13,58 @@ categories: text
 
 ## Identität, Distanz, Zuverlässigkeit, Medium
 
-- Identity (narrator persona)
-- Distance (Perspective, involvement, humour, formality)
-- Reliableness (consistency, informedness, authority)
-- Medium (letters, emails, print, web, social media, speeches)
+Oft haben Marken ein klar vorgezeichnetes Corporate Design. Nur selten definieren sie aber, wie sich die Marke anhören soll, wie sie spricht.
+
+Der Grund dafür ist schnell gefunden. Visuelles Branding ist unmittelbar, schnell erfassbar und leicht zu replizieren. Branding der gesprochenen Marken-Artefakte auf der anderen Seite zeigt nur mittelbar, weniger sichtbare Effekte. Und: Für viele Firmen ist es bedeutend schwieriger eine einheitliche Sprache durchzusetzen als ein einheitlicher visueller Auftritt.
+
+Eine Corporate Voice lässt sich in vier Dimensionen definieren: Identität, Distanz (oder Nähe), Verlässlichkeit und Medium (oder Kanal):
+
+### Identität: Wer spricht denn da?
+
+- **Marken-Persona**: Wenn unsere Marke ein Maskottchen hätte, wie müsste dieses aussehen?
+- **Marken-Mission**: Wissen wir, welche Inhalte uns nützen? Wissen wir was unsere Inhalte für unser Publikum und für uns bewirken sollen ([Wie kommen wir zu einem Mission Statement](/mission-statement))?
+- **Show or tell**: Zeigen wir schon oder behaupten wir noch? Lagerfeuer oder grosses Kino?
+- **Eindruck**: Wie wollen wir uns anhören? Kompetent um jeden Preis? Leicht und einfach? Strukturiert und rational oder assoziativ, metaphorisch und kreativ?
 
 
-Theory of voice and literary character lent from literary theory: Narrative Fiction by Shlomith Rimmon-Kennan.
+### Distanz und Nähe: Kennen wir uns?
 
-Why is it that brands have copious amounts of documents on corporate branding, but seldom dedicate similar efforts to defining how they speak?
+- **Perspektive**: Sehen wir Produkte und Geschichten aus interner Perspektive? Versuchen wir eine neutrale (journalistische) Aussenperspektive? Oder emulieren wir die Perspektive unserer Kunden?
+- **Präsenz**: Ist die Marke als Erzähler präsent? Oder hält sie sich im Hintergrund? Sind wir durch Pronomen ("wir", "du") im Text präsent? Oder halten wir uns raus (mit impliziten und expliziten Passiv-Formen)?
+- **Allwissen**: Wissen wir alles oder demonstrieren wir unsere Lernkultur (und damit unsere Wissenslücken?) 
+- **Beteiligung (involvement)**: Sind wir Akteur in unseren Geschichten oder distanzierter Vermittler von Inhalten?
+- **Humor**: Sind wir todernst oder erlauben wir uns ironische Kommentare?
+- **Förmlichkeit**: Stock im Arsch oder SMS-Kultur?
+- **Haltung**: Rufen wir monologisch von der Kanzel? Oder kommunizeren wir im Dialog?
+- **Zeit**: Erzählen wir unmittelbar (Präsens) oder im Vergangenheitstempus (Präteritum und Plusquamperfekt)
+- **Distanz zum eigenen Produkt**: Haben wir eine Meinung zu den eigenen Produkten? Verwenden wir Adjektive, um sie zu beschreiben? Oder bleiben wir bei neutralen Specs?
 
-The answer is easy. Visual branding is immediate, flashy, fast to communicate and replicate. Spoken branding on the other hand is quite the opposite. Its effects are sublte, not immediate but longer lasting, and it is not reproducible without a concerted effort of the editorial team.
+> An author should never preach. Even in a tale with an obvious moral or philosophical purpose an author should never be seen to preach. Mark, Currie, Postmodern Narrative Theory
 
-Defining features of voice:
 
-- Who is the narrator?
-- Serious? How serious (reliable) is the narrator?
-- Stiff? How formal is the narrator?
-- What about burocracy? Check sentence length, word length, Number of commas...
-- Medium (formal letter, email, Twitter, website...)
+### Konsistenz: Wie war das noch mal?
 
-Check [Harriet Cumming's excellent guide on how to create a guide to a brand's tone of voice](https://www.distilled.net/tone-of-voice/).
+- **Konsistenz**: Wollen wir einen konsistenten Markenton? Oder bevorzugen wir eine organisierte Stimmenvielfalt? Wenn ja, wie bleibt diese Vielfalt einheitlich?
+- **Informationsqualität**: Wann ist ein Inhalt relevant? Für wen soll er relevant sein? Wie unterbinden wir nicht-relevante Inhalte.
+- **Autorität**: Sprechen alle? Oder sprechen nur die, die wirklich etwas fürs Publikum Interessantes zu sagen haben?
+- **Kontraste**: Passt unsere Stimme zum Erzählten? Nein? Ist das Absicht? Oder wissen wir nicht, wovon wir sprechen? Oder ist der Gegensatz von Sache und Sprache ein Stilmittel?
+- **Sprache der Kunden**: Passt unsere Stimme zum Publikum? Wenn nein, warum nicht? Versteht das Publikum, was wir sagen wollen?
 
-- Choice and ordering of pronouns (You, We)
+### Medium: Auf welcher Bühne treten wir auf?
 
-Real author, implied author, narrator, narratee, implied reader, Real reader.
+Je nach Kanal, je nach Publikum sprechen wir anders. Das ist für unsere Markenstimme nicht anders. Eine Marke klingt anders je nachdem, ob sie auf Twitter oder in einer förmlichen Email kommuniziert.
 
-Temporal relations: ulterior narration (leading to choice of grammatical time, past, present and future tenses)
+Eine Corporate Voice muss sich flexibel auf die Bedürfnisse der einzelnen Kanäle anpassen können. Gleichzeitig müssen die Grenzen der kanalspezifischen Anpassungen klar sein.
 
-> The narrative level to which the narrator belongs, the extent of his participation in the story, the degree of perceptibility of his role, and finally his reliability are crucial factors in the reader's understanding of and attitude to the story. Narrative Fiction
-
-## Narrators described
-
-- Is the brand part of the story it tells? Or does the brand tell a story, as if it were, from the outside?
-
-- Is the brand a character in a narrator's story? Can brand narrators deal with their brands as characters? What are the advantages?
-
-- How involved is the branded-narrator in the things he tells readers about? Is he part of the action?
-
-- Do brand characters or brand narrators comment? I.E. Do they communicate opinion? Are they commenting on the stuff they recount?
-
-- How much authority has a brand narrator? Can unreliable brand narrators make sense for brands? After all brands tend to have limited knowledge, personal involvement, and a rather problematic value scheme?
-
-- contrast (fact and the way it is told), incongruities (before and after), understatement (not quite showing off).
-
-- How overt is the narrator? Does it reveal everything? Just a select few things? How does the reader know about how selective a narrator is?
-
-## Narratee described
-
-- Is the narratee (the character narrators tell their stories to) part of (present in) our stories?
-
-## Features of narratives
-
-- monologue versus dialogue
-- telling (diegesis, narrator very much present, metaphor: campfire talesk) and showing (mimesis, narrator disappearing, metaphor: stage)
-
-## Intention of brand character
-
-- "We would like you to like us, kind of." Brand intention may be helpful in shaping brand character.
-
-> An author should never preach. Even in a tale with an obvious moral or philosophical purpose an author should never be seen to preach. Postmodern Narrative Theory
-
-- Distance: Do we use adjectives to qualify our own products?
+- **Klassische Briefe**:
+- **Elektronische Mails**:
+- **Print-Broschüren**:
+- **Web-Seiten**:
+- **Social Media**: 
 
 
 ## Resources
 
-- Leech and Short, Style in Fiction
 - Currie, Mark. Postmodern Narrative Theory. Basingstoke and London: Macmillan, 1998.
 - Rimmon-Kenan, Shlomith. Narrative Fiction. London and New York: Routledge, 1983.
+- [Harriet Cumming's excellent guide on how to create a guide to a brand's tone of voice](https://www.distilled.net/tone-of-voice/).
