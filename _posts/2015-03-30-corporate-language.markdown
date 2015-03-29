@@ -65,6 +65,10 @@ Eine Corporate Voice muss sich flexibel auf die Bedürfnisse der einzelnen Kanä
 - **Norm und Abweichung**: GOOGLE PUB FRICKE Welche Medien weichen ab? Wie variiert unser Stil in diesen Kanälen?
 - **Variation**: Welche Kanäle verlangen mehr Distanz? Welche mehr Nähe?
 
+## Stil-Merkmale
+
+SSSSSSSS
+
 
 ## Ressourcen
 
