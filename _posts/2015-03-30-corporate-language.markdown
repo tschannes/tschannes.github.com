@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "56 Fragen für eine Corporate Language"
+title: "66 Fragen für eine Marken-Stimme"
 date: 2015-03-30
 excerpt: "'Wie klingt unsere Marke?' Ein Fragenkatalog hilft beim Entwickeln eines Corporate Language Manuals, welches über das reine Wording hinausgeht."
 img: "images/voice.jpg"
@@ -13,21 +13,21 @@ categories: text
 
 ## Identität, Distanz, Zuverlässigkeit, Medium
 
-Oft haben Brands ein klar vorgezeichnetes Corporate Design. Nur selten definieren sie aber, wie sich die Marke anhören soll, wie sie ihre Markenzeichen sprachlich nach aussen transportiert.
+Viele Brands haben ein klar vorgezeichnetes Corporate Design. Nur selten definieren sie aber, wie sich die Marke anhören soll, wie sie ihre Markenzeichen sprachlich nach aussen transportiert.
 
-Der Grund für den kümmerlichen Zustand der Corporate-Sprache ist schnell gefunden. **Visuelles Branding ist unmittelbar**, schnell erfassbar und leicht zu replizieren. Branding der gesprochenen Marken-Artefakte auf der anderen Seite zeigt nur mittelbar, weniger sichtbare Effekte.
+Der Grund für den kümmerlichen Zustand der Corporate-Sprache ist schnell gefunden. **Visuelles Branding ist unmittelbar**, schnell erfassbar und leicht zu replizieren. Branding der gesprochenen Marken-Artefakte auf der anderen Seite zeigt erst mittelbar und meist subtilere Effekte.
 
 Tatsächlich ist es nicht einfach einer Marke **ein sprachlich einheitliches Gesicht** zu geben. Anders als in visuellen Belangen, wo oft wenige Designer Corporate-Vorgaben umsetzen, arbeiten oft unzählige Menschen an den sprachlichen Marken-Artefakten mit. 
 
 Ausserdem fehlt den Schreibenden oft die nötige Führung. **Ein Wording reicht nicht.** Dieses schreibt zwar vor, wie die Marke genannt werden darf, wie ein Datum formatiert werden soll und welche Rechtschreibversion gültig ist. 
 
-Eine Corporate Voice definiert darüber hinaus aber auch das **Markengefühl, die Markencharakteristika und Markenwerte**. Der kürzeste Weg zu einer klar definierten Marken-Identität, der richtigen Distanz zum Publikum, wie konsistent die Marke daherkommen soll und wie stark das Medium die Brand Voice verfärbt.
+Eine Corporate Voice definiert darüber hinaus aber auch das **Markengefühl, die Markencharakteristika und Markenwerte**. Aus meiner Sicht führt der kürzeste Weg zu einer klar definierten sprachlichen Marken-Identität über die richtigen Fragen: Wer spricht, wenn wir sprechen? Wie distanziert oder nah sind wir unseren Kunden? Wie konsistent wollen oder können wir sprechen? Wie stark passt sich unsere Stimme dem Kanal an?
 
 ### 1. Identität: Wer spricht denn da?
 
-- **Marken-Persona**: Wenn unsere Marke ein Maskottchen hätte, wie müsste dieses aussehen?
+- **Marken-Persona**: Wenn unsere Marke ein Maskottchen hätte, wie müsste dieses aussehen? Wenn wir die Firma als Person beschreiben müssten, wie würden wir das tun?
 - **Marken-Mission**: Wissen wir, welche Inhalte uns nützen? Wissen wir, was unsere Inhalte für unser Publikum und für uns bewirken sollen? [Wie kommen wir zu einem Mission Statement?](/mission-statement) [Welche Inhaltstypen brauchen wir?](/zwei-content-typen)
-- **Show or tell**: Zeigen wir schon oder behaupten wir noch? Lagerfeuer oder grosses Kino?
+- **Show or tell**: Zeigen wir schon oder behaupten wir noch? Lagerfeuer-Erzählung oder grosses Dokumentar-Kino?
 - **Mündlich oder schriftlich**: Ist unsere Sprache natürlich? Würden wir so sprechen, wie unsere Marke schreibt? Oder setzen wir auf Wendungen aus der schriftlichen Sprache, um Ernsthaftigkeit und Tradition zu evozieren?
 - **Eindruck**: Wie wollen wir uns anhören? Kompetent um jeden Preis? Leicht und einfach? Strukturiert und rational oder assoziativ, metaphorisch und kreativ?
 
@@ -39,7 +39,7 @@ Eine Corporate Voice definiert darüber hinaus aber auch das **Markengefühl, di
 - **Allwissen**: Wissen wir alles oder demonstrieren wir unsere Lernkultur (und damit unsere Wissenslücken?) 
 - **Beteiligung (involvement)**: Sind wir Akteur in unseren Geschichten oder distanzierter Vermittler von Inhalten?
 - **Humor**: Sind wir todernst oder erlauben wir uns ironische Kommentare?
-- **Förmlichkeit**: Stock im Arsch oder SMS-Kultur?
+- **Förmlichkeit**: Stock im Arsch oder SMS-Kultur? Mündliche oder schriftliche Kultur?
 - **Haltung**: Rufen wir monologisch von der Kanzel? Oder kommunizeren wir auf Augenhöhe im Dialog?
 - **Zeit**: Erzählen wir unmittelbar (Präsens) oder im Vergangenheitstempus (Präteritum und Plusquamperfekt)
 - **Distanz zum eigenen Produkt**: Haben wir eine Meinung zu den eigenen Produkten? Verwenden wir Adjektive, um sie zu beschreiben? Oder bleiben wir bei neutralen Spezifikationen?
@@ -51,7 +51,7 @@ Eine Corporate Voice definiert darüber hinaus aber auch das **Markengefühl, di
 
 - **Konsistenz**: Wollen wir einen konsistenten Markenton? Oder bevorzugen wir eine organisierte Stimmenvielfalt? Wenn ja, wie bleiben die Einzelstimmen erkennbar als Teil eines Marken-Kanons?
 - **Informationsqualität**: Wann ist ein Inhalt relevant? Für wen soll er relevant sein? Wie unterbinden wir nicht-relevante Inhalte?
-- **Autorität**: Sprechen alle? Oder sprechen nur die, die wirklich etwas fürs Publikum Interessantes zu sagen haben?
+- **Autorität**: Sprechen alle? Oder sprechen nur die, die wirklich etwas fürs Publikum Interessantes zu sagen haben? Sagen wir "Du" oder "Sie"? Sprechen wir aktiv oder passiv, in langen oder kurzen Sätzen? Im Nominalstil oder verbal?
 - **Kontraste**: Passt unsere Stimme zum Erzählten? Nein? Ist das Absicht? Oder wissen wir nicht, wovon wir sprechen? Oder ist der Gegensatz von Sache und Sprache ein Stilmittel?
 - **Sprache der Kunden**: Passt unsere Stimme zum Publikum? Wenn nein, warum nicht? Versteht das Publikum, was wir sagen wollen?
 
@@ -62,13 +62,25 @@ Am Telefon sprechen wir anders als am Tresen nach Bier Numeoro vier. Das ist fü
 Eine Corporate Voice muss sich flexibel auf die Bedürfnisse der einzelnen Kanäle (Brief, Mail, Print, Web, Social Media...) anpassen können. Gleichzeitig müssen die Grenzen der kanalspezifischen Anpassungen klar sein:
 
 - **Lead-Medium**: Welches ist unser führendes, stilistisch normatives Medium? 
-- **Norm und Abweichung**: GOOGLE PUB FRICKE Welche Medien weichen ab? Wie variiert unser Stil in diesen Kanälen?
+- **Norm und Abweichung**: Welche Medien weichen ab? Wie variiert unser Stil in diesen Kanälen?
 - **Variation**: Welche Kanäle verlangen mehr Distanz? Welche mehr Nähe?
 
-## Stil-Merkmale
+## Beispiel
 
-SSSSSSSS
+Eine Corporate Voice, die ganz auf hohe Autorität ausgerichtet sein soll, müsste die folgenden Eigenschaften haben:
 
+- Tendenziell zeigt eine Firma mit **hypertaktischem Satzbau**, dass ihr komplexe Zusammenhänge ein Leichtes sind.
+- Mit **Nominalstil** und **Fremdwörtern** demonstriert sie ihr Fachwissen und zeigt und markiert mit Jargon ihre Zugehörigkeit zu einer Elite oder einem exklusiven Zirkel.
+- **Passivsätze** werden eingesetzt, damit der Informationsvorsprung der Firma gegenüber dem Publikum unauffällig beibehalten werden kann.
+- Dezidierter Einsatz der **Höflichkeitsform** erhält die Distanz zwischen Firma und Kunde.
+- Mit der konsequenten Verwendung des **Vergangenheitstempus** gibt sich die Firma als reflektierte (kontrollierte, berechnende) Akteurin.
+- Die Firma bezeichnet sich selbst als "die Firma" und distanziert sich damit vom Publikum. Das funktioniert, wie wenn Menschen im Gespräch in der dritten Person von sich reden. Sprecher und Aussage trennen sich; das Publikum nimmt den Sprecher als weiter weg (und im Alltag als komischen Kauz) wahr.
+- Sie nimmt **keine Wertungen der eigenen Produkte** vor, sondern verlässt sich auf neutrale Spezifikationen oder Wertungen von Dritten. 
+- ...
+
+Analog lässt sich natürlich eine auf Nähe ausgerichtete Sprache oder Mischformen definieren.
+
+Welche Erfahrungen haben Sie mit Firmen-Sprachen gemacht? Wie lenken Sie die sprachlichen Assets Ihrer Kunden in geordnete Bahnen? Hinterlassen Sie einen Kommentar oder schreiben Sie mich an!
 
 ## Ressourcen
 
