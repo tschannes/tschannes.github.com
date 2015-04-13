@@ -19,8 +19,10 @@ layout: default
     {% endfor %}
 
     <!-- Contact -->
-	
 		{% include call-to-action.html %}
+
+    <!-- Contact -->
+    {% include feed.html %}
 	
     <!-- featured articles -->
 	  {% for post in site.posts offset:1 limit:4 %}
