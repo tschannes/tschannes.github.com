@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: "Lebenslauf"
 permalink: /lebenslauf/
 excerpt: "Berufserfahrung, Ausbildung, Sprachen und Kompetenzen: Lesen Sie den Lebenslauf von Hannes Tscherrig."
 order: 4
@@ -11,7 +11,9 @@ order: 4
 
 ## Berufserfahrung
 
-- **Projektmitarbeiter Internet**: [Hochschule Luzern][2], September 2013 – Aktuell, Luzern
+- **Texter und Konzepter**: [Hochschule Luzern -- Informatik](https://www.hslu.ch/de-ch/informatik/), April 2015 - Aktuell, Luzern
+
+- **Projektmitarbeiter Relaunch hslu.ch**: [Hochschule Luzern][2], September 2013 – Februar 2015, Luzern
 
 - **Texter und Konzepter**: [media-work gmbh][3], Mai 2012 – Mai 2013, Luzern
 
@@ -73,7 +75,7 @@ Im Grunde der Dinge bin ich aber Texter. Es ist meine Leidenschaft, Unnützes zu
 
 
 
- [2]: http://www.hslu.ch
+ [2]: https://www.hslu.ch
  [3]: http://media-work.ch
  [4]: http://www.supertext.ch
  [5]: http://www.chilenosuizo.cl
