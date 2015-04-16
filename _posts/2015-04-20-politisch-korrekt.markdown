@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Man vergesse politisch korrekt."
-date: 2015-04-15
+date: 2015-04-20
 excerpt: "10 Gründe, warum es falsch ist, nicht anecken zu wollen. Ein Plädoyer für eine Konfliktkultur."
 img: "images/horses.jpg"
 alt: "Resultate sind besser, wenn zwei entgegengesetzte Pole zusammen wirken."
