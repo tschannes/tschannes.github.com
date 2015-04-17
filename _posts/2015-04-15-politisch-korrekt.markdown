@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Man vergesse politisch korrekt."
+title: "Ein unartiges Manifest gegen gute Manieren"
 date: 2015-04-15
-excerpt: "10 Gründe, warum es falsch ist, nicht anecken zu wollen. Ein Plädoyer für eine Konfliktkultur."
+excerpt: "5 fundamentale Gründe, warum zu viel Höflichkeit und Wohlfühlgerede schlecht sind. Für die Gesundheit, das Geschäft und alles ganz generell. "
 img: "images/horses.jpg"
 alt: "Resultate sind besser, wenn zwei entgegengesetzte Pole zusammen wirken."
 caption: "Bild: https://farm7.staticflickr.com/6183/6150676110_b1c0e71bab_o.jpg"
@@ -11,14 +11,24 @@ related: true
 categories: text
 ---
 
-- Politisch Korrektes führt zu Aussagen, die nicht falsifizierbar sind. Folge: Viel Gerede, keine Entscheide.
-- Schweizer Kompromiss-Mentalität, führt dazu, dass keine Gegensätze zugelassen werden.
-- Konflikte werden nicht ausgetragen. Dabei wären doch Konflikte eine wunderbare Quelle für neue und potenziell kreative Wege. Ausserdem: Kontraste machen das Einerlei spannend.
-- Dumme Fragen zeigen, ob jemand etwas auf dem Kasten hat, ob er begründen kann oder nur schwafelt.
-- Durch Fragen fühlt sich niemand auf die Füsse getreten. 
-- Methode These, Antithese Synthese verlangt nach Argumenten. 
-- Gefühle. Die menschliche Ebene. Cut it out. Es geht nicht um einen Wohlfühl-Club. Es geht um die Sache.
-- Politisch korrekt ist langweilig. Gesichtseinschläfernd.
-- Politisch korrekt führt zu Kommunikation, die unglaubwürdig ist. 
-- Glaube an den Mehrheitsentscheid
-- 
+Als Mensch vom Marketing tausche ich mich ständig aus. Ich kommuniziere, vermittle, höre zu. Bei alledem gilt das Diktat des emotional schwächsten Glides: 
+
+> Sei nur so direkt, wie dein Gegenüber. Vielleicht besser ein wenig weniger. Es könnte ja sein, dass die Gesprächspartnerin sensibler ist als gedacht. Es könnte sein, dass sie aus dem Bett gefallen ist, sich am zu stark gerösteten Kaffee den Mund verbrannt hat oder grad mit föhnbedingt-verstärkten Depressionen besonders schwingungsstark auf Argumente anspringt.
+
+Empathisches Zuhören nennt sich das. In Erwartung emotionaler Instabilität feile ich solange an meinen Aussagen, Botschaften und Antworten, bis sie garantiert bekömmlich sind. Wie untersalzenes, karrottendurchsetztes Kartoffelpüree, garniert mit breiigen Erbsen.
+
+Als immer lernender Kommunikator verwende ich 80 Prozent meiner Zeit darauf, Aussagen zu solchermassen zu pürieren. Dabei führt diese ständige Korrektheit zu nichts. Nein, sie ist sogar überaus und vollkommen schädlich:
+
+- **Atemberaubend lange**: Pürierte Aussagen sind länger. "Ich würde vorschlagen, die betroffene Person darüber zu informieren." (68 Zeichen). "Informier Peter!" (16 Zeichen). Nicht pürierte Kommunikation ist also rasante 68.5 Prozent kürzer. So viel Kürze ist klar nicht-empathie-konform und also zu vermeiden.
+- **Unwiderlegbar stark**: Pürierte Aussagen lassen sich nicht falsifizieren: Sie lassen sich beliebig auf den sinnbildlichen Tellern unserer Meetings und Sitzungen verteilen. "Grundsätzlich sollten wir das Ziel verfolgen digitale Kanäle vermehrt zu nutzen beziehungsweise die bestehenden analogen Kanäle optimiert mit ihren digitalen Entsprechungen zu verbinden." Hm. Ja? Nein? Klingt gut, machen wir grundsätzlich mal so?! Es ist schwierig, komplex gar, in dieser Situation etwas entscheiden zu wollen. Aber: Alle fühlen sich verstanden und denken, dass sie irgendwie verstehen, was gemeint ist. 
+- **Schweizerisch kompromittiert**: Als Kinder Helvetiens wird uns ja seit der ersten Geschichtsstunde der Kompromiss als morgenrötliches Allheilmittel verschrieben. Entsprechend sagen wir viel lieber "ja", als "nein". Ausser bei Volksabstimmungen natürlich, wo niemand genau zurückverfolgen kann, wer genau jetzt "nein" gesagt hat. Wodurch wiederum niemand sich auf die Zehen getreten fühlt.
+- **Ja und Amen**: Ja, ich sage euch: Es ist einfacher "ja" zu sagen. da muss man nicht lange überlgen, was es denn für Alternativen geben könnte. Auch lästige Grundsatzfragen kommen gar nicht erst auf. Der Sinn und Unsinn politisch korrekter Aussagen etwa wird zu gleichen Stücken akzeptiert. Genau.
+- **Die dümmste Frage**: Sage nicht, warum! Warum-Fragen tendieren dazu Unwille, aggressives Schweigen, ärgerliches Abwinken, maternalistische Belehrungen oder emotionale Verletzungen zu verursachen. 
+
+Dabei gäbe es Alternativen. 
+
+- **Formuliere Thesen**: Mache klare Aussagen. Klarheit verursacht Gegenrede. Gegenrede erlaubt das Herausdistillieren eines wahren Kerns.
+- **Komm zur Sache**: Sag, was es zur Sache zu sagen gibt und vergiss die Politik, Empathie und verbrannte Lippen. Dadurch sparst du Zeit und entschleunigst deinen Tag.
+- **Unterbrich**: Unterbrich das Geplänkel. Oder lausche gelangweilt. Die Rolle des Störenfrieds stärkt den Charakter.
+- **Frage grundsätzlich**: Warum ist das mächtigste Wort. Sage es dreimal hintereinander und du kommst dem Grund einer jeden Sache näher.
+- **Suche Kontraste**: Gute Denkarbeiter sind Teufelsadvokaten. Sie sind für Atommüll-Deponien im Vorgarten, für die Wiedereinführung der Todesstrafe und generell für das Gegenteil des Gängigen. Die Kontraste erlauben neue kreative Perspektiven.
