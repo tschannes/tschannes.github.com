@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fachkompetenz allein, genügt nicht"
+title: "Fachkompetenz allein genügt nicht"
 date: 2015-05-01
 excerpt: "Nicht die Kernkompetenz allein entscheidet über eine Anstellung. Kommunikations-Skills, Team-Tüchtigkeit und Lernwille sind viel wichtiger, so Recruiter Thomas Nanzer."
 img: "images/team.jpg"
@@ -11,24 +11,28 @@ related: true
 categories: content
 ---
 
-> Wen stellen Sie ein: Den tollen Programierer, der aber kommunikativ Schwachstellen aufweist oder den den technisch nur mittelmässigen aber sozial-kompetenten Kandidaten?
+> Wen stellen Sie ein: Den tollen Programierer, der aber kommunikativ schwächelt oder den technisch nur mittelmässigen aber sozial-kompetenten Kandidaten?
 
-"Den sozial-kompetenten Bewerber", beantwortet Thomas Nanzer die Frage eines Informatik-Studierenden ohne zu zögern. Er ist Head R&D Software Development bei [Sensirion](http://www.sensirion.com/en/home/), einer Firma, die Sensoren für medizinische Anwendungen herstellt, und zuletzt ein Bauteil für das weltweit erfolgreiche Mobiltelefon Samsung Galaxy S4 produziert hatte.
+"Den sozial-kompetenten Bewerber", beantwortet Thomas Nanzer die Frage eines Informatik-Studierenden ohne zu zögern. 
+
+Er ist Head R&D Software Development bei [Sensirion](http://www.sensirion.com/), einer Firma, die Sensoren herstellt, und zuletzt ein Bauteil für das weltweit erfolgreiche Mobiltelefon Samsung Galaxy S4 produziert hatte.
 
 Nanzer verwendet einen Grossteil seiner Zeit darauf, neue Mitarbeitende zu rekrutieren. Dabei achtet er vor allem darauf, dass möglichst nur team-kompatible Mitarbeitende eingestellt werden. 
 
 Die Erfahrung hat ihn gelehrt, dass technisch hervorragende Team-Mitglieder oft bei den sogenannten Soft Skills Lücken aufweisen. Kann oder will ein Entwickler nicht mit anderen über seine Aufgaben sprechen, ist er wertlos oder gar schädlich für die Firma. 
 
-Deshalb achtet Thomas Nanzer darauf, dass künftige Mitarbeitende, zwar eine solide technische Basis mitbringen, aber daneben auch  kommunikatives Gespür und Team-Fähigkeit an den Tag legen:
+Deshalb achtet Thomas Nanzer darauf, dass künftige Mitarbeitende, zwar eine solide technische Basis mitbringen, aber daneben auch  kommunikatives Gespür und Team-Fähigkeit an den Tag legen.
+
+Die folgenden Tipps basieren auf einem Vortrag, den Thomas Nanzer im Rahmen der [Veranstaltungsreihe Hot Topics](https://www.hslu.ch/de-ch/technik-architektur/campus/veranstaltungen/2015/04/15/informatik-top-themen-2015-04-15/) an der Hochschule Luzern gehalten hat:
 
 ## Technische Basis
 
 - Als Kandidat benötigst du einen starkes technisches Fundament.
 - Du musst lernbereit sein. Denn gerade die IT-Industrie entwickelt sich rasant. Lernpausen gehen praktisch nicht mehr.
-- Du musst Prioritäten setzen können. Lerne nur, was du mehrmals oder über längere Zeit brauchen kannst, so die Devise. Dazu gehören die Kunst des sauberen Codens, Service Architecture, Layering, Binary Logics, Strukturen erkennen. 
+- Du musst Prioritäten setzen können. Lerne nur, was du mehrmals oder über längere Zeit brauchen kannst, so die Devise. Dazu gehören die Kunst des sauberen Codens, Service Architecture, Layering, Binary Logics, und die Fähigkeit Strukturen erkennen und entwickeln zu können. 
 - Du musst technische Dinge erklären können.
 
-> In Bewerbungsgesprächen, stelle ich Fragen zum Software Design. Mich interessiert, ob Bewerber die grundlegenden Prinzipien von Software verstehen. Ob sie zehn Sprachen beherrschen ist mir vorerst egal.
+> In Bewerbungsgesprächen, stelle ich Fragen zum Software Design. Mich interessiert, ob Bewerber die grundlegenden Prinzipien von Software verstehen. Ob sie zehn Programmier-Sprachen beherrschen ist mir vorerst egal.
 
 ## Persönliche Kompetenzen
 
@@ -39,8 +43,6 @@ Deshalb achtet Thomas Nanzer darauf, dass künftige Mitarbeitende, zwar eine sol
 - **Sei kreativ**: Wenn du nicht beizeiten fertig wirst, finde einen anderen Weg. 
 - **Hinterfrage alles**: Nimm Aufträge und Requirements nicht als gottgegeben. Frage dich: Braucht es dieses Feature wirklich? Was will der Auftraggeber erreichen? Gibt es einen besseren Weg? Du musst Leute von undurchdachten oder unmöglich teuren Wünschen abbringen können.
 - **Steh hinter deiner Arbeit**: Fühle dich verantwortlich für deine Arbeit. Versuche sie immer zu verbessern. Lerne, effizienter zum Ergebnis zu kommmen.
-
-> I cannot work on a Windows Machine! 
 
 ## Team Skills
 
@@ -59,7 +61,7 @@ Deshalb achtet Thomas Nanzer darauf, dass künftige Mitarbeitende, zwar eine sol
 Thomas Nanzer lebt vor, was er predigt. Er skizziert zwei fehlgeschlagene Projekte und zeigt, dass sie nicht an der technischen Kompetenz der Mitarbeitenden, sondern an mangelnder Kommunikation und zu begrenztem Verantwortungsbewusstsein gescheitert sind.
 
 - Jedes Team benötigt jemanden, der **zwischen Spezialisten vermitteln** und übersetzen kann; jemanden, der die Differenzen zwischen ihnen als solche erkennt.
-- Du kommst mit einer unvollständigen Spezifikation aus am Anfang des Projekts. Aber solange du keine klare Vorstellung von den Zielen, von der **Vision eines Projektes** hast, solltest du nicht zu arbeiten anfangen.
+- Eine unvollständige Spezifikation am Anfang des Projekts ist kein grundlegendes Problem. Aber solange du keine klare Vorstellung von den Zielen, von der **Vision eines Projektes** hast, solltest du nicht zu arbeiten anfangen.
 - Jemand im Team muss neue **Anforderungen überprüfen**. Nicht immer sind sie mit der Vision für das Projekt kompatibel.
 - **Iterative Arbeitsweisen** bewahren niemanden davor mitten im Projekt noch einmal die Architektur des ganzen Projekts zu überdenken.
 - Lass dich nicht von **Lösungs-Ideen** beeinflussen. Versuche stattdessen das zu lösende Problem zu verstehen und finde selber heraus, wie du es am besten bewältigst.
@@ -75,4 +77,4 @@ Absolventen eher praxisorientierter Fachhochschulen könnten ihren Mitbewerbern 
 
 Allerdings hätten FH-Bewerber den Vorteil, dass sie vor und während ihrer Studienzeit berufstätig sein können. Ihre persönliche und professionelle Erfahrung kann im Bewerbungsgespräch -- gerade wegen der immer wichtiger werdenden Soft Skills -- das entscheidende Zünglein an der Wage sein.
 
-Zuletzt gelte aber: Wer die technischen Basics mitbringt, flexibel ist und sich in ein Team einpassen kann, lernt auch noch im Job wie Zuhören, Nachhaken und Durchsetzen geht. 
+Zuletzt gelte aber: Wer die technischen Basics mitbringt, flexibel ist und sich in ein Team einpassen kann, lernt auch noch im Job wie Zuhören, Nachfragen und Durchsetzen geht. 
