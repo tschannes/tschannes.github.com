@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "6 negative Effekte politischer Korrektheit"
-date: 2015-04-15
+title: "Sechs negative Effekte politischer Korrektheit"
+date: 2015-04-20
 excerpt: "Politische Korrektheit ist keine Tugend. Sie verschleiert klare Aussagen, verzögert die Wahrheitsfindung und stiftet falsche Eintracht."
 img: "images/horses.jpg"
 alt: "Resultate sind besser, wenn zwei entgegengesetzte Pole zusammen wirken."
@@ -17,7 +17,7 @@ Als Mensch vom Marketing tausche ich mich ständig aus. Ich kommuniziere, vermit
 
 Empathisches Zuhören nennt sich das. In Erwartung emotionaler Instabilität feile ich solange an meinen Aussagen, Botschaften und Antworten, bis sie garantiert bekömmlich sind. Wie untersalzenes, karrottendurchsetztes Kartoffelpüree, garniert mit breiigen Erbsen.
 
-## 6 Effekte politischer Korrektheit
+## Sechs Auswirkungen politischer Korrektheit
 
 Als immer lernender Kommunikator verwende ich 80 Prozent meiner Zeit darauf, Aussagen solchermassen zu pürieren. Dabei führt diese ständige Korrektheit zu nichts:
 
