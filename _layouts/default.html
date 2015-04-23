@@ -3,7 +3,7 @@
   
   {% include head.html %}
 
-  <body onload="linkTargets(), loadFonts()">
+  <body onload="linkTargets(), loadFonts(), changeImages()">
     {% include analytics.html %}
     {% include header.html %}
 
@@ -15,7 +15,8 @@
 
     {% include footer.html %}
 
-    <script src="/js/fixed.js"></script>
+    <script src="/js/fixed.js" async></script>
+    <!--<script src="/js/fader.min.js" async></script>-->
     <script>
       // Open external links in new windows
       function linkTargets() {
@@ -39,6 +40,27 @@
       document.body.appendChild(scrollDiv);
       var scrollbarWidth = scrollDiv.offsetWidth - scrollDiv.clientWidth;
       document.body.removeChild(scrollDiv);
+      // Replace Loader with either small or big images
+        function changeImages(){
+            var imagesFound = document.getElementsByTagName("img");
+            var arrayLength = imagesFound.length;
+            for (var i = 1; i < arrayLength+1; i++) {
+                var img = imagesFound[i];
+                var imgSrc = img.id;
+                var imageName = imgSrc.split('\/').pop();
+                if (window.innerWidth < 700) {
+                  /*console.log(imgSrc.to_s);
+                  Fader.fadeOutElement(img, 0.5);*/
+                  img.src = "/images/small/" + imageName;
+                  /*Fader.fadeInElement(img, 0.5);*/
+                }else{
+                  /*console.log(img);
+                  Fader.fadeOutElement(img, 1);*/
+                  img.src = "/images/" + imageName;
+                  /*Fader.fadeInElement(img, 0.5);*/
+                };
+            }
+        }
     </script>
   </body>
 </html>

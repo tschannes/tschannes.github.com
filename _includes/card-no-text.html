@@ -6,7 +6,8 @@
 
 {% if item.img %}<div class="home-pic-container">
   <figure>
-     <img src="/{{ item.img }}" 
+     <img src="/loader.gif"
+          id="{{ item.img }}" 
           {% if item.alt %}
             alt="{{ item.alt }}"
           {% elsif item.caption %}
@@ -21,3 +22,5 @@
       {% endif %}
   </figure>
 </div>{% endif %}
+
+<!-- /{{ item.img }} -->
