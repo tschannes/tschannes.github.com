@@ -64,14 +64,14 @@
     span{
         @extend #about-part;
         font-size:1.5em;
+        p{
+            margin:10%;
+            color:$brand-color-dark;
+        }
         @include media-query($on-laptop){
             font-size:1em;
         }
-        p,h2{
-            padding-left:20%;
-            padding-right:20%;
-            color:white;
-        }
+
     } 
 }
 
