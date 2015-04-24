@@ -55,6 +55,8 @@
 }
 
 .intro{
+    background-image: url(/kubist.svg);
+    /* background-size:cover; */
     @extend #about-container;
     .portrait{
         @extend #about-foto;
@@ -65,9 +67,10 @@
         @include media-query($on-laptop){
             font-size:1em;
         }
-        p{
-            padding-left:5%;
-            padding-right:5%;
+        p,h2{
+            padding-left:20%;
+            padding-right:20%;
+            color:white;
         }
     } 
 }
