@@ -56,7 +56,7 @@
 
 .intro{
     background-image: url(/kubist.svg);
-    /* background-size:cover; */
+    background-size:cover;
     @extend #about-container;
     .portrait{
         @extend #about-foto;
