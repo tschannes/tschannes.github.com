@@ -15,7 +15,7 @@ categories: content
 
 "Den sozial-kompetenten Bewerber", beantwortet Thomas Nanzer die Frage eines Informatik-Studierenden ohne zu zögern. 
 
-Er ist Head R&D Software Development bei der [Sensirion AG](http://www.sensirion.com/), einer Firma, die Sensor- und Softwarelösungen herstellt. Unter anderem hatte die Firma ein Bauteil für das weltweit erfolgreiche Mobiltelefon Samsung Galaxy S4 produziert.
+Er ist Head R&D Software Development bei der [Sensirion AG](http://www.sensirion.com/), einer Firma, die Sensor- und Softwarelösungen herstellt. Unter anderem hat die Firma ein Bauteil für das weltweit erfolgreiche Mobiltelefon Samsung Galaxy S4 produziert.
 
 Nanzer verwendet viel Zeit darauf, neue Mitarbeitende zu rekrutieren. Dabei achtet er vor allem darauf, dass er nicht nur technisch versierte, sondern möglichst auch team-kompatible Mitarbeitende anheuert. 
 
@@ -29,10 +29,10 @@ Die folgenden Tipps basieren auf einem Vortrag, den Thomas Nanzer im Rahmen der 
 
 - Als Kandidat benötigst du einen starkes technisches Fundament.
 - Du musst lernbereit sein. Denn gerade die IT-Industrie entwickelt sich rasant. Lernpausen gehen praktisch nicht mehr.
-- Du musst Prioritäten setzen können. Lerne nur, was du mehrmals oder über längere Zeit brauchen kannst, so die Devise. Dazu gehören die Kunst des Clean Code, Architekturen und ihr Konsequenzen, Design Patterns und ihre Anwendbarkeit und die Fähigkeit Abstraktionen erkennen und entwickeln zu können.  
+- Du musst Prioritäten setzen können. Lerne nur, was du mehrmals oder über längere Zeit brauchen kannst, so die Devise. Dazu gehören die Kunst des Clean Code, Architekturen und ihr Konsequenzen, Design Patterns und ihre Anwendbarkeit sowie die Fähigkeit Abstraktionen erkennen und entwickeln zu können.  
 - Du musst technische Dinge erklären können.
 
-> In Bewerbungsgesprächen, stelle ich Fragen zum Software Design. Mich interessiert, ob Bewerber die grundlegenden Prinzipien von Software verstehen. Ob sie zehn Programmier-Sprachen beherrschen ist mir vorerst egal.
+> In Bewerbungsgesprächen, stelle ich Fragen zum Software Design. Mich interessiert, ob Bewerber die grundlegenden Prinzipien von Software verinnerlicht haben. Ob sie zehn Programmier-Sprachen beherrschen ist mir vorerst egal.
 
 ## Persönliche Kompetenzen
 
@@ -70,8 +70,8 @@ Thomas Nanzer lebt vor, was er predigt. Er skizziert zwei fehlgeschlagene Projek
 
 Wichtig, aber nicht allein entscheidend für den Erfolg im Beruf sei der Studienweg, so Thomas Nanzer:  
 
-Bewerber, die eine universitäre Ausbildung absolviert haben, sind oft schnell, anpassungsfähig, stresserprobt und theoretisch versierte Schnelllerner.
+Bewerber, die eine universitäre Ausbildung absolviert haben, seien oft schnell, anpassungsfähig, stresserprobt und theoretisch versierte Schnelllerner.
 
-Absolventen der stärker praxisorientierten Fachhochschulen haben dagegen den Vorteil, dass sie vor und während ihrer Studienzeit berufstätig sein können. Ihre persönliche und professionelle Erfahrung kann im Bewerbungsgespräch -- gerade wegen der immer wichtiger werdenden Soft Skills -- das entscheidende Zünglein an der Wage sein.
+Absolventen der stärker praxisorientierten Fachhochschulen hätten dagegen den Vorteil, dass sie vor und während ihrer Studienzeit berufstätig sein können. Ihre persönliche und professionelle Erfahrung könne im Bewerbungsgespräch -- gerade wegen der immer wichtiger werdenden Soft Skills -- das entscheidende Zünglein an der Wage sein.
 
-Zuletzt gelte aber: Wer die technischen Basics mitbringt, flexibel ist und sich in ein Team einpassen kann, lernt auch noch im Job wie Zuhören, Nachfragen und Durchsetzen geht. 
+Zuletzt gilt aber: Wer die technischen Basics mitbringt, flexibel ist und sich in ein Team einpassen kann, lernt auch noch im Job wie Zuhören, Nachfragen und Durchsetzen geht. 
