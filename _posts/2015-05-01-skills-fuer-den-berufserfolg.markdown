@@ -21,7 +21,8 @@ Nanzer verwendet viel Zeit darauf, neue Mitarbeitende zu rekrutieren. Dabei acht
 
 Die Erfahrung hat ihn gelehrt, dass oft gerade die technisch talentiertesten Team-Mitglieder bei den sogenannten Soft Skills Lücken aufweisen. Kann oder will ein Entwickler nicht mit anderen über seine Aufgaben sprechen, ist er wertlos oder gar schädlich für die Firma. 
 
-Deshalb achtet Thomas Nanzer darauf, dass künftige Mitarbeitende, nicht nur eine solide technische Basis mitbringen, sondern auch 
+Deshalb achtet Thomas Nanzer darauf, dass künftige Mitarbeitende, nicht nur eine solide technische Basis mitbringen, sondern auch kommunikatives Gespür und Team-Fähigkeit an den Tag legen. 
+
 Die folgenden Tipps basieren auf einem Vortrag, den Thomas Nanzer im Rahmen der [Veranstaltungsreihe Hot Topics](https://www.hslu.ch/de-ch/technik-architektur/campus/veranstaltungen/2015/04/15/informatik-top-themen-2015-04-15/) an der Hochschule Luzern gehalten hat:
 
 ## Technische Basis
@@ -63,7 +64,7 @@ Thomas Nanzer lebt vor, was er predigt. Er skizziert zwei fehlgeschlagene Projek
 - Eine unvollständige Spezifikation am Anfang eines Projekts ist kein Problem. Aber solange du keine klare Vorstellung von den Zielen, von der **Vision** hast, solltest du nicht zu arbeiten anfangen.
 - Jeder im Team muss neue **Anforderungen überprüfen**. Nicht immer sind sie mit der Vision für das Projekt kompatibel.
 - **Iterative Arbeitsweisen** bewahren niemanden davor mitten im Projekt noch einmal die Architektur des ganzen Projekts zu überdenken.
-- Lass dich nicht von **Lösungs-Ideen** beeinflussen. Versuche stattdessen das zu lösende Problem zu verstehen und finde selber  heraus, wie du es am besten bewältigst.
+- Lass dich nicht von **Lösungs-Ideen** beeinflussen. Versuche stattdessen das zu lösende Problem zu verstehen und finde selber heraus, wie du es am besten bewältigst.
 
 ## Wo lernen Programmierer Kommunikation?
 
