@@ -55,7 +55,7 @@ Auch die Verwendung von bestimmten Genres und Text-Typen hilft Lesern und Zuhör
 6. **URLs** stellen einen groben Kontext her.
 6. ... 
 
-Diese konventionellen Kleistgattungen nehmen dem Publikum Arbeit ab, indem sie ihm die Orientierung erleichtern. So wissen wir ja alle was folgt, wenn jemand eine Erzählung beginnt mit: "Es war einmal..." Wenn Leser ahnen, was sie erwartet, fällt es ihnen leichter das Kommende zu verarbeiten (mehr zu diesem [sogenannten Priming-Effekt](http://en.wikipedia.org/wiki/Priming_(psychology))?). Wenn wir Text-Konventionen verwenden, nehmen wir unseren Lesern Arbeit ab.
+Diese konventionellen Kleinstgattungen nehmen dem Publikum Arbeit ab, indem sie ihm die Orientierung erleichtern. So wissen wir ja alle was folgt, wenn jemand eine Erzählung beginnt mit: "Es war einmal..." Wenn Leser ahnen, was sie erwartet, fällt es ihnen leichter das Kommende zu verarbeiten (mehr zu diesem [sogenannten Priming-Effekt](http://en.wikipedia.org/wiki/Priming_(psychology))?). Wenn wir Text-Konventionen verwenden, nehmen wir unseren Lesern Arbeit ab.
 
 #### Texte sprechen die Sprache des Publikums!
 
