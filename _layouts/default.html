@@ -44,8 +44,9 @@
         function changeImages(){
             var imagesFound = document.getElementsByTagName("img");
             var arrayLength = imagesFound.length;
-            for (var i = 1; i < arrayLength+1; i++) {
+            for (var i = 0; i < arrayLength; i++) {
                 var img = imagesFound[i];
+              if (img.hasAttribute('id')) {  
                 var imgSrc = img.id;
                 var imageName = imgSrc.split('\/').pop();
                 if (window.innerWidth < 700) {
@@ -60,6 +61,7 @@
                   /*Fader.fadeInElement(img, 0.5);*/
                 };
             }
+          };
         }
     </script>
   </body>
