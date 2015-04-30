@@ -1,5 +1,4 @@
----
----
+
 
 bigScreenLimit = 1200
 ad = document.getElementsByClassName("ad")[0]

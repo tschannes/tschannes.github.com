@@ -14,7 +14,7 @@
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt}}{% else %}{{ site.description }}{% endif %}">
-    <link async rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+    {% stylesheet app %}
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <!-- Twitter Card data -->
     <meta name="twitter:card" content="summary">
