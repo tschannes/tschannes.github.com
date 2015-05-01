@@ -2,7 +2,7 @@ require 'rubygems'
 require 'mini_magick'
 
 #variables 
-images = "./images/*/*.jpg"
+images = "./images/*.jpg"
 small_images = "./images/small/"
 
 Dir.glob(images) do |img|
