@@ -3,7 +3,7 @@ layout: post
 title: Zwölf Wege zu neuen Bildideen
 date: 2014-12-09
 excerpt: "Ein Repertoire von Denkanstössen macht es leichter, Abstraktes neu zu denken und konkret in Bildern darzustellen."
-img: "images/abstrakt/car-face.jpg"
+img: "images/car-face.jpg"
 alt: "Regentropfen stehen als 'Pars	pro toto' für Regen oder für Gewitter."
 caption: false
 comments: true
@@ -24,17 +24,17 @@ Dabei gibt es sie, die Rezepte für neue Bild-Ideen. Ein wenig Zeit und Mut gen�
 # 1. Metonymie
 Setze ein Attribut (eine Eigenschaft, eine Folgeerscheinung) ein statt das ganze Konzept.
 
-{% include image.html url="/images/abstrakt/wind.jpg" description="Wind ist unsichtbar. Nicht so die Bewegung, welche er verursacht: Ein Windsack zeigt metonymisch Wind. Bild: Markus Spiske, <a target='_blank' href='http://www.temporausch.com'>temporausch.com</a>, CC BY." %}
+{% include image.html url="/images/wind.jpg" description="Wind ist unsichtbar. Nicht so die Bewegung, welche er verursacht: Ein Windsack zeigt metonymisch Wind. Bild: Markus Spiske, <a target='_blank' href='http://www.temporausch.com'>temporausch.com</a>, CC BY." %}
 
 # 2. Pars pro toto
 Verwende einen Teil, um das Ganze darzustellen.
 
-{% include image.html url="/images/abstrakt/thron.jpg" description="Das ganze Schloss lässt sich nicht photographisch einfangen? Ein Teil, hier der Thronsaal, repräsentiert das Ganze. Bild: Markus Spiske, <a target='_blank' href='http://www.temporausch.com'>temporausch.com</a>, CC BY." %}
+{% include image.html url="/images/thron.jpg" description="Das ganze Schloss lässt sich nicht photographisch einfangen? Ein Teil, hier der Thronsaal, repräsentiert das Ganze. Bild: Markus Spiske, <a target='_blank' href='http://www.temporausch.com'>temporausch.com</a>, CC BY." %}
 
 # 3. Symbol
 Setze etwas ein, was per Konvention immer für etwas anderes gebraucht wird. 
 
-{% include image.html url="/images/abstrakt/symbol.jpg" description="'Weihnachten' lässt sich am einfachsten mit einem der vielen Symbole dafür visualisieren: Tannenbaum, Weihnachtsstern und Deko. Bild: Markus Spiske, <a target='_blank' href='http://www.temporausch.com'>temporausch.com</a>, CC BY." %}
+{% include image.html url="/images/symbol.jpg" description="'Weihnachten' lässt sich am einfachsten mit einem der vielen Symbole dafür visualisieren: Tannenbaum, Weihnachtsstern und Deko. Bild: Markus Spiske, <a target='_blank' href='http://www.temporausch.com'>temporausch.com</a>, CC BY." %}
 
 # 4. Simile (Vergleich)
 Bringe das Konzept mit einem ungewohnt anderen in Verbindung. 
@@ -44,32 +44,32 @@ Bringe das Konzept mit einem ungewohnt anderen in Verbindung.
 # 5. Kontext
 Zeige etwas ausserhalb seines angestammten Kontextes.
 
-{% include image.html url="/images/abstrakt/musik.jpg" description="'Schattenseiten des Musikerlebens': Gitarre und Verstärker werden auf einem Parkplatz, ausserhalb ihres angestammten Kontexts auf der Bühne abgebildet. Bild: Markus Spiske, <a target='_blank' href='http://www.temporausch.com'>temporausch.com</a>, CC BY." %}
+{% include image.html url="/images/musik.jpg" description="'Schattenseiten des Musikerlebens': Gitarre und Verstärker werden auf einem Parkplatz, ausserhalb ihres angestammten Kontexts auf der Bühne abgebildet. Bild: Markus Spiske, <a target='_blank' href='http://www.temporausch.com'>temporausch.com</a>, CC BY." %}
 
 # 6. Kontrast
 Stelle ein Konzept so dar, dass es der Realität, wie wir sie kennen, widerspricht.
 
-{% include image.html url="/images/abstrakt/verkehr.jpg" description="Es ist für uns nicht möglich, dies zu sehen. Und doch wissen wir, dass die farbigen Streifen auf vorbeischiessende Autos zurückzuführen sind. Der Kontrast macht das Bild spannend. Bild: Markus Spiske, <a target='_blank' href='http://www.temporausch.com'>temporausch.com</a>, CC BY." %}
+{% include image.html url="/images/verkehr.jpg" description="Es ist für uns nicht möglich, dies zu sehen. Und doch wissen wir, dass die farbigen Streifen auf vorbeischiessende Autos zurückzuführen sind. Der Kontrast macht das Bild spannend. Bild: Markus Spiske, <a target='_blank' href='http://www.temporausch.com'>temporausch.com</a>, CC BY." %}
 
 # 7. Beispiel
 Zeige nicht das Konzept, sondern eine Anwendung, ein Beispiel davon.
 
-{% include image.html url="/images/abstrakt/energie.jpg" description="Energie ist unsichtbar. Der Herstellungsprozess aber, hier eine Windturbine, kann sehr wohl visualisiert werden. Bild: Markus Spiske, <a target='_blank' href='http://www.temporausch.com'>temporausch.com</a>, CC BY." %}
+{% include image.html url="/images/energie.jpg" description="Energie ist unsichtbar. Der Herstellungsprozess aber, hier eine Windturbine, kann sehr wohl visualisiert werden. Bild: Markus Spiske, <a target='_blank' href='http://www.temporausch.com'>temporausch.com</a>, CC BY." %}
 
 # 8. Synästhesie
 Wechsle die Sinne. Statt etwas direkt visuell zeigen zu wollen: Denke an Gerüche, Geräusche, Gefühle.
 
-{% include image.html url="/images/abstrakt/dorn.jpg" description="Natürlich sehen wir die Dornen. Dass wir wissen, wie sich Dornen anfühlen, macht das Bild aber erst eindrücklich. Bild: Markus Spiske, <a target='_blank' href='http://www.temporausch.com'>temporausch.com</a>, CC BY." %}
+{% include image.html url="/images/dorn.jpg" description="Natürlich sehen wir die Dornen. Dass wir wissen, wie sich Dornen anfühlen, macht das Bild aber erst eindrücklich. Bild: Markus Spiske, <a target='_blank' href='http://www.temporausch.com'>temporausch.com</a>, CC BY." %}
 
 # 9. Übertreibung
 Stelle etwas übertrieben dar.
 
-{% include image.html url="/images/abstrakt/uebertrieben.jpg" description="Machen Bilder etwas ganz gross, gewinnt es neue Eigenschaften. Plötzlich sehen wir die feinen Mikrostrukturen, statt die gesamten Panels. Bild: Markus Spiske, <a target='_blank' href='http://www.temporausch.com'>temporausch.com</a>, CC BY." %}
+{% include image.html url="/images/uebertrieben.jpg" description="Machen Bilder etwas ganz gross, gewinnt es neue Eigenschaften. Plötzlich sehen wir die feinen Mikrostrukturen, statt die gesamten Panels. Bild: Markus Spiske, <a target='_blank' href='http://www.temporausch.com'>temporausch.com</a>, CC BY." %}
 
 # 10. Personifikation
 Stelle etwas dar, als ob es eine Person wäre.
 
-{% include image.html url="/images/abstrakt/car.jpg" description="Es ist ein Auto mit Seele. Statt Scheinwerfer, Motorhaube und Verdeck sehen wir Augen, Mund und hohe Stirn. Visuelle Personifikation schafft Empathie." %}
+{% include image.html url="/images/car.jpg" description="Es ist ein Auto mit Seele. Statt Scheinwerfer, Motorhaube und Verdeck sehen wir Augen, Mund und hohe Stirn. Visuelle Personifikation schafft Empathie." %}
 
 # 11. Paradox
 Zeige etwas so, dass es in sich widersprüchlich ist.
@@ -80,7 +80,7 @@ Zeige etwas so, dass es in sich widersprüchlich ist.
 # 12. Ironie
 Zeige das Gegenteil von dem, was du sagen möchtest und übertreibe dabei.
 
-{% include image.html url="/images/abstrakt/putin.jpg" description="Vladimir Putin ist kein Astronaut. Oder? Schliesslich ist er Grosswildjäger, professioneller Held und regelmässiger Retter der Nation. Ironie im Bild." %}
+{% include image.html url="/images/putin.jpg" description="Vladimir Putin ist kein Astronaut. Oder? Schliesslich ist er Grosswildjäger, professioneller Held und regelmässiger Retter der Nation. Ironie im Bild." %}
 
 
 <a name="short" class="anchor">&nbsp</a>

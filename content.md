@@ -26,6 +26,7 @@ order: 2
 - [75 Content Starters for Any Industry](http://moz.com/blog/75-content-starters-for-any-industry): Die SEO-Agentur moz.com listet 75 Wege (oder Content-Typen), wie Inhaltsstrategen aus leeren Seiten funktionierende Inhalte machen.
 
 ##Content Strategy at Work: Beispiele
+- moz.com zeigt, dass Outreach vor Content-Produktion kommen muss. 1-2-1-Approach am Beispiel einer [fiktionalen Auto-Reparatur-Werkstätte](http://moz.com/blog/how-to-create-content-for-boring-industries?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+seomoz+%28SEOmoz+Daily+Blog%29)
 - [The Answer Factory: Demand Media and the Fast, Disposable, and Profitable as Hell Media Model](http://www.wired.com/magazine/2009/10/ff_demandmedia/all/): Daniel Roth von wired.com schreibt darüber, wie radikale Content-Strategie Plattformen wie ehow.com zu Giganten des Internet gemacht hat.
 - [Kristina Halvorson about gov.uk](http://www.lukew.com/ff/entry.asp?1803): Luke Wroblenski fasst Kristina Halvorsons Erkenntnisse aus dem Relaunch der [britischen Regierungs-Admin-Seite](https://www.gov.uk/) zusammen. 
 - [Structure First, Content Always](http://www.markboulton.co.uk/journal/structure-first-content-always): Mark Boulton zeigt anhand seiner Arbeit für die British Broadcasting Company (BBC), dass gutes Web-Design nur gelingt, wenn Projektteams die Struktur der künftigen Inhalte ganz an den Anfang stellen.
