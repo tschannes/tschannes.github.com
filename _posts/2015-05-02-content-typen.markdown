@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "15 Content-Formate für effektivere Inhalte"
-date: 2015-05-02
+date: 2015-05-01
 excerpt: "Nur wer digitale Erzähl-Formate wie Listicles, Lead-Texte und Memes kennt, kann Inhalte produzieren, die gefallen, geteilt und verlinkt werden."
 img: "images/squares.jpg"
 alt: "Digitale Inhalte haben viele Formen und Gesichter."
@@ -122,4 +122,6 @@ Die Investitionen für ein Werbe-Game stemmen aber erst wenige Firmen. Dass es s
 <div class="frame">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/D93m60nsvDM" frameborder="0" allowfullscreen></iframe>
 </div>
+
+Kennen Sie ein Content-Format, das mir entgangen ist? Sagen Sie mir Bescheid!
 
