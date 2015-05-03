@@ -1,5 +1,3 @@
-
-
 bigScreenLimit = 1200
 ad = document.getElementsByClassName("ad")[0]
 
@@ -41,5 +39,9 @@ watchIt = ->
   return
 
 #Calling functions
-makeFixed()
-watchIt()
+path = window.location.pathname
+if path == '/' || path == '/content/' || path == '/text/'
+  #console.log('call to action is displayed because path is ' + path)
+  makeFixed()
+  watchIt()
+#else console.log('path is ' + path)
