@@ -27,7 +27,7 @@ Die folgenden Tipps basieren auf einem Vortrag, den Thomas Nanzer im Rahmen der 
 
 ## Technische Basis
 
-- Als Kandidat benötigst du einen starkes technisches Fundament.
+- Als Kandidat benötigst du ein starkes technisches Fundament.
 - Du musst lernbereit sein. Denn gerade die IT-Industrie entwickelt sich rasant. Lernpausen gehen praktisch nicht mehr.
 - Du musst Prioritäten setzen können. Lerne nur, was du mehrmals oder über längere Zeit brauchen kannst, so die Devise. Dazu gehören die Kunst des Clean Code, Architekturen und ihr Konsequenzen, Design Patterns und ihre Anwendbarkeit sowie die Fähigkeit Abstraktionen erkennen und entwickeln zu können.  
 - Du musst technische Dinge erklären können.
