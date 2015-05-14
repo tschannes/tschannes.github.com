@@ -3,8 +3,8 @@
   
   {% include head.html %}
 
-  <body onload="linkTargets(), loadFonts(), changeImages()">
-    {% include analytics.html %}
+  <body onload="linkTargets(), changeImages(), loadFonts()">
+    
     {% include header.html %}
 
     <div class="page-content">
@@ -16,6 +16,6 @@
     {% include footer.html %}
 
     {% javascript app async %}
-    
+
   </body>
 </html>
