@@ -16,15 +16,16 @@ function loadFonts() {
     });
   }
 
-// Create the scrollbar measurement node hack by David Walsh
+// Measer the scrollbar width. hack by David Walsh
 var scrollDiv = document.createElement("div");
 scrollDiv.className = "scrollbar-measure";
 document.body.appendChild(scrollDiv);
 var scrollbarWidth = scrollDiv.offsetWidth - scrollDiv.clientWidth;
 document.body.removeChild(scrollDiv);
 
-// Replace Loader with either small or big images
+// Replace Loader gif with either small or big images
 function changeImages() {
+  //console.log("changeImages() is being called");
   var imagesFound = document.getElementsByTagName("img");
   var arrayLength = imagesFound.length;
   for (var i = 0; i < arrayLength; i++) {
@@ -33,16 +34,10 @@ function changeImages() {
       var imgSrc = img.id;
       var imageName = imgSrc.split('\/').pop();
       if (window.innerWidth < 700) {
-        /*console.log(imgSrc.to_s);
-        Fader.fadeOutElement(img, 0.5);*/
         img.src = "/images/small/" + imageName;
-        /*Fader.fadeInElement(img, 0.5);*/
       } else {
-        /*console.log(img);
-        Fader.fadeOutElement(img, 1);*/
         img.src = "/images/" + imageName;
-        /*Fader.fadeInElement(img, 0.5);*/
-      };
+      }
     }
   };
 }
