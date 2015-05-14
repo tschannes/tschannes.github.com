@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fragen sind die Währung der Zukunft"
+title: "Wissen ist einfach. Fragen ist schwer."
 date: 2015-05-20
 excerpt: ""
 img: "images/question.jpg"
@@ -11,9 +11,13 @@ related: true
 categories: content
 ---
 
-Wissen ist wichtig. Gleichzeitig ist Wissen nur Mittel zum Zweck. Der Zweck ist Weiterentwicklung
+## Wissen ist einfach
 
-Wissen, Skills, Kompetenzen sind gefragt.
+Wissen ist überall. Google und Wikipedia stellen mehr Wissen zur Verfügung als ein Mensch je verarbeiten kann. Täglich entstehen XXX Millionen neue Websites, XXX Stunden Film, XXX Seiten Text.
+
+Wissen ist einfacher sehr viel einfacher zugänglich geworden: In physische Bibliotheken geht nur noch, wer die spezielle, leicht nostalgische Atmosphäre mag. Zettelkataloge, Ausleihfristen, Öffnungszeiten: All das muss nicht mehr sein.
+
+Im 21. Jahrhundert können wir immer und überall auf Information zugreifen. Es ist nicht nötig Information zu speichern. Gigantische Server-Farmen ersetzen das menschliche Hirn, so scheint es.
 
 Knowledge at our fingertips
 Wikipedia looming
@@ -21,9 +25,18 @@ Numbers pervasive
 Key Performance Indicators
 APIs
 
+## Fragen ist schwer
+
 Questions are hard.
 Improvement is uncomfortable.
 
+## Leben an der Grenze zum Verstehen
+
+
 Questions fascinate because they force us to scratch at things we cannot quite understand.
 
-Examples for not quite understanding: Poetry (Nathanson, Book of Nightmares), Code (tiniest algo), Deep Web (Porn, Arms, Freedom)
+Examples for not quite understanding: 
+
+- Poetry (Nathanson, Book of Nightmares)
+- Code (tiniest algo)
+- Deep Web (Porn, Arms, Freedom)
