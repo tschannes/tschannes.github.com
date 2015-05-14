@@ -11,4 +11,4 @@ related: true
 categories: content
 ---
 
-asdf
+Wissen, Skills, Kompetenzen sind gefragt.
