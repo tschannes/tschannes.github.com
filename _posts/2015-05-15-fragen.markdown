@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fragen sind die Währung der Zukunft"
-date: 2015-05-01
+date: 2015-05-20
 excerpt: ""
 img: "images/question.jpg"
 alt: "Fragen"
@@ -11,4 +11,19 @@ related: true
 categories: content
 ---
 
+Wissen ist wichtig. Gleichzeitig ist Wissen nur Mittel zum Zweck. Der Zweck ist Weiterentwicklung
+
 Wissen, Skills, Kompetenzen sind gefragt.
+
+Knowledge at our fingertips
+Wikipedia looming
+Numbers pervasive
+Key Performance Indicators
+APIs
+
+Questions are hard.
+Improvement is uncomfortable.
+
+Questions fascinate because they force us to scratch at things we cannot quite understand.
+
+Examples for not quite understanding: Poetry (Nathanson, Book of Nightmares), Code (tiniest algo), Deep Web (Porn, Arms, Freedom)
