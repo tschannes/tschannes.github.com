@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Wissen ist einfach. Fragen ist schwer."
+title: "Drei Wege, wie man Fragen findet"
 date: 2015-05-20
-excerpt: ""
+excerpt: "Die These: Fragen sind wichtiger als Antworten. Nur wer weiss, wie er zu neuen Fragen kommt, kann in unserer digitalen Wissensgesellschaft bestehen. Sie fragen sich warum?"
 img: "images/question.jpg"
 alt: "Fragen"
 caption: "https://www.flickr.com/photos/horiavarlan/4290549806"
