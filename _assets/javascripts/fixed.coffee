@@ -40,7 +40,7 @@ watchIt = ->
 
 #Calling functions
 path = window.location.pathname
-if path == '/' || path == '/content/' || path == '/text/'
+if path == '/' || path == '/content/' || path == '/text/' || path == '/referenzen/'
   #console.log('call to action is displayed because path is ' + path)
   makeFixed()
   watchIt()
