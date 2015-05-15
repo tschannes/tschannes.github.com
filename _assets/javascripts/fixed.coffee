@@ -26,7 +26,6 @@ makeFixed = ->
       ad.style.right = marginRight
     else
       ad.removeAttribute "style"
-      ###console.log('restyling applied.')###
     return
 
 watchIt = ->
@@ -34,14 +33,17 @@ watchIt = ->
     if window.innerWidth > bigScreenLimit
       makeFixed()
     else
-      ad.removeAttribute "style"
-      ###console.log('restyle() called.')###
+      this.ad.removeAttribute "style"
   return
 
-#Calling functions
-path = window.location.pathname
-if path == '/' || path == '/content/' || path == '/text/' || path == '/referenzen/'
-  #console.log('call to action is displayed because path is ' + path)
-  makeFixed()
-  watchIt()
-#else console.log('path is ' + path)
+#Run functions
+Runner = ->
+  needed = ->
+    path = window.location.pathname
+    true if path == '/' || path == '/content/' || path == '/text/' || path == '/referenzen/'
+  this.run = if needed()
+    makeFixed()
+    watchIt()
+
+r = new Runner
+r.run

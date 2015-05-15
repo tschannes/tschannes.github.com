@@ -25,7 +25,6 @@ document.body.removeChild(scrollDiv);
 
 // Replace Loader gif with either small or big images
 function changeImages() {
-  //console.log("changeImages() is being called");
   var imagesFound = document.getElementsByTagName("img");
   var arrayLength = imagesFound.length;
   for (var i = 0; i < arrayLength; i++) {
@@ -39,5 +38,5 @@ function changeImages() {
         img.src = "/images/" + imageName;
       }
     }
-  };
+  }
 }

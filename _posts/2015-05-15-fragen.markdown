@@ -11,7 +11,29 @@ related: true
 categories: content
 ---
 
+Wenn wir nicht finden, was wir suchen liegt der Fehler nur selten bei Google oder Wikipedia. Oft wissen wir einfach nicht genau, auf welche Frage wir Antworten wollen.
+
+Konsequenterweise finden wir Dinge in Suchresultatslisten, die uns nicht interessieren. Aber auch auf unsere Tätigkeit als Content Professionals haben unscharfe Fragen Auswirkungen: 
+
+Solange wir nicht wissen, welche Fragen ein Konzept beantworten soll, mit welchen Fragen Besucher durch unser Informationsarchitektur navigieren, mit welchen Zielen sie unsere Texte lesen und unsere Präsentation über sich ergehen lassen, bleiben diese Artefakte Sammelsurien von Fakten.
+
+Erst wenn, die richtige Frage -- etwas brüsk und vielleicht nicht ganz politisch korrekt -- im Raum steht, entstehen Botschaften, Inhalte und Strukturen, die funktionieren.
+
+Im Folgenden beschreibe ich deshalb meinen Weg zu guten Fragen.
+
+1. Know when you need a question: Things cannot be summed up in an elevator pitch? You would not know where to start? You are in for some question hunting.
+
+2. Take the opposite stance: Be a devil's advocate.
+
+3. Avoid Thinking for a bit. Meditation, Showers, Strolls, 
+
+4. Refer to Why, how, when, who, what. They are your friends.
+
+5. Take Answers to refine your questions. (Google, Keywordtool.io)
+
 ## Wissen ist einfach
+
+Information ist das Erdöl d
 
 Wissen ist überall. Google und Wikipedia stellen mehr Wissen zur Verfügung als ein Mensch je verarbeiten kann. Täglich entstehen XXX Millionen neue Websites, XXX Stunden Film, XXX Seiten Text.
 
