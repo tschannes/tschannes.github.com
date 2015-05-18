@@ -184,7 +184,6 @@ ul{
         height: 100%;
 }
 
-
 // front page customization
 
 .card{
@@ -265,39 +264,30 @@ ul{
     }
 }
 
-/* .fixed{
-    position:fixed;
-    top:5em;
-} */
-
 .contact{
     padding:$spacing-unit;
-/*     ul li{
-        width:100% !important;
-    }
-    li{
-        padding:0 !important;
-    } */
 }
 
 .home .post-list{
     @extend .post-list;
     > :first-child{
         width:98%;
-        @include media-query($on-palm){
-            width:100%;
-        }
     }
     @include media-query($on-laptop){
         > :first-child{
-            margin-right:0;
-            width:100%;
+            margin-right:2%;
+            width:48%;
         }
         > :nth-child(2n+1){
-            margin-right:0;
+            margin-right:2%;
         }
         > :nth-child(2n+2){
-            margin-right:2%; 
+            margin-right:0; 
+        }
+    }
+    @include media-query($on-palm){
+        >:first-child{
+            width:100%;
         }
     }
 }
@@ -320,8 +310,6 @@ ul{
         }
     }
 }
-
-
 
 .wrapper{
     max-width:$wrapper-width;
