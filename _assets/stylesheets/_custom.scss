@@ -272,9 +272,6 @@ ul{
     @extend .post-list;
     > :first-child{
         width:98%;
-        @include media-query($on-palm){
-            width:100%;
-        }
     }
     @include media-query($on-laptop){
         > :first-child{
@@ -286,6 +283,11 @@ ul{
         }
         > :nth-child(2n+2){
             margin-right:0; 
+        }
+    }
+    @include media-query($on-palm){
+        >:first-child{
+            width:100%;
         }
     }
 }
