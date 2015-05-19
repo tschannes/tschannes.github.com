@@ -31,3 +31,6 @@ Ich bin kein Erzähler, sage ich mir immer wieder. Ich habe nichts zu sagen, und
 - Abweichung
 - Roter Faden (things that hold the elements of a story together, Rhythmus, Illusion)
 - Spannung (what's next, waiting for epiphany, conflict, secrets)
+- Examples. Exkurse.
+- Show don't tell
+- Tone
