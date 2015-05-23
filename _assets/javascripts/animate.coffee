@@ -1,13 +1,18 @@
-els = document.getElementsByClassName('card');
+el = document.getElementsByTagName('body')
 
-fadeIn = ->
-	#Velocity(els, "transition.flipXIn", {opacity:1}, {stagger:200});
-	Velocity(els, "transition.bounceDownIn")
+efx = ->
+	Velocity(el, "transition.expandIn", {stagger:100});
+	######console.log("efx called. El is " + el.toString())
+window.addEventListener("click", efxOut);
 
-watch = ->
-	els.addEventListener "mouseover", (evt) ->
-		fadeIn(evt)
-		alert('faded in.')
-		
+efxOut = ->
+	#prevent.Default
+	console.alert('wait.')
+	Velocity(el, "transition.expandOut")
 
-watch()
+window.efx = efx
+window.efxOut = efxOut
+
+//= require velocity.js
+//= require velocity.ui.min.js
+//= require animate.coffee

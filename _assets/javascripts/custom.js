@@ -3,6 +3,8 @@ function linkTargets() {
     for (var links = document.links, i = 0, a; a = links[i]; i++) {
       if (a.host !== location.host && a.id !== "tglBtn") {
         a.target = '_blank';
+      }else{
+        a.call = "efxOut";
       }
     }
   }
@@ -30,12 +32,12 @@ function changeImages() {
   for (var i = 0; i < arrayLength; i++) {
     var img = imagesFound[i];
     if (img.hasAttribute('id')) {
-      var imgSrc = img.id;
-      var imageName = imgSrc.split('\/').pop();
+      var newImgSrc = img.id;
+      var newImageName = newImgSrc.split('\/').pop();
       if (window.innerWidth < 700) {
-        img.src = "/images/small/" + imageName;
+        img.src = "/images/small/" + newImageName;
       } else {
-        img.src = "/images/" + imageName;
+        img.src = "/images/" + newImageName;
       }
     }
   }
