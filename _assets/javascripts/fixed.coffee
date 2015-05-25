@@ -47,4 +47,3 @@ Runner = ->
 
 r = new Runner
 r.run
-
