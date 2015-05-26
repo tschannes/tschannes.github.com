@@ -76,3 +76,5 @@ Gerade Marketing-Erzählungen laufen Gefahr, nicht als eine Geschichte mit einer
 **12. Tonfall**: Auch die Art, wie etwas erzählt oder gezeigt wird, kann die verschiedenen Episoden einer Erzählung zusammenbringen. In der Werbung sorgt dies nicht nur für Kohärenz sondern auch dafür, dass ein Publikum einzelne Ads als Teile einer grösseren Kampagne wiedererkennt.
 
 > Das oben erwähnte Beispiel des Versicherers Mobiliar, die Get-a-Mac-Serie oder auch die [Red Bull verleiht dir Flügel-Kampagne](https://www.youtube.com/watch?v=K31dg86OmuM) sind sind exzellente Beispiele für Marken, die einen Ton anschlagen und durchziehen.
+
+Kennen Sie weitere Erzähl-Zutaten? Ist mir ein narrativ-Baustein durch die Lappen gegangen? Lassen Sie es mich wissen @tscherris!
