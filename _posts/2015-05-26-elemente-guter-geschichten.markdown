@@ -14,7 +14,7 @@ categories: text
 Eine Geschichte besteht aus Erzählbausteinen und narrativem Klebstoff: Gute Erzählungen funktionieren, weil sie die richtigen Elemente gekonnt verbinden. Manchmal genügt eine Erzähl-Zutat und aus einem langweiligen Seitenfüller wird packendes Storytelling.
 
 
-## Der Hauptgang
+## Basis und Grundlagen
 
 Die folgenden Elemente sind die Grundbausteine einer Geschichte. Erzählungen ohne Helden, monströse Hindernisse und Kulmination in einer Heldentat funktionieren nur selten.
 
@@ -61,11 +61,11 @@ Storytelling bewegt sich immer zwischen Konvention und Kreatitivät, zwischen No
 
 > Möbelhersteller [IKEA bewarb den letzten Druck-Katalog](https://www.youtube.com/watch?v=MOXQo7nURs0) ganz so, als ob es ein hoch-computerisiertes Gadget wäre. Der Bezug auf eine Konvention in der Tech-Werbung und der Bruch mit derselben machen diese Erzählung überraschend-wirksam.
 
-## Bindemittel
+## Bindemittel und Kohärenz
 
 Gerade Marketing-Erzählungen laufen Gefahr, nicht als eine Geschichte mit einer Botschaft wahrgenommen zu werden. Wenn etwa ein zentraler Protagonist fehlt, ist es wichtig Stories mit folgenden Ingredienzen zu Einheiten zu binden: 
 
-**10. Rhythmus**: Erzählungen wirken lebhafter, wenn sie abwechslungsreich sind. Mit Wiederholungen binden Storyteller die einzelnen Episoden zu einem Ganzen zusammen.
+**10. Rhythmus**: Erzählungen wirken lebhafter, wenn sie abwechslungsreich sind. Mit regelmässig eingesetzten Wiederholungen binden Storyteller die einzelnen Episoden zu einem Ganzen zusammen.
 
 > Die [Werbe-Kampagne 'I am'](https://www.youtube.com/watch?v=0qjzhJKlvS8) des Kamera-Herstellers Nikon zeigt dies eindrücklich. Immer wieder eingeblendete 'I am'-Aussagen binden sehr unterschiedliche Episoden sehr wirksam zusammen.
 
