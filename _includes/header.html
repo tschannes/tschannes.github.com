@@ -2,9 +2,9 @@
   <!-- logo -->
   <div class="wrapper">
     {% if page.url == '/index.html' | prepend: site.baseurl %}
-      <a class="site-title" href="{{ site.baseurl }}/"><img src="/images/logo.png" alt="{{ site.title }}"></a>
-    {% else %}
       <a class="site-title" href="{{ site.baseurl }}/"><img src="/images/logo-neg.png" alt="{{ site.title }}"></a>
+    {% else %}
+      <a class="site-title" href="{{ site.baseurl }}/"><img src="/images/logo-grey.png" alt="{{ site.title }}"></a>
     {% endif %}
     <!-- nav -->
     <nav class="site-nav">

@@ -2,13 +2,13 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $brand-color-dark;
+    background-color: $grey-color-light;
+    /* border-bottom: 5px solid $brand-color-dark; */
     min-height: 56px;
     width:100%;
     position:static;
     z-index:1;
-    background-color:white;
-    @include shadow;
+/*     @include shadow; */
 }
 
 .site-title {
@@ -21,6 +21,9 @@
     &:visited {
         color: $grey-color-dark;
     }
+    img{
+        height:56px;
+    }
 }
 
 .site-nav {
@@ -31,10 +34,11 @@
         display: none;
     }
     .page-link {
-        color: $text-color;
-        line-height: $base-line-height;
-        margin-left:1em;
-        padding-top:13px;
+        color: white;
+        padding-left:0.5em;
+        padding-right:0.5em;
+        padding-top:16px;
+        padding-bottom:25px;
     }
 
     @include media-query($on-palm) {
@@ -44,7 +48,7 @@
             padding-right: 1em;
             text-align: right;
             font-weight:bold;
-            color:$brand-color-dark;
+            color:white;
         }
 
         .trigger {
@@ -61,8 +65,8 @@
 
         .page-link {
             display: block;
-            padding: 1em 1em;
-            border-top:1px solid $grey-color-light;
+            padding: 0 1em 0 1em;
+            border-top:1px solid white;
         }
     }
 }
