@@ -41,7 +41,7 @@
             padding-right: 1em;
             text-align: right;
             font-weight:bold;
-            color:white;
+            color:$grey-color-dark;
         }
 
         .trigger {
@@ -60,6 +60,7 @@
             display: block;
             padding: 0 1em 0 1em;
             border-top:1px solid white;
+            background-color:$grey-color-light;
         }
     }
 }
