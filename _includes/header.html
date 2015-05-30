@@ -1,11 +1,7 @@
 <header class="site-header">  
   <!-- logo -->
   <div class="wrapper">
-    {% if page.url == '/index.html' | prepend: site.baseurl %}
       <a class="site-title" href="{{ site.baseurl }}/">{% include logo.html %}</a>
-    {% else %}
-      <a class="site-title" href="{{ site.baseurl }}/"><img src="/images/logo-grey.png" alt="{{ site.title }}"></a>
-    {% endif %}
     <!-- nav -->
     <nav class="site-nav">
       <a href="#" class="menu-icon">MENU</a>
@@ -24,4 +20,3 @@
     </nav>
   </div>
 </header>
-
