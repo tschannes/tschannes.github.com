@@ -82,3 +82,7 @@ Zwischentitel fassen den nachfolgenden Text zusammen. Sie versuchen nicht über 
 *   Dialog-Situationen fürs Review suchen
 *   Titel nicht überladen sondern einfach und funktional halten
 *   Inspiration für Titel kann von überall herkommen
+
+## Update
+
+Unbedingt auch lesen [6 Pro Secrets for Portfolio Headlines that Convert](http://www.webdesignerdepot.com/2015/05/6-pro-secrets-for-portfolio-headlines-that-convert/).
