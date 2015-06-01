@@ -11,16 +11,16 @@ makeFixed = (el) ->
     else
       height = 0
 
-  introHeight = measure('intro')
+  #introHeight = measure('intro')
   navHeight = measure('site-header')
 
   window.addEventListener "scroll", (evt) ->
     distanceFromTop = (document.documentElement.scrollTop or document.body.scrollTop)
     # The user has scrolled to the top of the page. Remove styles.
-    ad.removeAttribute "style" if distanceFromTop <= (navHeight + introHeight)
+    ad.removeAttribute "style" if distanceFromTop <= (navHeight)
     # The user has scrolled down the page and we are on a big screen
     marginRight = (window.innerWidth - document.querySelectorAll('.home, .post')[0].offsetWidth - scrollbarWidth) / 2 + "px";
-    if distanceFromTop > (navHeight + introHeight) and bigScreen()
+    if distanceFromTop > (navHeight) and bigScreen()
       ad.style.position = "fixed"
       ad.style.top = "2em"
       ad.style.right = marginRight

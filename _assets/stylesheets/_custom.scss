@@ -55,18 +55,13 @@
     }
 }
 
-.intro{
+/* .intro{
     background-image: url(/kubist.svg);
     background-size:cover;
-    @extend #about-container;
-    .portrait{
-        @extend #about-foto;
-    }
+    padding: 2% 10% 2% 10%;
     span{
-        @extend #about-part;
         font-size:1.5em;
         p{
-            margin:10%;
             color:$brand-color-dark;
         }
         @include media-query($on-laptop){
@@ -74,7 +69,7 @@
         }
 
     } 
-}
+} */
 
 /**
  * Blockquotes

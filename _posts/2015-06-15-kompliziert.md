@@ -3,9 +3,9 @@ layout: post
 title: "3 einfache Gründe, warum kompliziert überzeugt"
 date: 2015-06-15
 excerpt: "Die UX-Branche predigt Vereinfachung. Doch: Auch Einfachheit hat Grenzen. Manchmal ist es gar besser, furchtbar kompliziert zu kommunizieren. "
-img: "images/tiger.jpg"
-alt: "j"
-caption: ""
+img: "images/yoda.jpg"
+alt: "Yoda: Ein Guru der klaren Worte."
+caption: "https://www.flickr.com/photos/phillipwest/505158448"
 comments: true
 related: true
 categories: text
@@ -16,7 +16,7 @@ Kompliziert ist einfach besser
 
 ## Notes on The Guru Effect by Dan Sperber
 
-> he contrast I want to draw between “reflective” and “intuitive beliefs” is not between beliefs held because of a cause and beliefs held because of a reason, but between beliefs held with or without mentally represented reasons.
+> the contrast I want to draw between “reflective” and “intuitive beliefs” is not between beliefs held because of a cause and beliefs held because of a reason, but between beliefs held with or without mentally represented reasons.
 
 > Quite generally, sentences vastly underdetermine their interpretation.
 
