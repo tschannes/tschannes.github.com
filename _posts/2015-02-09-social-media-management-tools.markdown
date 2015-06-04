@@ -125,6 +125,10 @@ Diese Plattform schliesst zusätzlich zum eigentlichen Social Media Management F
 
 - Keine genauere Angaben zu den integrierbaren Kanälen.
 
+## Weitere Plattformen
+
+Viele Social Media Management-Plattformen spezialisieren sich auf einzelne Aspekte (Posting, Analyse, Observation). [Brandwatch](https://www.brandwatch.com/) zum Beispiel bewirbt seinen Service als Social Media Listenging und sind deshalb hier nicht prominent vertreten.
+
 
 ## Und Sie?
 

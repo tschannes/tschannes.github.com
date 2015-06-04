@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "3 einfache Gründe, warum kompliziert überzeugt"
+title: "Obskur ist gut. Für Weltmarken, Rockstars und Gurus"
 date: 2015-06-15
-excerpt: "Die UX-Branche predigt Vereinfachung. Doch: Auch Einfachheit hat Grenzen. Manchmal ist es gar besser, furchtbar kompliziert zu kommunizieren. "
+excerpt: "Einfacher ist besser. Nach diesem Grundsatz gestalten wir das Web. Doch: Auch Einfachheit hat Grenzen. Wann es sich lohnt, kompliziert zu kommunizieren."
 img: "images/yoda.jpg"
 alt: "Yoda: Ein Guru der klaren Worte."
 caption: "https://www.flickr.com/photos/phillipwest/505158448"
@@ -11,18 +11,30 @@ related: true
 categories: text
 ---
 
-3 einfache Gründe, warum kompliziert überzeugt
-Kompliziert ist einfach besser
 
-## Notes on The Guru Effect by Dan Sperber
 
-> the contrast I want to draw between “reflective” and “intuitive beliefs” is not between beliefs held because of a cause and beliefs held because of a reason, but between beliefs held with or without mentally represented reasons.
+
+> The contrast I want to draw between “reflective” and “intuitive beliefs” is not between beliefs held because of a cause and beliefs held because of a reason, but between beliefs held with or without mentally represented reasons.
+
+Menschen sind sehr ungenaue Compiler. Sie sind darauf angewiesen, aus Aussagen, impliziten Signalen und Kontext eine Interpretation zusammenzuschustern. Kommunikation ist harte Arbeit, an die wir uns so sehr gewöhnt haben, dass es uns gar nicht mehr auffällt.
 
 > Quite generally, sentences vastly underdetermine their interpretation.
 
+Menschen erwarten, dass sich diese Arbeit lohnt. Wenn wir schon Arbeit investieren etwas zu verstehen, wollen wir dabei etwas lernen, uns gut unterhalten und amüsieren.
+
+Wenn wir merken, dass es sehr mühsam ist, eine Aussage zu verstehen, brechen wir die Interpretation ab. 
+
+Wir sind faule Interpreten: Sobald wir eine Deutung erreichen, die gut genug ist, akzeptieren wir das Resultat. Dadurch entgehen uns Alternativ-Interpretationen.
+
+Beispiel: Ironische Aussagen werden mit geringerem Aufwand wörtlich verstanden. Erst der zusätzliche Miteinbezug von kontextuellen Signalen wie Übertreibungen, Mimik, Tonfall oder Gestik führen zur alternativen Interpretation. 
+
 > Utterances raise expectations of relevance that guide the comprehension process towards an interpretation that satisfies these expectations.
 
-Confirmation bias prevents us from being aware of alternatives.
+Und natürlich: Haben wir einmal eine Lösung, greifen wir in ähnlichen Fällen immer wieder darauf zurück. Aufgrund dieses Confirmation Bias kommen Alternativen nicht zum Zug.
+
+
+
+
 
 > We expect what people tell us to be relevant, and we interpret it in a way that confirms this expectation. 
 
@@ -71,3 +83,5 @@ Interpreting obscure statements or texts yields social benefits like "that of be
 > an interpretation "may be just as obscure as the thought it is meant to interpret."
 
 > Why "obscure texts and their authors come to be overestimated because of their very obscurity."
+
+Quelle: [The Guru Effect](http://www.dan.sperber.fr/wp-content/uploads/guru-effect.pdf) von Dan Sperber.
