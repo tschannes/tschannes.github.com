@@ -242,9 +242,8 @@ ul{
 
 .ad{
     @extend #about-container;
-    /* border-top: 5px solid $brand-color-dark; */
+    border-top: 5px solid $brand-color-dark;
     position: absolute;
-    top:none;
     width:30%;
     z-index:1;
     max-width:$wrapper-width/3;
