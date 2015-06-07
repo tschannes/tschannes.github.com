@@ -20,6 +20,9 @@ layout: default
     {% include card-no-text.html %}
     <p></p>
     {{ content }}
+    <ul class="post-list"> 
+      {% include call-to-action.html %}
+    </ul>
     {% if page.comments %}{% include discus.html %}{% endif %}
     {% if page.related %}{% include related.html %}{% endif %}
   </article>
