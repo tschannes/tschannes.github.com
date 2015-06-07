@@ -74,15 +74,4 @@ Der Mensch entscheidet nicht rational, ob jemand als Autorität (lies als Yoda-e
 
 Lassen Sie mich wissen, wie Sie es zum Yoda geschafft haben!
 
-<!-- 
-> With a prior high confidence in the intellectual worth of the author, negative judgment is almost ruled out and depth can be inferred, even if no satisfactory interpretation of the statement in question is ever arrived at.
-
-Interpreting obscure statements or texts yields social benefits like "that of belonging, of getting recognition as a person in the know, capable of apprecaiting the importance of a difficult great thinker."
-
-> obscurity of respected masters is not just a sign of the depth of their thinking, but a proof of their genius.
-
-> an interpretation "may be just as obscure as the thought it is meant to interpret."
-
-> Why "obscure texts and their authors come to be overestimated because of their very obscurity." -->
-
 Quelle: [The Guru Effect](http://www.dan.sperber.fr/wp-content/uploads/guru-effect.pdf) von Dan Sperber.
