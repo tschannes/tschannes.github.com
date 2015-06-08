@@ -7,7 +7,7 @@
 {% if item.img %}<div class="home-pic-container">
   <figure>
      <img src="/loader.gif"
-          id="{{ item.img }}" 
+          data-layzr="/{{ item.img }}" 
           {% if item.alt %}
             alt="{{ item.alt }}"
           {% elsif item.caption %}
