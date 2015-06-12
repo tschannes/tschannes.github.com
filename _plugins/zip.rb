@@ -1,3 +1,4 @@
+=begin
 require 'rubygems'
 require 'zip'
 
@@ -19,4 +20,4 @@ Zip::File.open(zip, Zip::File::CREATE) do |zipfile|
   input_filenames.each do |filename|
     zipfile.add(filename, folder + '/' + filename)
   end
-end
+end=end
