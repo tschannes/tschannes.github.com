@@ -50,7 +50,7 @@ Ein Glossar kann die Brücke schlagen zwischen Kunden- und Firmensprache. Besser
 Deshalb lohnt es sich Präsentationen als Content digital wiederzuverwenden. Das Werkzeug der Stunde dafür ist der Web Service [Slideshare](http://www.slideshare.net/):
 
 <div class="frame">
-	<iframe src="//www.slideshare.net/slideshow/embed_code/key/sZ9bEdpVlE6oMM" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/JoannaLord/7-types-of-content-for-building-customer-loyalty" title="7 Types of Content for Building Customer Loyalty" target="_blank">7 Types of Content for Building Customer Loyalty</a> </strong> from <strong><a href="//www.slideshare.net/JoannaLord" target="_blank">Joanna Lord</a></strong> </div>
+	<iframe data-layzr="//www.slideshare.net/slideshow/embed_code/key/sZ9bEdpVlE6oMM" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/JoannaLord/7-types-of-content-for-building-customer-loyalty" title="7 Types of Content for Building Customer Loyalty" target="_blank">7 Types of Content for Building Customer Loyalty</a> </strong> from <strong><a href="//www.slideshare.net/JoannaLord" target="_blank">Joanna Lord</a></strong> </div>
 </div>
 
 
@@ -67,7 +67,7 @@ Ein Meme ist eine witzige Bild-Text-Kombination. Für Marken mit einem Sinn für
 Online-Services wie der [Meme Generator](http://imgur.com/memegen) von Imgur machen das Erstellen von Memes zu einer Sache von Minuten.
 
 <div class="frame">
-<blockquote frameboder="0" class="imgur-embed-pub" lang="en" data-id="TJK1I4p"><a href="//imgur.com/TJK1I4p">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote frameboder="0" class="imgur-embed-pub" lang="en" data-id="TJK1I4p"><a href="//imgur.com/TJK1I4p">View post on imgur.com</a></blockquote><script async data-layzr="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </div>
 
 ### 10. Info-Grafik: Sexy Zahlen und Fakten
@@ -83,7 +83,7 @@ Eine Gattung, die auch im digitalen Zeitalter noch funktionert ist der Comic Str
 Natürlich kosten gute Comics Geld. Aber: Qualität setzt sich durch, denn die Kürze des Formats ist ideal geeignet fürs Teilen  via Social Media und Bild-Sharing-Plattformen.
 
 <div class="frame">
-	<iframe src="https://www.flickr.com/photos/hubspot/3196650975/in/photolist-6i88T9-9o3ca-3CUrT3-3gL1ZP-4XuNSB-nzHSKN-5StEXZ-giAUwE-6efkWB-2Tm1Ve-7k6afn-6B5kFg-8h91kD-5PyKUi-7xoW9D-6VioLG-8sT5Y6-72tm9y-6Vev6D-2TkFQM-98xhxq-3keWeh-6iTsxV-3zVm4o-e5JhS3-crogds-pMDofF-9VyKmF-73wC9H-gvTq8B-3bk6NK-dW5dky-6Vev5D-5yTSg3-5XMfiR-92SwtA-6oSfBE-6vN5Z8-kdXdoN-9Jmnm-34upJs-5TkXB2-3gL1X8-7rk2Ti-6VioNG-2LoZD9-6ViyYu-6MF497-2TkFLp-amGiTE/player/" width="75" height="75" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+	<iframe data-layzr="https://www.flickr.com/photos/hubspot/3196650975/in/photolist-6i88T9-9o3ca-3CUrT3-3gL1ZP-4XuNSB-nzHSKN-5StEXZ-giAUwE-6efkWB-2Tm1Ve-7k6afn-6B5kFg-8h91kD-5PyKUi-7xoW9D-6VioLG-8sT5Y6-72tm9y-6Vev6D-2TkFQM-98xhxq-3keWeh-6iTsxV-3zVm4o-e5JhS3-crogds-pMDofF-9VyKmF-73wC9H-gvTq8B-3bk6NK-dW5dky-6Vev5D-5yTSg3-5XMfiR-92SwtA-6oSfBE-6vN5Z8-kdXdoN-9Jmnm-34upJs-5TkXB2-3gL1X8-7rk2Ti-6VioNG-2LoZD9-6ViyYu-6MF497-2TkFLp-amGiTE/player/" width="75" height="75" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 </div>
 
 ## Video
@@ -94,14 +94,14 @@ Animierte Bilder und Kürzestvideos à la Vine dauern weniger als sechs Sekunden
 Weil Kürzestfilme weniger Kosten als etwa klassische Werbefilme, fällt das Experimentieren viel leichter. Das sehr limitierende Format setzt den Kurs auf Innovation.
 
 <div class="frame">
-	<iframe src="https://vine.co/v/bUhnQOQ2HUe/embed/simple" width="600" height="600" frameborder="0"></iframe><script src="https://platform.vine.co/static/scripts/embed.js"></script>
+	<iframe data-layzr="https://vine.co/v/bUhnQOQ2HUe/embed/simple" width="600" height="600" frameborder="0"></iframe><script data-layzr="https://platform.vine.co/static/scripts/embed.js"></script>
 </div>
 
 ### 13. Der Marketing-Film: Ja, aber richtig
 Natürlich hat auch das traditionelle Image-Video nicht ausgedient. Aber es muss zuerst unterhalten und erst dann werben. Nur so gelingt es, die relativ hohen Investitionskosten wieder wettzumachen:
 
 <div class="frame">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/ZUG9qYTJMsI" frameborder="0" allowfullscreen></iframe>
+	<iframe width="560" height="315" data-layzr="https://www.youtube.com/embed/ZUG9qYTJMsI" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Interaktive Medien
@@ -120,7 +120,7 @@ Gameification ist in aller Munde: Interfaces sollen motivieren, Einkäufe belohn
 Die Investitionen für ein Werbe-Game stemmen aber erst wenige Firmen. Dass es sich sehr wohl lohnen kann, zeigt die [Erfolgsgeschichte von Twist, Lick, Dunk](http://blog.carnivalmobile.com/how-oreo-created-the-1-app-in-the-app-store/), dem Game eines amerikanischen Keks-Herstellers. 
 
 <div class="frame">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/D93m60nsvDM" frameborder="0" allowfullscreen></iframe>
+	<iframe width="560" height="315" data-layzr="https://www.youtube.com/embed/D93m60nsvDM" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Kennen Sie ein Content-Format, das mir entgangen ist? Sagen Sie mir Bescheid!
