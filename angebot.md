@@ -6,7 +6,7 @@ excerpt: "Hannes Tscherrig optimiert Texte fürs Web, organisiert Inhalte für b
 order: 4
 ---
 
-> {{ page.excerpt }}
+<p class="post-meta">{{ page.excerpt }}</p>
 
 - [Text](#text): Meine Erfahrung als Journalist, Marketeer und Germanist erlaubt es mir schnell zu beurteilen, wie Ihre Texte besser gemacht werden können.
 - [Konzept](#konzept): Eine nach aussen verständliche Organisation Ihrer Inhalte erleichtert es Kunden und Kundinnen zu finden, was sie suchen.

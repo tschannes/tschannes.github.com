@@ -7,7 +7,7 @@ excerpt: "Anderer Leute Bücher, Methoden und Tools haben mein Verständnis von 
 order: 2
 ---
 
-> {{ page.excerpt }}
+<p class="post-meta">{{ page.excerpt }}</p>
 
 ## Einführung
 

@@ -7,7 +7,7 @@ excerpt: "Das Internet ist Information, Suche, Meta-Daten, Text: Tools, Ressourc
 order: 1
 ---
 
-> {{ page.excerpt }}
+<p class="post-meta">{{ page.excerpt }}</p>
 
 Fundamentals
 ------------
