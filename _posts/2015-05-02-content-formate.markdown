@@ -50,7 +50,7 @@ Ein Glossar kann die Brücke schlagen zwischen Kunden- und Firmensprache. Besser
 Deshalb lohnt es sich Präsentationen als Content digital wiederzuverwenden. Das Werkzeug der Stunde dafür ist der Web Service [Slideshare](http://www.slideshare.net/):
 
 <div class="frame">
-	<iframe data-layzr="//www.slideshare.net/slideshow/embed_code/key/sZ9bEdpVlE6oMM" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/JoannaLord/7-types-of-content-for-building-customer-loyalty" title="7 Types of Content for Building Customer Loyalty" target="_blank">7 Types of Content for Building Customer Loyalty</a> </strong> from <strong><a href="//www.slideshare.net/JoannaLord" target="_blank">Joanna Lord</a></strong> </div>
+	<iframe src="/loader.gif" data-layzr="//www.slideshare.net/slideshow/embed_code/key/sZ9bEdpVlE6oMM" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/JoannaLord/7-types-of-content-for-building-customer-loyalty" title="7 Types of Content for Building Customer Loyalty" target="_blank">7 Types of Content for Building Customer Loyalty</a> </strong> from <strong><a href="//www.slideshare.net/JoannaLord" target="_blank">Joanna Lord</a></strong> </div>
 </div>
 
 
