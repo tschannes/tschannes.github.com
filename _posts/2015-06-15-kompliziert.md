@@ -70,7 +70,7 @@ Der Mensch entscheidet nicht rational, ob jemand als Autorität (lies: als Yoda-
 
 > Clear statements and easy arguments may become the objects of a collective evaluation, but only obscure statements and difficult arguments are likely to become the objects of a collective endeavour of interpretation.*
 
-## Sind sie ein Guru?
+## Sind Sie ein Guru?
 
 Sie palavern weltmeisterlich? Bezaubern mit gehauchten Pausen? Gewinnen ihr Publikum mit semi-obskurer Kontrast-Kultur? Beweisen Sie es!
 
