@@ -49,7 +49,7 @@
 .active{
     color:$brand-color-dark !important;
     font-weight:bold;
-    background-color:white;
+    background-color:$background-color;
     &:hover{
         text-decoration:none;
     }
