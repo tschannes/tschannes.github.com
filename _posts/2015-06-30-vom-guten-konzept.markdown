@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ein Konzept für besseres Konzepte-Schreiben"
-date: 2015-06-29
+date: 2015-06-30
 excerpt: "Konzepte zeigen, wo's lang geht in einer Organisation. Dabei erfüllen sie sechs Aufgaben gleichzeitig. Wie ein Konzept-Papier dies schafft, erfahren Sie hier."
 img: "images/tube.jpg"
 alt: "Ein Konzept ist wie ein Plan: Je einfacher verständlich um so effektiver."
