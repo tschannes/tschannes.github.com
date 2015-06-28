@@ -33,6 +33,7 @@ order: 2
 
 ##Books
 
+- [The Content Code](http://www.amazon.com/The-Content-Code-essential-strategies/dp/0692372334): Mark Schaefers Durchsage ist klar: Im Zeitalter des Content-Schocks -- also der Übersättigung des Webs mit Inhalten -- bringen Inhalte ohne Inhalts-Vermarktung wenig bis nichts. Wie Inhalte sich wie Lauffeuer verbreiten, zeigt er in seinen 6 grundlegenden Strategien.
 - [Content Strategy for the Web](http://contentstrategy.com/): Kristina Halvorson legte mit ihrem Buch die Basis für den neuen Industriezweig Content-Strategie.
 - [The Yahoo! Style Guide](http://www.amazon.com/The-Yahoo-Style-Guide-Sourcebook/dp/031256984X): Eine ziemlich vollständige Einführung ins Schreiben, Redigieren und Planen von Inhalten für die digitale Welt.
 - [Clout: The Art and Science of Influential Web Content](http://content-science.com/clout-the-book/): Colleen Jones gibt praktische Tipps, wie Content Professionals Inhalte besser planen, produzieren und evaluieren können.
