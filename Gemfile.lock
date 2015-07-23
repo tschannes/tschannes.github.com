@@ -12,11 +12,15 @@ GEM
       execjs
     coffee-script-source (1.9.1.1)
     colorator (0.1)
+    double-bag-ftps (0.1.2)
     execjs (2.5.2)
     fast-stemmer (1.0.2)
     fastimage (1.7.0)
       addressable (~> 2.3, >= 2.3.5)
     ffi (1.9.10)
+    glynn (1.2.0)
+      double-bag-ftps (~> 0.1.2)
+      jekyll
     hike (1.2.3)
     hitimes (1.2.2)
     jekyll (2.5.3)
@@ -98,6 +102,7 @@ PLATFORMS
 
 DEPENDENCIES
   coffee-script
+  glynn
   jekyll
   jekyll-assets
   mini_magick
@@ -105,4 +110,4 @@ DEPENDENCIES
   uglifier
 
 BUNDLED WITH
-   1.10.5
+   1.10.6
