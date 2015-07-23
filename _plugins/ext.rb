@@ -1,1 +1,1 @@
-#require "jekyll-assets"
+Bundler.require
