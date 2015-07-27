@@ -34,6 +34,10 @@ Bei Browsern, die auf sicheren Servern unter der Aufsicht von spezialisierten Un
 
 Gleichzeitig wird für Nutzer das Surfen langsamer und verliert wegen des in der sicheren Cloud oft fehlenden Multimedia-Supports an Attraktivität.
 
+### Gartendenken statt Browser Power
+
+[Mobile Browser führen zu Corporate Gärtchen](http://www.theverge.com/2015/7/20/9002721/the-mobile-web-sucks?ref=webdesignernews.com) Nilay Patel von The Verge zeigt wie Inhalte immer mehr in geschützten Corporate Gärtchen wie Apple News oder Facebook Instant Articles publiziert werden. Der Grund dafür, so der Autor, ist die grottige Performance der grossen Web Browser auf mobilen Geräten. Statt diese zu verbessern, denken die grossen Player an ihr Business. Apple bewahrt sich mit dem einzig tolerierten ultra-langsamen Safari-Browser sein App-Geschäft und Facebook kommt mit Instant Articles trotz desselben zu Views und Werbeeinnahmen auf iPhones. Dabei bleibt das offene Web -- und offene Web-Technologie -- auf der Strecke. 
+
 ## 2. Apps werden zu Mikro-Browsern
 
 [Browser werden in Apps integriert.](https://medium.com/@suryaceg/the-future-browser-yes-browser-38ab7caa6663) User Experience Designer Surya Prakash beobachtet den Trend, dass immer mehr Apps einen Browser enthalten. Die App wird für viele Nutzende zum eigentlichen Browser. Obwohl dieser Zugang Vorteile birgt, etwa den, dass App-Nutzende direkt in ihrer App externen Content konsumieren können, birgt er vor allem Nachteile: Datenschutz, Abhängigkeit von App-Anbietern, Aufteilung verschiedener Inhalte auf verschiedene Apps. 
