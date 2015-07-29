@@ -11,9 +11,6 @@ related: true
 categories: content
 ---
 
-
-
-
 ## 1. Der Browser verschwindet
 
 [Browser nehmen sich immer mehr zurück.](http://www.itmagazine.ch/Artikel/58602/Yandex_zeigt_Browser_der_Zukunft.html) Der russische Suchmaschinengigant Yandex ist der Meinung, dass wir das Web möglichst direkt nutzen sollten. Heisst: Ohne von Interfaces, unnötigen Toolbars und Button-Salat behindert zu werden. Der Chromium-basierte Yandex Browser zeigt, wie diese Zukunft des fast unsichtbaren Browsers aussehen könnte.
@@ -36,7 +33,9 @@ Gleichzeitig wird für Nutzer das Surfen langsamer und verliert wegen des in der
 
 ### Gartendenken statt Browser Power
 
-[Mobile Browser führen zu Corporate Gärtchen](http://www.theverge.com/2015/7/20/9002721/the-mobile-web-sucks?ref=webdesignernews.com) Nilay Patel von The Verge zeigt wie Inhalte immer mehr in geschützten Corporate Gärtchen wie Apple News oder Facebook Instant Articles publiziert werden. Der Grund dafür, so der Autor, ist die grottige Performance der grossen Web Browser auf mobilen Geräten. Statt diese zu verbessern, denken die grossen Player an ihr Business. Apple bewahrt sich mit dem einzig tolerierten ultra-langsamen Safari-Browser sein App-Geschäft und Facebook kommt mit Instant Articles trotz desselben zu Views und Werbeeinnahmen auf iPhones. Dabei bleibt das offene Web -- und offene Web-Technologie -- auf der Strecke. 
+[Mobile Browser führen zu Corporate Gärtchen](http://www.theverge.com/2015/7/20/9002721/the-mobile-web-sucks?ref=webdesignernews.com) Nilay Patel von The Verge zeigt wie Inhalte immer mehr in geschützten Corporate Gärtchen wie Apple News oder Facebook Instant Articles publiziert werden. Der Grund dafür, so der Autor, ist die grottige Performance der grossen Web Browser auf mobilen Geräten. 
+
+Statt die Leistungsfähigkeit zu verbessern, denken die grossen Browser-Macher an ihr Business. Apple bewahrt sich mit dem einzig tolerierten ultra-langsamen Safari-Browser sein App-Geschäft und Facebook bremst mit  Instant Articles Schleich-Browser aus und kommt zu Views und Werbeeinnahmen auf iPhones. Dabei bleibt das offene Web -- und offene Web-Technologie -- auf der Strecke. 
 
 ## 2. Apps werden zu Mikro-Browsern
 
@@ -76,10 +75,10 @@ Ganz im Gegenteil dazu App Stores. Starr, überladen und corporate-kontrolliert.
 Ist etwas vergessen gegangen? Sehr gut! Korrikommentieren Sie. Lassen Sie es krachen. Die Bühne gehört Ihnen:
 
 
-## Ergänzungen
+## Derweil im Osten: Chinesisches Unentschieden
 
-- [alibaba.com](http://www.alibaba.com)
-- [tabao](http://www.taobao.com/market/global/index_new.php)
-- [etsy](https://www.etsy.com)
-- [wechat](http://www.wechat.com/en/)
-- [Pando über Light Apps](https://pando.com/2013/10/22/chinas-betting-big-on-html5-mobile-apps-will-the-us-be-next/)
+Die chinesische [Alibaba Group](http://www.alibaba.com) hat ein Imperium von vernetzten Services aufgebaut. Kernangebot der Gruppe ist ein Online-Marktplatz im Stil von Amazon oder Ebay ([taobao.com](http://www.taobao.com/market/global/index_new.php)). Vernetzt sind aber auch eine Microblogging-Plattform, eine Shopping-Suchmaschine und eine Messaging App, sowie ein Ersatzbrowser. Eigentliche Browser benötigt in China niemand mehr, so scheint es.
+
+Gleichzeitig rücken chinesische Browser-Hersteller, wie etwa [UC Web](http://www.ucweb.com) in die gegenteilige Richtung. Mit einem webbasierten App-Marketplace, der HTML5-Applikationen nicht zum Herunterladen anbietet, sondern direkt auf dem Server ausführt, sollen Native Apps verschwinden. 
+
+Cloud-gehostete "**Light Apps**", wie dieser Applikationstyp genannt wird, müssen weder heruntergeladen, installiert, noch upgedated werden. Nicht nur für ein chinesisches Publikum ist dies von Vorteil, gibt sich der SEO von UC Web, Yu Yongfu, überzeugt. Langsam und stetig soll sich die noch junge, aber entwicklungsfähige Art Apps unter die Leute zu bringen, auch im Westen ausbreiten. Nachlesen: [China setzt auf HTML5-Apps](https://pando.com/2013/10/22/chinas-betting-big-on-html5-mobile-apps-will-the-us-be-next/).
