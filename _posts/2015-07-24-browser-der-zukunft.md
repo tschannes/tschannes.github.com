@@ -74,3 +74,12 @@ Wir werden Websiten starten, wie wir heute Mircrosoft Word starten, nämlich dur
 Ganz im Gegenteil dazu App Stores. Starr, überladen und corporate-kontrolliert. Dies, zusammen mit den immer vielseitigeren und flexiblen Browsern, so Bleigh, ist eine Formel für den allmählichen Niedergang der nativen App.
 
 Ist etwas vergessen gegangen? Sehr gut! Korrikommentieren Sie. Lassen Sie es krachen. Die Bühne gehört Ihnen:
+
+
+## Ergänzungen
+
+- [alibaba.com](http://www.alibaba.com)
+- [tabao](http://www.taobao.com/market/global/index_new.php)
+- [etsy](https://www.etsy.com)
+- [wechat](http://www.wechat.com/en/)
+- [Pando über Light Apps](https://pando.com/2013/10/22/chinas-betting-big-on-html5-mobile-apps-will-the-us-be-next/)
