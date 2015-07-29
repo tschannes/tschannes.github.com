@@ -75,7 +75,7 @@ Ganz im Gegenteil dazu App Stores. Starr, überladen und corporate-kontrolliert.
 Ist etwas vergessen gegangen? Sehr gut! Korrikommentieren Sie. Lassen Sie es krachen. Die Bühne gehört Ihnen:
 
 
-## Derweil im Osten: Chinesisches Unentschieden
+## Derweil: Unentschieden in China
 
 Die chinesische [Alibaba Group](http://www.alibaba.com) hat ein Imperium von vernetzten Services aufgebaut. Kernangebot der Gruppe ist ein Online-Marktplatz im Stil von Amazon oder Ebay ([taobao.com](http://www.taobao.com/market/global/index_new.php)). Vernetzt sind aber auch eine Microblogging-Plattform, eine Shopping-Suchmaschine und eine Messaging App, sowie ein Ersatzbrowser. Eigentliche Browser benötigt in China niemand mehr, so scheint es.
 
