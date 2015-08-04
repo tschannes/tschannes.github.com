@@ -10,6 +10,14 @@ order: 3
 
 ##Rückmeldungen aus der Arbeitswelt
 
+<!--
+
+### Hochschule Luzern -- Informatik
+
+> Bla bla bla. (Annette Stüdli, Arbeitszeugnis noch nicht verfügbar)
+
+-->
+
 ###Hochschule Luzern
 
 > Hervorzuheben ist die konsequente Nutzersicht von Hannes Tscherrig auf Web-Inhalte.
@@ -25,7 +33,7 @@ order: 3
 
 ###Instituto Chileno Suizo de Idiomas y Cultura 
 
->Die Studenten haben Herrn Tscherrigs Leistung mit guten und sehr guten Noten bewertet.
+> Die Studenten haben Herrn Tscherrigs Leistung mit guten und sehr guten Noten bewertet.
 
 > Er hat mit viel Engagement unterrichtet und gezeigt, dass ihm die Fortschritte seiner Studenten sehr am Herzen liegen. (Armin Weissen, [Arbeitszeugnis Instituto Chileno Suizo](/referenzen/santiago.jpg))
 
