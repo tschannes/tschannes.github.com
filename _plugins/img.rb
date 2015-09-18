@@ -1,5 +1,4 @@
-#require_relative 'rubygems'
-#require_relative 'mini_magick'
+
 
 #variables 
 images = "./images/*.jpg"

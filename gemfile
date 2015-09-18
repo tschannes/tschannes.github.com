@@ -4,6 +4,8 @@ gem "jekyll"
 gem "glynn"
 gem "mini_magick"
 gem "jekyll-assets"
+gem "wombat"
+gem "pry"
 
 group :jekyll_plugins do
 	gem "coffee-script" # We want to write our javascripts in CoffeeScript
