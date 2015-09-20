@@ -49,7 +49,7 @@ $(document).ready ->
     color
 
   directionHelper = (num) ->
-    arrow = " </br>Wind: <img src='/images/arrow.svg' style='display:inline-block;color:purple;width:1em;height:1em;transform: rotate(" + num + "deg);'></img> "
+    arrow = " </br>Wind: <img src='/images/arrow.svg' style='display:inline-block;color:purple;width:1em;height:1em;-ms-transform: rotate(" + num + "deg); /* IE 9 */-webkit-transform: rotate(" + num + "deg); /* Safari */transform: rotate(" + num + "deg);'></img> "
 
   handler = (data) ->
     date = new Date(data.hourly.data[0].time * 1000)
