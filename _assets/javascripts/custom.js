@@ -17,6 +17,18 @@ function loadFonts() {
       }
     });
   }
+// ToggleMoreContent
+var toggleVisibility = function(id) {
+    var e = document.getElementById(id);
+    var button = document.getElementById('tglBtn');
+    if (e.style.display == 'block') {
+      e.style.display = 'none';
+      button.textContent = 'Anzeigen';
+    } else {
+      e.style.display = 'block';
+      button.textContent = 'Ausblenden';
+    }
+  } 
 
 // Measer the scrollbar width. hack by David Walsh
 var scrollDiv = document.createElement("div");

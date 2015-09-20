@@ -1,3 +1,4 @@
+=begin
 links = Wombat.crawl do
   base_url "http://tschannes.ch"
   path "/"
@@ -14,3 +15,4 @@ linkData = Wombat.crawl do
 end
 
 binding.pry
+=end

@@ -6,7 +6,16 @@ excerpt: "Wind, Föhntendenz, Niederschlag, Startplätze. Das Wichtigste, was du
 order: 4
 ---
 
+<script src="https://code.jquery.com/jquery-2.1.4.min.js">
+</script>
+
 <p class="post-meta">{{ page.excerpt }}</p>
+
+<p>
+	 Die nächsten paar Tage in der Gröbstübersicht: <a href="javascript:toggleVisibility('toggle');" id="tglBtn">Wetterübersicht anzeigen</a>.
+</p>
+<p id="toggle" class="wetter"></p>
+
 
 [Windytv.com](https://www.windyty.com/) visualisiert zwei globale Wettermodelle und lässt gute Kurzzeitprognosen für lokale Wind- und Wetterbedingungen zu.
 
@@ -33,3 +42,7 @@ Zur Kontrolle: Die **[Windy-App](http://windy.atelier-agile.ch/balises?display_a
 </div>
 
 Das **[vereinfachte Emagramm auf Flugbasis.ch](http://www.flugbasis.ch/service/wetter/thermik/)** zeigt, wie hoch man idealerweise startet und wie gut der Thermik-Tag zu werden verspricht.
+
+<ul class="post-list"> 
+	{% include call-to-action.html %}
+</ul>

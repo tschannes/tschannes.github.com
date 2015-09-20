@@ -1,8 +1,8 @@
 
-window.getContent = (link) ->
-	console.log  link.href
+getContent = (href) ->
+	console.log  href
 	r = new XMLHttpRequest
-	r.open 'GET', link.href, false
+	r.open 'GET', href, true
 
 	r.onreadystatechange = ->
 	  if r.readyState != 4 or r.status != 200
@@ -22,4 +22,18 @@ getPreview = () ->
 		link.addEventListener "mouseout", (e) ->
 			this.removeAttribute "style"
 
-getPreview()
+
+
+window.getWeather = () ->
+	key = '901f738ef524ecd81eafcead2fd6389b'
+	location = getLocation()
+	url = 'https://api.forecast.io/forecast/'
+	params = '?jsonp=parseResponse+units=si'
+	if location
+		link = url + key + '/' + location + params
+		console.log link
+		getContent(link)
+		parseResponse (response) -> 
+			console.log response
+
+getWeather()
