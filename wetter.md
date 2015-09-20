@@ -12,9 +12,9 @@ order: 4
 <p class="post-meta">{{ page.excerpt }}</p>
 
 <p>
-	 Die nächsten paar Tage in der Gröbstübersicht: <a href="javascript:toggleVisibility('toggle');" id="tglBtn">Wetterübersicht anzeigen</a>.
+	 <a href="http://forecast.io/">Forecast.io</a> liefert die Wetter-Grobübersicht für die nächsten paar Tage. <a href="javascript:toggleVisibility('toggle');" id="tglBtn">Wetterübersicht anzeigen</a>.
 </p>
-<p id="toggle" class="wetter"></p>
+<p id="toggle" class="wetter"><img id="loader" src="/loader.gif" alt=""></p>
 
 
 [Windytv.com](https://www.windyty.com/) visualisiert zwei globale Wettermodelle und lässt gute Kurzzeitprognosen für lokale Wind- und Wetterbedingungen zu.
@@ -43,6 +43,6 @@ Zur Kontrolle: Die **[Windy-App](http://windy.atelier-agile.ch/balises?display_a
 
 Das **[vereinfachte Emagramm auf Flugbasis.ch](http://www.flugbasis.ch/service/wetter/thermik/)** zeigt, wie hoch man idealerweise startet und wie gut der Thermik-Tag zu werden verspricht.
 
-<ul class="post-list"> 
+<ul class="post-list">
 	{% include call-to-action.html %}
 </ul>
