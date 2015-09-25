@@ -52,10 +52,11 @@ $(document).ready ->
     arrow = " </br>Wind: <img src='/images/arrow.svg' style='display:inline-block;color:purple;width:1em;height:1em;-ms-transform: rotate(" + num + "deg); /* IE 9 */-webkit-transform: rotate(" + num + "deg); /* Safari */transform: rotate(" + num + "deg);'></img> "
 
   handler = (data) ->
+    console.log data
     date = new Date(data.hourly.data[0].time * 1000)
     dateSummary = data.hourly.summary
     forecast = ''
-    daily = data.daily.data
+    daily = data.daily.data 
     i = 0
     while i <= daily.length - 1
       timestamp = new Date(daily[i].time * 1000)
@@ -77,6 +78,31 @@ $(document).ready ->
       return
   
     makeRequest = (url) ->
+      #CORS in vanilla javascript
+      ###
+      xhr = new XMLHttpRequest
+      xhr.onreadystatechange = ->
+        data = xhr.responseText
+        alert xhr.responseStatus
+        handler data
+      xhr.open 'GET', url
+      xhr.withCredentials = true
+      xhr.setRequestHeader 'Content-Type', 'text/plain'
+      xhr.send 'data'
+      ajaxCounter += 1
+      ###
+      #JSONP in vanilla javascript
+      ###
+      window.myJsonpCallback = data ->
+        alert data
+        handler data
+        ajaxCounter += 1
+      scriptEl = document.createElement 'script'
+      scriptEl.setAttribute('src', url + '?callback=myJsonpCallback')
+      document.body.appendChild(scriptEl);
+      ###
+      #JSONP in jquery
+      
       $.ajax
         url: url
         dataType: 'jsonp'
@@ -90,8 +116,5 @@ $(document).ready ->
         ajaxCounter += 1
       return
     getLocation() if ajaxCounter < 1
-      
- 
 
   return
-
