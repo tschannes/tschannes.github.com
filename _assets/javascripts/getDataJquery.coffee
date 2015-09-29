@@ -44,8 +44,8 @@ $(document).ready ->
 
   speedHelper = (num) ->
     color = "<span style='color:white;background-color:red'>" + num + "</span>" if num > 20
-    color = "<span style='color:white;background-color:orange'>" + num + "</span>" if num > 10
-    color = "<span style='color:white;background-color:green'>" + num + "</span>" if num > 0
+    color = "<span style='color:white;background-color:orange'>" + num + "</span>" if num < 20
+    color = "<span style='color:white;background-color:green'>" + num + "</span>" if num < 10
     color
 
   directionHelper = (num) ->
