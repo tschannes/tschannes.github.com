@@ -21,7 +21,7 @@ So aus dem Stegreif wusste ich keine Antwort. Wahrscheinlich gibt es eine gute A
 
 ### Publikum?
 
-Je nachdem, wen ein Online-Magazin ansprechen soll, hört sich die richtige Antwort anders an. Wer ein junges Publikum ansprechen will, darf eine PDF-basierte Magazinform geruhsam ausschliessen. Zu starr das Format für eine Generation, die alles immer zur Verfügung hat.
+Je nachdem, wen ein Online-Magazin ansprechen soll, hört sich die richtige Antwort anders an. Wer ein junges Publikum ansprechen will, darf eine PDF-basierte Magazinform geruhsam ausschliessen. Zu starr das Format für eine Generation, die sich an Inhalte gewöhnt ist, die überall und immer ideal funktnionieren.
 
 Auf der anderen Seite macht es wohl wenig Sinn in ein aufwändiges HTML-Magazin-Projekt mit interaktiven Infografiken, kontextuellen Film- und Ton-Ergänzungen, Parallax-Animation usw. zu investieren, wenn das Publikum eine Geschichte ganz einfach nur ausdrucken will.
 
@@ -29,7 +29,7 @@ Heisst: Entscheide, wer dein Magazin lesen wird.
 
 ### Inhalt?
 
-Punkt zwei: Angehende Online-Magazin-Verleger müssen ihre Karten kennen. Nicht jeder hat atemberaubende Bilder wie [National Geographic](http://www.nationalgeographic.com/) in der Hinterhand. Nicht jeder kann nach Belieben Info-Grafiken heranzaubern wie [vox.com](http://www.vox.com/). Nicht jeder hat ein Heer exzellenter Storyteller in der Hinterhand, die nur darauf warten, sich gegenseitig zu übertreffen (wie etwa bei den Publikationen der [New York Times](http://www.nytimes.com/) oder von [The Guardian](http://www.theguardian.com/international)).
+Punkt zwei: Angehende Online-Magazin-Verleger müssen ihre Karten kennen. Nicht jeder hat atemberaubende Bilder wie [National Geographic](http://www.nationalgeographic.com/) in der Hinterhand. Nicht jeder kann nach Belieben Info-Grafiken heranzaubern wie [vox.com](http://www.vox.com/). Nicht jeder hat ein Heer exzellenter Storyteller in der Hinterhand, die nur darauf warten, sich gegenseitig zu übertreffen (wie das bei der [New York Times](http://www.nytimes.com/) oder bei [The Guardian](http://www.theguardian.com/international) der Fall zu sein scheint).
 
 Heisst: Sei dir sicher, was du leisten kannst.
 
@@ -37,19 +37,17 @@ Heisst: Sei dir sicher, was du leisten kannst.
 
 Neulich sagte ein Kunde zu mir: "Fancy soll es sein". Das ist schön und gut. Kostet aber oft eine ganze Stange Geld. Und wir sprechen nicht nur über das Schreiben von Templates und dem Design einer anschaulichen Publikation.
 
-Je schicker ein Produkt, desto grösser werden auch die Anforderungen ans Team, welches dieses Ausgabe für Ausgabe, Post für Post und Update für Update produzieren muss. Und: Mit den Anforderungen wachsen auch der Zeit- und Geldbedarf.
+Je schicker ein Produkt, desto grösser werden auch die Anforderungen ans Team, welches dieses Ausgabe für Ausgabe, Post für Post und Update für Update produzieren muss. Und: Mit den Anforderungen wachsen immer auch der Zeit- und Geldbedarf.
 
 Heisst: Sei dir sicher, wieviel du finanzieren kannst.
 
 ### Prozess?
 
-Print-Magazine sind ganz schön einfach. Sie werden einmal produziert und über Kanäle verteilt, die sich während Jahrzehnten verfestigt haben.
+Print-Magazine sind ganz schön einfach: Sie werden einmal produziert und über Kanäle verteilt, die sich während Jahrzehnten verfestigt haben.
 
-Anders sieht die Lage aus, wenn Magazin-Inhalte online publiziert werden sollen. Nicht nur verlassen wir die papiergegebenen Beschränkungen auf Druckschrift und Bild.
+Anders sieht die Lage aus, wenn Magazin-Inhalte online publiziert werden sollen. Nicht nur verlassen wir die papiergegebenen Beschränkungen auf Druckschrift und Bild: Video-Schnipsel, Audio-Auszüge und Animationspassagen wollen derart kombiniert werden, dass sie in möglichst viele Kanäle passen.
 
-Video-Schnipsel, Audio-Auszüge und Animationspassagen wollen derart kombiniert werden, dass sie in möglichst viele Kanäle passen.
-
-Ein Magazin für nur einen Kanal zu publizieren (etwa für einen Blog, wäre kurzsichtig). Zu hastig ist das Kommen und Gehen der Kanäle, Publikationsplattformen, sozialen Medien. 
+Ein Magazin für nur einen Kanal zu publizieren (etwa für einen Blog), wäre kurzsichtig. Zu hastig ist das Kommen und Gehen der Kanäle, Publikationsplattformen, der sozialen Medien. 
 
 Heisst: Ein Online-Magazin-Macher braucht einen Weg einmal zu produzieren und vielfach (und wenn gewünscht wiederholt) zu publizieren. Idealerweise auf hochgradig automatisierte Weise (eine Möglichkeit ist der hier dargestellte [Markdown-Pandoc-Indesign-Prozess](http://rhythmus.be/md2indd/)).
 
@@ -57,7 +55,7 @@ Heisst: Ein Online-Magazin-Macher braucht einen Weg einmal zu produzieren und vi
 
 Die letzte Frage schliesslich ist juristischer Natur, aber nicht nur: Bei wem soll die Datenhoheit liegen?
 
-Auch für Publisher, die für gewöhnlich nicht mit sensiblen Daten hantieren, ist die Frage wichtig. Denn: Was passiert, wenn Facebook die Nutzungsbedingungen plötzlich ändert? Was wenn Xing oder Linkedin Gebühren für ihre Publikationskanäle einführen? Und vielleicht am wichtigsten: Wem stehen die Einkünfte zu, die aus publizierten Inhalten entstehen? Dem Verleger? Oder dem Betreiber des gewählten Kanals?
+Auch für Publisher, die nicht mit sensiblen Daten hantieren, ist die Frage wichtig. Denn: Was passiert, wenn Facebook die Nutzungsbedingungen plötzlich ändert? Was wenn Xing oder Linkedin Gebühren für ihre Publikationskanäle einführen? Und vielleicht am wichtigsten: Wem stehen die Einkünfte zu, die aus publizierten Inhalten entstehen? Dem Verleger? Oder dem Betreiber des gewählten Kanals?
 
 Heisst: Kläre ab, auf was du dich einlässt, bevor du auf fremden Servern publizierst.
 
@@ -69,7 +67,7 @@ Das PDF ist noch immer eines der beliebtesten Formate, um ein Magazin auf digita
 
 Beim immer öfters auf Smartphones, Tablets und E-Readern lesenden Publikum allerdings hört sich, was in den Ohren viele Publisher toll klingt, eher schal an:
 
-Das PDF lässt sich kontrollieren, ist einfach als Datei oder via PDF-Kiosk ([issuu.com](http://issuu.com/)) oder ([zinio](https://ch-de.zinio.com/)).
+Das PDF lässt sich kontrollieren und ist einfach als Datei oder via PDF-Kiosk ([issuu.com](http://issuu.com/)) oder ([zinio](https://ch-de.zinio.com/)) ganz analog zum Print verteilbar. Mit dem PDF kommen aber auch lange Ladezeiten, starre Formate und eingeschränkte Lesbarkeit auf mobilien Geräten.
 
 ### HTML-basiert
 
@@ -77,7 +75,7 @@ Die Alternative zu PDF-Formaten sind HTML- und XML-basierte Formate (also Websei
 
 Die Vorteile von modernen Websites, Blog-Artikeln und Mailings liegen auf der Hand: Dank Responsive Design funktionieren sie auf praktisch allen Endgeräten. Das vom PDF gefürchtete Zoom-und-Schieb-Lesen entfällt.
 
-Selbst wenn manches Ebook in Punkto Satz noch nicht jeden Typographen überzeugt, für ein digitales Produkt ist Usability ohne Stolpersteine oft wichtiger, als Perfektion und Kontrolle bis ins allerletzte Detail.
+Selbst wenn manches Ebook in Punkto Satz noch nicht jeden Typographen überzeugt, für ein digitales Produkt ist Usability ohne Stolpersteine oft wichtiger als Perfektion und Kontrolle bis ins allerletzte Detail.
 
 Auf Hochglanz polierte HTML-Publikationen sind natürlich möglich, wie Vorzeige-Projekte à la [Snow Fall](http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek) zeigen. Wer allerdings in dieser Liga spielen will, braucht jede Menge Kleingeld. Und ein nicht zu schäbiges Entwickler-Team.
 
@@ -98,11 +96,11 @@ Aktuell stehen PDFs, Websites und gedruckte Magazine im Konkurrenzkampf: Ein Wet
 
 Das ist weder sinnvoll noch nötig. Ein solider Cross Media Workflow macht aus einem Entweder-oder ein Sowohl-als-auch:
 
-Wer in ein flexibles Grundformat investiert (mein [Favorit ist das Textformat Markdown](/tools-fuer-texter)), erstellt bald vollautomatisiert Dokumente für den Druck, fürs Netz, für E-Reader und Plattformen wie Instant Articles oder Medium.
+Wer in ein flexibles Grundformat investiert (mein [Favorit ist das Textformat Markdown](/tools-fuer-texter)), erstellt daraus vollautomatisiert Dokumente für den Druck, fürs Netz, für E-Reader und Plattformen wie Instant Articles oder Medium.
 
 Ein Cross Media Workflow erlaubt es auch Inhalte direkt in eine Vielzahl von Publikationsplattformen einzuspeisen. Was sperrig klingt, ist die eigentliche Wunderwaffe im Wettkampf gegen die glänzende und schimmernde Konkurrenz:
 
-Inhalte einmal produzieren und strukturieren, mehrmals und überall publizieren (siehe [Inhalte für Überall](/inhalte-fuer-ueberall)).
+Digitale Magazin-Inhalte haben nur dann eine Chance auf Erfolg, wenn sie sich einmal produzieren und strukturieren, aber mehrmals und überall publizieren lassen (siehe [Inhalte für Überall](/inhalte-fuer-ueberall)).
 
 
 
