@@ -6,9 +6,6 @@ excerpt: "Wind, Föhntendenz, Niederschlag, Startplätze. Das Wichtigste, was du
 order: 4
 ---
 
-<!-- <script src="https://code.jquery.com/jquery-2.1.4.min.js">
-</script> -->
-
 <p class="post-meta">{{ page.excerpt }}</p>
 
 <p>

@@ -1,5 +1,3 @@
-###$(document).ready ->###
-
 ajaxCounter = 0
 stem = 'https://api.forecast.io/forecast/'
 key = '901f738ef524ecd81eafcead2fd6389b/'
@@ -65,13 +63,10 @@ handler = (data) ->
   document.getElementById("loader").setAttribute("style", "display: none;");
   document.getElementsByClassName("wetter")[0].innerHTML += '<ul>' + forecast + '</ul>'
 
-  ###    $('#loader').hide()  
-  $('p.wetter').append '<ul>' + forecast + '</ul>'###
   data.forecast = forecast
   window.data = data
 
 document.getElementById("tglBtn").addEventListener "click", (e) ->
-  ###$('#tglBtn').on 'click', (e) ->###
   getLocation = ->
     if navigator.geolocation
       navigator.geolocation.getCurrentPosition (position) ->
@@ -82,7 +77,6 @@ document.getElementById("tglBtn").addEventListener "click", (e) ->
     return
   
   makeRequest = (url) -> 
-    ###handler(json)###
     JSONP url, (json) -> 
       handler(json)
     ajaxCounter += 1
