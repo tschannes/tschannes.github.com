@@ -60,6 +60,7 @@ handler = (data) ->
     timestamp = new Date(daily[i].time * 1000)
     forecast = forecast.concat('<li><b>' + dateString(timestamp).day + '</b>: ' + daily[i].summary + directionHelper(daily[i].windBearing) + speedHelper(daily[i].windSpeed) + ' km\/h.' + '</li>')
     i++
+  
   document.getElementById("loader").setAttribute("style", "display: none;");
   document.getElementsByClassName("wetter")[0].innerHTML += '<ul>' + forecast + '</ul>'
 
