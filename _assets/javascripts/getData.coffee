@@ -69,13 +69,30 @@ handler = (data) ->
 
 document.getElementById("tglBtn").addEventListener "click", (e) ->
   getLocation = ->
+    geolocFail = -> 
+      document.getElementById("loader").setAttribute("style", "display: none;");
+      document.getElementsByClassName("wetter")[0].innerHTML += "Aktivieren Sie Geolokalisation, um dieses Feature zu nutzen."
     if navigator.geolocation
+      location_timeout = setTimeout('geolocFail()', 2000)
+      navigator.geolocation.getCurrentPosition ((position) ->
+        clearTimeout location_timeout
+        loc = position.coords.latitude + "," + position.coords.longitude
+        makeRequest(newURL(loc))
+        return
+      ), (error) ->
+        clearTimeout location_timeout
+        geolocFail()
+        return
+    else
+      # Fallback for no geolocation
+      geolocFail()
+    ### if navigator.geolocation
       navigator.geolocation.getCurrentPosition (position) ->
         loc = position.coords.latitude + "," + position.coords.longitude
         makeRequest(newURL(loc))
     else
       alert 'Geolocation is not supported by this browser.'
-    return
+    return###
   
   makeRequest = (url) -> 
     JSONP url, (json) -> 
