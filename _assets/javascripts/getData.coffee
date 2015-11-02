@@ -73,7 +73,7 @@ document.getElementById("tglBtn").addEventListener "click", (e) ->
       document.getElementById("loader").setAttribute("style", "display: none;");
       el = document.getElementsByClassName("wetter")[0].innerHTML
       msg = "Aktivieren Sie Geolokalisation, um dieses Feature zu nutzen."
-      if el != msg
+      if el !== msg
         el += msg
     if navigator.geolocation
       location_timeout = setTimeout('geolocFail()', 2000)
