@@ -73,7 +73,7 @@ document.getElementById("tglBtn").addEventListener "click", (e) ->
       el = undefined
       msg = undefined
       document.getElementById('loader').setAttribute 'style', 'display: none;'
-      msg = '<span class=\'red\'>Aktivieren Sie Geolokalisation, um dieses Feature zu nutzen.</span>'
+      msg = "<span class='red'>Aktivieren Sie Geolokalisation, um dieses Feature zu nutzen.</span>"
       if !(document.getElementsByClassName('wetter')[0].innerHTML.indexOf('span') > -1)
         document.getElementsByClassName('wetter')[0].innerHTML += msg
       return
