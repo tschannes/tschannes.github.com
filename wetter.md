@@ -32,6 +32,8 @@ Zur Kontrolle: Die **[Windy-App](http://windy.atelier-agile.ch/balises?display_a
 	<img src="/loader.gif" data-layzr="http://www.meteocentrale.ch/uploads/pics/uwz-ch_bise_en.png">
 </div>
 
+**[Paragliding Map](http://www.paraglidingmap.com/#)** zeigt weltweit Start- und Landeplätze, sowie Thermik-Hotspots und Webcams. Die App kombiniert die Startplatz-Informationen mit aktuellen Wetterdaten und Wettermodellen, um anzuzeigen, ob Startplätze fliegbar sind.
+
 **[Flyland.ch](http://flyland.ch)** zeigt auf einer Google-Karte, wo es sich in der Schweiz überall hochoffiziell und ganz korrekt starten lässt. Und wo zu landen, was zu vermeiden und welcher Wind ideal ist.
 
 <div class="frame">

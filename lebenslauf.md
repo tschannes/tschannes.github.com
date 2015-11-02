@@ -11,7 +11,7 @@ order: 4
 
 ## Berufserfahrung
 
-- **Texter und Konzepter**: [Hochschule Luzern -- Informatik](https://www.hslu.ch/de-ch/informatik/), April 2015 - Aktuell, Luzern
+- **Texter und Konzepter**: [Hochschule Luzern -- Informatik](https://www.hslu.ch/de-ch/informatik/), April 2015 - Januar 2016, Luzern
 
 - **Projektmitarbeiter Relaunch hslu.ch**: [Hochschule Luzern][2], September 2013 – Februar 2015, Luzern
 
