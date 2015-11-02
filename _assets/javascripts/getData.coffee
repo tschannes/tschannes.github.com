@@ -69,12 +69,14 @@ handler = (data) ->
 
 document.getElementById("tglBtn").addEventListener "click", (e) ->
   getLocation = ->
-    geolocFail = -> 
-      document.getElementById("loader").setAttribute("style", "display: none;");
-      el = document.getElementsByClassName("wetter")[0].innerHTML
-      msg = "Aktivieren Sie Geolokalisation, um dieses Feature zu nutzen."
-      if el !== msg
-        el += msg
+    geolocFail = ->
+      el = undefined
+      msg = undefined
+      document.getElementById('loader').setAttribute 'style', 'display: none;'
+      msg = '<span class=\'red\'>Aktivieren Sie Geolokalisation, um dieses Feature zu nutzen.</span>'
+      if !(document.getElementsByClassName('wetter')[0].innerHTML.indexOf('span') > -1)
+        document.getElementsByClassName('wetter')[0].innerHTML += msg
+      return
     if navigator.geolocation
       location_timeout = setTimeout('geolocFail()', 2000)
       navigator.geolocation.getCurrentPosition ((position) ->

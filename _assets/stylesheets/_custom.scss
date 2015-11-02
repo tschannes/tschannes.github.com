@@ -1,3 +1,9 @@
+.red{
+    color:white;
+    background-color:$brand-color-dark;
+    padding:0.5em;
+    display:block;
+}
 .feed iframe{
     font-size: $base-font-size;
 }
