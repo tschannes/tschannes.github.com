@@ -1,5 +1,7 @@
 # Rakefile from http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html
 
+# Custom URL https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/
+
 require "rubygems"
 require "tmpdir"
 
