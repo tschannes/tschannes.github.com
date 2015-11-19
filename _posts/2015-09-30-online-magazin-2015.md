@@ -1,15 +1,17 @@
 ---
 layout: post
 title: "Wie produziert sich ein Online-Magazin?"
-date: 2015-09-30
-excerpt: "'Wie setzen wir ein Magazin online um?', fragte mich ein Kollege heute morgen. Eine auf alles passende Antwort gibt es nicht. Dafür fünf Kriterien und jede Menge Tools und Services, die zeigen, wohin die Reise gehen könnte."
-img: "images/magazines.jpg"
+date: 2015-09-30T00:00:00.000Z
+excerpt: "'Wie setzen wir ein Magazin online um?', fragte mich ein Kollege heute Morgen. Eine auf alles passende Antwort gibt es nicht. Dafür fünf Kriterien und jede Menge Tools und Services, die zeigen, wohin die Reise gehen könnte."
+img: images/magazines.jpg
 alt: "Wörtliches Übersetzen vom Magazin-Konzept in die Digitale Welt funktioniert nur selten."
 caption: "https://upload.wikimedia.org/wikipedia/commons/e/e2/Magazines-mode-Copenhague.jpg"
 comments: true
 related: true
 categories: content
+published: true
 ---
+
 
 > Du wir wollen ein Magazin machen. Digital soll es werden und so richtig etwas hermachen.
 
@@ -101,6 +103,3 @@ Wer in ein flexibles Grundformat investiert (mein [Favorit ist das Textformat Ma
 Ein Cross Media Workflow erlaubt es auch Inhalte direkt in eine Vielzahl von Publikationsplattformen einzuspeisen. Was sperrig klingt, ist die eigentliche Wunderwaffe im Wettkampf gegen die glänzende und schimmernde Konkurrenz:
 
 Digitale Magazin-Inhalte haben nur dann eine Chance auf Erfolg, wenn sie sich einmal produzieren und strukturieren, aber mehrmals und überall publizieren lassen (siehe [Inhalte für Überall](/inhalte-fuer-ueberall)).
-
-
-
