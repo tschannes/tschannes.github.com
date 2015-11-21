@@ -1,0 +1,10 @@
+<form class="search">
+  <fieldset>
+    <input id="query" type="search" name="search" 
+     placeholder="Was suchen Sie?"
+     autocomplete="off"
+     onkeypress="return searchOnEnter(event);">
+    <input id="search" type="submit" value='Suchen!' class="button"
+    onclick="event.preventDefault();triggerSearch()">
+  </fieldset>
+</form>
