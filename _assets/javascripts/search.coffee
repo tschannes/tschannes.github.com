@@ -1,7 +1,7 @@
 getSearchData = (query) ->
   markup = ""
   markUp = (object) ->
-    result = "<div class='simple-post' itemscope itemtype='http://schema.org/Article'><a href='" + object.link + "' property='url'><span itemprop='name'>" + object.title + "</span></a>: " + object.summary + "</div>"
+    result = "<div class='search-post' itemscope itemtype='http://schema.org/Article'><a href='" + object.link + "' property='url'><span itemprop='name'>" + object.title + "</span></a>: " + object.summary + "</div>"
     markup += result
     document.getElementById('searchContainer').innerHTML = markup
 

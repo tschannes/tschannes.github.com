@@ -1,11 +1,25 @@
 form{
     display:inline-block;
+
     fieldset{
         border:none;
+        padding:0;
         input{
             font-size:inherit;
+            font-family:inherit;
+            vertical-align: middle;
         }
     }
+}
+#searchContainer{
+    :last-child{
+        padding-bottom:$spacing-unit;
+    }  
+}
+.search-post{
+    width:100%;
+    text-align: left;
+    line-height:$base-line-height;
 }
 .red{
     color:white;

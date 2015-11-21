@@ -20,6 +20,9 @@ layout: null
             <url>{{post.img | prepend: '/' | prepend: site.baseurl | prepend: site.url }}</url>
             <title>{{post.title}}</title>
         </image>
+        <content>
+            {{ post.content | markdownify | strip_html | xml_escape }}
+        </content>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
         <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
         {% for tag in post.tags %}
@@ -36,6 +39,9 @@ layout: null
         <title>{{ page.title | xml_escape }}</title>
         <description>{{ page.excerpt | xml_escape }}</description>
         <link>{{ page.url | prepend: site.baseurl | prepend: site.url }}</link>
+        <content>
+            {{ page.content | markdownify | strip_html | xml_escape }}
+        </content>
         <guid isPermaLink="true">{{ page.url | prepend: site.baseurl | prepend: site.url }}</guid>
       </item>
     {% endfor %}
