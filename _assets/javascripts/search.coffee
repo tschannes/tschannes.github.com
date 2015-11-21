@@ -10,7 +10,7 @@ getSearchData = (query) ->
   JSONP url, (json) -> 
     markUp object for object in json
     if json.length == 0
-      console.log("No JSON AROUND.")
+      ##console.log("No JSON AROUND.")
       markup = markUp fehler
   markup
 
