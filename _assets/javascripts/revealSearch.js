@@ -1,5 +1,5 @@
 window.addEventListener("keyup", checkKeyPressed, false);
-window.addEventListener("touchstart", tapHandler, false);
+window.addEventListener("touchstart", doubletap, false);
 
 function checkKeyPressed(e) {
     if (e.keyCode == "17") {

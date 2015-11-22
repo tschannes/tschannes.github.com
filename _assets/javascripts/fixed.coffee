@@ -2,26 +2,21 @@ bigScreen = ->
   bigScreenLimit = 1200
   true if window.innerWidth > bigScreenLimit
 
+offsetHeight = ->
+  nav = document.getElementsByTagName('header')[0].offsetHeight
+  search = document.getElementById('searchContainer').offsetHeight
+  total = nav + search
+
 makeFixed = (el) ->
   ad = el
-
-  measure = (el) -> 
-    if document.getElementsByClassName(el).length
-      height = document.getElementsByClassName(el)[0].offsetHeight
-    else
-      height = 0
-
-  #introHeight = measure('intro')
-  navHeight = measure('site-header')
-  titleHeight = measure('post-header')
-
+  console.log(offsetHeight())
   window.addEventListener "scroll", (evt) ->
     distanceFromTop = (document.documentElement.scrollTop or document.body.scrollTop)
     # The user has scrolled to the top of the page. Remove styles.
-    ad.removeAttribute "style" if distanceFromTop <= (navHeight + titleHeight)
+    ad.removeAttribute "style" if distanceFromTop <= (offsetHeight())
     # The user has scrolled down the page and we are on a big screen
     marginRight = (window.innerWidth - document.querySelectorAll('.home, .post')[0].offsetWidth - scrollbarWidth) / 2 + "px";
-    if distanceFromTop >= (navHeight + titleHeight) and bigScreen()
+    if distanceFromTop >= offsetHeight() and bigScreen()
       ad.style.position = "fixed"
       ad.style.top = "2em"
       ad.style.right = marginRight
@@ -35,6 +30,7 @@ watch = (el) ->
     ad = document.getElementsByClassName("ad")[0]
     if bigScreen()
       makeFixed(ad)
+      offsetHeight()
     else
       ad.removeAttribute "style"
   return

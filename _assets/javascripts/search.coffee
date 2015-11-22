@@ -1,7 +1,7 @@
 getSearchData = (query) ->
   markup = ""
   markUp = (object) ->
-    result = "<div class='search-post' itemscope itemtype='http://schema.org/Article'><a href='" + object.link + "' property='url'><span itemprop='name'>" + object.title + "</span></a>: " + object.summary + "</div>"
+    result = "<div class='search-post' itemscope itemtype='http://schema.org/Article'><b><a href='" + object.link + "' property='url'><span itemprop='name'>" + object.title + "</span></a></b>: " + object.summary + "</div>"
     markup += result
     document.getElementById('results').innerHTML = markup
 
@@ -14,7 +14,7 @@ getSearchData = (query) ->
       markup = markUp fehler
   markup
 
-searchOnEnter = (e) ->
+window.searchOnEnter = (e) ->
   # look for window.event in case event isn't passed in
   e = e or window.event
   if e.keyCode == 13
