@@ -2,6 +2,7 @@ window.addEventListener("keyup", checkKeyPressed, false);
 window.addEventListener("touchstart", doubletap, false);
 
 function checkKeyPressed(e) {
+    e.preventDefault();
     if (e.keyCode == "17") {
         doubletap();
     }
