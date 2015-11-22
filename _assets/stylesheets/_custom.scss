@@ -12,9 +12,15 @@ form{
     }
 }
 #searchContainer{
+    display:none;
+    border-bottom: 5px solid $brand-color-dark;
+}
+#results{
+    margin: auto;
+    max-width:$wrapper-width/2;
     :last-child{
         padding-bottom:$spacing-unit;
-    }  
+    }
 }
 .search-post{
     width:100%;

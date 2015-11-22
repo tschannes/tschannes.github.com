@@ -3,7 +3,7 @@ getSearchData = (query) ->
   markUp = (object) ->
     result = "<div class='search-post' itemscope itemtype='http://schema.org/Article'><a href='" + object.link + "' property='url'><span itemprop='name'>" + object.title + "</span></a>: " + object.summary + "</div>"
     markup += result
-    document.getElementById('searchContainer').innerHTML = markup
+    document.getElementById('results').innerHTML = markup
 
   url = "http://www.tapirgo.com/api/1/search.json?token=564f13063093adf1ee000000&query=" + query
   fehler = {"title":"Oops...","_score":null,"link":"/","content":null,"summary":"Nichts gefunden. Zurück zur Startseite?","published_on":"2015-04-30T22:00:00Z"}
@@ -14,7 +14,7 @@ getSearchData = (query) ->
       markup = markUp fehler
   markup
 
-window.searchOnEnter = (e) ->
+searchOnEnter = (e) ->
   # look for window.event in case event isn't passed in
   e = e or window.event
   if e.keyCode == 13
