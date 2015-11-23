@@ -5,3 +5,5 @@
 //= require layzr.js
 //= require jsonp.js
 //= require getData.coffee
+//= require search.coffee
+//= require revealSearch.js

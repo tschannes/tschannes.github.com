@@ -15,9 +15,6 @@ window.pickRandomColor = ->
 		unless rects[i].id == "background"
 			el.style.fill = colors[x];
 
-#randomInt = -> 
-#	t = Math.floor(Math.random() * [1000])
-
 setInterval () ->
 	pickRandomColor()
 , 444

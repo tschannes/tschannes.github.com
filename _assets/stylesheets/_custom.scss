@@ -1,3 +1,32 @@
+form{
+    display:inline-block;
+
+    fieldset{
+        border:none;
+        padding:0;
+        input{
+            font-size:inherit;
+            font-family:inherit;
+            vertical-align: middle;
+        }
+    }
+}
+#searchContainer{
+    display:none;
+    border-bottom: 5px solid $brand-color-dark;
+}
+#results{
+    margin: auto;
+    max-width:$wrapper-width/2;
+    :last-child{
+        padding-bottom:$spacing-unit;
+    }
+}
+.search-post{
+    width:100%;
+    text-align: left;
+    line-height:$base-line-height;
+}
 .red{
     color:white;
     background-color:$brand-color-dark;

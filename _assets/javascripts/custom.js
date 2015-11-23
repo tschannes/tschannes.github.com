@@ -19,6 +19,9 @@ function loadFonts() {
   }
 // ToggleMoreContent
 var toggleVisibility = function(id) {
+    if (!document.getElementById('tglBtn')) {
+      return false;
+    }
     var e = document.getElementById(id);
     var button = document.getElementById('tglBtn');
     if (e.style.display == 'block') {
@@ -28,7 +31,7 @@ var toggleVisibility = function(id) {
       e.style.display = 'block';
       button.textContent = 'Ausblenden';
     }
-  } 
+  };
 
 // Measer the scrollbar width. hack by David Walsh
 var scrollDiv = document.createElement("div");

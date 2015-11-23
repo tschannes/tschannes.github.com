@@ -1,0 +1,19 @@
+<div id="searchContainer">
+  <div class="site-header">
+    <div class="wrapper">
+      <div class="site-nav">     
+            <form class="search">
+              <fieldset>
+                <input id="query" type="search" name="search" autofocus
+                 placeholder="Was suchen Sie?"
+                 autocomplete="off"
+                 onkeypress="return searchOnEnter(event);">
+                <input id="search" type="submit" value='Suchen!' class="button"
+                onclick="event.preventDefault();triggerSearch()">
+              </fieldset>
+            </form>
+            <div id="results"></div>  
+      </div>
+    </div> 
+  </div>
+</div>
