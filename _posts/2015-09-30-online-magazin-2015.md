@@ -9,7 +9,9 @@ caption: "https://upload.wikimedia.org/wikipedia/commons/e/e2/Magazines-mode-Cop
 comments: true
 related: true
 categories: content
+published: true
 ---
+
 
 > Du wir wollen ein Magazin machen. Digital soll es werden und so richtig etwas hermachen.
 
@@ -101,6 +103,3 @@ Wer in ein flexibles Grundformat investiert (mein [Favorit ist das Textformat Ma
 Ein Cross Media Workflow erlaubt es auch Inhalte direkt in eine Vielzahl von Publikationsplattformen einzuspeisen. Was sperrig klingt, ist die eigentliche Wunderwaffe im Wettkampf gegen die glänzende und schimmernde Konkurrenz:
 
 Digitale Magazin-Inhalte haben nur dann eine Chance auf Erfolg, wenn sie sich einmal produzieren und strukturieren, aber mehrmals und überall publizieren lassen (siehe [Inhalte für Überall](/inhalte-fuer-ueberall)).
-
-
-
