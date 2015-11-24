@@ -1,0 +1,13 @@
+---
+layout: page
+title: "Links"
+permalink: /links/
+excerpt: "Alle Dinge, die ich nützlich finde."
+order: 0
+published:false
+---
+
+This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.
+
+{% include links.html %}
+{% include call-to-action.html %}

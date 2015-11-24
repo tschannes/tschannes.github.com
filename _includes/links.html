@@ -1,0 +1,16 @@
+<ul class="post-list links">
+{% for link in site.data.content.links %}
+    <div class="card links" itemscope itemtype="http://schema.org/Article">
+        <a class="post-link" href="{{ link.href }}" property="url" name="{{link.title | slugify }}">
+          <li>
+              <h2 itemprop="name">
+                {{ link.title }}
+              </h2>
+              <p itemprop="description">
+                {{link.description}}
+              </p>
+            </li>
+        </a>
+    </div>
+    {% endfor %}
+</ul>

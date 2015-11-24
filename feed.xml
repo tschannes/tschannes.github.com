@@ -32,7 +32,7 @@ layout: null
     {% endfor %}
     <!-- adding pages to feed for complete search -->
     {% for page in site.pages %}
-      {% unless page.url contains ("feed" or "index") %}
+      {% unless page.url contains "feed" or page.url contains "index" %}
       <item>
         <title>{{ page.title | xml_escape }}</title>
         <description> {{ page.excerpt | xml_escape }} {{ page.content | markdownify | strip_html | xml_escape }}</description>
@@ -40,6 +40,14 @@ layout: null
         <guid isPermaLink="true">{{ page.url | prepend: site.baseurl | prepend: site.url }}</guid>
       </item>
       {% endunless %}
+    {% endfor %}
+    <!-- Including links as resources to make them searchable -->
+    {% for link in site.data.content.links %}
+      <item>
+        <title>{{ link.title | xml_escape }}</title>
+        <description> {{ link.description | xml_escape }}</description>
+        <link>{{ link.href }}</link>
+      </item>
     {% endfor %}
   </channel>
 </rss>
