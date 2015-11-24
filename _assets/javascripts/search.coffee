@@ -1,9 +1,15 @@
 getSearchData = (query) ->
   markup = ""
   markUp = (object) ->
-    result = "<div class='search-post' itemscope itemtype='http://schema.org/Article'><b><a href='" + object.link + "' property='url'><span itemprop='name'>" + object.title + "</span></a></b>: " + object.summary + "</div>"
+    result = "<div class='search-post' itemscope itemtype='http://schema.org/Article'><b><a href='" + object.link + "' property='url'><span itemprop='name'>" + object.title + "</span></a></b>: " + moreHelper(object.summary,160) + "</div>"
     markup += result
     document.getElementById('results').innerHTML = markup
+
+  moreHelper = (string,limit) ->
+    if string.length > limit
+      return string.slice(0,limit) + "..."
+    else
+      return string.slice(0,limit)
 
   url = "http://www.tapirgo.com/api/1/search.json?token=564f13063093adf1ee000000&query=" + query
   fehler = {"title":"Oops...","_score":null,"link":"/","content":null,"summary":"Nichts gefunden. Zurück zur Startseite?","published_on":"2015-04-30T22:00:00Z"}
