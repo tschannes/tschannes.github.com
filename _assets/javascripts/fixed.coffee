@@ -9,7 +9,7 @@ offsetHeight = ->
 
 makeFixed = (el) ->
   ad = el
-  console.log(offsetHeight())
+  ###console.log(offsetHeight())###
   window.addEventListener "scroll", (evt) ->
     distanceFromTop = (document.documentElement.scrollTop or document.body.scrollTop)
     # The user has scrolled to the top of the page. Remove styles.
