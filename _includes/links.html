@@ -1,16 +1,15 @@
-<ul class="post-list links">
-{% for link in site.data.content.links %}
-    <div class="card links" itemscope itemtype="http://schema.org/Article">
-        <a class="post-link" href="{{ link.href }}" property="url" name="{{link.title | slugify }}">
-          <li>
+<ul style="margin-left:0;">
+{% assign sorted_links = (site.data.content.links | sort: 'title') %}
+{% for link in sorted_links %}
+          <li class="post-link">
+            <a href="{{ link.href }}" property="url" name="{{link.title | slugify }}">
               <h2 itemprop="name">
                 {{ link.title }}
               </h2>
+            </a>
               <p itemprop="description">
                 {{link.description}}
               </p>
             </li>
-        </a>
-    </div>
     {% endfor %}
 </ul>

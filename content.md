@@ -5,6 +5,7 @@ permalink: /content/
 header: "Content-Strategie: Ressourcen und Tools"
 excerpt: "Anderer Leute Bücher, Methoden und Tools haben mein Verständnis von Content-Strategie geprägt. Die für mich wichtigsten Ressourcen finden sich hier."
 order: 2
+published: false
 ---
 
 <p class="post-meta">{{ page.excerpt }}</p>

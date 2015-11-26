@@ -10,4 +10,5 @@ published: true
 This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.
 
 {% include links.html %}
+
 {% include call-to-action.html %}
