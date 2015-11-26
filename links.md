@@ -2,12 +2,12 @@
 layout: page
 title: "Links"
 permalink: /links/
-excerpt: "Alle Dinge, die ich nützlich finde."
+excerpt: "Anderer Leute Bücher, Methoden und Tools; Suche, Meta-Daten, Text: Tools, Ressourcen und Erfahrungen, welche meinen Zugang zum digitalen Text und zu Content-Strategie geprägt haben, finden sich hier."
 order: 0
 published: true
 ---
 
-This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.This is some stupid introduction if you want to have it.
+<p class="post-meta">{{ page.excerpt }}</p>
 
 {% include links.html %}
 
