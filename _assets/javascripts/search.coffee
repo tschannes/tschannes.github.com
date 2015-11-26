@@ -11,7 +11,7 @@ getSearchData = (query) ->
     else
       return string.slice(0,limit)
 
-  url = "http://www.tapirgo.com/api/1/search.json?token=564f13063093adf1ee000000&query=" + query
+  url = "http://www.tapirgo.com/api/1/search.json?token=5657607e3093adf1ee000000&query=" + query
   fehler = {"title":"Oops...","_score":null,"link":"/","content":null,"summary":"Nichts gefunden. Zurück zur Startseite?","published_on":"2015-04-30T22:00:00Z"}
   JSONP url, (json) -> 
     markUp object for object in json
