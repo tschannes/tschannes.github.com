@@ -10,15 +10,14 @@ order: 3
 
 ##Rückmeldungen aus der Arbeitswelt
 
-<!--
-
 ### Hochschule Luzern -- Informatik
 
-> Bla bla bla. (Annette Stüdli, Arbeitszeugnis noch nicht verfügbar)
+> Herausragend sind Hannes Tscherrigs ausserordentliche Sprachkompetenz, sein Innovationsgeist und sein Interesse für digitale Technik.
 
--->
+> Er bringt laufend Ideen ein und findet Wege, diese umzusetzen. (Annette Stüdli, [Arbeitszeugnis Hochschule Luzern – Informatik](/referenzen/hochschule_luzern_informatik.pdf))
 
-###Hochschule Luzern
+
+### Hochschule Luzern
 
 > Hervorzuheben ist die konsequente Nutzersicht von Hannes Tscherrig auf Web-Inhalte.
 
