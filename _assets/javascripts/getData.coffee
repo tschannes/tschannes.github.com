@@ -1,5 +1,5 @@
 if window.location.pathname == "/wetter/"
-  console.log('The Weather Script is Running.')
+  #console.log('The Weather Script is Running.')
 
   ajaxCounter = 0
   stem = 'https://api.forecast.io/forecast/'
@@ -7,6 +7,8 @@ if window.location.pathname == "/wetter/"
   loc = ''#'47.0441453,8.2971598'
   params = '?lang=de&units=ca'
   url = stem + key + loc + params
+
+  #console.log url
 
   dateString = (dateObject) ->
     date = 
@@ -51,18 +53,39 @@ if window.location.pathname == "/wetter/"
 
   directionHelper = (num) ->
     arrow = " </br>Wind: <img src='/images/arrow.svg' style='display:inline-block;color:purple;width:1em;height:1em;-ms-transform: rotate(" + num + "deg); /* IE 9 */-webkit-transform: rotate(" + num + "deg); /* Safari */transform: rotate(" + num + "deg);'></img> "
+  
+  cloudBaseHelper = (temp,dewPoint) ->
+    cloudBase = (temp - dewPoint) * 125
+    return Math.round(cloudBase)
 
   handler = (data) ->
-    ###console.log data###
-    date = new Date(data.hourly.data[0].time * 1000)
-    dateSummary = data.hourly.summary
-    forecast = ''
+    #console.log data
+    #date = new Date(data.hourly.data[0].time * 1000)
+    #dateSummary = data.hourly.summary
+    forecast = []
     daily = data.daily.data 
     i = 0
     while i <= daily.length - 1
-      timestamp = new Date(daily[i].time * 1000)
-      forecast = forecast.concat('<li><b>' + dateString(timestamp).day + '</b>: ' + daily[i].summary + directionHelper(daily[i].windBearing) + speedHelper(daily[i].windSpeed) + ' km\/h.' + '</li>')
+      day = daily[i]
+      timestamp = new Date(day.time * 1000)
+      #forecast = forecast.concat('<li><b>' + dateString(timestamp).day + '</b>: ' + day.summary + directionHelper(day.windBearing) + speedHelper(day.windSpeed) + ' km\/h.' + cloudBaseHelper(day.temperatureMax, day.dewPoint) + ' Meter über Grund.</li>')
+      wtr = []
+      wtr.push('<li><b>')
+      wtr.push(dateString(timestamp).day)
+      wtr.push('</b>: ')
+      wtr.push(day.summary)
+      wtr.push(directionHelper(day.windBearing))
+      wtr.push(speedHelper(day.windSpeed))
+      wtr.push('km\/h')
+      #wtr.push(day.visibility)
+      wtr.push('</br>Wolkenbasis: ')
+      wtr.push(cloudBaseHelper(day.temperatureMax, day.dewPoint))
+      wtr.push('m.ü.M.</li>')
+      forecastDay = wtr.join("")
+      #console.log(forecastDay)
+      forecast.push(forecastDay)
       i++
+    forecast = forecast.join("")
     
     document.getElementById("loader").setAttribute("style", "display: none;");
     document.getElementsByClassName("wetter")[0].innerHTML += '<ul>' + forecast + '</ul>'
