@@ -1,6 +1,5 @@
+###todo: integrate place as described here: https://developers.google.com/maps/documentation/geocoding/intro#ReverseGeocoding###
 if window.location.pathname == "/wetter/"
-  #console.log('The Weather Script is Running.')
-  #todo: integrate place as described here: https://developers.google.com/maps/documentation/geocoding/intro#ReverseGeocoding
   ajaxCounter = 0
   data = {}
   data.json = ""
@@ -8,12 +7,9 @@ if window.location.pathname == "/wetter/"
 
   document.getElementById("tglBtn").addEventListener "click", (e) ->
     if ajaxCounter < 1
-      location = locate()
-      console.log("location: " + location)
-      makeRequest(weatherURL(locate))
-      window.data = data
+      makeRequest(locate(weatherURL))
 
-  window.locate = ->
+  window.locate = (callback) ->
     loc = ""
     geolocFail = ->
       document.getElementById('loader').setAttribute 'style', 'display: none;'
@@ -26,16 +22,14 @@ if window.location.pathname == "/wetter/"
       navigator.geolocation.getCurrentPosition ((position) ->
         clearTimeout location_timeout
         loc = position.coords.latitude + "," + position.coords.longitude
-        #makeRequest(newURL(loc))
         data.location = loc
-        loc
+        callback(loc)
         return
       ), (error) ->
         clearTimeout location_timeout
         geolocFail()
         return
     else
-      # Fallback for no geolocation
       geolocFail()
 
   makeRequest = (url) -> 
@@ -44,21 +38,19 @@ if window.location.pathname == "/wetter/"
     ajaxCounter += 1
     return
 
-  weatherURL = (loc, callback) ->
-    loc = callback() || loc
+  window.weatherURL = (loc) ->
     stem = 'https://api.forecast.io/forecast/'
     key = '901f738ef524ecd81eafcead2fd6389b/'
     params = '?lang=de&units=ca'
     url = stem + key + loc + params
     return url
 
-  
   handler = (data) ->
     data.json = data
     printData(data)
 
   printData = (data) ->
-    #console.log data
+    console.log data
     forecast = []
     daily = data.daily.data 
     i = 0
@@ -73,7 +65,7 @@ if window.location.pathname == "/wetter/"
       wtr.push(directionHelper(day.windBearing))
       wtr.push(speedHelper(day.windSpeed))
       wtr.push('km\/h')
-      #wtr.push(day.visibility)
+      ###wtr.push(day.visibility)###
       wtr.push('</br>Wolkenbasis: ')
       wtr.push(cloudBaseHelper(day.temperatureMax, day.dewPoint))
       wtr.push('m.ü.M.</li>')
@@ -128,6 +120,3 @@ if window.location.pathname == "/wetter/"
     cloudBaseHelper = (temp,dewPoint) ->
       cloudBase = (temp - dewPoint) * 125
       return Math.round(cloudBase)
-
-
-  return

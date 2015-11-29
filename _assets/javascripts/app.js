@@ -4,6 +4,6 @@
 //= require logo.coffee
 //= require layzr.js
 //= require jsonp.js
-//= require getData.coffee
+//= require wetter.coffee
 //= require search.coffee
 //= require revealSearch.js
