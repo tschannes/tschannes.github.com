@@ -1,81 +1,27 @@
 if window.location.pathname == "/wetter/"
   #console.log('The Weather Script is Running.')
-
   ajaxCounter = 0
-  stem = 'https://api.forecast.io/forecast/'
-  key = '901f738ef524ecd81eafcead2fd6389b/'
-  loc = ''#'47.0441453,8.2971598'
-  params = '?lang=de&units=ca'
-  url = stem + key + loc + params
-
-  dateString = (dateObject) ->
-    date = 
-      fullDate: ''
-      day: ''
-    months = [
-      'Januar'
-      'Februar'
-      'März'
-      'April'
-      'Mai'
-      'Juni'
-      'Juli'
-      'August'
-      'September'
-      'Oktober'
-      'November'
-      'Dezember'
-    ]
-    days = [
-      'Sonntag'
-      'Montag'
-      'Dienstag'
-      'Mittwoch'
-      'Donnerstag'
-      'Freitag'
-      'Samstag'
-    ]
-    date.fullDate = dateObject.getDate() + '. ' + months[dateObject.getMonth()] + ' ' + dateObject.getFullYear()
-    date.day = days[dateObject.getDay()]
-    date
-
-  getWeather = (loc) ->
-    newLoc = loc
-    url = stem + key + loc + params
-    makeRequest(url)
-
-  speedHelper = (num) ->
-    color = "<span style='color:white;background-color:red'>" + num + "</span>" if num > 20
-    color = "<span style='color:white;background-color:orange'>" + num + "</span>" if num < 20
-    color = "<span style='color:white;background-color:green'>" + num + "</span>" if num < 10
-    color
-
-  directionHelper = (num) ->
-    arrow = " </br>Wind: <img src='/images/arrow.svg' style='display:inline-block;color:purple;width:1em;height:1em;-ms-transform: rotate(" + num + "deg); /* IE 9 */-webkit-transform: rotate(" + num + "deg); /* Safari */transform: rotate(" + num + "deg);'></img> "
-
-  handler = (json) ->
-    printData(json)
-    ###console.log data###
-  printData = (data) ->
-    date = new Date(data.hourly.data[0].time * 1000)
-    dateSummary = data.hourly.summary
-    forecast = ''
-    daily = data.daily.data 
-    i = 0
-    while i <= daily.length - 1
-      timestamp = new Date(daily[i].time * 1000)
-      forecast = forecast.concat('<li><b>' + dateString(timestamp).day + '</b>: ' + daily[i].summary + directionHelper(daily[i].windBearing) + speedHelper(daily[i].windSpeed) + ' km\/h.' + '</li>')
-      i++
-    
-    document.getElementById("loader").setAttribute("style", "display: none;");
-    document.getElementsByClassName("wetter")[0].innerHTML += '<ul>' + forecast + '</ul>'
-
-    data.forecast = forecast
-    window.data = data
 
   document.getElementById("tglBtn").addEventListener "click", (e) ->
     getLocation(getWeather) if ajaxCounter < 1
-  
+
+  handler = (json) ->
+    printData(json)
+
+  getWeather = (coords) ->
+    stem = 'https://api.forecast.io/forecast/'
+    key = '901f738ef524ecd81eafcead2fd6389b/'
+    #coords = '47.0441453,8.2971598'
+    params = '?lang=de&units=ca'
+    url = stem + key + coords + params
+    makeRequest(url)
+
+  makeRequest = (url) -> 
+    JSONP url, (json) -> 
+      handler(json)
+    ajaxCounter += 1
+    return
+
   getLocation = (callback) ->
     geolocFail = ->
       el = undefined
@@ -100,9 +46,57 @@ if window.location.pathname == "/wetter/"
     else
       # Fallback for no geolocation
       geolocFail()
-  
-  makeRequest = (url) -> 
-    JSONP url, (json) -> 
-      handler(json)
-    ajaxCounter += 1
-    return
+
+  printData = (data) ->
+    document.getElementById("loader").setAttribute("style", "display: none;");
+
+    dateString = (dateObject) ->
+      date = 
+        fullDate: ''
+        day: ''
+      months = [
+        'Januar'
+        'Februar'
+        'März'
+        'April'
+        'Mai'
+        'Juni'
+        'Juli'
+        'August'
+        'September'
+        'Oktober'
+        'November'
+        'Dezember'
+      ]
+      days = [
+        'Sonntag'
+        'Montag'
+        'Dienstag'
+        'Mittwoch'
+        'Donnerstag'
+        'Freitag'
+        'Samstag'
+      ]
+      date.fullDate = dateObject.getDate() + '. ' + months[dateObject.getMonth()] + ' ' + dateObject.getFullYear()
+      date.day = days[dateObject.getDay()]
+      date
+
+    speedHelper = (num) ->
+      color = "<span style='color:white;background-color:red'>" + num + "</span>" if num > 20
+      color = "<span style='color:white;background-color:orange'>" + num + "</span>" if num < 20
+      color = "<span style='color:white;background-color:green'>" + num + "</span>" if num < 10
+      color
+
+    directionHelper = (num) ->
+      arrow = " </br>Wind: <img src='/images/arrow.svg' style='display:inline-block;color:purple;width:1em;height:1em;-ms-transform: rotate(" + num + "deg); /* IE 9 */-webkit-transform: rotate(" + num + "deg); /* Safari */transform: rotate(" + num + "deg);'></img> "
+
+    date = new Date(data.hourly.data[0].time * 1000)
+    dateSummary = data.hourly.summary
+    forecast = ''
+    daily = data.daily.data 
+    i = 0
+    while i <= daily.length - 1
+      timestamp = new Date(daily[i].time * 1000)
+      forecast = forecast.concat('<li><b>' + dateString(timestamp).day + '</b>: ' + daily[i].summary + directionHelper(daily[i].windBearing) + speedHelper(daily[i].windSpeed) + ' km\/h.' + '</li>')
+      i++
+    document.getElementsByClassName("wetter")[0].innerHTML += '<ul>' + forecast + '</ul>'
