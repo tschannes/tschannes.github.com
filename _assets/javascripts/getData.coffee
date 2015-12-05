@@ -1,5 +1,5 @@
 if window.location.pathname == "/wetter/"
-  console.log('The Weather Script is Running.')
+  #console.log('The Weather Script is Running.')
 
   ajaxCounter = 0
   stem = 'https://api.forecast.io/forecast/'
@@ -39,9 +39,10 @@ if window.location.pathname == "/wetter/"
     date.day = days[dateObject.getDay()]
     date
 
-  newURL = (loc) ->
+  getWeather = (loc) ->
     newLoc = loc
     url = stem + key + loc + params
+    makeRequest(url)
 
   speedHelper = (num) ->
     color = "<span style='color:white;background-color:red'>" + num + "</span>" if num > 20
@@ -52,8 +53,10 @@ if window.location.pathname == "/wetter/"
   directionHelper = (num) ->
     arrow = " </br>Wind: <img src='/images/arrow.svg' style='display:inline-block;color:purple;width:1em;height:1em;-ms-transform: rotate(" + num + "deg); /* IE 9 */-webkit-transform: rotate(" + num + "deg); /* Safari */transform: rotate(" + num + "deg);'></img> "
 
-  handler = (data) ->
+  handler = (json) ->
+    printData(json)
     ###console.log data###
+  printData = (data) ->
     date = new Date(data.hourly.data[0].time * 1000)
     dateSummary = data.hourly.summary
     forecast = ''
@@ -71,36 +74,35 @@ if window.location.pathname == "/wetter/"
     window.data = data
 
   document.getElementById("tglBtn").addEventListener "click", (e) ->
-    getLocation = ->
-      geolocFail = ->
-        el = undefined
-        msg = undefined
-        document.getElementById('loader').setAttribute 'style', 'display: none;'
-        msg = "<span class='red'>Aktivieren Sie Geolokalisation, um dieses Feature zu nutzen.</span>"
-        if !(document.getElementsByClassName('wetter')[0].innerHTML.indexOf('span') > -1)
-          document.getElementsByClassName('wetter')[0].innerHTML += msg
-        return
-      if navigator.geolocation
-        location_timeout = setTimeout('geolocFail()', 2000)
-        navigator.geolocation.getCurrentPosition ((position) ->
-          clearTimeout location_timeout
-          loc = position.coords.latitude + "," + position.coords.longitude
-          makeRequest(newURL(loc))
-          return
-        ), (error) ->
-          clearTimeout location_timeout
-          geolocFail()
-          return
-      else
-        # Fallback for no geolocation
-        geolocFail()
-    
-    makeRequest = (url) -> 
-      JSONP url, (json) -> 
-        handler(json)
-      ajaxCounter += 1
+    getLocation(getWeather) if ajaxCounter < 1
+  
+  getLocation = (callback) ->
+    geolocFail = ->
+      el = undefined
+      msg = undefined
+      document.getElementById('loader').setAttribute 'style', 'display: none;'
+      msg = "<span class='red'>Aktivieren Sie Geolokalisation, um dieses Feature zu nutzen.</span>"
+      if !(document.getElementsByClassName('wetter')[0].innerHTML.indexOf('span') > -1)
+        document.getElementsByClassName('wetter')[0].innerHTML += msg
       return
-    
-    getLocation() if ajaxCounter < 1
-
-  return
+    if navigator.geolocation
+      location_timeout = setTimeout('geolocFail()', 2000)
+      navigator.geolocation.getCurrentPosition ((position) ->
+        clearTimeout location_timeout
+        loc = position.coords.latitude + "," + position.coords.longitude
+        #makeRequest(getWeather(loc))
+        callback(loc)
+        return
+      ), (error) ->
+        clearTimeout location_timeout
+        geolocFail()
+        return
+    else
+      # Fallback for no geolocation
+      geolocFail()
+  
+  makeRequest = (url) -> 
+    JSONP url, (json) -> 
+      handler(json)
+    ajaxCounter += 1
+    return
