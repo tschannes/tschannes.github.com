@@ -1,11 +1,11 @@
 form{
     display:inline-block;
-
+    font-size:$base-font-size;
     fieldset{
         border:none;
         padding:0;
         input{
-            font-size:inherit;
+            font-size:$base-font-size;
             font-family:inherit;
             vertical-align: middle;
         }
@@ -13,10 +13,10 @@ form{
 }
 #searchContainer{
     display:none;
-    border-bottom: 5px solid $brand-color-dark;
+    border-bottom: 5px solid $background-color;
+    border-top: 5px solid $brand-color-dark;
 }
 #results{
-    margin: auto;
     max-width:$wrapper-width/2;
     :last-child{
         padding-bottom:$spacing-unit;
