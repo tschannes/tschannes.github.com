@@ -3,7 +3,7 @@ if window.location.pathname == "/wetter/"
   ajaxCounter = 0
 
   document.getElementById("tglBtn").addEventListener "click", (e) ->
-    getLocation(getWeather) if ajaxCounter < 1
+    findLocation(getWeather) if ajaxCounter < 1
 
   handler = (json) ->
     printData(json)
@@ -11,7 +11,6 @@ if window.location.pathname == "/wetter/"
   getWeather = (coords) ->
     stem = 'https://api.forecast.io/forecast/'
     key = '901f738ef524ecd81eafcead2fd6389b/'
-    #coords = '47.0441453,8.2971598'
     params = '?lang=de&units=ca'
     url = stem + key + coords + params
     makeRequest(url)
@@ -22,7 +21,7 @@ if window.location.pathname == "/wetter/"
     ajaxCounter += 1
     return
 
-  getLocation = (callback) ->
+  findLocation = (callback) ->
     geolocFail = ->
       el = undefined
       msg = undefined
@@ -36,7 +35,6 @@ if window.location.pathname == "/wetter/"
       navigator.geolocation.getCurrentPosition ((position) ->
         clearTimeout location_timeout
         loc = position.coords.latitude + "," + position.coords.longitude
-        #makeRequest(getWeather(loc))
         callback(loc)
         return
       ), (error) ->
@@ -87,16 +85,35 @@ if window.location.pathname == "/wetter/"
       color = "<span style='color:white;background-color:green'>" + num + "</span>" if num < 10
       color
 
+    cloudBaseHelper = (temp,dewPoint) ->
+      cloudBase = Math.round((temp - dewPoint) * 125)
+      #console.log(cloudBase)
+      return cloudBase
+
     directionHelper = (num) ->
       arrow = " </br>Wind: <img src='/images/arrow.svg' style='display:inline-block;color:purple;width:1em;height:1em;-ms-transform: rotate(" + num + "deg); /* IE 9 */-webkit-transform: rotate(" + num + "deg); /* Safari */transform: rotate(" + num + "deg);'></img> "
 
     date = new Date(data.hourly.data[0].time * 1000)
     dateSummary = data.hourly.summary
-    forecast = ''
+    forecast = []
     daily = data.daily.data 
     i = 0
     while i <= daily.length - 1
-      timestamp = new Date(daily[i].time * 1000)
-      forecast = forecast.concat('<li><b>' + dateString(timestamp).day + '</b>: ' + daily[i].summary + directionHelper(daily[i].windBearing) + speedHelper(daily[i].windSpeed) + ' km\/h.' + '</li>')
+      day = daily[i]
+      timestamp = new Date(day.time * 1000)
+      wtr = []
+      wtr.push('<li><b>')
+      wtr.push(dateString(timestamp).day)
+      wtr.push('</b>: ')
+      wtr.push(day.summary)
+      wtr.push(directionHelper(day.windBearing))
+      wtr.push(speedHelper(day.windSpeed))
+      wtr.push('km\/h')
+      wtr.push('</br>Wolkenbasis: ')
+      wtr.push(cloudBaseHelper(day.temperatureMax, day.dewPoint))
+      wtr.push('m.ü.M.</li>')
+      forecastDay = wtr.join("")
+      forecast.push(forecastDay)
       i++
+    forecast = forecast.join("")
     document.getElementsByClassName("wetter")[0].innerHTML += '<ul>' + forecast + '</ul>'
