@@ -1,12 +1,9 @@
 form{
     display:inline-block;
-    font-size:$base-font-size;
     fieldset{
         border:none;
         padding:0;
         input{
-            font-size:$base-font-size;
-            font-family:inherit;
             vertical-align: middle;
         }
     }
@@ -21,6 +18,10 @@ form{
     :last-child{
         padding-bottom:$spacing-unit;
     }
+}
+input#query, input#search.button{
+    font-size:$base-font-size;
+    font-family:$base-font-family;
 }
 .search-post{
     width:100%;
