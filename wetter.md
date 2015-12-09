@@ -22,7 +22,8 @@ order: 4
 [Windytv.com](https://www.windyty.com/) visualisiert zwei globale Wettermodelle und lässt gute Kurzzeitprognosen für lokale Wind- und Wetterbedingungen zu.
 
 <div class="frame">
-	<iframe src="/loader.gif" data-layzr="https://embed.windyty.com/?850h,clouds,2015-09-12-12,46.800,8.306,8,,menu,message,ip" width="700" height="500" frameborder="0"></iframe>
+<!-- 	<iframe src="/loader.gif" data-layzr="https://embed.windyty.com/?850h,clouds,2015-09-12-12,46.800,8.306,8,,menu,message,ip" width="700" height="500" frameborder="0"></iframe> -->
+    <iframe src="/loader.gif" data-layzr="https://embed.windyty.com/?51.124,5.186,700,850h,menu,message" width="700" height="500" frameborder="0"></iframe>
 </div>
 
 Zur Kontrolle: Die **[Windy-App](http://windy.atelier-agile.ch/balises?display_all=true)** zeigt keine Prognosen sondern Windmessungen in Echtzeit. Messpunkte sind über die ganze Schweiz verteilt.

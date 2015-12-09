@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Glossar gegen Bitcoin-Geschwurbel"
-date: 2015-12-09
-excerpt: "Nodes, Blocks, und Hashes: Das sind die Bausteine, der Bitcoin-Ökonomie. Es sind auch Bausteine, die für mich lange nur Bahnhof bedeuteten. Ein Klärungsversuch."
+date: 2015-12-10
+excerpt: "Nodes, Blocks und Hashes: Das sind die Bausteine der Bitcoin-Ökonomie. Es sind auch Bausteine, die für mich lange nur Bahnhof bedeuteten. Ein Klärungsversuch."
 img: "images/bitcoin.jpg"
 alt: "Bitcoin ist bei Weitem nicht mehr die einzige Krypto-Währung."
 caption: "Bild: https://www.flickr.com/photos/gamingfloor/galleries/72157638888166706/#photo_11297228794"
@@ -116,5 +116,12 @@ Wer Bitcoin nicht nur verstehen, sondern selber nach Krypto-Gold schürfen will,
 
 - [http://maidsafe.net/](http://maidsafe.net/)
 - [https://www.ethereum.org/](https://www.ethereum.org/)
+- [https://proofofexistence.com/](https://proofofexistence.com/)
+- [https://www.namecoin.org/](https://www.namecoin.org/)
+
+<div class="frame">
+    <iframe width="560" height="315" src="/loader.gif" data-layzr="https://www.youtube.com/embed/Pu4PAMFPo5Y" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 
