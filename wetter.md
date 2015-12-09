@@ -14,6 +14,10 @@ order: 4
 </p>
 <p id="toggle" class="wetter"><img id="loader" src="/loader.gif" alt=""></p>
 
+<div class="frame" style="padding-bottom:0;height:auto;">
+    <img src="/loader.gif"  data-layzr="http://www.wetter.net/images/kontinente/Europa-600.jpg">
+</div>
+
 
 [Windytv.com](https://www.windyty.com/) visualisiert zwei globale Wettermodelle und lässt gute Kurzzeitprognosen für lokale Wind- und Wetterbedingungen zu.
 

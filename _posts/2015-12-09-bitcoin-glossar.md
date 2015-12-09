@@ -51,43 +51,48 @@ Das Bitcoin-System verlangt vor dem Hinzufügen eines neuen Blocks zur Blockchai
 
 Hashing oder Chiffrier-Algorithmen sind die **Wurstmaschinen des digitalen Zeitalters**. Man gibt beliebiges Datenmaterial in sie hinein und erhält etwas, dass immer in etwa gleich aussieht, dessen Inhalt aber vollkommen undurchsichtig bleibt: Den Hash. 
 
-Solange alle Zutaten gleich sind, gibt ein Chiffrieralgorithmus immer den gleichen Hash aus. Ändert sich aber nur ein winziges Detail in einer der Zutaten, verändert sich der Hash komplett.
+Solange alle Zutaten gleich sind, gibt ein Chiffrieralgorithmus immer den gleichen Hash aus. Ändert sich aber nur ein winziges Detail in einer der Zutaten, verändert sich der Hash komplett:
 
-Ein Hash ist ein
+> SHA256("Franz jagt im komplett verwahrlosten Taxi quer durch Bayern") = 
+d32b568cd1b96d459e7291ebf4b25d007f275c9f13149beeb782fac0716613f8   
+SHA256("Frank jagt im komplett verwahrlosten Taxi quer durch Bayern") = 
+78206a866dbb2bf017d8e34274aed01a8ce405b69d45db30bafa00f5eeed7d5e
 
-
-### Challenge und Proof
-
+Bitcoin-Miner suchen nun basierend auf einigen bekannten Ingredienzen (Challenge) einen Proof, so dass sich ein Hash ergibt, der mit einer bestimmten Anzahl Nullen beginnt (Proof). Nach Finden eines gültigen Proofs, wird ein neuer Block zur Blockchain hinzugefügt. 
 
 
 ### Hash
 
+Ein Hash ist eine Zeichenfolge wie die folgende:
+
+> d32b568cd1b96d459e7291ebf4b25d007f275c9f13149beeb782fac0716613f8
+
+Dabei stehen die Buchstaben a bis f für die Zahlen 10 bis 15 ([Hexadezimalsystem](https://www.wikiwand.com/de/Hexadezimalsystem)).
 
 ### Miner
 
 Miner sind diejenigen Personen (und ihre hochspezialisierten Maschinen), die zur Sicherung der Blöcke Proof of Work-Probleme lösen.
 
-Das weltweite Netzwerk benötigt für einen Proof of Work etwa 10 Minuten. Für einen Hacker mit einem Bruchteil der Rechenleistung des globalen Mining-Netzwerkes ist es ungleich schwieriger, den Proof of Work vor allen anderen zu lösen. 
+Das weltweite Netzwerk benötigt für einen Proof of Work etwa 10 Minuten. Für einen Hacker mit einem Bruchteil der Rechenleistung des globalen Mining-Netzwerkes ist es ungleich schwieriger, den Proof of Work vor allen anderen zu lösen.
 
-Dieses Ungleichgewicht ist der Grundstein, warum Bitcoin trotz dem Fehlen einer zentralen Kontrollinstanz relativ betrugssicher ist.
+Dieses **Prinzip der Rechendominanz** ist der Grundstein, warum Bitcoin trotz dem Fehlen einer zentralen Kontrollinstanz relativ betrugssicher ist.
 
 
 ### Block
 
+Wenn die Blockchain eine Art globales Verzeichnis aller jemals getätigten Transaktionen ist, dann ist ein Block eine Seite oder ein **Auszug dieses Verzeichnisses**.
 
+Miner sammeln noch neue Transaktionen und bündeln Sie in einem Datenblock. Dann versuchen Sie den Proof of Work zu leisten. Die Node, welche das Problem zuerst löst, fügt den Block zur offiziellen Blockchain hinzu.
 
+Dank der Rechendominanz ist die Wahrscheinlichkeit, dass ein ehrlicher Miner zuerst zu einem gültigen Proof gelangt, viel grösser, als dass ein böswilliger Hacker die halbe Welt überholt. Vorausgesetzt natürlich, dass mehr ehrliche als unehrliche Miner das Netzwerk stützen.
 
 
 ### Bitcoin
 
-Bitcoin ist die populärste Anwendung der Blockchain als dezentralem Sicherungsmechanismus. 
+Bitcoin ist die populärste Anwendung der Blockchain als dezentralem Sicherungsmechanismus der digitalen Währung. 
 
 
-### Wallet
-
-
-
-## Bitcoin-Lektüre
+## Weiterlesen, bitteschön:
 
 Natürlich reicht es nicht, die grundlegenden Begriffe aus der Bitcoin-Welt zu verstehen.
 
@@ -97,7 +102,19 @@ Die [Podcast-Serie der Khan-Academy](https://www.khanacademy.org/economics-finan
 
 Bitcoin ist längst nicht mehr die einzige Krypto-Währung auf dem Markt. Eine ganze Reihe [alternativer virtueller Währungen](http://www.welivesecurity.com/2015/03/05/five-alternatives-bitcoin/) machen Bitcoin den Markt streitig. 
 
-Bitcoin ist darauf ausgelegt, viel Rechen-Power zu verbrauchen. Lesen Sie, wie die Krypto-Währung aus umweltpolitischer Sicht und aus der ökonomischen Warte beurteilt wird.
+Bitcoin ist darauf ausgelegt, viel Rechen-Power zu verbrauchen. Lesen Sie, wie die [Krypto-Währung aus umweltpolitischer Sicht](http://bitcoin.stackexchange.com/questions/2455/what-is-the-ecological-effect-of-increase-work-for-the-bitcoin-chain) beurteilt wird.
+
+Warum die Blockchain ein solch gewaltiges disruptives Potenzial birgt, welches weit über die Finanzindustrie hinausgeht, zeigt diese Reportage der BBC:
+
+<div class="frame">
+    <iframe width="560" height="315" src="/loader.gif" data-layzr="https://www.youtube.com/embed/2ky3mDUoh74" frameborder="0" allowfullscreen></iframe>
+</div>
 
 Wer Bitcoin nicht nur verstehen, sondern selber nach Krypto-Gold schürfen will, sieht sich am besten den [Getting Started Guide](https://www.weusecoins.com/en/mining-guide/) auf weusecoins.com an.
+
+## Künftige Anwendungen
+
+- [http://maidsafe.net/](http://maidsafe.net/)
+- [https://www.ethereum.org/](https://www.ethereum.org/)
+
 
