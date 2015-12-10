@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bitcoin-Glossar für Bitcoin-Neulinge"
+title: "Bitcoin-Glossar für Krypto-Neulinge"
 date: 2015-12-10
 excerpt: "Nodes, Blocks und Hashes: Das sind die Bausteine der Bitcoin-Ökonomie. Es sind auch Bausteine, die für mich lange nur Bahnhof bedeuteten. Ein Klärungsversuch."
 img: "images/bitcoin.jpg"
@@ -17,7 +17,7 @@ Das Problem: Ich verstand wenig. Nicht nur hatte ich nicht wirklich eine Vorstel
 
 ## Bitcoin-Begriffe eingeführt
 
-Ich tat also, was ich immer tue, wenn ich etwas nicht verstehe: Ich las, was und wie andere über mein Thema schreiben. Aus meinen Recherchen habe ich  zentrale Begriffe zusammengetragen und erkläre sie im Folgenden.
+Ich tat also, was ich immer tue, wenn ich etwas nicht verstehe: Ich las, was und wie andere über mein Thema schreiben. Aus meinen Recherchen habe ich neun erkärungsbedürftige Begriffe zusammengetragen.
 
 > A **blockchain** is a public ledger of all Bitcoin **transactions** that have ever been executed. It is constantly growing as ‘completed’ **blocks** are added to it with a new set of recordings. The blocks are added to the blockchain in a linear, chronological order. Each **node** (computer connected to the Bitcoin network using a client that performs the task of validating and relaying transactions) gets a copy of the blockchain, which gets downloaded automatically upon joining the Bitcoin network. The blockchain has complete information about the addresses and their balances right from the **genesis block** to the most recently completed block ([Blockchain-Definition von Investopedia](http://www.investopedia.com/terms/b/blockchain.asp), meine Hervorhebungen).
 
