@@ -18,11 +18,9 @@ order: 4
     <img src="/loader.gif"  data-layzr="http://www.wetter.net/images/kontinente/Europa-600.jpg">
 </div>
 
-
 [Windytv.com](https://www.windyty.com/) visualisiert zwei globale Wettermodelle und lässt gute Kurzzeitprognosen für lokale Wind- und Wetterbedingungen zu.
 
 <div class="frame">
-<!-- 	<iframe src="/loader.gif" data-layzr="https://embed.windyty.com/?850h,clouds,2015-09-12-12,46.800,8.306,8,,menu,message,ip" width="700" height="500" frameborder="0"></iframe> -->
     <iframe src="/loader.gif" data-layzr="https://embed.windyty.com/?51.124,5.186,700,850h,menu,message" width="700" height="500" frameborder="0"></iframe>
 </div>
 
