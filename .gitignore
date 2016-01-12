@@ -1,11 +1,11 @@
 _site
 .sass-cache
 .htaccess
+_config.yml
 referenzen
 images
 *.jpg
 *.jpeg
 *.pdf
-*.yml
 letters
 bilder-original
