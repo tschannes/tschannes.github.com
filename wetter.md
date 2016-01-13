@@ -24,7 +24,7 @@ order: 4
     <iframe src="/loader.gif" data-layzr="https://embed.windyty.com/?51.124,5.186,700,850h,menu,message" width="700" height="500" frameborder="0"></iframe>
 </div>
 
-Zur Kontrolle: Die **[Windy-App](http://windy.atelier-agile.ch/balises?display_all=true)** zeigt keine Prognosen sondern Windmessungen in Echtzeit. Messpunkte sind über die ganze Schweiz verteilt.
+Zur Kontrolle: Die **[Windy-App](http://windy.atelier-agile.ch/balises?display_all=true)** oder die [Windfinder-App](http://www.windfinder.com/weather-maps/spots/#8/46.830/8.144) zeigt keine Prognosen sondern Windmessungen in Echtzeit. Messpunkte sind über die ganze Schweiz verteilt.
 
 [Meteocentrale.ch](http://www.meteocentrale.ch) zeigt wie sich Föhn- und Bisentendenz über die nächsten Tage entwickeln werden. Ab 4 hPa Druckunterschied wird's brenzlig zum Fliegen.
 
