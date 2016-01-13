@@ -10,7 +10,7 @@ order: 4
 <p class="post-meta">{{ page.excerpt }}</p>
 
 <p>
-	 <a href="http://forecast.io/">Forecast.io</a> liefert die Wetter-Grobübersicht für die nächsten paar Tage. <a href="javascript:toggleVisibility('toggle');" id="tglBtn">Wetterübersicht anzeigen</a>.
+	 Forecast.io liefert die Wetter-Grobübersicht (<strong><a href="javascript:toggleVisibility('toggle');" id="tglBtn">Meteo anzeigen</a></strong>) für die nächsten paar Tage.
 </p>
 <p id="toggle" class="wetter"><img id="loader" src="/loader.gif" alt=""></p>
 
@@ -18,15 +18,15 @@ order: 4
     <img src="/loader.gif"  data-layzr="http://www.wetter.net/images/kontinente/Europa-600.jpg">
 </div>
 
-[Windytv.com](https://www.windyty.com/) visualisiert zwei globale Wettermodelle und lässt gute Kurzzeitprognosen für lokale Wind- und Wetterbedingungen zu.
+**[Windytv.com](https://www.windyty.com/)** visualisiert zwei globale Wettermodelle und lässt gute Kurzzeitprognosen für lokale Wind- und Wetterbedingungen zu.
 
 <div class="frame">
     <iframe src="/loader.gif" data-layzr="https://embed.windyty.com/?51.124,5.186,700,850h,menu,message" width="700" height="500" frameborder="0"></iframe>
 </div>
 
-Zur Kontrolle: Die **[Windy-App](http://windy.atelier-agile.ch/balises?display_all=true)** oder die [Windfinder-App](http://www.windfinder.com/weather-maps/spots/#8/46.830/8.144) zeigt keine Prognosen sondern Windmessungen in Echtzeit. Messpunkte sind über die ganze Schweiz verteilt.
+Zur Kontrolle: Die **[Windy-App](http://windy.atelier-agile.ch/balises?display_all=true)** oder die **[Windfinder-App](http://www.windfinder.com/weather-maps/spots/#8/46.830/8.144)** beschränken sich nicht auf Prognosen sondern liefern Winddaten in Echtzeit. Messpunkte sind über die ganze Schweiz verteilt.
 
-[Meteocentrale.ch](http://www.meteocentrale.ch) zeigt wie sich Föhn- und Bisentendenz über die nächsten Tage entwickeln werden. Ab 4 hPa Druckunterschied wird's brenzlig zum Fliegen.
+**[Meteocentrale.ch](http://www.meteocentrale.ch)** zeigt wie sich Föhn- und Bisentendenz über die nächsten Tage entwickeln werden. Ab 4 hPa Druckunterschied wird's brenzlig zum Fliegen.
 
 <div class="frame">
 	<img src="/loader.gif" data-layzr="http://www.meteocentrale.ch/uploads/pics/uwz-ch_foehn_en.png">
@@ -43,6 +43,8 @@ Zur Kontrolle: Die **[Windy-App](http://windy.atelier-agile.ch/balises?display_a
 **[Parange](http://www.parange.ch/)** zeigt Gleitschirmfliegern in der Schweiz, wie weit sie von einem gewissen Ort aus theoretisch gleiten können. Oder: Wie hoch sie aufsteigen müssen, um einen bestimmten Zielort zu erreichen.
 
 Das **[vereinfachte Emagramm auf Flugbasis.ch](http://www.flugbasis.ch/service/wetter/thermik/)** zeigt, wie hoch man idealerweise startet und wie gut der Thermik-Tag zu werden verspricht.
+
+Die guten Leute vom Cross Country Magazine verraten in ihrem **[Travel Guide](http://www.xcmag.com/travel-guide/)**, wo man auch mitten im Winter sagenhaft-toll Thermik fliegen kann.
 
 <ul class="post-list">
 	{% include call-to-action.html %}

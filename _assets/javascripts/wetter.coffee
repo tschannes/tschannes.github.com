@@ -116,4 +116,4 @@ if window.location.pathname == "/wetter/"
       forecast.push(forecastDay)
       i++
     forecast = forecast.join("")
-    document.getElementsByClassName("wetter")[0].innerHTML += '<ul>' + forecast + '</ul>'
+    document.getElementsByClassName("wetter")[0].innerHTML += '<ul>' + forecast + '<br>Daten von <a href="http://forecast.io/">Forecast.io</a>.</ul>'
