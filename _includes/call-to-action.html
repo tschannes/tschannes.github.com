@@ -1,6 +1,13 @@
 <div class="ad">
   <div class="contact">
-  	<p>Lassen Sie die Welt wissen, was Sie von dieser Seite halten.</p>
-	{% include feed.html %}
+  	<p>Web-Kram, Text-Knäuel oder Navigations-Dickicht?</p>
+	<!--{% include feed.html %}-->
+    <p>Kontaktieren Sie mich via <strong>
+        {% if site.linkedin %}
+        <a href="http://ch.linkedin.com/in/{{site.linkedin}}">Linkedin</a>
+        {% endif %}
+    </strong> oder schreiben Sie einfach eine <strong><a href="mailto:tschannes@gmx.ch">Mail</a></strong>.</p>
+    <p>Ich freue mich auf Ihre Fragen!</p>
   </div>
 </div>
+<!--; subject:Web-%20Text-%20oder%20Navigationsfrage-->
