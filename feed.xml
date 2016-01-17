@@ -32,7 +32,7 @@ layout: null
     {% endfor %}
     <!-- adding pages to feed for complete search -->
     {% for page in site.pages %}
-      {% unless page.url contains "feed" or page.url contains "index" %}
+      {% unless page.url contains "feed" or page.url contains "index" or page.url contains "link" %}
       <item>
         <title>{{ page.title | xml_escape }}</title>
         <description> {{ page.excerpt | xml_escape }} {{ page.content | markdownify | strip_html | xml_escape }}</description>

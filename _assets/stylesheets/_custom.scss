@@ -27,6 +27,7 @@ input#query, input#search.button{
     width:100%;
     text-align: left;
     line-height:$base-line-height;
+    padding-bottom:$spacing-unit/2;
 }
 .red{
     color:white;
