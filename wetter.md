@@ -42,6 +42,10 @@ Zur Kontrolle: Die **[Windy-App](http://windy.atelier-agile.ch/balises?display_a
 
 **[Parange](http://www.parange.ch/)** zeigt Gleitschirmfliegern in der Schweiz, wie weit sie von einem gewissen Ort aus theoretisch gleiten können. Oder: Wie hoch sie aufsteigen müssen, um einen bestimmten Zielort zu erreichen.
 
+<div class="frame">
+    <iframe src="/loader.gif" data-layzr="https://xcplanner.appspot.com/" width="700" height="500" frameborder="0" sandbox="allow-same-origin allow-scripts"></iframe>
+</div>
+
 Das **[vereinfachte Emagramm auf Flugbasis.ch](http://www.flugbasis.ch/service/wetter/thermik/)** zeigt, wie hoch man idealerweise startet und wie gut der Thermik-Tag zu werden verspricht.
 
 Die guten Leute vom Cross Country Magazine verraten in ihrem **[Travel Guide](http://www.xcmag.com/travel-guide/)**, wo man auch mitten im Winter sagenhaft-toll Thermik fliegen kann.
