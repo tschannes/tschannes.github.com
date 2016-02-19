@@ -42,6 +42,8 @@ Zur Kontrolle: Die **[Windy-App](http://windy.atelier-agile.ch/balises?display_a
 
 **[Parange](http://www.parange.ch/)** zeigt Gleitschirmfliegern in der Schweiz, wie weit sie von einem gewissen Ort aus theoretisch gleiten können. Oder: Wie hoch sie aufsteigen müssen, um einen bestimmten Zielort zu erreichen.
 
+Der deutsche Pilot Bernd Gassner hat mit seinem **[XC Planner](https://xcplanner.appspot.com/)** ein extrem vielseitiges Planungs-Tool für Thermikflieger entworfen.
+
 <div class="frame">
     <iframe src="/loader.gif" data-layzr="https://xcplanner.appspot.com/" width="700" height="500" frameborder="0" sandbox="allow-same-origin allow-scripts"></iframe>
 </div>
