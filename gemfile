@@ -7,6 +7,7 @@ gem "jekyll-assets"
 #gem "wombat"
 gem "pry"
 gem "rubyzip"
+gem 'jekyll-sitemap'
 
 group :jekyll_plugins do
 	gem "coffee-script" # We want to write our javascripts in CoffeeScript

@@ -1,5 +1,6 @@
 
 
+=begin
 #variables 
 images = "./images/*.jpg"
 small_images = "./images/small/"
@@ -12,3 +13,4 @@ Dir.glob(images) do |img|
 	image.format "jpg"
 	image.write (small_images + name)
 end
+=end
