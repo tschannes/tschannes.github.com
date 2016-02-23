@@ -19,9 +19,13 @@ layout: compress
 
     {% include footer.html %}
     
-    <script>
-      {% asset app.js async %}
-    </script>
+    {% if jekyll.environment == "production" %}
+      <script>
+        {% asset app.js async %}
+      </script>
+    {% else %}
+        {% javascript app async %}
+    {% endif %}
     
   </body>
 </html>
