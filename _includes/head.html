@@ -15,7 +15,10 @@
     <![endif]-->
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt}}{% else %}{{ site.description }}{% endif %}">
     {% stylesheet app async %}
+    <!--set canonical page-->
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <!--set hreflang-->
+    <link rel="alternate" hreflang="de-ch" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
     <!-- Twitter Card data -->
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@{{ site.twitter_username }}">
