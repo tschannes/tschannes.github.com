@@ -15,6 +15,7 @@ GITHUB_REPONAME = "tschannes/tschannes.github.com"
 
 desc "Generate blog files"
 task :generate do
+  JEKYLL_ENV='production'
   Jekyll::Site.new(Jekyll.configuration({
     "source"      => ".",
     "destination" => "_site"

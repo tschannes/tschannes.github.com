@@ -8,13 +8,15 @@
     <meta name="viewport" content="width=device-width">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="Cache-control" content="public">
-
+    <!-- adding styles to the page -->
+    <style>
+        {% asset app.css async %}
+    </style>
 	<title>{% if page.title %} {{ page.title}} | Hannes Tscherrig {% else %} {{ site.bio }} | {{ site.title }} {% endif %}</title>
 	<!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt}}{% else %}{{ site.description }}{% endif %}">
-    {% stylesheet app async %}
     <!-- Set canonical page -->
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <!-- Set hreflang -->

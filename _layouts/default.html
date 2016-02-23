@@ -18,8 +18,10 @@ layout: compress
     </div>
 
     {% include footer.html %}
-
-    {% javascript app async %}
-
+    
+    <script>
+      {% asset app.js async %}
+    </script>
+    
   </body>
 </html>
