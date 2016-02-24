@@ -3,6 +3,7 @@ _site
 .htaccess
 _config.yml
 referenzen
+.jekyll-metadata
 images
 *.jpg
 *.jpeg
