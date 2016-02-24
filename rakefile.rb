@@ -10,15 +10,16 @@ require "jekyll"
 
 
 # Change your GitHub reponame
-GITHUB_REPONAME = "tschannes/tschannes.github.com"
+# GITHUB_REPONAME = "tschannes/tschannes.github.com"
 
-#jekyll.environment = "production"
+# jekyll.environment = "production"
 
 desc "Generate blog files"
 task :generate do 
   Jekyll::Site.new(Jekyll.configuration({
     "source"      => ".",
-    "destination" => "_site"
+    "destination" => "_site",
+    "environment" => "production"
   })).process
 end
 
