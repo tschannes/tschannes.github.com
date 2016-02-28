@@ -8,14 +8,13 @@
     <meta name="viewport" content="width=device-width">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="Cache-control" content="public">
-    <!--Jekyll Environment is: {{jekyll.environment}}.-->
     <!-- adding styles to the page -->
-    {% if jekyll.environment == "production" %}
+    {% if jekyll.environment == "debug" %}
+        {% stylesheet app async %}
+    {% else %}
         <style>
             {% asset app.css async %}
         </style>
-    {% else %}
-        {% stylesheet app async %}
     {% endif %}
 
 	<title>{% if page.title %} {{ page.title}} | Hannes Tscherrig {% else %} {{ site.bio }} | {{ site.title }} {% endif %}</title>
