@@ -10,7 +10,7 @@ require "jekyll"
 
 
 # Change your GitHub reponame
-# GITHUB_REPONAME = "tschannes/tschannes.github.com"
+GITHUB_REPONAME = "tschannes/tschannes.github.com"
 
 # jekyll.environment = "production"
 

@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "Test"
+title: "Produkttext als Content-Falle"
 date: 2016-02-25
-excerpt: "Eine überlange und undurchsichtige URL ist wie Tippfehler in der Postadresse: Unschön und schlecht fürs Geschäft. Warum es sich lohnt, URLs richtig zu gestalten. Und: Womit man anfangen könnte."
-img: "images/url.jpg"
-alt: "URLs sind die Postadressen der digitalen Welt."
-caption: "Bild: https://upload.wikimedia.org/wikipedia/commons/7/75/Internet1.jpg"
+excerpt: "Wer rational über Kauf oder Nichtkauf entscheidet, braucht Informationen und kein Marketing-Geschwätz. Genau das liefern aber viele Produkttexte. Eine vergebene Chance."
+img: "images/supermarket.jpg"
+alt: ""
+caption: "Bild: https://upload.wikimedia.org/wikipedia/commons/4/49/Fredmeyer_edit_1.jpg"
 comments: true
 related: true
 categories: content
 ---
+
+## Testing
+
+Yeah.
 
 ## Test
 
