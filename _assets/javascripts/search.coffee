@@ -14,12 +14,13 @@ getSearchData = (query) ->
   makeFuzzier = (query) ->
     first = query.charAt(0).toLowerCase()
     rest = query.substr(1)
-    query = "(#{first.toUpperCase()}|#{first})#{rest}"
-    console.log(query)
-    return query
+    any = "([a-zA-Z]*)?"
+    fuzzyQuery = "/"+ any + "(" + first.toUpperCase() + rest + "|" + first + rest + ")" + any + "/"
+    console.log("Query is: " + query + ". New Query is: " + fuzzyQuery)
+    return fuzzyQuery
 
   url = "http://www.tapirgo.com/api/1/search.json?token=56d744b614930ddbe4000000&query=" + makeFuzzier query
-  #console.log(url)
+  console.log(url)
   fehler = {"title":"Oops...","_score":null,"link":"/","content":null,"summary":"Nichts gefunden. Zurück zur Startseite?","published_on":"2015-04-30T22:00:00Z"}
   JSONP url, (json) -> 
     markUp object for object in json

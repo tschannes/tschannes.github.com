@@ -11,6 +11,8 @@ order: 4
 
 ## Berufserfahrung
 
+- **Copywriter**: [Mammut Sports Group AG](http://www.mammut.ch/CH/de_CH), Februar 2016, Seon, AG
+
 - **Texter und Konzepter**: [Hochschule Luzern -- Informatik](https://www.hslu.ch/de-ch/informatik/), April 2015 - Januar 2016, Luzern
 
 - **Projektmitarbeiter Relaunch hslu.ch**: [Hochschule Luzern][2], September 2013 – Februar 2015, Luzern

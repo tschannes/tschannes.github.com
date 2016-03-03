@@ -1,0 +1,68 @@
+I";(function() {
+  var getSearchData;
+
+  getSearchData = function(query) {
+    var fehler, makeFuzzier, markUp, markup, moreHelper, url;
+    markup = "";
+    markUp = function(object) {
+      var result;
+      result = "<div class='search-post' itemscope itemtype='http://schema.org/Article'><b><a href='" + object.link + "' property='url'><span itemprop='name'>" + object.title + "</span></a></b>: " + moreHelper(object.summary, 160) + "</div>";
+      markup += result;
+      return document.getElementById('results').innerHTML = markup;
+    };
+    moreHelper = function(string, limit) {
+      if (string.length > limit) {
+        return string.slice(0, limit) + "...";
+      } else {
+        return string.slice(0, limit);
+      }
+    };
+    makeFuzzier = function(query) {
+      var first, fuzzyQuery, rest;
+      first = query.charAt(0).toLowerCase();
+      rest = query.substr(1);
+      fuzzyQuery = "(" + (first.toUpperCase()) + "|" + first + ")" + rest;
+      console.log("Query is: " + query + ". New Query is: " + fuzzyQuery);
+      return fuzzyQuery;
+    };
+    url = "http://www.tapirgo.com/api/1/search.json?token=56d744b614930ddbe4000000&query=" + makeFuzzier(query);
+    console.log(url);
+    fehler = {
+      "title": "Oops...",
+      "_score": null,
+      "link": "/",
+      "content": null,
+      "summary": "Nichts gefunden. Zurück zur Startseite?",
+      "published_on": "2015-04-30T22:00:00Z"
+    };
+    JSONP(url, function(json) {
+      var i, len, object;
+      for (i = 0, len = json.length; i < len; i++) {
+        object = json[i];
+        markUp(object);
+      }
+      if (json.length === 0) {
+        console.log("No JSON AROUND.");
+        return markup = markUp(fehler);
+      }
+    });
+    return markup;
+  };
+
+  window.searchOnEnter = function(e) {
+    e = e || window.event;
+    if (e.keyCode === 13) {
+      document.getElementById('search').click();
+      return false;
+    }
+    return true;
+  };
+
+  window.triggerSearch = function() {
+    var query, result;
+    query = document.getElementById('query').value;
+    return result = getSearchData(query);
+  };
+
+}).call(this);
+:ET
