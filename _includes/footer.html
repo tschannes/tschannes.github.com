@@ -64,3 +64,12 @@
   </div>
 
 </footer>
+
+<!--inserting self-hosted scripts-->   
+{% if jekyll.environment == "debug" %}
+  {% javascript app async %}
+{% else %}
+  <script>
+    {% asset app.js async %}
+  </script>
+{% endif %}
