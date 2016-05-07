@@ -9,6 +9,8 @@ order: 4
 
 <p class="post-meta">{{ page.excerpt }}</p>
 
+## Wetter
+
 <p>
 	 Forecast.io liefert die Wetter-Grobübersicht (<strong><a href="javascript:toggleVisibility('toggle');" id="tglBtn">Meteo anzeigen</a></strong>) für die nächsten paar Tage.
 </p>
@@ -36,6 +38,14 @@ Zur Kontrolle: Die **[Windy-App](http://windy.atelier-agile.ch/balises?display_a
 	<img src="/loader.gif" data-layzr="http://www.meteocentrale.ch/uploads/pics/uwz-ch_bise_en.png">
 </div>
 
+Das Emagramm zeigt, wie die Atmosphäre aktuell geschichtet ist. Es erlaubt Aufschlüsse über Wind, Temperatur, Luftfeuchtigkeit und Thermikpotenzial. Unten das aktuellste Emagramm von Meteo Swiss.
+
+<div id="emagramm" class="frame"></div>
+
+Alternativ bietet das **[vereinfachte Emagramm auf Flugbasis.ch](http://www.flugbasis.ch/service/wetter/thermik/)** Informationen dazu, wie hoch man idealerweise startet und wie gut der Thermik-Tag zu werden verspricht.
+
+## Fliegen
+
 **[Paragliding Map](http://www.paraglidingmap.com/#)** zeigt weltweit Start- und Landeplätze, sowie Thermik-Hotspots und Webcams. Die App kombiniert die Startplatz-Informationen mit aktuellen Wetterdaten und Wettermodellen, um anzuzeigen, ob Startplätze fliegbar sind.
 
 **[Flyland.ch](http://flyland.ch/fl_gis_2d_all.php?ST=1&LP=0&PP=0&CAM=0&GG=0&VZ=0&SZ=0&HI=0&BB=0)** zeigt auf einer Google-Karte, wo es sich in der Schweiz überall hochoffiziell und ganz korrekt starten lässt. Und wo zu landen, was zu vermeiden und welcher Wind ideal ist.
@@ -47,11 +57,6 @@ Der deutsche Pilot Bernd Gassner hat mit seinem **[XC Planner](https://xcplanner
 <div class="frame">
     <iframe src="/loader.gif" data-layzr="https://xcplanner.appspot.com/" width="700" height="500" frameborder="0" sandbox="allow-same-origin allow-scripts"></iframe>
 </div>
-
-Das **[vereinfachte Emagramm auf Flugbasis.ch](http://www.flugbasis.ch/service/wetter/thermik/)** zeigt, wie hoch man idealerweise startet und wie gut der Thermik-Tag zu werden verspricht.
-
-
-<div id="emagramm" class="frame"></div>
 
 Die guten Leute vom Cross Country Magazine verraten in ihrem **[Travel Guide](http://www.xcmag.com/travel-guide/)**, wo man auch mitten im Winter sagenhaft-toll Thermik fliegen kann.
 
