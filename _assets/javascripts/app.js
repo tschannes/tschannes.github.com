@@ -7,3 +7,4 @@
 //= require wetter.coffee
 //= require search.coffee
 //= require revealSearch.js
+//= require dateGenerator.js

@@ -50,6 +50,9 @@ Der deutsche Pilot Bernd Gassner hat mit seinem **[XC Planner](https://xcplanner
 
 Das **[vereinfachte Emagramm auf Flugbasis.ch](http://www.flugbasis.ch/service/wetter/thermik/)** zeigt, wie hoch man idealerweise startet und wie gut der Thermik-Tag zu werden verspricht.
 
+
+<div id="emagramm" class="frame"></div>
+
 Die guten Leute vom Cross Country Magazine verraten in ihrem **[Travel Guide](http://www.xcmag.com/travel-guide/)**, wo man auch mitten im Winter sagenhaft-toll Thermik fliegen kann.
 
 <ul class="post-list">
