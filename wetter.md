@@ -41,6 +41,9 @@ Zur Kontrolle: Die **[Windy-App](http://windy.atelier-agile.ch/balises?display_a
 Das Emagramm zeigt, wie die Atmosphäre aktuell geschichtet ist. Es erlaubt Aufschlüsse über Wind, Temperatur, Luftfeuchtigkeit und Thermikpotenzial. Unten das aktuellste Emagramm von Meteo Swiss.
 
 <div id="emagramm" class="frame"></div>
+<!--<div class="frame">
+    <iframe id="emagramm"></iframe>
+</div> -->
 
 Alternativ bietet das **[vereinfachte Emagramm auf Flugbasis.ch](http://www.flugbasis.ch/service/wetter/thermik/)** Informationen dazu, wie hoch man idealerweise startet und wie gut der Thermik-Tag zu werden verspricht.
 
