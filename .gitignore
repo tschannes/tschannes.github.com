@@ -10,3 +10,4 @@ images
 *.pdf
 letters
 bilder-original
+.asset-cache
