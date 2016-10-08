@@ -280,7 +280,6 @@ ul{
 .ad{
     @extend #about-container;
     border-top: 5px solid $brand-color-dark;
-    position: absolute;
     width:30%;
     z-index:1;
     max-width:$wrapper-width/3;
