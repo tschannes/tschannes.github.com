@@ -5,6 +5,7 @@ header: "Wetter für Gleitschirmflieger"
 permalink: /wetter/
 excerpt: "Wind, Föhntendenz, Niederschlag, Startplätze. Das Wichtigste, was du heute zum Fliegen brauchst auf einem Blick."
 order: 4
+published: false
 ---
 
 <p class="post-meta">{{ page.excerpt }}</p>
