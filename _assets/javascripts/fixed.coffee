@@ -1,3 +1,5 @@
+paddingValue = 37.5
+
 bigScreen = ->
   bigScreenLimit = 1200
   true if window.innerWidth > bigScreenLimit
@@ -6,13 +8,13 @@ headerHeight = ->
   if document.getElementsByClassName('post-header')[0] == undefined
     return 0
   else
-    return document.getElementsByClassName('post-header')[0].offsetHeight
+    return document.getElementsByClassName('post-header')[0].offsetHeight + paddingValue
 
 offsetHeight = ->
   nav = document.getElementsByTagName('header')[0].offsetHeight
   search = document.getElementById('searchContainer').offsetHeight
   header = headerHeight()
-  padding = 37.5 ##document.getElementsByClassName('wrapper')[0].offsetHeight - document.getElementsByClassName('page-content')[0].offsetHeight
+  padding = paddingValue ##document.getElementsByClassName('wrapper')[0].offsetHeight - document.getElementsByClassName('page-content')[0].offsetHeight
   total = nav + search + header + padding
   return total
 
