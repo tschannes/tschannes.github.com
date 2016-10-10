@@ -10,19 +10,28 @@ offsetHeight = ->
 makeFixed = (el) ->
   ad = el
   #console.log(offsetHeight())
+  window.addEventListener "load", (evt) ->
+    adjustAd(ad)
   window.addEventListener "scroll", (evt) ->
-    distanceFromTop = (document.documentElement.scrollTop or document.body.scrollTop)
-    # The user has scrolled to the top of the page. Remove styles.
-    ad.removeAttribute "style" if distanceFromTop <= (offsetHeight())
-    # The user has scrolled down the page and we are on a big screen
-    marginRight = (window.innerWidth - document.querySelectorAll('.home, .post')[0].offsetWidth - scrollbarWidth) / 2 + "px";
-    if distanceFromTop >= offsetHeight() and bigScreen()
-      ad.style.position = "fixed"
-      ad.style.top = "2em"
-      ad.style.right = marginRight
-    else
-      ad.removeAttribute "style"
-    return
+    adjustAd(ad)
+
+adjustAd = (el) ->
+  distanceFromTop = (document.documentElement.scrollTop or document.body.scrollTop)
+  # The user has scrolled down the page and we are on a big screen
+  marginRight = (window.innerWidth - document.querySelectorAll('.home, .post')[0].offsetWidth - scrollbarWidth) / 2 + "px";
+  # The user has scrolled to the top of the page. Remove styles.
+  if ! bigScreen()
+    el.removeAttribute "style"
+  else if distanceFromTop >= offsetHeight() and bigScreen()
+    el.style.position = "fixed"
+    el.style.top = "2em"
+    el.style.right = marginRight
+  else
+    el.removeAttribute "style"
+    el.style.position = "absolute"
+    el.style.right = marginRight
+    el.style.top = offsetHeight()
+  return
 
 watch = (el) ->
   ad = el
@@ -36,7 +45,7 @@ watch = (el) ->
   return
 
 #Run functions
-FixerMaker = (el)->
+FixerMaker = (el) ->
   needed = ->
     path = window.location.pathname
     true if path != '/lebenslauf/'
