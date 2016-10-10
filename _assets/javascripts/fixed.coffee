@@ -1,5 +1,4 @@
 getEm = (el) ->
-  div = document.getElementById(el)
   div.style.height = "1em"
   em = div.offsetHeight
   return em
