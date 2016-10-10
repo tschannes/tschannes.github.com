@@ -1,10 +1,7 @@
-#Finding out how many pixels is 1em
 getEm = (el) ->
-  #console.log "El is: " + el
   div = document.getElementById(el)
   div.style.height = "1em"
   em = div.offsetHeight
-  #console.log "Em is: " + em
   return em
 
 paddingValue = getEm('div') * 1.875
@@ -23,14 +20,13 @@ offsetHeight = ->
   nav = document.getElementsByTagName('header')[0].offsetHeight
   search = document.getElementById('searchContainer').offsetHeight
   header = headerHeight()
-  padding = paddingValue ##document.getElementsByClassName('wrapper')[0].offsetHeight - document.getElementsByClassName('page-content')[0].offsetHeight
+  padding = paddingValue
   total = nav + search + header + padding
   return total
 
 
 makeFixed = (el) ->
   ad = el
-  #console.log(offsetHeight())
   window.addEventListener "load", (evt) ->
     adjustAd(ad)
   window.addEventListener "scroll", (evt) ->
@@ -42,8 +38,6 @@ adjustAd = (el) ->
   marginRight = (window.innerWidth - document.querySelectorAll('.home, .post')[0].offsetWidth - scrollbarWidth) / 2 + "px";
   # The user has scrolled to the top of the page. Remove styles.
   offset = offsetHeight()
-  # console.log "distanceFromTop: " + distanceFromTop
-  # console.log "offset: " + offset
   if ! bigScreen()
     el.removeAttribute "style"
   else if distanceFromTop >= offset and bigScreen()
