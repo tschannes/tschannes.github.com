@@ -13,7 +13,7 @@ headerHeight = ->
   if document.getElementsByClassName('post-header')[0] == undefined
     return 0
   else
-    return document.getElementsByClassName('post-header')[0].offsetHeight + paddingValue
+    return document.getElementsByClassName('post-header')[0].offsetHeight
 
 offsetHeight = ->
   nav = document.getElementsByTagName('header')[0].offsetHeight
@@ -22,7 +22,6 @@ offsetHeight = ->
   padding = paddingValue
   total = nav + search + header + padding
   return total
-
 
 makeFixed = (el) ->
   ad = el
