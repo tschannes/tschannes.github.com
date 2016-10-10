@@ -1,4 +1,13 @@
-paddingValue = 37.5
+#Finding out how many pixels is 1em
+getEm = (el) ->
+  #console.log "El is: " + el
+  div = document.getElementById(el)
+  div.style.height = "1em"
+  em = div.offsetHeight
+  #console.log "Em is: " + em
+  return em
+
+paddingValue = getEm('div') * 1.875
 
 bigScreen = ->
   bigScreenLimit = 1200
@@ -42,7 +51,7 @@ adjustAd = (el) ->
     el.style.top = "2em"
     el.style.right = marginRight
   else
-    console.log "else is actually being called with offsetHeight at " + offset
+    #console.log "else is actually being called with offsetHeight at " + offset
     el.removeAttribute "style"
     el.style.position = "absolute"
     el.style.right = marginRight
