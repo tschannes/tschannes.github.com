@@ -354,8 +354,8 @@ ul{
 
 
 .post-content, .post-header img{
-   	width:60%;
-    max-width:40em;
+   	width:65%;
+    //max-width:40em;
     @include media-query($on-palm){
         width:100%;
     }
