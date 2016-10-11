@@ -1,6 +1,7 @@
 getEm = (el) ->
   div.style.height = "1em"
   em = div.offsetHeight
+  div.style.height = 0
   return em
 
 paddingValue = getEm('div') * 1.875
