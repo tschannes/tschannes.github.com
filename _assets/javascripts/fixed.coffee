@@ -14,7 +14,7 @@ headerHeight = ->
   if document.getElementsByClassName('post-header')[0] == undefined
     return 0
   else
-    return document.getElementsByClassName('post-header')[0].offsetHeight
+    return document.getElementsByClassName('post-header')[0].offsetHeight + paddingValue
 
 offsetHeight = ->
   nav = document.getElementsByTagName('header')[0].offsetHeight
