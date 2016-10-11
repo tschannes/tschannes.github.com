@@ -1,7 +1,7 @@
 _site
 _config.yml
-.sass-cache
-.asset-cache
+.sass-cache/
+.asset-cache/
 .htaccess
 .jekyll-metadata
 referenzen
