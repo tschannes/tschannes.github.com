@@ -38,7 +38,7 @@ order: 3
 
 ### Mengis Druck und Verlag AG
 
-> Wir lernten Herr Tscherrig als ehrlichen, einsatzbereiten und verantwortungsvollen Mitarbeiter kennen. (Kurt Hasen und Nathalie Benelli, [Arbeitszeugnis Mengis Druck & Verlag](/referenzen/wb_visp.jpg))
+> Wir lernten Herr Tscherrig als ehrlichen, einsatzbereiten und verantwortungsvollen Mitarbeiter kennen. (Kurt Hasen und Nathalie Benelli, [Arbeitszeugnis Mengis Druck & Verlag](/referenzen/mengis-druck.jpg))
 
 ### Werbeagentur Scholz & Friends Zürich
 
