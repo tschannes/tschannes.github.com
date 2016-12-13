@@ -74,10 +74,15 @@ input#query, input#search.button{
 }
 
 .simple-post, .tglbtn{
-    border-top: 1px dotted $brand-color-dark;
-    padding-top:0.5em;
-    padding-bottom:0.5em;
+    //border-top: 5px dotted $brand-color-dark;
+    //padding-top:0.5em;
+    margin-bottom:0.5*$spacing-unit;
+    padding: $spacing-unit,0,$spacing-unit,0;
+    background-color:white;
     width: 65%;
+    a {
+        padding: 0.5*$spacing-unit;
+    }
     @include media-query($on-laptop){
         width:100%;
     }
@@ -163,7 +168,7 @@ ul{
 
 #about-container{
 	@include flex-container;
-    @include shadow;
+    //@include shadow;
 	width:100%;
 	/* border-top: 5px solid $brand-color-dark; */
 	background-color:$grey-color-light;
@@ -221,7 +226,7 @@ ul{
 
 .card{
 	@include flex-wrap;
-    @include shadow;
+    //@include shadow;
     @include transition(background-color);
 	width:48%;
     background-color:white;
