@@ -81,7 +81,7 @@ input#query, input#search.button{
     background-color:white;
     width: 65%;
     a {
-        padding: 0.5*$spacing-unit;
+        padding-left: 0.5*$spacing-unit;
     }
     @include media-query($on-laptop){
         width:100%;

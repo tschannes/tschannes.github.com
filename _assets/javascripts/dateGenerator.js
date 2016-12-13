@@ -22,8 +22,8 @@ function insertEmagramm() {
     var emaDay = ema1 + ema2 + dateString + midday + ema3;
     var emaNight = ema1 + ema2 + dateString + midnight + ema3;
     var emaDayURL = ema2 + dateString + midday + ema3;
-    console.log("emaDayURL is: " + emaDayURL);
-    console.log("emaDay is: " + emaDay);
+    //console.log("emaDayURL is: " + emaDayURL);
+    //console.log("emaDay is: " + emaDay);
     if (true /*imageExists(emaDayURL)*/) {
         document.getElementById("emagramm").innerHTML = emaDay;
     } else {
