@@ -5,21 +5,20 @@ layout: null
 [
     {% for post in site.posts %}
     {
-        "title": "{{ post.title | json }}",
-        "link": "{{ post.url | prepend: site.baseurl | prepend: site.url |json }}",
-        "date": "{{ post.date | json}}",
-        "excerpt": "{{ post.excerpt | json}}",
-        "content": "{{ post.content | markdownify | strip_html | json}}",
+        "title": {{ post.title | json }},
+        "link": {{ post.url | prepend: site.baseurl | prepend: site.url |json }},
+        "date": {{ post.date | json}},
+        "excerpt": {{ post.excerpt | json}},
+        "content": {{ post.content | markdownify | strip_html | json}}
     },
     {% endfor %}
     {% for page in site.pages %}
     {
-        "title": "{{ page.title | json}}",
-        "link": "{{ page.url | prepend: site.baseurl | prepend: site.url | json}}",
-        "date": "{{ page.date | json }}",
-        "excerpt": "{{ page.excerpt | json}}",
-        "content": "{{ page.content | markdownify | strip_html | json}}"
+        "title": {{ page.title | json}},
+        "link": {{ page.url | prepend: site.baseurl | prepend: site.url | json}},
+        "date": {{ page.date | json }},
+        "excerpt": {{ page.excerpt | json}},
+        "content": {{ page.content | markdownify | strip_html | json}}
     },
     {% endfor %}
-    {}
 ]
