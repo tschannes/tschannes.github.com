@@ -11,7 +11,9 @@ order: 4
 
 ## Berufserfahrung
 
-- **Copywriter**: [Mammut Sports Group AG](http://www.mammut.ch/CH/de_CH), Februar 2016, Seon, AG
+- **Projektleiter Kommunikation**: [Fernfachhochschule Schweiz FFHS](https://www.ffhs.ch/), Februar 2017, Brig, VS
+
+- **Copywriter**: [Mammut Sports Group AG](http://www.mammut.ch/CH/de_CH), Februar 2016 - Februar 2017, Seon, AG
 
 - **Texter und Konzepter**: [Hochschule Luzern -- Informatik](https://www.hslu.ch/de-ch/informatik/), April 2015 - Januar 2016, Luzern
 
