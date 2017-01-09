@@ -21,4 +21,5 @@ layout: null
         "content": {{ page.content | markdownify | strip_html | json}}
     },
     {% endfor %}
+    {}
 ]
