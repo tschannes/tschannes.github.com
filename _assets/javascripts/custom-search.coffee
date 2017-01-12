@@ -12,11 +12,11 @@ searchJSON = (resultsJSON, query) ->
   #console.log("Length of JSON: " + jsonObj.length);
   if jsonObj.length > 0
     #make results accessible to window
-    window.results = []
+    results = []
     reg = new RegExp(query, 'ig')
     i = 0
     while i < jsonObj.length
-      console.log 'Query: ' + reg.toString() + ' Item: ' + jsonObj[i].title
+      #console.log 'Query: ' + reg.toString() + ' Item: ' + jsonObj[i].title
       #console.log(jsonObj[i].title + " " + jsonObj[i].blob.indexOf(query) + " Treffer.");
       if (jsonObj[i].blob.match(reg) or 0).length >= 0
         result = jsonObj[i]
@@ -30,5 +30,3 @@ searchJSON = (resultsJSON, query) ->
   else
     console.log 'empty or non-valid results.'
   return
-
-getJSON 'http://localhost:4000/feed.json', 'Lebenslauf', searchJSON
