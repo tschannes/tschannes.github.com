@@ -13,16 +13,17 @@ function searchJSON(resultsJSON,query) {
     var jsonObj = JSON.parse(resultsJSON);
     console.log("Length of JSON: " + jsonObj.length);
     if (jsonObj.length > 0) {
+        //make results accessible to window
         window.results = [];
+        var reg = new RegExp(query,"ig");
         for (var i = 0; i < jsonObj.length; i++) {
             // look for the entry with a matching `code` value
-            console.log("Query: " + query + "Item: " + jsonObj[i].title);
-            console.log(jsonObj[i].title + " " + jsonObj[i].blob.indexOf(query) + " Treffer.");
-            if (
-                (jsonObj[i].blob.indexOf(query) >= 0)) {
+            console.log("Query: " + reg.toString() + " Item: " + jsonObj[i].title);
+            //console.log(jsonObj[i].title + " " + jsonObj[i].blob.indexOf(query) + " Treffer.");
+            if ((jsonObj[i].blob.match(reg) || 0).length >= 0){
                 var result = jsonObj[i];
                 //console.log(jsonObj[i]);
-                var weight = (result.blob.match(/lebenslauf/g) || []).length;
+                var weight = (result.blob.match(reg) || []).length;
                 result.weight = weight;
                 results.push(result);
             }
@@ -38,4 +39,4 @@ function searchJSON(resultsJSON,query) {
     }
 }
 
-getJSON("http://localhost:4000/feed.json", "lebenslauf", searchJSON);
+getJSON("http://localhost:4000/feed.json", "Lebenslauf", searchJSON);
