@@ -2,24 +2,39 @@
 layout: null
 ---
 
+
 [
     {% for post in site.posts %}
-    {
-        "title": {{ post.title | json }},
-        "link": {{ post.url | prepend: site.baseurl | prepend: site.url |json }},
-        "date": {{ post.date | json}},
-        "excerpt": {{ post.excerpt | json}},
-        "content": {{ post.content | markdownify | strip_html | json}}
-    },
+        {% if post.title %}
+            {
+                "title": {{ post.title | json }},
+                "link": {{ post.url | prepend: site.baseurl | prepend: site.url |json }},
+                "date": {{ post.date | json}},
+                "excerpt": {{ post.excerpt | json}},
+                "content": {{ post.content | markdownify | strip_html | json}}
+            },
+        {% endif%}
     {% endfor %}
     {% for page in site.pages %}
-    {
-        "title": {{ page.title | json}},
-        "link": {{ page.url | prepend: site.baseurl | prepend: site.url | json}},
-        "date": {{ page.date | json }},
-        "excerpt": {{ page.excerpt | json}},
-        "content": {{ page.content | markdownify | strip_html | json}}
-    },
+        {% if page.title %}
+            {
+                "title": {{ page.title | json}},
+                "link": {{ page.url | prepend: site.baseurl | prepend: site.url | json}},
+                "excerpt": {{ page.excerpt | json}},
+                "content": {{ page.content | markdownify | strip_html | json}}
+            },
+        {% endif %}
+    {% endfor %},
+    {% for link in site.data.work.links %}
+        {% if link.title %}
+            {
+                "title": {{ link.title | json}},
+                "link": {{ link.url | prepend: site.baseurl | prepend: site.url | json}},
+                "content": {{ link.description | markdownify | strip_html | json}}
+            },
+        {% endif %}
     {% endfor %}
-    {}
+    {
+        "title": "end"
+    }
 ]
