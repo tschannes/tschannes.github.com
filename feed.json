@@ -6,35 +6,39 @@ layout: null
 [
     {% for post in site.posts %}
         {% if post.title %}
+        {% assign blob = (post.content | markdownify | strip_html) | prepend: post.excerpt | prepend: post.title %}
             {
                 "title": {{ post.title | json }},
-                "link": {{ post.url | prepend: site.baseurl | prepend: site.url |json }},
+                "link": {{ post.url | prepend: site.baseurl | prepend: site.url | json }},
                 "date": {{ post.date | json}},
                 "excerpt": {{ post.excerpt | json}},
-                "content": {{ post.content | markdownify | strip_html | json}}
+                "blob": {{ blob | json }}
             },
         {% endif%}
     {% endfor %}
     {% for page in site.pages %}
         {% if page.title %}
+        {% assign blob = (page.content | markdownify | strip_html) | prepend: page.excerpt | prepend: page.title %}
             {
                 "title": {{ page.title | json}},
                 "link": {{ page.url | prepend: site.baseurl | prepend: site.url | json}},
                 "excerpt": {{ page.excerpt | json}},
-                "content": {{ page.content | markdownify | strip_html | json}}
+                "blob": {{ blob | json }}
             },
         {% endif %}
-    {% endfor %},
+    {% endfor %}
     {% for link in site.data.work.links %}
         {% if link.title %}
+        {% assign blob = link.description | prepend: link.title %}
             {
                 "title": {{ link.title | json}},
                 "link": {{ link.url | prepend: site.baseurl | prepend: site.url | json}},
-                "content": {{ link.description | markdownify | strip_html | json}}
+                "blob": {{ blob | json }}
             },
         {% endif %}
     {% endfor %}
     {
-        "title": "end"
+        "title": "end",
+        "blob": "end"
     }
 ]

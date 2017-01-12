@@ -11,24 +11,24 @@ function getJSON(url, query, callback) {
 function searchJSON(resultsJSON,query) {
     //console.log(resultsJSON);
     var jsonObj = JSON.parse(resultsJSON);
-    //console.log(jsonObj.length);
+    console.log("Length of JSON: " + jsonObj.length);
     if (jsonObj.length > 0) {
         window.results = [];
         for (var i = 0; i < jsonObj.length; i++) {
-            //console.log(jsonObj[i].title);
             // look for the entry with a matching `code` value
-            //console.log(query);
-            console.log(jsonObj[i].title + " " + jsonObj[i].content.indexOf(query) + " Treffer.")
-            if (jsonObj[i].content && jsonObj[i].content.indexOf(query) >= 0) {
+            console.log("Query: " + query + "Item: " + jsonObj[i].title);
+            console.log(jsonObj[i].title + " " + jsonObj[i].blob.indexOf(query) + " Treffer.");
+            if (
+                (jsonObj[i].blob.indexOf(query) >= 0)) {
                 var result = jsonObj[i];
-                console.log(jsonObj[i]);
-                var weight = (result.content.match(/text/g) || []).length;
+                //console.log(jsonObj[i]);
+                var weight = (result.blob.match(/lebenslauf/g) || []).length;
                 result.weight = weight;
                 results.push(result);
             }
         }
         results.sort(function(a, b){
-            console.log(b.weight)
+            //console.log(b.weight)
             return parseFloat(b.weight) - parseFloat(a.weight);
         });
         //console.log(results);
@@ -38,4 +38,4 @@ function searchJSON(resultsJSON,query) {
     }
 }
 
-getJSON("http://localhost:4000/feed.json", "text", searchJSON);
+getJSON("http://localhost:4000/feed.json", "lebenslauf", searchJSON);
