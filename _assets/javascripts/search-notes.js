@@ -11,7 +11,7 @@ function getJSON(url, query, callback) {
 function searchJSON(resultsJSON,query) {
     //console.log(resultsJSON);
     var jsonObj = JSON.parse(resultsJSON);
-    console.log("Length of JSON: " + jsonObj.length);
+    //console.log("Length of JSON: " + jsonObj.length);
     if (jsonObj.length > 0) {
         //make results accessible to window
         window.results = [];
