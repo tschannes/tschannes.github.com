@@ -2,7 +2,7 @@
 {% assign sorted_links = (site.data.work.links | sort: 'title') %}
 {% for link in sorted_links %}
   <li class="post-link">
-    <a href="{{ link.href }}" property="url" name="{{link.title | slugify }}">
+    <a name="{{link.title | slugify }}" href="{{ link.href }}" property="url" name="{{link.title | slugify }}">
       <h2 itemprop="name">
         {{ link.title }}
       </h2>
