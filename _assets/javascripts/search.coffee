@@ -5,15 +5,7 @@ moreHelper = (string,limit) ->
     return string.slice(0,limit)
 
 getSearchData = (query) ->
-
-  #url = "http://www.tapirgo.com/api/1/search.json?token=56d744b614930ddbe4000000&query=" + makeFuzzier query
-  #console.log(url)
-  #fehler = {"title":"Oops...","link":"/","content":null,"blob":"Nichts gefunden. Zurück zur Startseite?","published_on":"2015-04-30T22:00:00Z"}
-  #JSONP url, (json) -> 
   getJSON 'http://localhost:4000/feed.json', query, searchJSON
-  #console.log("markdown received: " + json)
-  #markUp object for object in json
-  #markup
 
 window.searchOnEnter = (e) ->
   # look for window.event in case event isn't passed in
