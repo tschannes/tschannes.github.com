@@ -32,13 +32,14 @@ layout: null
         {% assign blob = link.description | prepend: link.title %}
             {
                 "title": {{ link.title | json}},
-                "link": {{ link.url | prepend: site.baseurl | prepend: site.url | json}},
+                "link": {{ link.title | slugify | prepend: "/links#" | json}},
                 "blob": {{ blob | json }}
             },
         {% endif %}
     {% endfor %}
     {
         "title": "end",
+        "link": "end",
         "blob": "end"
     }
 ]
