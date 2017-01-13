@@ -26,7 +26,7 @@ getJSON = (url, query, callback) ->
 
 searchJSON = (resultsJSON, query) ->
   resultsObj = JSON.parse(resultsJSON)
-  console.log("Length of JSON: " + resultsObj.length);
+  #console.log("Length of JSON: " + resultsObj.length);
   if resultsObj.length > 0
     #make results accessible to window
     results = []
@@ -36,11 +36,11 @@ searchJSON = (resultsJSON, query) ->
       #console.log 'Query: ' + reg.toString() + ' Item: ' + resultsObj[i].title
       #console.log(resultsObj[i].title + " " + resultsObj[i].blob.indexOf(query) + " Treffer.");
       if (resultsObj[i].blob.match(reg) or 0).length >= 0
-        console.log("Fund: " + (resultsObj[i].blob.match(reg)) + " at: " + resultsObj[i].title)
+        #console.log("Fund: " + (resultsObj[i].blob.match(reg)) + " at: " + resultsObj[i].title)
         result = resultsObj[i]
         weight = (result.blob.match(reg) or []).length
         result.weight = weight
-        html = "<div class='search-post' itemscope itemtype='http://schema.org/Article'><b><a href='" + result.link + "' property='url'><span itemprop='name'>" + result.title + "</span></a></b>: " + moreHelper(result.blob,160) + "</div>"
+        html = "<div class='search-post' itemscope itemtype='http://schema.org/Article'><b><a href='" + result.link + "' property='url'><span itemprop='name'>" + result.title + "</span></a></b>: " + moreHelper(result.excerpt,160) + "</div>"
         result.html = html
         results.push result
       i++
@@ -52,13 +52,13 @@ searchJSON = (resultsJSON, query) ->
     errorObj.title = "Oops..."
     errorObj.link = "/"
     errorObj.blob = "Nichts gefunden. Zurück zur Startseite?"
-    errorObj.html = "<div class='search-post' itemscope itemtype='http://schema.org/Article'><b><a href='" + errorObj.link + "' property='url'><span itemprop='name'>" + errorObj.title + "</span></a></b>: " + moreHelper(errorObj.blob,160) + "</div>"
+    errorObj.html = "<div class='search-post' itemscope itemtype='http://schema.org/Article'><b><a href='" + errorObj.link + "' property='url'><span itemprop='name'>" + errorObj.title + "</span></a></b>: " + moreHelper(errorObj.excerpt,160) + "</div>"
     results.push errorObj
   # function to generate and insert resultString
   resultString = ""
   for el in results
     resultString = resultString + el.html
-  console.log(resultString)
+  #console.log(resultString)
   document.getElementById('results').innerHTML = resultString
   return
 
