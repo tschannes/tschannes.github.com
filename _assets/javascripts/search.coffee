@@ -44,16 +44,16 @@ searchJSON = (resultsJSON, query) ->
         result.html = html
         results.push result
       i++
+    if results.length == 0
+      errorObj = {}
+      errorObj.title = "Oops..."
+      errorObj.link = "/"
+      errorObj.blob = "Nichts gefunden. Zurück zur Startseite?"
+      errorObj.html = "<div class='search-post' itemscope itemtype='http://schema.org/Article'><b><a href='" + errorObj.link + "' property='url'><span itemprop='name'>" + errorObj.title + "</span></a></b>: " + moreHelper(errorObj.blob,160) + "</div>"
+      results.push errorObj
     results.sort (a, b) ->
       parseFloat(b.weight) - parseFloat(a.weight)
     #console.log "Found " + results.length + " results."
-  else
-    errorObj = {}
-    errorObj.title = "Oops..."
-    errorObj.link = "/"
-    errorObj.blob = "Nichts gefunden. Zurück zur Startseite?"
-    errorObj.html = "<div class='search-post' itemscope itemtype='http://schema.org/Article'><b><a href='" + errorObj.link + "' property='url'><span itemprop='name'>" + errorObj.title + "</span></a></b>: " + moreHelper(errorObj.blob,160) + "</div>"
-    results.push errorObj
   # function to generate and insert resultString
   resultString = ""
   for el in results
