@@ -58,6 +58,11 @@ watch = (el) ->
     if bigScreen()
       makeFixed(ad)
       offsetHeight()
+  window.addEventListener "triggerSearch", (evt) ->
+    ad = document.getElementsByClassName("ad")[0]
+    if bigScreen()
+      makeFixed(ad)
+      offsetHeight()
   return
 
 #Run functions

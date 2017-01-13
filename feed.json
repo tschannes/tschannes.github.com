@@ -33,6 +33,7 @@ layout: null
             {
                 "title": {{ link.title | json}},
                 "link": {{ link.title | slugify | prepend: "/links#" | json}},
+                "excerpt": {{ link.description | json}},
                 "blob": {{ blob | json }}
             },
         {% endif %}
