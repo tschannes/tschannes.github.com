@@ -5,7 +5,7 @@ moreHelper = (string,limit) ->
     return string.slice(0,limit)
 
 getSearchData = (query) ->
-  getJSON 'http://localhost:4000/feed.json', query, searchJSON
+  getJSON '/feed.json', query, searchJSON
 
 window.searchOnEnter = (e) ->
   # look for window.event in case event isn't passed in
