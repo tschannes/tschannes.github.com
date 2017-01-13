@@ -16,7 +16,7 @@ headerHeight = ->
   else
     return document.getElementsByClassName('post-header')[0].offsetHeight + paddingValue
 
-offsetHeight = ->
+window.offsetHeight = ->
   nav = document.getElementsByTagName('header')[0].offsetHeight
   search = document.getElementById('searchContainer').offsetHeight
   header = headerHeight()
@@ -31,7 +31,7 @@ makeFixed = (el) ->
   window.addEventListener "scroll", (evt) ->
     adjustAd(ad)
 
-adjustAd = (el) ->
+window.adjustAd = (el) ->
   distanceFromTop = (document.documentElement.scrollTop or document.body.scrollTop) + 37.5
   # The user has scrolled down the page and we are on a big screen
   marginRight = (window.innerWidth - document.querySelectorAll('.home, .post')[0].offsetWidth - scrollbarWidth) / 2 + "px";
@@ -58,11 +58,6 @@ watch = (el) ->
     if bigScreen()
       makeFixed(ad)
       offsetHeight()
-  window.addEventListener "triggerSearch", (evt) ->
-    ad = document.getElementsByClassName("ad")[0]
-    if bigScreen()
-      makeFixed(ad)
-      offsetHeight()
   return
 
 #Run functions
@@ -74,6 +69,6 @@ FixerMaker = (el) ->
     makeFixed(el)
     watch(el)
 
-el = document.getElementsByClassName("ad")[0]
-r = new FixerMaker el
-r.run
+window.ad = document.getElementsByClassName("ad")[0]
+fx = new FixerMaker ad
+fx.run

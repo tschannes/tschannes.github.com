@@ -65,3 +65,4 @@ searchJSON = (resultsJSON, query) ->
 window.triggerSearch = ->
   query = document.getElementById('query').value
   result = getSearchData(query)
+  adjustAd(ad)

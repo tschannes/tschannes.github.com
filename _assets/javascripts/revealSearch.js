@@ -34,4 +34,5 @@ function doubletap() {
         // too much time to be a doubletap
     }
     mylatesttap = new Date().getTime();
+    adjustAd(ad);
 }
