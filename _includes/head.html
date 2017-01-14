@@ -41,4 +41,6 @@
     <meta property="og:image" content="{% if page.img %}{{ page.img | prepend: site.baseurl | prepend: "/" | prepend: site.url }}{% endif %}" />
     <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt }}{% else %}{{ site.description }}{% endif %}" /> 
     <meta property="og:site_name" content="{{ site.title }}" />
+    <!-- Adding Hotjar Analytics -->
+    {% include analytics.html %}
     <script src="http://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" async></script>
