@@ -1,3 +1,13 @@
+/* Hide lazyload images if JavaScript is not supported */
+.no-js .lazy {
+ display: none;
+}
+
+/* Avoid empty images to appear as broken */
+img:not([src]):not([srcset]) {
+ visibility: hidden;
+}
+
 form{
     display:inline-block;
     fieldset{
@@ -272,13 +282,14 @@ ul{
 }
 
 .home-pic-container{
-    background-color:$brand-color-dark;
+    //background-color:$brand-color-dark;
     width:100%;
     overflow:hidden;
     img{
         @include transition(opacity);
         min-width:100%;
-        opacity:0.9;
+        opacity:0;
+        padding-top:43.75%;
     }
 }
 

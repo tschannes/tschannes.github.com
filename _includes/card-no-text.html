@@ -6,8 +6,7 @@
 
 {% if item.img %}<div class="home-pic-container">
   <figure>
-     <img src="/loader.gif"
-          data-layzr="/{{ item.img }}" 
+     <img data-src="/{{ item.img }}" data-srcset="/{{ item.img }}" class="lazy" 
           {% if item.alt %}
             alt="{{ item.alt }}"
           {% elsif item.caption %}
@@ -15,6 +14,9 @@
           {% else %}
             alt="{{ item.title }}"
           {% endif %} itemprop="image">
+    <noscript>
+      <img src="/{{ item.img }}" srcset="/{{ item.img }}" />
+    </noscript>
       {% if item.caption %}
       <figcaption>
             {{ item.caption }}

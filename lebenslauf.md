@@ -3,6 +3,7 @@ layout: page
 title: "Lebenslauf"
 permalink: /lebenslauf/
 excerpt: "Berufserfahrung, Ausbildung, Sprachen und Kompetenzen: Lesen Sie den Lebenslauf von Hannes Tscherrig."
+img: "images/hannes_tscherrig.jpg"
 order: 4
 ---
 

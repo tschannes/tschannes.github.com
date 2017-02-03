@@ -1,8 +1,7 @@
 //= require fixed.coffee
 //= require custom.js
 //= require logo.coffee
-//= require layzr.js
-//= require jsonp.js
+//= require customImgLoader.js
 //= require wetter.coffee
 //= require search.coffee
 //= require revealSearch.js
