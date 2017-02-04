@@ -15,7 +15,7 @@
       //element.style.display = 'block';
 
       var timer = setInterval(function () {
-        if (elementOpacity >= 1) {
+        if (elementOpacity >= 0.9) {
           clearInterval(timer);
         }
 

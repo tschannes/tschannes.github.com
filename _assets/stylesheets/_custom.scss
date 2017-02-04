@@ -85,13 +85,12 @@ input#query, input#search.button{
 
 .simple-post, .tglbtn{
     //border-top: 5px dotted $brand-color-dark;
-    //padding-top:0.5em;
     margin-bottom:0.5*$spacing-unit;
-    padding: $spacing-unit,0,$spacing-unit,0;
     background-color:white;
     width: 65%;
-    a {
-        padding-left: 0.5*$spacing-unit;
+    .custom-wrapper{
+        margin-left:0.5*$spacing-unit;
+        margin-right:0.5*$spacing-unit;
     }
     @include media-query($on-laptop){
         width:100%;
@@ -249,9 +248,9 @@ ul{
         color:$text-color;
     }
     &:hover, &:active, &:focus{
-        background-color:$grey-color-light;
+        //background-color:$brand-color-dark;
         .home-pic-container img{
-            opacity:0.7;
+            opacity:1 !important;
         }
         a{
             text-decoration:none;
@@ -282,14 +281,13 @@ ul{
 }
 
 .home-pic-container{
-    //background-color:$brand-color-dark;
     width:100%;
     overflow:hidden;
     img{
         @include transition(opacity);
         min-width:100%;
         opacity:0;
-        padding-top:43.75%;
+        //padding-top:43.75%;
     }
 }
 
