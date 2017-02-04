@@ -5,7 +5,7 @@
 
 /* Avoid empty images to appear as broken */
 img:not([src]):not([srcset]) {
- //visibility: hidden;
+ visibility: hidden;
 }
 
 form{
