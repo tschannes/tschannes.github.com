@@ -14,7 +14,7 @@ function insertEmagramm() {
     day = ('0' + day).slice(-2);
     var dateString = year + month + day;
     /*console.log("dateString is: " + dateString);*/
-    var ema1 = "<img src='/loader.gif' data-layzr='";
+    var ema1 = "<img data-src='";
     var ema2 = "http://www.meteoswiss.admin.ch/product/input/radio-soundings/VSSG76.LSSW_";
     var midday = "_1200.gif'";
     var ema3 = ">";
@@ -32,5 +32,5 @@ function insertEmagramm() {
 }
 
 insertEmagramm();
-var layzr = new Layzr();
-layzr.update();
+/*var layzr = new Layzr();
+layzr.update();*/

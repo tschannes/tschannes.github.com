@@ -1,5 +1,5 @@
 if window.location.pathname == "/wetter/"
-  #console.log('The Weather Script is Running.')
+  console.log('The Weather Script is Running.')
   ajaxCounter = 0
 
   document.getElementById("tglBtn").addEventListener "click", (e) ->

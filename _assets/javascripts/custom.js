@@ -33,7 +33,7 @@ var toggleVisibility = function(id) {
     }
   };
 
-// Measer the scrollbar width. hack by David Walsh
+// Measure the scrollbar width. hack by David Walsh
 var scrollDiv = document.createElement("div");
 scrollDiv.className = "scrollbar-measure";
 document.body.appendChild(scrollDiv);
