@@ -8,15 +8,6 @@ function linkTargets() {
       }
     }
   }
-
-// Load Google Fonts
-function loadFonts() {
-    WebFont.load({
-      google: {
-        families: ['Raleway:normal,bold']
-      }
-    });
-  }
 // ToggleMoreContent
 var toggleVisibility = function(id) {
     if (!document.getElementById('tglBtn')) {
