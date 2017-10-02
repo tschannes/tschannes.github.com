@@ -18,7 +18,9 @@ body {
     line-height: $base-line-height;
     font-weight: 300;
     color: $text-color;
-    background: url(/images/crossword.png);
+    //background: url(/images/crossword.png);
+    background-attachment: fixed;
+    background-size: cover;
     @include media-query($on-palm) {
        font-size: 0.8 * $base-font-size;
     }

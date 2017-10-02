@@ -64,6 +64,12 @@ Der deutsche Pilot Bernd Gassner hat mit seinem **[XC Planner](https://xcplanner
 
 Die guten Leute vom Cross Country Magazine verraten in ihrem **[Travel Guide](http://www.xcmag.com/travel-guide/)**, wo man auch mitten im Winter sagenhaft-toll Thermik fliegen kann.
 
-<ul class="post-list">
+<!-- <ul class="post-list">
 	{% include call-to-action.html %}
-</ul>
+</ul> -->
+
+<!-- <video autoplay loop id="video-background" muted plays-inline>
+  <source src="https://youtu.be/bKnwrRvpgtc" type="video/mp4">
+</video> -->
+
+<iframe style="height:window.height()"id="video-background" src="https://www.youtube.com/embed/bKnwrRvpgtc?autoplay=1&mute=1&autoplay=1&origin=https://tschannes.github.io/" frameborder="0" allowfullscreen ></iframe>
