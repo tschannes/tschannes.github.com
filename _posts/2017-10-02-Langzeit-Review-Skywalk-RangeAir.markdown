@@ -14,7 +14,7 @@ categories: gleitschirm
 Die Fakten vorweg: Es ist leicht, sehr leicht sogar für ein Liegegurtzeug. Etwas über 2 Kilogramm bringt das [Skywalk RangeAir](https://skywalk.info/project/range-air/) auf die Wage und das Packmass ist schier unglaublich klein. Wer beim Packen an Gurtzeuge mit Schaumprotektoren gewöhnt ist, wird sich wundern. Das Voluminöseste am RangeAir beim Packen ist der Notschirm. Ganz anders sieht die Sache im Flug aus. Einmal gefüllt, verleiht der riesige Heckflügel dem RangeAir Rennoptik und soll für hervorragende Aerodynamik sorgen.
 
 <div class="frame">
-    <iframe class="lazy" src="/loader.gif" data-src='https://www.youtube.com/embed/iDr4_kfo0VE?rel=0&amp;controls=0&amp;showinfo=0&amp;start=50' frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/iDr4_kfo0VE?rel=0&amp;controls=0&amp;showinfo=0&amp;start=50" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
