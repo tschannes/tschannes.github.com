@@ -29,7 +29,7 @@
 
     // lazyloadVanilla function
     var lazyloadVanillaLoader = function lazyloadVanillaLoader() {
-      var lazyImages = document.querySelectorAll('img');
+      var lazyImages = document.querySelectorAll('.lazy');
 
       //var lazyImagesPaths = document.querySelectorAll('img[data-src]');
 
