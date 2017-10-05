@@ -12,7 +12,7 @@ hidden: true
 ## Wetter
 
 <p>
-	 Forecast.io liefert die Wetter-Grobübersicht (<strong><a href="javascript:toggleVisibility('toggle');" id="tglBtn">Meteo anzeigen</a></strong>) für die nächsten paar Tage.
+     Forecast.io liefert die Wetter-Grobübersicht (<strong><a href="javascript:toggleVisibility('toggle');" id="tglBtn">Meteo anzeigen</a></strong>) für die nächsten paar Tage.
 </p>
 
 <p id="toggle" class="wetter"><span id="loader">Loading...</span></p>
@@ -31,12 +31,12 @@ Zur Kontrolle: Die **[Windy-App](http://windy.atelier-agile.ch/balises?display_a
 
 **[Meteocentrale.ch](http://www.meteocentrale.ch)** zeigt wie sich Föhn- und Bisentendenz über die nächsten Tage entwickeln werden. Ab 4 hPa Druckunterschied wird's brenzlig zum Fliegen.
 
-<div class="frame lazy">
-	<img data-src="http://www.meteocentrale.ch/uploads/pics/uwz-ch_foehn_en.png">
+<div class="frame">
+    <img class="lazy" data-src="http://www.meteocentrale.ch/uploads/pics/uwz-ch_foehn_en.png">
 </div>
 
-<div class="frame lazy">
-	<img data-src="http://www.meteocentrale.ch/uploads/pics/uwz-ch_bise_en.png">
+<div class="frame">
+    <img class="lazy" data-src="http://www.meteocentrale.ch/uploads/pics/uwz-ch_bise_en.png">
 </div>
 
 Das **[Emagramm von Meteo Swiss](http://www.meteoswiss.admin.ch/home/measurement-and-forecasting-systems/atmosphere/radio-soundings.html)** zeigt, wie die Atmosphäre aktuell geschichtet ist. Es erlaubt Aufschlüsse über Wind, Temperatur, Luftfeuchtigkeit und Thermikpotenzial. Unten das aktuellste Emagramm von Meteo Swiss.
@@ -64,12 +64,6 @@ Der deutsche Pilot Bernd Gassner hat mit seinem **[XC Planner](https://xcplanner
 
 Die guten Leute vom Cross Country Magazine verraten in ihrem **[Travel Guide](http://www.xcmag.com/travel-guide/)**, wo man auch mitten im Winter sagenhaft-toll Thermik fliegen kann.
 
-<!-- <ul class="post-list">
-	{% include call-to-action.html %}
-</ul> -->
-
-<!-- <video autoplay loop id="video-background" muted plays-inline>
-  <source src="https://youtu.be/bKnwrRvpgtc" type="video/mp4">
-</video> -->
-
-<iframe style="height:window.height()"id="video-background" src="https://www.youtube.com/embed/bKnwrRvpgtc?autoplay=1&mute=1&autoplay=1&origin=https://tschannes.github.io/" frameborder="0" allowfullscreen ></iframe>
+<ul class="post-list">
+    {% include call-to-action.html %}
+</ul>
