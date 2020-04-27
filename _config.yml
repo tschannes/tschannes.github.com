@@ -3,7 +3,7 @@ name: 'Hannes Tscherrig'
 description: 'Beiträge zu Video- und Text-Content. Lektionen, die das Büroleben schrieb.'
 logo: 'images/logo.png'
 favicon: 'images/favicon.ico'
-baseurl: '/'
+baseurl: ''
 #disqus: 'demowebsite'
 email: 'tschannes@gmail.com'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -17,6 +17,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-assets
   
 authors:
     hannes:
