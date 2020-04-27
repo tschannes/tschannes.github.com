@@ -1,0 +1,59 @@
+# Site
+name: 'Hannes Tscherrig'
+description: 'Beiträge zu Video- und Text-Content. Lektionen, die das Büroleben schrieb.'
+logo: 'images/logo.png'
+favicon: 'images/favicon.ico'
+baseurl: ''
+#disqus: 'demowebsite'
+email: 'tschannes@gmail.com'
+#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  
+authors:
+    hannes:
+      name:           Hannes
+      site:           https://tschannes.github.io
+      avatar:         images/hannes-tscherrig.jpg
+      bio:            "Hallo! Ich entwerfe, produziere und optimiere Text und Video fürs Web. Ausserdem bin ich Code-Amateur, grosser Fan guter Fragen und passionierter Gleitschirmflieger."
+      email:          tschannes@gmail.com
+      linkedin:       http://ch.linkedin.com/in/tschannes
+
+ 
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: hannes
+      avatar: /images/hannes-tscherrig.jpg
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      author: hannes
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
