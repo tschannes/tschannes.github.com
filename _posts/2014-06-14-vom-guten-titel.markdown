@@ -4,6 +4,7 @@ title:  "Geistreich, wortarm, treffend. Vom guten Titel."
 date:   2014-06-14
 excerpt: "Christian Scholz, Photograph und Journalist, sammelt an der Schweizer Journalistenschule (MAZ) zusammen mit drei Seminarteilnehmenden Ingredienzen für Titel, die funktionieren."
 categories: text
+tags: [featured]
 ---
 
 Titel sind Lockrufe zum Text, erklärt Chistian Scholz einleitend. Sie sollen nicht nur am Anfang stehen, sondern auch am Anfang erstellt werden. Viel zu oft verkümmern Titel, weil sie von Schreibenden stiefmütterlich behandelt werden.
