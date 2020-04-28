@@ -1,0 +1,117 @@
+I"�&<p>Letzens sollte ich einen Text über die Blockchain redigieren, also den Mechanismus, auf dem die Bitcoin-Wirtschaft beruht. Null Problemo sagte ich mir, das packen wir und stürzte mich auf den Beitrag.</p>
+
+<p>Das Problem: Ich verstand wenig. Nicht nur hatte ich nicht wirklich eine Vorstellung davon, was ein Block, ein Hash oder ein Miner genau sind. Weil mir die einzelnen Elemente schon nicht klar waren, konnte ich sie auch in keinen vernünftigen Zusammenhang bringen.</p>
+
+<h2 id="bitcoin-begriffe-eingeführt">Bitcoin-Begriffe eingeführt</h2>
+
+<p>Ich tat also, was ich immer tue, wenn ich etwas nicht verstehe: Ich las, was und wie andere über mein Thema schreiben. Aus meinen Recherchen habe ich neun erkärungsbedürftige Begriffe zusammengetragen.</p>
+
+<blockquote>
+  <p>A <strong>blockchain</strong> is a public ledger of all Bitcoin <strong>transactions</strong> that have ever been executed. It is constantly growing as ‘completed’ <strong>blocks</strong> are added to it with a new set of recordings. The blocks are added to the blockchain in a linear, chronological order. Each <strong>node</strong> (computer connected to the Bitcoin network using a client that performs the task of validating and relaying transactions) gets a copy of the blockchain, which gets downloaded automatically upon joining the Bitcoin network. The blockchain has complete information about the addresses and their balances right from the <strong>genesis block</strong> to the most recently completed block (<a href="http://www.investopedia.com/terms/b/blockchain.asp">Blockchain-Definition von Investopedia</a>, meine Hervorhebungen).</p>
+</blockquote>
+
+<h3 id="1-blockchain">1. Blockchain</h3>
+
+<p>Die Blockchain ist also <strong>eine Art öffentliche Buchführung</strong>, die alle jemals getätigten Einträge erfasst. In gewisser Weise ist die Blockchain die Datenbank hinter Bitcoin.</p>
+
+<p>Diese Kette ist, wie es die Definition oben sagt, öffentlich und auf jedem Computer des Netzwerkes verteilt. Diese massive Verteilung macht das System sehr Ausfall-resistent. Wenn hier eine Blockchain verloren geht, sind im restlichen Netzwerk noch immer unzählige Kopien vorhanden.</p>
+
+<h3 id="2-node">2. Node</h3>
+
+<p>Anders als herkömmliche Austausch-Plattformen (Paypal, Amazon, Online-Retailer) gibt es im Bitcoin-Universum keine zentrale Stelle, die das System überwacht und etwa sicherstellt, dass mit einer Überweisung nicht mehrfach bezahlt wird (siehe das <a href="https://www.wikiwand.com/en/Double-spending">Double-Spending-Problem</a>).</p>
+
+<p>Die Rolle der Kontrolleure übernehmen die Knotenpunkte im Netzwerk, die Nodes. <strong>Jede ans Bitcoin-Netzwerk angeschlossene Applikation</strong> ist ein solcher Knotenpunkt. Die Mehrheit der Nodes bestimmt, ob ein Block, und damit die darin enthaltenen Zahlungen, gültig sind oder nicht.</p>
+
+<h3 id="3-transaktion">3. Transaktion</h3>
+
+<p>Bitcoin Nutzer tätigen über eine spezielle Applikation Zahlungen, die mehr oder weniger so aussehen, wie klassische Banküberweisungen. Ein Sender X überweist einen Betrag Y an einen Empfänger Z.</p>
+
+<p>Anders als im klassischen Zahlungsverkehr bestimmt jeder Sender, wie viel ihm die Sicherung und schnelle Beglaubigung seiner Überweisung wert sind. Diese selbstbestimmte Gebühr, welche bei jeder Zahlung beiseite gelegt wird, kommt den Minern zugute und motiviert sie damit das Netzwerk weiterhin zu sichern.</p>
+
+<h3 id="4-proof-of-work">4. Proof of Work</h3>
+
+<p>Ein Proof of Work ist eine Aufgabe, die nur durch Ausprobieren unzähliger Möglichkeiten sehr mühsam zu einem Resultat führt. Gibt es aber erst einmal ein Resultat, ist es sehr einfach zu überprüfen, ob dieses in der Tat gültig ist.</p>
+
+<p>Das heisst, es ist schwierig den Proof of Work zu erbringen, aber einfach zu beweisen, dass die Aufgabe richtig gelöst wurde.</p>
+
+<p>Das Bitcoin-System verlangt vor jedem Hinzufügen eines neuen Blocks zur Blockchain einen neuen Proof of Work. Die Schwierigkeit der Aufgaben ist so kalibriert, dass das weltweite Netzwerk alle 10 Minuten einen Proof of Work löst und damit einen Block validiert.</p>
+
+<h3 id="5-hashing--oder-chiffrier-algorithmus">5. Hashing- oder Chiffrier-Algorithmus</h3>
+
+<p>Hashing oder Chiffrier-Algorithmen sind die <strong>Wurstmaschinen des digitalen Zeitalters</strong>. Man gibt beliebiges Datenmaterial in sie hinein und erhält etwas, dass immer in etwa gleich aussieht, dessen Inhalt aber vollkommen undurchsichtig bleibt: Den Hash.</p>
+
+<p>Solange alle Zutaten gleich sind, gibt ein Chiffrieralgorithmus immer den gleichen Hash aus. Ändert sich aber nur ein winziges Detail in einer der Zutaten, verändert sich der Hash komplett:</p>
+
+<blockquote>
+  <p>SHA256(“Franz jagt im komplett verwahrlosten Taxi quer durch Bayern”) = 
+d32b568cd1b96d459e7291ebf4b25d007f275c9f13149beeb782fac0716613f8 <br />
+SHA256(“Frank jagt im komplett verwahrlosten Taxi quer durch Bayern”) = 
+78206a866dbb2bf017d8e34274aed01a8ce405b69d45db30bafa00f5eeed7d5e</p>
+</blockquote>
+
+<p>Bitcoin-Miner suchen nun basierend auf einigen bekannten Ingredienzen (Challenge) einen Proof, so dass sich ein Hash ergibt, der mit einer bestimmten Anzahl Nullen beginnt. Nach Finden eines gültigen Proofs, wird ein neuer Block zur Blockchain hinzugefügt.</p>
+
+<h3 id="6-hash">6. Hash</h3>
+
+<p>Ein Hash ist eine Zeichenfolge wie die folgende:</p>
+
+<blockquote>
+  <p>d32b568cd1b96d459e7291ebf4b25d007f275c9f13149beeb782fac0716613f8</p>
+</blockquote>
+
+<p>Dabei stehen die Buchstaben a bis f für die Zahlen 10 bis 15 (siehe <a href="https://www.wikiwand.com/de/Hexadezimalsystem">Hexadezimalsystem</a>).</p>
+
+<h3 id="7-miner">7. Miner</h3>
+
+<p>Miner sind diejenigen Personen (und ihre hochspezialisierten Maschinen), die zur Sicherung der Blöcke Proof of Work-Probleme lösen. Für das Lösen dieser Probleme erhalten Miner eine festgelegte Prämie und die von den Nutzenden festgelegten Überweisungsgebühren.</p>
+
+<p>Das weltweite Netzwerk benötigt für einen Proof of Work etwa 10 Minuten. Für einen Hacker mit einem Bruchteil der Rechenleistung des globalen Mining-Netzwerkes ist es ungleich schwieriger, den Proof of Work vor allen anderen zu lösen.</p>
+
+<p>Dieses <strong>Prinzip der Rechendominanz</strong> ist der Grundstein, warum Bitcoin trotz dem Fehlen einer zentralen Kontrollinstanz relativ betrugssicher ist.</p>
+
+<h3 id="8-block">8. Block</h3>
+
+<p>Wenn die Blockchain eine Art globales Verzeichnis aller jemals getätigten Transaktionen ist, dann ist ein Block eine Seite oder ein <strong>Auszug dieses Verzeichnisses</strong>.</p>
+
+<p>Miner sammeln noch nicht erfasste Transaktionen und bündeln Sie in einem Datenblock. Dann versuchen Sie den Proof of Work zu leisten. Die Node, welche das Problem zuerst löst, fügt den Block zur offiziellen Blockchain hinzu.</p>
+
+<p>Dank der Rechendominanz ist die Wahrscheinlichkeit, dass ein ehrlicher Miner zuerst zu einem gültigen Proof gelangt, viel grösser, als dass ein böswilliger Hacker die halbe Welt überholt. Vorausgesetzt natürlich, dass mehr ehrliche als unehrliche Miner das Netzwerk stützen.</p>
+
+<h3 id="9-bitcoin">9. Bitcoin</h3>
+
+<p>Bitcoin schliesslich ist die populärste Anwendung der Blockchain. Als bekannteste digitale Währung setzt sie die Blockchain als dezentralen Sicherungsmechanismus ein.</p>
+
+<h2 id="weiterlesen-bitteschön">Weiterlesen, bitteschön:</h2>
+
+<p>Natürlich reicht es nicht, die grundlegenden Begriffe aus der Bitcoin-Welt zu verstehen, um wirklich zu verstehen, was die Blockchain-Technologie angestossen hat:</p>
+
+<p>Um ein Bild des funktionierenden Ganzen zu erhalten, empfiehlt es sich <a href="https://bitcoin.org/bitcoin.pdf">Satoshi Nakamotos Thesenpapier</a> zu lesen, auf welchem Bitcoin beruht. Es erklärt neben den technischen Mechanismen auch, welche menschlichen und sozialen Prinzipien die Bitcoin-Wirtschaft am Leben erhalten.</p>
+
+<p>Die <a href="https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/">Podcast-Serie der Khan-Academy</a> erklärt Bitcoin von Grund auf und leistet dabei ganze Arbeit. Die anderthalb Stunden sind auf jeden Fall gut investierte Zeit.</p>
+
+<p>Bitcoin ist längst nicht mehr die einzige Krypto-Währung auf dem Markt. Eine ganze Reihe <a href="http://www.welivesecurity.com/2015/03/05/five-alternatives-bitcoin/">alternativer virtueller Währungen</a> machen Bitcoin den Markt streitig.</p>
+
+<p>Bitcoin ist darauf ausgelegt, viel Rechen-Power zu verbrauchen. Lesen Sie, wie die <a href="http://bitcoin.stackexchange.com/questions/2455/what-is-the-ecological-effect-of-increase-work-for-the-bitcoin-chain">Krypto-Währung aus umweltpolitischer Sicht</a> beurteilt wird.</p>
+
+<p>Warum die Blockchain ein solch gewaltiges disruptives Potenzial birgt, welches weit über die Finanzindustrie hinausgeht, zeigt diese Reportage der BBC:</p>
+
+<div class="frame">
+    <iframe width="560" height="315" src="/images/loader.gif" data-layzr="https://www.youtube.com/embed/2ky3mDUoh74" frameborder="0" allowfullscreen=""></iframe>
+</div>
+
+<p>Wer Bitcoin nicht nur verstehen, sondern selber nach Krypto-Gold schürfen will, sieht sich am besten den <a href="https://www.weusecoins.com/en/mining-guide/">Getting Started Guide</a> auf weusecoins.com an.</p>
+
+<h2 id="anwendungen-des-blockchain-prinzips">Anwendungen des Blockchain-Prinzips</h2>
+
+<ul>
+  <li><a href="http://maidsafe.net/">http://maidsafe.net/</a></li>
+  <li><a href="https://www.ethereum.org/">https://www.ethereum.org/</a></li>
+  <li><a href="https://proofofexistence.com/">https://proofofexistence.com/</a></li>
+  <li><a href="https://www.namecoin.org/">https://www.namecoin.org/</a></li>
+</ul>
+
+<div class="frame">
+    <iframe width="560" height="315" src="/images/loader.gif" data-layzr="https://www.youtube.com/embed/Pu4PAMFPo5Y" frameborder="0" allowfullscreen=""></iframe>
+</div>
+
+:ET

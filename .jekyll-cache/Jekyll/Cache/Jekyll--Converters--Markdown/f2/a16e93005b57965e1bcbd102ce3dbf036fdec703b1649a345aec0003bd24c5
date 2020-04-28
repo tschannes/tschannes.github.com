@@ -1,0 +1,44 @@
+I"k<h2 id="was-muss-eine-gute-url-können">Was muss eine gute URL können?</h2>
+
+<blockquote>
+  <p>A URL is human-readable text that was designed to replace the numbers (IP addresses) that computers use to communicate with servers. They also identify the file structure on the given website. […] The URL of a web document should ideally be as descriptive and brief as possible. (<a href="https://moz.com/learn/seo/url">https://moz.com/learn/seo/url</a>)</p>
+</blockquote>
+
+<p>URLs müssen also im Klartext folgende Eigenschaften besitzen:</p>
+
+<ul>
+  <li><strong>Lesbar</strong>: URLs müssen lesbar sein. Sonderzeichen werden HTML-codiert (ein Leerschlag etwa wird zu “%20”). Das Mischen von Bindestrichen und Unterstrichen, Gross- und Kleinschreibung erschwert die Lesbarkeit und provoziert Tippfehler.</li>
+  <li><strong>Semantisch</strong>: URLs sollten für Menschen Sinn machen. Technische Artefakte, Abkürzungen, internes Vokabular gehören hier nicht hin.</li>
+  <li><strong>Kurz</strong>: Gute URLs sind kurz. Dadurch bleiben sie einfach memorisierbar. Verdoppelungen (z. B. http://…/events/weihnachts-event/) machen URLs länger als sie sein müssten. Verdoppelungen haben – wenn überhaupt – interne Funktionen. Sie sollten deshalb ausgemerzt werden.</li>
+  <li><strong>Strukturiert</strong>: URLs sind ein gutes Anzeichen für die digitale Gesundheit einer Website. Aufgeräumte, semantische, gut lesbare URLs bedingen eine entsprechende Content-Pflege. Schlechte URLs deuten auf technische oder inhaltliche Schulden. URL-Pflege ist also auch Image-Pflege.</li>
+</ul>
+
+<p>Weitere Eigenschaften guter URLs listet Rand Fishkin von moz.com in seinem Artikel <a href="https://moz.com/blog/15-seo-best-practices-for-structuring-urls">15 SEO Best Practices for Structuring URLs</a>.</p>
+
+<h2 id="warum-sind-gute-urls-wichtig">Warum sind gute URLs wichtig?</h2>
+
+<ul>
+  <li><strong>Image</strong>: URLs sind als digitale Adressen überall im Web die Visitenkarte einer Website.</li>
+  <li><strong>SEO</strong>:  Google lässt die Struktur von URLs – und wahrscheinlich in URLs enthaltene Keywords – in die Such-Rankings einfliessen. Gute URLs führen also tendenziell zu besseren Suchresultaten.</li>
+  <li><strong>Sharing</strong>: Wenn eine URL den Inhalt beschreibt, auf den sie verweist, kann sie selbst vollkommen ohne Kontext geshared werden. Empfänger haben nur basierend auf der URL eine vage Idee, um was es auf der Seite gehen könnte.</li>
+  <li><strong>Cross Media Usage</strong>: Saubere URLs sind auch im Cross-Media-Einsatz wichtig. Wer will schon Links wie diesen abdrucken: “http://beispielseite.bp/xp148”? Besser wäre “http://beispielseite.bp/umfrage/”…</li>
+  <li><strong>Ersatz-Navigation</strong>: Sobald etwas schief geht beim Navigieren im Web, ist die URL unser Rettungsanker. Dank einer soliden URL-Struktur (moz.com empfiehlt: http://www.beispiel.com/kategorie/unterkategorie/hauptschlagwort/) können Nutzer sehr einfach zur nächsthöheren Übersichtsseite (zurück)navigieren.</li>
+</ul>
+
+<h2 id="urls-verlangen-nach-steter-aufräumarbeit">URLs verlangen nach steter Aufräumarbeit</h2>
+
+<ul>
+  <li>Keine “-“ mit “_” mischen.</li>
+  <li>Sonderzeichen (Leerzeichen, Umlaute, Satzzeichen. <a href="http://www.december.com/html/spec/esccodes.html">Tabelle ungünstiger Zeichen</a>) vermeiden. Sie werden HTML-codiert und machen URLs (für Nicht-Techies) unlesbar.</li>
+  <li>Entweder alles grossschreiben oder alles klein. Weil die Domain in der Regel kleingeschrieben wird, empfiehlt es sich auch den Rest der URL komplett klein zu schreiben.</li>
+  <li>Undurchsichtige (“/c/”) oder unnötige (“/online/”) URL-Bestandteile vermeiden.</li>
+  <li>Verdopplungen jeglicher Art streichen: Besser “/klettern/alpin/” als “/klettern/Alpinklettern/” und lieber nur “/de-ch/” statt “/CH/de-ch/” (wenn technisch möglich, selbstverständlich).</li>
+  <li>Was für URLs gilt, gilt auch für Bilddateinamen: “skiing-boarding_toni-muster_FS3A3435_rgb_c1_720x720.jpg” mischt Binde- und Unterstriche, beinhaltet technische und interne Informationen. Besser wäre “toni-muster-skiing-boarding.jpg”.</li>
+</ul>
+
+<h2 id="kurz-und-gut">Kurz und gut:</h2>
+
+<p>Mit URLs ist es wie mit so manch anderer Angelegenheit an der Grenze zwischen technischen und inhaltlichen Belangen: Weder Programmierer noch Marketeers können das Problem alleine lösen. URLs sind ein technisches Mittel, um Inhalte im Web zu lokalisieren.</p>
+
+<p>Die Meta-Information des Unique Resource Locators ist mittlerweile selbst zum Inhalt geworden. Moderne URLs verlangen nach modernen Teams, in denen Techniker und Content-Schaffende intensiv zusammenarbeiten.</p>
+:ET

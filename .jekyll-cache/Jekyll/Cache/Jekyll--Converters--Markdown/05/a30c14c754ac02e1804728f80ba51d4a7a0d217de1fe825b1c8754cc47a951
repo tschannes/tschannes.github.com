@@ -1,0 +1,245 @@
+I"�<div class="container">
+    
+ <!--endif page url is / -->
+    
+
+
+<!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skeep the first 4 posts displayed above -->
+    
+<div class="row mt-3">
+   
+    <div class="col-md-8 main-loop">
+        
+        <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
+        
+
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/vom-guten-titel/">Geistreich, wortarm, treffend. Vom guten Titel.</a>
+	</h2>
+	<p class="excerpt">
+	   Christian Scholz, Photograph und Journalist, sammelt an der Schweizer Journalistenschule (MAZ) zusammen mit drei Seminarteilnehmenden Ingredienzen für Titel, die funktionieren.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/kompetenzen#text">text</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		June 2014
+	</small>
+</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/lukas-stuber-erklaert-seo/">Lukas Stuber erklärt SEO</a>
+	</h2>
+	<p class="excerpt">
+	   Lukas Stuber, Suchmaschinen-Spezialist und CEO von yourposition, erklärt Mitgliedern des Schweizer Textverbandes, warum sie für Search Engines und für Menschen schreiben müssen.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/kompetenzen#content">content</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		November 2013
+	</small>
+</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/randulin/">Guarda. Ein Besuch im Dorf der Randulins</a>
+	</h2>
+	<p class="excerpt">
+	   Der 'Schellen Ursli' hat Guarda - das Dorf der Wandervögel - berühmt gemacht. Es lebt seit jeher von 'Randulins': Menschen, die kommen und gehen.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		May 2013
+	</small>
+</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/kopflos/">Der Kopflose Reiter. Ein Ende.</a>
+	</h2>
+	<p class="excerpt">
+	   Ein Enthaupteter trifft auf einen ganz normalen Menschen. In windgepeitschter Nacht überlebt dieser die Begegnung nicht.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/kompetenzen#text">text</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		January 2012
+	</small>
+</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/moerderisch-liebenswert/">Donna Leon: Eine mörderisch liebenswerte Dame</a>
+	</h2>
+	<p class="excerpt">
+	   Sie erfand Guido Brunetti, den venezianischen Commissario. Mittlerweile hat er achtzehn Fälle gelöst und sie ist weltberühmt. Eine Begegnung mit Donna Leon.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/kompetenzen#text">text</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		August 2011
+	</small>
+</div>
+
+</div>
+        
+        
+        
+        <div class="mt-5">
+         <!-- Pagination links -->
+            
+            <ul class="pagination"> 
+              
+                <li class="page-item"><a class="page-link" href="/page3">&laquo; Prev</a></li>
+              
+
+              
+                
+                <li class="page-item"><a class="page-link" href="/">1</a></li>
+                
+              
+                
+                <li class="page-item"><a class="page-link" href="/page2">2</a></li>
+                
+              
+                
+                <li class="page-item"><a class="page-link" href="/page3">3</a></li>
+                
+              
+                
+                <li class="page-item disabled"><span class="webjeda page-link">4</span></li>
+                
+              
+
+              
+                <li class="page-item disabled"><span class="next page-link">&raquo;</span></li>
+              
+            </ul>
+                  
+        </div>
+        
+    </div>
+    
+    <div class="col-md-4">
+        <div class="sticky-top sticky-top-offset">
+    <h4 class="font-weight-bold spanborder"><span>Featured</span></h4>  
+    <ol class="list-featured">				
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/nutzloses-im-netz/" class="text-dark">Nutzloses im Netz: Ein Gespräch</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/kompetenzen#content">content</a><span class="sep">, </span>
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/kompetenzen#text">text</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/randulin/" class="text-dark">Guarda. Ein Besuch im Dorf der Randulins</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/kopflos/" class="text-dark">Der Kopflose Reiter. Ein Ende.</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/kompetenzen#text">text</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/moerderisch-liebenswert/" class="text-dark">Donna Leon: Eine mörderisch liebenswerte Dame</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/kompetenzen#text">text</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+           
+    </ol>
+</div>     
+    </div>
+    
+</div>
+
+
+
+</div>
+:ET

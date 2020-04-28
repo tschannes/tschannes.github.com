@@ -1,0 +1,84 @@
+I"�<p><a href="#short">Nur Zusammenfassung lesen?</a></p>
+
+<h2 id="ein-guter-editor-fördert-konzentriertes-schreiben">Ein guter Editor fördert konzentriertes Schreiben</h2>
+
+<p>Altbewährte Schreib-Programme wie Microsoft Word können zu viel: Text, Schrift, Clipart, Tabelle, Bild: Alles geht in Word.</p>
+
+<p>Allerdings vermischen sie dabei Form und Funktion: Schreibende befassen sich ständig damit, wie ihr Text aussehen könnte. Viel wichtiger: All die Buttons, Ribbons und Bars in einem konventionellen Word-Processor lenken ab:</p>
+
+<p><img src="/images/word.png" alt="Die im Vergleich zu Microsoft Word relativ übersichtliche Arbeits-Interface von LibreOffices Word Processor 'Writer'." /></p>
+
+<p>Moderne Schreib-Tools wie <a href="http://www.iawriter.com/">iA-Writer</a>,  die <a href="https://draftin.com/">Online-Schreib-Plattform Draftin</a>, die <a href="https://medium.com/">Web-Publikations-Plattform Medium.com</a>, aber auch traditionelle Code-Editoren wie <a href="http://notepad-plus-plus.org/">notepad++</a>, <a href="http://www.sublimetext.com/">sublime text</a> oder Adobes <a href="http://brackets.io/">Brackets-Editor</a> haben eines gemeinsam:</p>
+
+<p>Sie reduzieren die Bedien-Elemente aufs absolute Minimum. So fällt es Textenden leichter, sich auf ihre Arbeit zu konzentrieren:</p>
+
+<p><img src="/images/writer.png" alt="Die aufs absolute Minimum reduzierte Benutzeroberfläche von 'iaWriter' blendet alles für den Schreibprozess Nebensächliche aus." /></p>
+
+<h3 id="werkzeugleisten-labyrinth-versus-tastaturkürzel-und-markdown">Werkzeugleisten-Labyrinth versus Tastaturkürzel und Markdown</h3>
+
+<p>Zwei Techniken machen diese reduzierten Text-Interfaces möglich: Kodierung und Tastatur-Kürzel.</p>
+
+<h4 id="markdown-struktur-aus-der-tastatur">Markdown: Struktur aus der Tastatur</h4>
+
+<p>iA-Writer und Draftin, Medium und die puristische <a href="https://ghost.org/">Blogging-Plattform Ghost</a> setzen auf das <a href="http://daringfireball.net/projects/markdown/">Text-zu-HTML-Konversions-Tool markdown</a>. Mit Markdown erstellen Web Writers semantisch strukturierte Inhalte, ohne auf überladene Toolbars (und ihre Maus) zurückgreifen zu müssen.</p>
+
+<p>Natürlich müssen die wichtigsten Codierungen in Markdown gelernt werden. Viele Markdown-Editoren (für Windows etwa <a href="http://markdownpad.com/">MarkdownPad</a> oder <a href="http://www.slant.co/topics/899/~what-are-the-best-markdown-editors-for-os-x">die besten Markdown-Editoren für Mac</a> zeigen Markdown und HTML Seite an Seite, wodurch schnell klar wird, wie Markdown funktioniert und wie viel Zeit sich Web Texter damit sparen können.</p>
+
+<h4 id="tastaturkürzel-unsichtbare-toolbar">Tastaturkürzel: Unsichtbare Toolbar</h4>
+
+<p>Tastatur-Shortcuts sind die zweite Art, Werkzeugleisten, Ribbons und Menüs zu ersetzen.</p>
+
+<p>Die möglichen Zeitersparnisse sind gewaltig: Vom Suchen einer Textstelle, übers Einfügen eines Zitats, vom Markieren von Worten, Zeilen oder Sätzen, bis hin zu komplexeren Aufgaben wie dem Suchen und ersetzen von Text-Mustern (Regex); Alles gelingt mit der Eingabe eines Kürzels.</p>
+
+<p>Auch hier gilt: Ohne Fleiss, kein Preis. Denn was nützen die besten Shortcuts, wenn sie nicht in Fleisch und Blut übergehen? Hier hilft die Gameification den Zögerlichen aus: Seiten wie <a href="https://www.shortcutfoo.com/">ShortcutFoo</a> machen aus dem Lernen von neuen Tastaturkürzeln ein Spiel und einen Wettbewerb. Für die nötige Motivation beim Umsteigen ist also gesorgt.</p>
+
+<h2 id="besser-schreiben-dank-verschiedenen-kontexten">Besser Schreiben dank verschiedenen Kontexten</h2>
+
+<p>Der grösste Vorteil moderner Schreib-Tools fürs Web besteht darin, dass sie die Geschichte von der Darstellung der Geschichte trennen.</p>
+
+<p>Dies erlaubt es Web Textern, optisch sehr verschiedene Versionen ihrer Stories abzuleiten. Oft genügen einige Zeilen CSS oder die Ansicht in einem anderen Browser. Doch warum ist dies wichtig?</p>
+
+<blockquote>
+  <p>Beim Schreiben verlieren Texter die Distanz zum kritischen Hinterfragen der eigenen Arbeit.</p>
+</blockquote>
+
+<p>Beim Schreiben verlieren Texter die nötige Distanz, um ihre Arbeit noch kritisch hinterfragen zu können. Nimmt eine Geschichte ganz unterschiedliche Formen an, gewinnen Texter einen Teil dieser Distanz wieder zurück. Sieht ein Text anders aus, nehmen Autoren ihn wieder mit neuen Augen wahr. Kritik am eigenen Schaffen wird wieder möglich, übersehene Fehler tauchen wieder auf.</p>
+
+<p>Früher war ein Ausdruck oft der einzige Weg diese Distanz wieder zurückzugewinnen. Als Online-Texter haben wir ungleich mehr (und ökologischere) Möglichkeiten unsere Geschichten neu darzustellen. Voraussetzung dafür: Das Quellformat unserer Inhalte muss diese Flexibilität – wie Markdown – zulassen.</p>
+
+<h2 id="versionen-revisionen-und-feedback-aus-der-wolke">Versionen, Revisionen und Feedback aus der Wolke</h2>
+
+<p>Kein guter Text entsteht in einem Wurf. In meiner Erfahrung sind es erst die vielen Revisionen, die vielen kleinen Optimierungen und Korrekturen, die Notizen von einem professionell redigierten Text unterscheiden.</p>
+
+<p>Das heisst, dass ein professioneller Text eigentlich immer aus mehreren Texten entsteht: Das finale Produkt ist das Resultat aller vorangegangener Versionen. Die Geschichte dieser Versionen ist wichtig, gerade wenn mehrere Personen an einem Dokument zusammenarbeiten.</p>
+
+<p>Aber auch für Einzelkämpfer ist es von Vorteil, auf die Entstehungsgeschichte ihrer Texte zurückgreifen zu können. Denn nicht jede Revision ist eine Verbesserung. Manchmal wollen wir nichts sehnlicher, als die eben überschriebene Text-Version zurück.</p>
+
+<p>Tools wie <a href="https://draftin.com/">Draftin</a> stellen die verschiedenen Text-Versionen übersichtlich nebeneinander. So ist es zu jedem Zeitpunkt möglich auf verworfene Versionen zurückzugreifen. Ganz ohne Ordner-Chaos, Datei-Benennungs-Konventionen, Versionen-Konflikte und Konsorten:</p>
+
+<p><img src="/images/draftin.png" alt="Draftin stellt die verschiedenen Versionen übersichtlich nebeneinander. So ist es zu jedem Zeitpunkt möglich auf verworfene Versionen zurückzugreifen. Ganz ohne Datei-Chaos und Versionen-Konflikte." /></p>
+
+<p>Mit moderner Versionierungs-Software (beispielsweise <a href="http://www.git-scm.com/">git</a>, Wordpress erhält die Versionen eines Eintrags automatisch) lässt sich unabhängig von System und präferiertem Dokument-Typ die Geschichte textbasierter Projekte festhalten.</p>
+
+<p>Auch hier besteht der Vorteil darin, dass immer klar ist, welches Dokument dem neuesten Stand entspricht. Gleichzeitig stehen ältere und alternative Versionen jederzeit zur Verfügung.</p>
+
+<p>In Punkto Feedback ist Word schon länger nicht mehr das Mass aller Dinge. Webbasierte-Plattformen wie Ghost oder Wordpress, oder dedizierte Plattformen wie Draftin, aber auch Google Docs machen Formen der Kollaboration möglich, die den Kommentaren in Word mindestens ebenbürtig sind.</p>
+
+<p>Die <a href="https://medium.com/about/welcome-to-medium-9e53ca408c48">Social-Content-Plattform Medium.com</a> ist von Grund auf dem Gedanken verpflichtet, dass gute Geschichten nur dank <strong>vielen verschiedenen Feedbacks</strong> möglich werden:</p>
+
+<blockquote>
+  <p>On Medium, you’re not alone. You write beside and with other people. This means your posts link to each other, your ideas bump into each other, and instead of living on an island somewhere out on the web, you’re part of a dynamic whole, where each part makes the others better.</p>
+</blockquote>
+
+<p>Steht uns also das Open-Sourcing des Schreib-Prozesses bevor? Ich wünsche es mir!</p>
+
+<p><a name="short" class="anchor">&amp;nbsp</a></p>
+<h2>Kurz zusammengefasst</h2>
+
+<ul>
+  <li>Wähle einen Editor, der sich auf das konzentriert, was du brauchst. Spar Zeit mit Markdown und Shortcuts. Profitier vom Geek-Bonus.</li>
+  <li>Nutze ein Tool, welches deinen Texten viele verschiedene Gesichter geben kann.</li>
+  <li>Gute Schreibe beruht auf Versionen, Revisionen und Feedback. Ein gutes Text-Werkzeug macht all dies einfacher.</li>
+</ul>
+
+:ET

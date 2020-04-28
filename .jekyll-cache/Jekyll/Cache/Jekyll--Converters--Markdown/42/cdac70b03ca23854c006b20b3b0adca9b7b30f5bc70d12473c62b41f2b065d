@@ -1,0 +1,427 @@
+I"�4<div class="container">
+    
+ <!--endif page url is / -->
+    
+
+
+<!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skeep the first 4 posts displayed above -->
+    
+<div class="row mt-3">
+   
+    <div class="col-md-8 main-loop">
+        
+        <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
+        
+
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/fuenf-Wege-zum-besseren-team/">Fünf Mittel zum kundenzentrierten Top-Team</a>
+	</h2>
+	<p class="excerpt">
+	   "Unternehmenskultur ist formbar", sagt Organisationspsychologin Lynne Waldera. Wer etwas in (s)einem Unternehmen bewirken will, tut gut daran ihre fünf Taktiken zu beherzigen.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/kompetenzen#content">content</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		January 2015
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/fuenf-Wege-zum-besseren-team/">
+	<img class="w-100" src="/images/rhino.jpg" alt="Fünf Mittel zum kundenzentrierten Top-Team" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/inhalte-fuer-ueberall/">Inhalte für Überall</a>
+	</h2>
+	<p class="excerpt">
+	   Content muss modularer und flexibler werden, schreibt Sara Wachter-Boettcher in ihrem Buch 'Content Everywhere'. Sie zeigt, wie eine solide Struktur zu Inhalten führt, die überall funktionieren.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/kompetenzen#content">content</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		December 2014
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/inhalte-fuer-ueberall/">
+	<img class="w-100" src="/images/containers.jpg" alt="Inhalte für Überall" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/abstraktes-konkret/">Zwölf Wege zu neuen Bildideen</a>
+	</h2>
+	<p class="excerpt">
+	   Ein Repertoire von Denkanstössen macht es leichter, Abstraktes neu zu denken und konkret in Bildern darzustellen.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/kompetenzen#content">content</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/kompetenzen#tools">tools</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		December 2014
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/abstraktes-konkret/">
+	<img class="w-100" src="/images/car-face.jpg" alt="Zwölf Wege zu neuen Bildideen" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/effiziente-emails-schreiben/">Sieben einfache Tipps für effizientere E-Mails</a>
+	</h2>
+	<p class="excerpt">
+	   Kurze, sachliche Texte mit Links, klarer Struktur, etwas Kontext, einer Handlungsanweisung und den nötigen Meta-Daten machen Mails um Meilen besser.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/kompetenzen#text">text</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/kompetenzen#tools">tools</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		December 2014
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/effiziente-emails-schreiben/">
+	<img class="w-100" src="/images/mail.jpg" alt="Sieben einfache Tipps für effizientere E-Mails" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/tools-fuer-texter/">Tools für Texter</a>
+	</h2>
+	<p class="excerpt">
+	   Gute Schreib-Tools erlauben Textern schnelles, konzentriertes Schreiben, einen frischen Blick auf ihre Texte und sie vereinfachen Kollaboration und Versionierung.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/kompetenzen#tools">tools</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/kompetenzen#text">text</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		November 2014
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/tools-fuer-texter/">
+	<img class="w-100" src="/images/tools.jpg" alt="Tools für Texter" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/spannend-schreiben/">Texte spannend schreiben</a>
+	</h2>
+	<p class="excerpt">
+	   Gute Web-Texte erzählen Geschichten, zeigen Dinge, statt sie zu beschreiben, bieten Lesenden einen Nutzen. Und sie wiederholen sich.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/kompetenzen#text">text</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		November 2014
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/spannend-schreiben/">
+	<img class="w-100" src="/images/spannend.jpg" alt="Texte spannend schreiben" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/schreiben-im-web/">Leichtere Texte fürs Internet</a>
+	</h2>
+	<p class="excerpt">
+	   Web-Texte haben viel mit Texten fürs Radio gemein: Sie müssen kurz, sehr strukturiert und häppchenweise verdaubar sein. Hier wie dort gilt: 'Sag es einfach'. Und: 'Belohne dein Publikum.'
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/kompetenzen#text">text</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		October 2014
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/schreiben-im-web/">
+	<img class="w-100" src="/images/leicht.jpg" alt="Leichtere Texte fürs Internet" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/Monster-Held-Glanztat/">Monster, Held und Glanztat: Muster für Web-Texte</a>
+	</h2>
+	<p class="excerpt">
+	   Die These: Web-Texte werden besser, wenn man Schreibende mit den Schwächen, Fehler-Mustern und der Phrasenhaftigkeit ihrer Texte konfrontiert, sie auffordert im Dialekt zu erzählen und als Helden n...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		October 2014
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/Monster-Held-Glanztat/">
+	<img class="w-100" src="/images/held.jpg" alt="Monster, Held und Glanztat: Muster für Web-Texte" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/design-first/">Design-First: Ein Rezept für Flickwerk</a>
+	</h2>
+	<p class="excerpt">
+	   Die neue Website stellt die Organisation vor redaktionelle und strukturelle Probleme und zwingt sie zu improvisieren. Grund fürs Flickwerk ist die Methode: Zuerst kam das Design, dann der Inhalt.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/kompetenzen#content">content</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		June 2014
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/design-first/">
+	<img class="w-100" src="/images/flickwerk.jpg" alt="Design-First: Ein Rezept für Flickwerk" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/nutzloses-im-netz/">Nutzloses im Netz: Ein Gespräch</a>
+	</h2>
+	<p class="excerpt">
+	   Content-Strategen sind Planmeister. Sie konzipieren sinnvolle Inhaltstypen und entscheiden, welche Texte nutzlos sind. Dabei werfen sie auch schon mal das ein oder andere Kleinod über Bord. Ein Ges...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/kompetenzen#content">content</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/kompetenzen#text">text</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		June 2014
+	</small>
+</div>
+
+</div>
+        
+        
+        
+        <div class="mt-5">
+         <!-- Pagination links -->
+            
+            <ul class="pagination"> 
+              
+                <li class="page-item"><a class="page-link" href="/page2">&laquo; Prev</a></li>
+              
+
+              
+                
+                <li class="page-item"><a class="page-link" href="/">1</a></li>
+                
+              
+                
+                <li class="page-item"><a class="page-link" href="/page2">2</a></li>
+                
+              
+                
+                <li class="page-item disabled"><span class="webjeda page-link">3</span></li>
+                
+              
+                
+                <li class="page-item"><a class="page-link" href="/page4">4</a></li>
+                
+              
+
+              
+                <li class="page-item"><a class="page-link" href="/page4">Next &raquo;</a></li>
+              
+            </ul>
+                  
+        </div>
+        
+    </div>
+    
+    <div class="col-md-4">
+        <div class="sticky-top sticky-top-offset">
+    <h4 class="font-weight-bold spanborder"><span>Featured</span></h4>  
+    <ol class="list-featured">				
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/nutzloses-im-netz/" class="text-dark">Nutzloses im Netz: Ein Gespräch</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/kompetenzen#content">content</a><span class="sep">, </span>
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/kompetenzen#text">text</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/randulin/" class="text-dark">Guarda. Ein Besuch im Dorf der Randulins</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/kopflos/" class="text-dark">Der Kopflose Reiter. Ein Ende.</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/kompetenzen#text">text</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/moerderisch-liebenswert/" class="text-dark">Donna Leon: Eine mörderisch liebenswerte Dame</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/kompetenzen#text">text</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+           
+    </ol>
+</div>     
+    </div>
+    
+</div>
+
+
+
+</div>
+:ET

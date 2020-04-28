@@ -1,0 +1,429 @@
+I"#4<div class="container">
+    
+ <!--endif page url is / -->
+    
+
+
+<!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skeep the first 4 posts displayed above -->
+    
+<div class="row mt-3">
+   
+    <div class="col-md-8 main-loop">
+        
+        <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
+        
+
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/elemente-guter-geschichten/">12 Elemente guter Geschichten</a>
+	</h2>
+	<p class="excerpt">
+	   Storytelling funktioniert dank Erzähl-Bausteinen. Wer diese Bausteine kennt, erzählt vielseitiger, spannender und erfolgreicher. Erfahren Sie mehr.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/kompetenzen#text">text</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		May 2015
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/elemente-guter-geschichten/">
+	<img class="w-100" src="/images/ingredients.jpg" alt="12 Elemente guter Geschichten" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/skills-fuer-den-berufserfolg/">Fachkompetenz allein genügt nicht</a>
+	</h2>
+	<p class="excerpt">
+	   Nicht die Kernkompetenz allein entscheidet über eine Anstellung. Kommunikations-Skills, Team-Tüchtigkeit und Lernwille sind viel wichtiger, so Recruiter Thomas Nanzer.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/kompetenzen#content">content</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/kompetenzen#job">job</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		May 2015
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/skills-fuer-den-berufserfolg/">
+	<img class="w-100" src="/images/team.jpg" alt="Fachkompetenz allein genügt nicht" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/content-formate/">15 Content-Formate für effektivere Inhalte</a>
+	</h2>
+	<p class="excerpt">
+	   Erst wer digitale Erzähl-Formate wie Listicles, Vines oder Memes beherrscht, produziert Inhalte, die gefallen, geteilt und verlinkt werden.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/kompetenzen#content">content</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		May 2015
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/content-formate/">
+	<img class="w-100" src="/images/squares.jpg" alt="15 Content-Formate für effektivere Inhalte" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/politisch-korrekt/">Sechs negative Effekte politischer Korrektheit</a>
+	</h2>
+	<p class="excerpt">
+	   Politische Korrektheit verschleiert klare Aussagen, verschwendet Zeit und stiftet falsche Eintracht. Eine Diagnose und sechs Thesen für den Heilungsweg.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/kompetenzen#text">text</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		April 2015
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/politisch-korrekt/">
+	<img class="w-100" src="/images/horses.jpg" alt="Sechs negative Effekte politischer Korrektheit" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/corporate-language/">Mit 66 Fragen zu einer Marken-Stimme</a>
+	</h2>
+	<p class="excerpt">
+	   'Wie klingt unsere Marke?' Ein Fragenkatalog hilft beim Entwickeln eines Corporate Language Manuals, welches über das reine Wording hinausgeht.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/kompetenzen#text">text</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		March 2015
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/corporate-language/">
+	<img class="w-100" src="/images/voice.jpg" alt="Mit 66 Fragen zu einer Marken-Stimme" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/mission-statement/">Mission Statement: Wegweiser für Content-Strategie</a>
+	</h2>
+	<p class="excerpt">
+	   Ein Mission Statement klärt nach innen und aussen, warum und für wen welche Marketing-Inhalte produziert werden sollen.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/kompetenzen#content">content</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		March 2015
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/mission-statement/">
+	<img class="w-100" src="/images/mission.jpg" alt="Mission Statement: Wegweiser für Content-Strategie" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/puzzle/">Schreiben ist Puzzeln</a>
+	</h2>
+	<p class="excerpt">
+	   Texte zu überarbeiten und zu optimieren ist wie das Spiel mit Puzzle-Teilen: Auslegeordnung machen, neu gruppieren und wieder zusammensetzen.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/kompetenzen#text">text</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		March 2015
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/puzzle/">
+	<img class="w-100" src="/images/puzzle.jpg" alt="Schreiben ist Puzzeln" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/wie-ich-editiere/">Redigieren heisst Verhandeln: Fünf Routinen</a>
+	</h2>
+	<p class="excerpt">
+	   Eine Redigier-Checkliste hilft nicht nur bei der Textarbeit sondern dient Redigierenden und Text-Liferanten als Gesprächs- und Verhandlungsgrundlage.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/kompetenzen#text">text</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		February 2015
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/wie-ich-editiere/">
+	<img class="w-100" src="/images/edit.jpg" alt="Redigieren heisst Verhandeln: Fünf Routinen" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/social-media-management-tools/">Elf Tools für effizienteres Social Media Management</a>
+	</h2>
+	<p class="excerpt">
+	   Social Media Management Tools ermöglichen das Publizieren auf mehreren Kanälen, liefern Statistiken, sammeln Inputs an einem Ort und ermöglichen Teams einen effizienten Social Media Workflow.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/kompetenzen#content">content</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		February 2015
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/social-media-management-tools/">
+	<img class="w-100" src="/images/social-media.jpg" alt="Elf Tools für effizienteres Social Media Management" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/zwei-content-typen/">Zwei Inhaltstypen, eine Content-Strategie</a>
+	</h2>
+	<p class="excerpt">
+	   Es gibt Inhalte, die ein Publikum in ihren Bann ziehen und Inhalte, die reibungslos funktionieren müssen. Zusammen bilden diese zwei Inhaltstypen die Grundfeste einer Content-Strategie.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/kompetenzen#content">content</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		February 2015
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/zwei-content-typen/">
+	<img class="w-100" src="/images/dragons.jpg" alt="Zwei Inhaltstypen, eine Content-Strategie" />
+	</a>
+	</div>
+
+</div>
+        
+        
+        
+        <div class="mt-5">
+         <!-- Pagination links -->
+            
+            <ul class="pagination"> 
+              
+                <li class="page-item"><a class="page-link" href="/">&laquo; Prev</a></li>
+              
+
+              
+                
+                <li class="page-item"><a class="page-link" href="/">1</a></li>
+                
+              
+                
+                <li class="page-item disabled"><span class="webjeda page-link">2</span></li>
+                
+              
+                
+                <li class="page-item"><a class="page-link" href="/page3">3</a></li>
+                
+              
+                
+                <li class="page-item"><a class="page-link" href="/page4">4</a></li>
+                
+              
+
+              
+                <li class="page-item"><a class="page-link" href="/page3">Next &raquo;</a></li>
+              
+            </ul>
+                  
+        </div>
+        
+    </div>
+    
+    <div class="col-md-4">
+        <div class="sticky-top sticky-top-offset">
+    <h4 class="font-weight-bold spanborder"><span>Featured</span></h4>  
+    <ol class="list-featured">				
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/nutzloses-im-netz/" class="text-dark">Nutzloses im Netz: Ein Gespräch</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/kompetenzen#content">content</a><span class="sep">, </span>
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/kompetenzen#text">text</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/randulin/" class="text-dark">Guarda. Ein Besuch im Dorf der Randulins</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/kopflos/" class="text-dark">Der Kopflose Reiter. Ein Ende.</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/kompetenzen#text">text</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="/moerderisch-liebenswert/" class="text-dark">Donna Leon: Eine mörderisch liebenswerte Dame</a>
+                </h6>
+                <span class="d-block text-muted">
+                    In <span class="catlist">
+                    
+                    <a class="text-capitalize text-muted smoothscroll" href="/kompetenzen#text">text</a><span class="sep">, </span>
+                    
+                    </span>
+                </span>
+            </span>
+            </li>                
+           
+    </ol>
+</div>     
+    </div>
+    
+</div>
+
+
+
+</div>
+:ET
