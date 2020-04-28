@@ -11,6 +11,9 @@ img: "images/hannes_tscherrig.jpg"
 
 ## Berufserfahrung
 
+- **Multimedia Production Facilitator**: Media Factory, Fernfachhochschule
+Schweiz FFHS, November 2019 - heute, Brig, VS
+
 - **Freelance Content Creator**: [Advance Gleitschirme](https://advance.ch/), seit September 2018, Thun, BE
 
 - **Projektleiter Kommunikation**: [Fernfachhochschule Schweiz FFHS](https://www.ffhs.ch/), seit Februar 2017, Brig, VS
