@@ -11,10 +11,6 @@ excerpt: "Wind, Föhntendenz, Niederschlag, Startplätze. Das Wichtigste, was du
 
 **[Windytv.com](https://www.windyty.com/)** visualisiert zwei globale Wettermodelle und lässt gute Kurzzeitprognosen für lokale Wind- und Wetterbedingungen zu.
 
-<div class="frame">
-    <iframe width="650" height="450" src="https://embed.windytv.com/embed2.html?lat=46.246&lon=7.976&zoom=9&level=surface&overlay=wind&menu=&message=&marker=&forecast=12&calendar=now&location=coordinates&type=map&actualGrid=&metricWind=km%2Fh&metricTemp=%C2%B0C" frameborder="0"></iframe>
-</div>
-
 Zur Kontrolle: Die **[Windy-App](http://windy.atelier-agile.ch/balises?display_all=true)** oder die **[Windfinder-App](http://www.windfinder.com/weather-maps/spots/#8/46.830/8.144)** beschränken sich nicht auf Prognosen sondern liefern Winddaten in Echtzeit. Messpunkte sind über die ganze Schweiz verteilt.
 
 **[Meteocentrale.ch](http://www.meteocentrale.ch)** zeigt wie sich Föhn- und Bisentendenz über die nächsten Tage entwickeln werden. Ab 4 hPa Druckunterschied wird's brenzlig zum Fliegen.
