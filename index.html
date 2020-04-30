@@ -21,7 +21,7 @@ description: "Hallo! Ich entwerfe, produziere und optimiere Text und Video fürs
     <div class="col-md-6">
     <div class="card border-0 mb-4 box-shadow">   
     <a href="{{site.baseurl}}{{latest_post.url}}">
-    <div class="topfirstimage" style="background-image: url({% if latest_post.img contains "://" %}{{ latest_post.img }}{% else %} {{site.baseurl}}/{{ latest_post.img}}{% endif %}); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
+    <div class="topfirstimage" style="background-image: url(/images/blank.png);  height: 200px;    background-size: cover;  background-repeat: no-repeat;" data-echo-background="{% if latest_post.img contains "://" %}{{ latest_post.img }}{% else %} {{site.baseurl}}/{{ latest_post.img}}{% endif %}"></div>     
     </a>
     <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
     <h2 class="h4 font-weight-bold">
@@ -54,7 +54,7 @@ description: "Hallo! Ich entwerfe, produziere und optimiere Text und Video fürs
                 {% if second_post.img %}
                 <div class="col-md-4">
                 <a href="{{site.baseurl}}{{second_post.url}}">
-                 <img class="w-100" src="{% if second_post.img contains "://" %}{{ second_post.img }}{% else %}{{ second_post.img | absolute_url }}{% endif %}" alt="{{ second_post.title }}">
+                 <img class="w-100"src="/images/blank.png" data-echo="{% if second_post.img contains "://" %}{{ second_post.img }}{% else %}{{ second_post.img | absolute_url }}{% endif %}" alt="{{ second_post.title }}">
                 </a>
                 </div>
                 {% endif %}                
@@ -81,7 +81,7 @@ description: "Hallo! Ich entwerfe, produziere und optimiere Text und Video fürs
                 {% if third_post.img %}
                 <div class="col-md-4">
                 <a href="{{site.baseurl}}{{third_post.url}}">
-                 <img class="w-100" src="{% if third_post.img contains "://" %}{{ third_post.img }}{% else %}{{site.baseurl}}/{{ third_post.img }}{% endif %}" alt="{{ third_post.title }}">
+                 <img class="w-100"src="/images/blank.png" data-echo="{% if third_post.img contains "://" %}{{ third_post.img }}{% else %}{{site.baseurl}}/{{ third_post.img }}{% endif %}" alt="{{ third_post.title }}">
                 </a>
                 </div>
                 {% endif %}                
@@ -108,7 +108,7 @@ description: "Hallo! Ich entwerfe, produziere und optimiere Text und Video fürs
                 {% if fourth_post.img %}
                 <div class="col-md-4">
                 <a href="{{site.baseurl}}{{fourth_post.url}}">
-                <img class="w-100" src="{% if fourth_post.img contains "://" %}{{ fourth_post.img }}{% else %}{{site.baseurl}}/{{ fourth_post.img }}{% endif %}" alt="{{ fourth_post.title }}">
+                <img class="w-100"src="/images/blank.png" data-echo="{% if fourth_post.img contains "://" %}{{ fourth_post.img }}{% else %}{{site.baseurl}}/{{ fourth_post.img }}{% endif %}" alt="{{ fourth_post.title }}">
                 </a>
                 </div>
                 {% endif %}                
@@ -146,7 +146,7 @@ description: "Hallo! Ich entwerfe, produziere und optimiere Text und Video fürs
                 </p>
                 <a href="{{site.baseurl}}{{post.url}}" class="btn btn-dark">Weiterlesen</a>
             </div>
-            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{site.baseurl}}/{{ post.img }});">	
+            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url(/images/blank.png);" data-echo-background="{{site.baseurl}}/{{ post.img }}">	
             </div>
         </div>
     </div>

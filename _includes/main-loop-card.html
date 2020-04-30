@@ -20,7 +20,7 @@
 {% if post.img %}
 	<div class="col-md-3 pr-0 text-right">
 	<a href="{{site.baseurl}}{{post.url}}">
-	<img class="w-100" src="{% if post.img contains "://" %}{{ post.img }}{% else %}{{ site.baseurl }}/{{ post.img }}{% endif %}" alt="{{ post.title }}">
+	<img class="w-100" src="/images/blank.png" data-echo="{% if post.img contains "://" %}{{ post.img }}{% else %}{{ site.baseurl }}/{{ post.img }}{% endif %}" alt="{{ post.title }}">
 	</a>
 	</div>
 {% endif %}
