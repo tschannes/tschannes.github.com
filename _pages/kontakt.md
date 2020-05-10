@@ -1,10 +1,12 @@
 ---
 title: "Kontakt"
 permalink: "/kontakt"
+excerpt: "Kontaktieren Sie Hannes Tscherrig. Er wird sich so bald als möglich bei Ihnen melden."
 ---
 
+
 <form action="https://formspree.io/{{site.email}}" method="POST">    
-<p class="mb-4">Hinterlassen Sie {{site.name}} eine Nachricht. Er wird sich so schnell als möglich bei Ihnen melden.</p>
+<p class="mb-4">Kommen Sie auf mich zu. Ich freue mich von Ihnen zu hören!</p>
 <div class="form-group row">
 <div class="col-md-6">
 <input class="form-control" type="text" name="name" placeholder="Name*" required>

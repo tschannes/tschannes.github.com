@@ -7,21 +7,29 @@ categories: [job]
 
 ---
 
-Ich will ganz ehrlich sein: Am Anfang hat mir der Corona-Lockdown zu schaffen gemacht.
+Ich will ganz ehrlich sein: Der Corona-Lockdown macht mir zu schaffen.
 
-Plötzlich hatte ich viel zu viel Zeit. Zwar lagen jede Menge Dinge vor, die hätten erledigt werden können, aber ich konnte mich einfach nicht dazu aufraffen, den Berg an Todos in Angriff zu nehmen. 
+Plötzlich habe ich viel zu viel Zeit. Zwar liegen jede Menge Dinge vor, die erledigt werden müssten, aber ich kann mich einfach nicht dazu aufraffen, den Berg an Todos in Angriff zu nehmen. 
 
-Statt loszulegen, lungerte ich auf der Couch und versank in (meist eher negativ geprägten) Gedankenstrudeln. Es fehlte mir an Motivation.
+Statt loszulegen, lungere ich auf der Couch herum und enerviere mich ob der eigenen Antriebslosigkeit. Die Diagnose ist einfach: Es fehlt mir an Motivation.
 
-Doch wie kommt man zu Motivation, wenn man sie irgendwo verlegt hat? Bei mir hat die Detektivarbeit mit Gesprächen angefangen. 
+> Motivation ist die Richtung, Intensität und Ausdauer einer Verhaltensbereitschaft hin zu oder weg von Zielen.
 
-Mehrfach habe ich zu hören bekommen: "Du bist deinen Gedanken nicht ausgeliefert, du kannst sie steuern." Esoterisches Geplappere, dachte ich zuerst. Doch dann habe ich nachzuforschen begonnen. Wie lassen sich Gedanken steuern? Welche Mechanismen gibt es, mit denen sich zuverlässig "Motivation" fabrizieren lässt?
+Doch wie kommt man zu Motivation, wenn man sie grad irgendwo verlegt hat? Bei mir hat die Detektivarbeit mit Gesprächen angefangen. 
 
-1. **Körper-Geist-Brücke**: 
-2. **Ziel**:
+## Stimmung ist steuerbar
+
+Mehrfach habe ich zu hören bekommen: "Du bist deinen Gedanken nicht ausgeliefert, du kannst sie steuern." Esoterisches Geplappere, dachte ich zuerst. 
+
+Doch dann habe ich nachzufragen begonnen. Immer klarer wurde, dass es ganz konkrete "Tools" gibt, mit denen man seine Gedanken und seine Stimmung steuern kann.
+
+## 5 Gedanken-Ruder
+
+1. **Nutze die Körper-Gedanken-Brücke**: Als kopflastiger Wissensarbeiter fällt es mir schwer meinen Körper zu Wort kommen zu lassen. Gedanken, so meine langjährige Annahme, steurt man mit Gedanken. Was sicher teilweise stimmt. Aber: Es ist viel einfacher Gedanken nicht mit schierer Willsenskraft, sondern mit körperlichen Aktivitäten umzulenken. Vom Spaziergang, Liegestützen, bis hin zum Long-Jog, der Kletter-Session oder bewussten Atmenübungen: Sobald der Körper aus seiner Passivität gerissen wird, kommt auch der Geist in Bewegung. Das Tolle: Fast immer siehst die Welt zumindest ein klein wenig akzeptabler aus, nach etwas körperlicher Bewegung.
+2. **Definiere ein Ziel**: 
 3. **Denken auf dem Kopf**:
 4. **Planen**:
-5. **Tun (irgendetwas)**:
+5. **Beginne zu tun (irgendetwas)**:
 
 - Sport
 - Kleidung
