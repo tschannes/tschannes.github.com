@@ -52,11 +52,8 @@ excerpt: "Wie ist es, mit Hannes Tscherrig zusammenzuarbeiten? Ehemalige Arbeits
 - [Diplom: Master of Arts in Languages and Literatures English](/referenzen/ma_unifr.jpg)
 - [Maturitätsausweis](/referenzen/matura_brig.jpg)
 
-<div id="about-container" style="margin-top:2em;">
-	<div style="padding:1em;">
-			Alle Referenzen als <a href="/referenzen/{{ site.zip_name }}">Referenzen-Hannes-Tscherrig.zip</a> downloaden.
-	</div>
-</div>
+Alle Referenzen als [Referenzen-Hannes-Tscherrig.zip](https://tschannes.github.io/referenzen/hannes-tscherrig.zip) downloaden.
+
 
 
 
