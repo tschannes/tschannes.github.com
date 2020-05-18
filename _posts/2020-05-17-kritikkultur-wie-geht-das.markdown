@@ -1,6 +1,6 @@
 ---
 title: "Kritikkultur: Der Kontext muss stimmen"
-excerpt: "Kritik ist ebenso wichtig wie schwierig. Neben der Sache entscheidet aber oft der Ton, die Art und Weise des Kritisierens und der Kontext darüber, wie erfolgreich Kritik ist."
+excerpt: "Kritik ist ebenso wichtig wie schwierig. Neben der Sache entscheidet oft der Ton, die Art und Weise des Kritisierens und der Kontext darüber, wie erfolgreich Kritik ist."
 img: "images/criticism.jpg"
 tags: []
 categories: [job, collaboration]
@@ -11,7 +11,7 @@ Gestern habe ich dicke Post bekommen.
 
 "Du machst das falsch mit der Kritik. Du kritisierst am falschen Ort, zur falschen Zeit, bei der falschen Person, im falschen Ton. Du trübst mit deiner beissenden Art die Stimmung, brüskierst Kolleginnen und Kollegen und hältst Projekte auf. Wer je mit dir zusammengearbeitet hat, wird das bestätigen."
 
-Das sitzt. Irgendwie bin ich aber auch froh über die Meldung. Nur weil mir mal schonungslos der Spiegel vorgehalten wird, kann ich lernen.
+Das sitzt. Irgendwie bin ich aber auch froh über die Meldung. Nur weil mir schonungslos der Spiegel vorgehalten wird, kann ich lernen.
 
 Ich google "Wie kritisiere ich richtig". Dabei kommt zweifelsfrei heraus, dass es bei meiner Feedbackkultur ziemlich viel Luft nach oben gibt.
 
@@ -24,22 +24,22 @@ Ich google "Wie kritisiere ich richtig". Dabei kommt zweifelsfrei heraus, dass e
 
 ## Feedback ist Teamwork
 
-Ganz alleine werden kritiker die 4 Regeln des Kritisierens nicht einhalten können. Umso wichtiger ist es, dass das Team Einhalt gebietet, wenn ein Meeting auf Abwege gerät, der Ton plötzlich von engagiert zu passiv-aggressiv umschwenkt oder jemand sich verletzt fühlt. 
+Ganz alleine werden Kritiker die vier Regeln des Kritisierens nicht einhalten können. Umso wichtiger ist es, dass das Team Einhalt gebietet, wenn ein Meeting auf Abwege gerät, der Ton plötzlich von engagiert zu passiv-aggressiv umschwenkt oder jemand sich verletzt fühlt. 
 
-Bei einigen Dingen, bin ich aber auch jetzt noch, nach gründlicher Reflektion etwas ratlos. Wann ist der richtige Zeitpunkt? Wo ist der richtige Ort? Und wer kümmert sich um die Übersetzung von "Fundamentalkritik" in Vorschläge, die das Team und das Unternehmen mittelfristig weiterbringen?
+Bei einigen Dingen, bin ich aber auch jetzt noch, nach gründlicher Reflektion, etwas ratlos. Wann ist der richtige Zeitpunkt? Wo ist der richtige Ort? Und wer kümmert sich um die Übersetzung von "Fundamentalkritik" in Vorschläge, die das Team und das Unternehmen mittelfristig weiterbringen?
 
 ## Kritik-Kontext schaffen
 
-Es kostet Zeit, aus dem Alltagsgeschäft auszubrechen und sich über den Umgang von Kritik auf Unternehmensstufe klarzuwerden. Das ist klar.
+Es kostet Zeit, aus dem Alltagsgeschäft auszubrechen und sich über den Umgang mit Kritik auf Unternehmensstufe klarzuwerden. Das ist klar.
 
-Ebenso klar ist aber auch, dass wir Innovations-Potenziale links liegen lassen, kritisierende und schweigende Mitarbeitende frustrieren, weil wir die einen frustrieren und die anderen diesen Frust ausbaden müssen.
+Ebenso klar ist aber auch, dass das Thema angegangen werden muss. Andernfalls lassen wir Innovations-Potenziale links liegen und frustrieren kritisierende ebenso wie schweigende Mitarbeitende, weil wir die einen gegen Wände anrennen lassen und die anderen die verpuffende Energie der ersteren ausbaden müssen.
 
-Kritik-Kultur an einem Unternehmen heisst also einen Kontext zu schaffen, in dem Kritik erwünscht ist. Es muss ein Kontext sein, indem auf Kritik reagiert wird, und damit aus dem Erkennen von Missständen Optimierungsmassnahmen entstehen können.
+Kritik-Kultur in einem Unternehmen heisst also einen Kontext zu schaffen, in dem Kritik erwünscht ist. Es muss ein Kontext sein, in dem auf Kritik reagiert wird und damit aus dem Erkennen von Missständen Optimierungsmassnahmen entstehen können.
 
 ## Minimal Viable Solution
 
-1. Lasst uns ein **Traktandum für Feedback** einführen an unseren regelmässigen Sitzungen. Hier sollen Dinge zur Sprache gebracht werden, die nicht rund laufen. Prozesse, die holpern. Rollen oder Verantwortlichkeiten, die nicht passen. Arbeiten, die effizienter gemacht oder weggelassen werden könnten. Alles halt, wofür im normalen Tagesgeschäft keine Zeit vorhanden, kein Ort passend und niemand so wirklich zuständig ist. Dieses Kritik-Traktandum kostet uns 10 Minuten pro Woche.
-2. Lasst uns eine **Person oder einen Personenkreis** bestimmen, die aus negativem Feedback (wie es z.B. bei 1 auftreten dürfte), positive Vorschläge herauskristallisiert und diese zusammen mit den Feedbackgebenden den Entscheidungstragenden präsentiert. Denn ohne diese Über- und Umsetzung bleibt Feedback Gemeckere, die Kritikgebenden werden frustriert, das Unternehmen stagniert. 
+1. Lasst uns ein **Traktandum für Feedback** einführen an unseren regelmässigen Sitzungen. Hier sollen Dinge zur Sprache gebracht werden, die nicht rund laufen. Prozesse, die holpern. Rollen oder Verantwortlichkeiten, die nicht passen. Arbeiten, die effizienter gemacht oder weggelassen werden könnten. Alles halt, wofür im normalen Tagesgeschäft keine Zeit vorhanden, kein Ort passend und niemand so wirklich zuständig ist. Dieses Kritik-Traktandum kostet uns zehn Minuten pro Woche, birgt aber Potenzial, das sich eigentlich nicht quantifizieren lässts.
+2. Lasst uns eine **Person oder einen Personenkreis** bestimmen, die aus negativem Feedback positive Vorschläge herauskristallisiert und diese zusammen mit den Feedbackgebenden den Entscheidungstragenden präsentiert. Denn ohne diese Über- und Umsetzung bleibt Feedback Gemeckere, Kritik wird allmählich versiegen und das Unternehmen stagnieren. 
 
 ## Feedbackkultur?
 
