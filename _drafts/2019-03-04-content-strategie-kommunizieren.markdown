@@ -32,7 +32,7 @@ Das Publikum versucht das Neue mit Bekanntem zu verknüpfen. Allerdings tut das 
 
 Deshalb die Empfehlung: Man rede nicht von "Content-Strategie" oder "Content-Marketing". Die Sexiness dieser Begriffe verleitet zu vorschnellen Zusagen. 
 
-Bleiben wir stattdessen bei Begriffen, die unsere Entscheidungsträger kennen. Mit Dingen wie "Lernvideos, die unterhalten", "Fachartikel, die lehrreich sind", "Mails, die einen zum lachen bringen" kann das Publikum arbeiten.
+Bleiben wir stattdessen bei Begriffen, die unsere Entscheidungsträger kennen. Mit Dingen wie "Lernvideos, die unterhalten", "Fachartikel, die lehrreich sind", "Mails, die einen zum Lachen bringen" kann das Publikum arbeiten.
 
 Anders als beim Buzzword "Content-Strategie" weiss die Chefetage bei Lernvideos, Fachartikeln und Mails, worum es geht. Und entsprechend können Sie besser entscheiden. 
 
@@ -46,15 +46,15 @@ Sobald es aber an die Umsetzung geht, ist schnell klar geworden: Content-Strateg
 
 Und hier liegt die Krux: Schnell bekommt man zu spüren: "Eure Idee, eure Arbeit." Unsere Idee (How-to-Videos) ist aber klar darauf angewiesen, dass Leute aus verschiedenen Abteilungen mitmachen.
 
-Die Bereitschaft zum interdisziplinären Arbeiten an Content (z.B. zwischen Marketing und Lehre) ist aber keineswegs immer gegeben. Wo sie fehlt, führt kein Weg an einem Entscheid von oben vorbei.
+Die Bereitschaft zum interdisziplinären Arbeiten an Content (z.B. zwischen Marketing und Produktmanagement) ist aber keineswegs immer gegeben. Wo sie fehlt, führt kein Weg an einem Entscheid von oben vorbei.
 
 ## "Wir machen das organisch, bottom-up, modern halt."
 
 > Oder warum es einen Entscheid und die Vision von oben braucht.
 
-Als Gewohnheitstiere machen wir alle, was wir immer gemacht haben. Das gilt auch und besonders für die Arbeit in unserem unmittelbaren Umfeld. 
+Als Gewohnheitstiere machen wir alle, was wir immer gemacht haben. Das gilt besonders für die Arbeit in unserem unmittelbaren Umfeld. 
 
-Interdisziplinär Arbeiten klingt gut, ist aber gerade am Anfang immer mit Mehraufwand verbunden. Verschiedene Interesse müssen überein gebracht, die Zuständigkeiten geklärt und Pflichten verteilt werden.
+Interdisziplinär Arbeiten klingt gut, ist aber gerade am Anfang immer mit Mehraufwand verbunden. Verschiedene Interesse müssen in Übereinstimmungg gebracht, die Zuständigkeiten geklärt und Pflichten verteilt werden.
 
 Der Wechsel vom Arbeiten in der eigenen Abteilung hin zur interdisziplinären Kollaboration geht einfacher, wenn er von der Firmenführung verlangt und begründet wird.
 
