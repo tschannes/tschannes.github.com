@@ -7,6 +7,7 @@ categories: [teaching, metapher]
 
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q0U2WXBn7_U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Warum du Metaphern im Unterricht einsetzen solltest (und wieso das manchmal gefährlich ist)
 
