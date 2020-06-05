@@ -3,17 +3,17 @@ title: "Lernen mit Metaphern"
 excerpt: "Metaphern wie 'Die Erde ist eine Kugel' sind sehr wirksam, wenn es darum geht ein neues Konzept einzuführen. Gleichzeitig birgt Metaphorik eine gewisse Gefahr."
 img: "images/metapher.png"
 tags: []
-categories: [teaching, metapher]
+categories: [teaching, video]
 
 ---
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q0U2WXBn7_U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Warum du Metaphern im Unterricht einsetzen solltest (und wieso das manchmal gefährlich ist)
 
 Metaphern wie 'Die Erde ist eine Kugel' sind sehr wirksam, wenn es darum geht ein neues Konzept einzuführen. Gleichzeitig birgt Metaphorik eine gewisse Gefahr.
 
-In diesem Video entdecken wir zusammen die Möglichkeiten und Risiken von Metaphern im didaktischen Kontext.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q0U2WXBn7_U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+In diesem Video (Drehbuch und Stil inspiriert von [Michael Mittag](https://michaelmittag.ch/)) entdecken wir zusammen die Möglichkeiten und Risiken von Metaphern im didaktischen Kontext.
 
 ## Metaphern wirken
 
