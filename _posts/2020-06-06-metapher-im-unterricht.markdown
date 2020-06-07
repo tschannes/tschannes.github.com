@@ -11,7 +11,7 @@ categories: [teaching, video]
 
 Metaphern wie 'Die Erde ist eine Kugel' sind sehr wirksam, wenn es darum geht ein neues Konzept einzuführen. Gleichzeitig birgt Metaphorik eine gewisse Gefahr.
 
-<div class="youtube-responsive-container">
+<div class="embed-responsive">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q0U2WXBn7_U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
