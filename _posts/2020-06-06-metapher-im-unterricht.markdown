@@ -15,7 +15,7 @@ Metaphern wie 'Die Erde ist eine Kugel' sind sehr wirksam, wenn es darum geht ei
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q0U2WXBn7_U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-In diesem Video (Drehbuch und Stil inspiriert von [Michael Mittag](https://michaelmittag.ch/)) entdecken wir zusammen die Möglichkeiten und Risiken von Metaphern im didaktischen Kontext.
+In diesem Video (Prototyp. Drehbuch und Stil inspiriert von [Michael Mittag](https://michaelmittag.ch/)) entdecken wir zusammen die Möglichkeiten und Risiken von Metaphern im didaktischen Kontext.
 
 ## Metaphern wirken
 
