@@ -40,6 +40,8 @@ Schweiz FFHS, November 2019 - heute, Brig, VS
 
 ## Ausbildung
 
+- **Gleitschirm Tandem-Ausbildung**: [Flyingcenter Oberwallis](https://www.flyingcenter.ch/allgemeines/startseite), März 2020 - heute
+
 - **Videobasiertes Storytelling**: Autodidaktisch, Januar 2017 - heute
 
 - **Web Application Development**: [Bitmaker Labs][9], Juni 2013 – August 2013
