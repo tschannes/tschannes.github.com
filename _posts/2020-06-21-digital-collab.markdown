@@ -20,3 +20,13 @@ What methods do work?
 Theory versus Prototyping?
 
 Start with the problem
+
+Optimize UI
+Transparency
+Search
+One Place
+Personalize everything (asynchronous, notifications, optional stand-up meetings)
+Create Avatars (who can help with what? SKills?)
+
+
+https://www.bizportals365.com/blog/how-a-digital-workplace-can-solve-collaboration-tool-overload/
