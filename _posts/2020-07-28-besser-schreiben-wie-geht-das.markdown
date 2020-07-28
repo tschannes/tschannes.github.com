@@ -74,7 +74,7 @@ Dieser Leitsatz zum guten Schreiben geht auf Ernest Hemingway zurück. Er war de
 
 Natürlich hat sich Hemingway aufs Erzählen von Geschichten bezogen. Die Faustregel gilt aber für viele Textsorten. Hier ein Beispiel für den Erklärmodus:
 
-> Ihr wurde klar, dass Sie eine Zigarette brauchte. Sie war seit Jahren Kettenraucherin. Aufhören ging heute nicht.
+> Ihr wurde klar, dass sie eine Zigarette brauchte. Sie war seit Jahren Kettenraucherin. Aufhören ging heute nicht.
 
 Und diesselbe Szene im Zeig-Modus:
 
@@ -85,7 +85,7 @@ Und diesselbe Szene im Zeig-Modus:
 
 ## What about you?
 
-Wie machen Sie Texte klarer, einfacher verständlich? Wie formulieren Sie Botschaften, so dass Sie ankommen?
+Wie machen Sie Texte klarer, einfacher verständlich? Wie formulieren Sie Botschaften, so dass sie ankommen?
 
 ## Want to know more?
 
