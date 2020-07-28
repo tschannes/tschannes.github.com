@@ -83,5 +83,14 @@ Und diesselbe Szene im Zeig-Modus:
 - Wir beschreiben und erklären also nicht, sondern erzählen.
 - Und: Wir zeigen konkrete Dinge, die es dem Leser ermöglichen, sich selber ein Bild von der Situation zu machen. Dies zwingt den Leser aktiv zu interpretieren, was ihn ins Geschehen zieht und den Lerneffekt vergrössert.
 
+## What about you?
+
 Wie machen Sie Texte klarer, einfacher verständlich? Wie formulieren Sie Botschaften, so dass Sie ankommen?
+
+## Want to know more?
+
+- [Texte spannend schreiben](./spannend-schreiben/)
+- [Texte besser strukturieren](./puzzle/)
+- [Texte tunen (Redigieren)](./wie-ich-editiere/)
+- [Erzählmuster nutzen](./Monster-Held-Glanztat/)
 
