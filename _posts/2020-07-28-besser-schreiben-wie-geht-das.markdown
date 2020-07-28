@@ -89,8 +89,8 @@ Wie machen Sie Texte klarer, einfacher verständlich? Wie formulieren Sie Botsch
 
 ## Want to know more?
 
-- [Texte spannend schreiben](./spannend-schreiben/)
-- [Texte besser strukturieren](./puzzle/)
-- [Texte tunen (Redigieren)](./wie-ich-editiere/)
-- [Erzählmuster nutzen](./Monster-Held-Glanztat/)
+- [Texte spannend schreiben](/spannend-schreiben/)
+- [Texte besser strukturieren](/puzzle/)
+- [Texte tunen (Redigieren)](/wie-ich-editiere/)
+- [Erzählmuster nutzen](/Monster-Held-Glanztat/)
 
