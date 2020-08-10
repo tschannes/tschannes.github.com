@@ -7,7 +7,7 @@ categories: [Job, Collaboration]
 
 ---
 
-Digital Collaboration steht seit Corona ganz oben auf die Agenda vieler Unternehmen. Doch was braucht's, damit das Zusammenarbeit auch in Zeiten leerer Office-Komplexe funktioniert? Tools, Methoden, Mindset, alles?
+Digital Collaboration steht seit Corona ganz oben auf die Agenda vieler Unternehmen. Doch was braucht's, damit Zusammenarbeit auch in Zeiten leerer Office-Komplexe funktioniert? Tools, Methoden, Mindset, alles?
 
 ## New Tools
 
@@ -23,7 +23,7 @@ Viel langwieriger ist die Alternative: Digital Collaboration wird nicht an Tools
 
 > Lasst uns agiler arbeiten.
 
-Jede dieser Methoden hat natürlich Ihre Daseinsberechtigung. Allerdings bringt auch dieser Ansatz für ein analog-traditionell operierendes Business Probleme mit sich. Zum einen bergen auch die oft gehörten Buzzwords die Gefahr, dass man in ihnen eine einfache Lösung für ein meist unüberschaubares Problem sieht.
+Jede dieser Methoden hat natürlich ihre Daseinsberechtigung. Allerdings bringt auch dieser Ansatz für ein analog-traditionell operierendes Business Probleme mit sich. Zum einen bergen auch die oft gehörten Buzzwords die Gefahr, dass man in ihnen eine einfache Lösung für ein meist unüberschaubares Problem sieht.
 
 Zudem hängen diese Methoden am Anfang oft in der Luft, sind Selbstzweck. Klar, es ist nicht falsch agiler arbeiten zu wollen. Doch was wollen wir damit schlussendlich erreichen? Wenn bei der Einführung einer neuen Methode diese Warum-Frage nicht beantwortet werden kann, ist sie zum Scheitern verurteilt.
 
@@ -39,7 +39,7 @@ Als dritten Weg sehe ich den Zugang über die Unternehmenskultur. Und ein klares
 
 Steht ein neues Tool oder eine neue Methode zur Debatte, muss immer klar sein, wie diese Neuerungen zu mehr Effizienz oder höherer Flexibilität führen sollen.
 
-Gleichzeitig zeigt dieses Grundverständnis: Es geht nicht um Tools versus Methoden. Es geht darum Probleme zu lösen, nach Möglichkeit auf dem direktest-möglichen Weg.
+Gleichzeitig zeigt dieses Grundverständnis: Es geht nicht um Tools versus Methoden. Es geht darum Probleme zu lösen und zwar auf dem direktest-möglichen Weg.
 
 ### 1. Mit den Problemen beginnen
 
@@ -49,7 +49,7 @@ Niemand wird gerne kritisiert. Und doch: Ohne Kritik (an sich selbst) kommt eine
 
 Sitzungen sind ein gutes Beispiel dafür. Jede Inneffizienz in der Sitzungskultur eines Unternehmen ist gravierend, da jede vergeudete Minute sich mit jedem Sitzungsteilnehmer multipliziert. Es handelt sich also um Low-Hanging Fruit. Doch wo steckt die Lösung in diesem Problem?
 
-Wie viele Dinge in der digitalen Arbeitswelt, beginnt der Lösungsweg mit der Suche. Wie haben andere das Problem vor uns gelöst? Wir haben Ansätze wie [Stand-ups](https://www.wikiwand.com/en/Stand-up_meeting) gefunden und das [Sitzungsformat von Basecamp](https://3.basecamp-help.com/article/41-skip-the-status-meeting) für uns angepasst. 
+Wie viele Dinge in der digitalen Arbeitswelt, beginnt der Lösungsweg mit der Suche. Wie haben andere das Problem vor uns gelöst? Bei meinem aktuellen Arbeitgeber haben wir Ansätze wie [Stand-ups](https://www.wikiwand.com/en/Stand-up_meeting) gefunden und das [Sitzungsformat von Basecamp](https://3.basecamp-help.com/article/41-skip-the-status-meeting) für uns angepasst. 
 
 Keine umfassenden Modelle, wohlgemerkt, sondern Lösungen für ein ganz spezifisches Effizienzproblem.
 
