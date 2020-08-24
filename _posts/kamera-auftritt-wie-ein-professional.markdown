@@ -35,8 +35,4 @@ Kurzum:
 8. Unterhalte. 
 9. Richte dein Setup ein.
 
-Was hilft dir beim Auftritt vor der Linse? Welche Tricks nutzt du? Schreib deine Tipps einfach in die Kommentare! 
-
-Ich bin gespannt und freue mich aufs nächste Mal.
-
-Tschau, tschüss und hasta pronto.
+Was hilft dir beim Auftritt vor der Linse? Welche Tricks nutzt du? Schreib deine Tipps einfach in die Kommentare!
