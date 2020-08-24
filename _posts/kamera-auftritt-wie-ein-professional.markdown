@@ -1,13 +1,11 @@
 ---
-title: "7 Tipps für den professionell(er)en Kamera-Auftritt"
+title: "9 Tipps für den professionell(er)en Kamera-Auftritt"
 excerpt: "Er soll nicht gestelzt, sondern natürlich und authentisch wirken, der Auftritt vor der Kamera. Wie man dieses Ziel erreicht, erfährst du in diesem Post."
 img: "images/presenter.png"
 tags: []
 categories: [Video]
 ---
 
-
-Hallo mundo
 
 Wir kennen das alle. Grad ist noch alles clarito, dann ist alles weg. Wir erstarren im toten Auge der Kamera.
 
