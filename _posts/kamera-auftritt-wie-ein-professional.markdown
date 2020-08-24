@@ -1,7 +1,7 @@
 ---
 title: "7 Tipps für den professionell(er)en Kamera-Auftritt"
 excerpt: "Er soll nicht gestelzt, sondern natürlich und authentisch wirken, der Auftritt vor der Kamera. Wie man dieses Ziel erreicht, erfährst du in diesem Post."
-img: "images/reader.jpg"
+img: "images/presenter.png"
 tags: []
 categories: [Video]
 ---
