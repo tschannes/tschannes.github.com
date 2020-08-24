@@ -1,6 +1,6 @@
 ---
 title: "9 Tipps für den professionell(er)en Kamera-Auftritt"
-excerpt: "Er soll nicht gestelzt, sondern natürlich und authentisch wirken, der Auftritt vor der Kamera. Wie man dieses Ziel erreicht, erfährst du in diesem Post."
+excerpt: "Er soll nicht gestelzt, sondern natürlich und authentisch wirken, der Auftritt vor der Kamera oder Webcam. Wie man diesem Ziel näher kommt, erfährst du in diesem Post."
 img: "images/presenter.png"
 tags: []
 categories: [Video]
