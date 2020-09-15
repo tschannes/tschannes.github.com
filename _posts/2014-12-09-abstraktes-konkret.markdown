@@ -3,7 +3,7 @@ layout: post
 title: Zwölf Wege zu neuen Bildideen
 date: 2014-12-09
 excerpt: "Ein Repertoire von Denkanstössen macht es leichter, Abstraktes neu zu denken und konkret in Bildern darzustellen."
-img: "images/car-face.jpg"
+image: "images/car-face.jpg"
 alt: "Regentropfen stehen als 'Pars	pro toto' für Regen oder für Gewitter."
 caption: false
 comments: true

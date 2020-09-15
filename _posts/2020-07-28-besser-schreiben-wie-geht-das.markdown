@@ -1,7 +1,7 @@
 ---
 title: "Besser schreiben? 6 Tipps fürs Texten"
 excerpt: "Gute Texte sind klar, schnell verständlich und transportieren Botschaften. Doch wie kommt man zu solchen Texten?"
-img: "images/reader.jpg"
+image: "images/reader.jpg"
 tags: []
 categories: [Schreiben, Text]
 

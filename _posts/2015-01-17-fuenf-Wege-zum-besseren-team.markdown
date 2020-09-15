@@ -3,7 +3,7 @@ layout: post
 title: "Fünf Mittel zum kundenzentrierten Top-Team"
 date: 2015-01-17
 excerpt: "\"Unternehmenskultur ist formbar\", sagt Organisationspsychologin Lynne Waldera. Wer etwas in (s)einem Unternehmen bewirken will, tut gut daran ihre fünf Taktiken zu beherzigen."
-img: "images/rhino.jpg"
+image: "images/rhino.jpg"
 alt: "Unternehmenskultur umgibt uns wie Wasser. Sie zu verändern braucht Kraft und Zeit."
 caption: ""
 comments: true

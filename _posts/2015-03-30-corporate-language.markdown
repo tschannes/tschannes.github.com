@@ -3,7 +3,7 @@ layout: post
 title: "Mit 66 Fragen zu einer Marken-Stimme"
 date: 2015-03-30
 excerpt: "'Wie klingt unsere Marke?' Ein Fragenkatalog hilft beim Entwickeln eines Corporate Language Manuals, welches über das reine Wording hinausgeht."
-img: "images/voice.jpg"
+image: "images/voice.jpg"
 alt: "'Wie klingt eine Marke?' Unterwegs zum Corporate Language Manual."
 caption: "Bild: http://pixabay.com/en/microphone-mic-vocal-music-audio-395382/"
 comments: true

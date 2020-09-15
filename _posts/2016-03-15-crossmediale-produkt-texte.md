@@ -3,7 +3,7 @@ layout: post
 title: "Content-Falle Produkttext"
 date: 2016-03-16
 excerpt: "Wer über Kauf oder Nichtkauf entscheidet, braucht Informationen und kein Marketing-Geschwätz. Genau das liefern aber viele Produkttexte. Eine vergebene Chance."
-img: "images/supermarket.jpg"
+image: "images/supermarket.jpg"
 alt: "Die Auswahl ist gross. Entsprechend wichtig ist es, dass Kunden Unterscheidungsmerkmale."
 caption: "Bild: Wikimedia Commons"
 comments: true

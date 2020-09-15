@@ -1,7 +1,7 @@
 ---
 title: "Einfach besser Video"
 excerpt: "Draufhalten, aufnehmen, fertig ist das Video. Was einfach klingt, ist es nicht. Praktische Tipps, wie Sie Video für Online-Sitzungen oder Streams optimieren können."
-img: "images/einfach-video.jpg"
+image: "images/einfach-video.jpg"
 tags: []
 categories: [video, job]
 

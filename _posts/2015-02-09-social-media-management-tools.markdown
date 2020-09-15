@@ -3,7 +3,7 @@ layout: post
 title: "Elf Tools für effizienteres Social Media Management"
 date: 2015-02-09
 excerpt: "Social Media Management Tools ermöglichen das Publizieren auf mehreren Kanälen, liefern Statistiken, sammeln Inputs an einem Ort und ermöglichen Teams einen effizienten Social Media Workflow."
-img: "images/social-media.jpg"
+image: "images/social-media.jpg"
 alt: "Social Media zu managen ist zweitaufwändig. Wichtig also, mit den richtigen Tools zu arbeiten."
 caption: "Bild: http://commons.wikimedia.org/."
 comments: true

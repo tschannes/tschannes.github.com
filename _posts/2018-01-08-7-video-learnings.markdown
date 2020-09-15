@@ -4,7 +4,7 @@ layout: post
 title: "7 Learnings auf dem Weg zur Video-Content-Strategie"
 date: 2018-01-08
 excerpt: "Alle wollen Video. Doch wie macht man Film-Clips, die aus Firmensicht Sinn machen und dabei ein Publikum gewinnen? Sieben Einsichten dazu."
-img: "images/video.jpg"
+image: "images/video.jpg"
 alt: "Video Producer"
 caption: "Photo von Andrej Lišakov auf Unsplash."
 comments: false

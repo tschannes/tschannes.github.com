@@ -3,7 +3,7 @@ layout: post
 title: "Mission Statement: Wegweiser für Content-Strategie"
 date: 2015-03-18
 excerpt: "Ein Mission Statement klärt nach innen und aussen, warum und für wen welche Marketing-Inhalte produziert werden sollen."
-img: "images/mission.jpg"
+image: "images/mission.jpg"
 alt: "Ein klarer Fokus für die Content-Efforts einer Unternehmung ist das Ziel eines Mission Statements."
 caption: "Bild: http://pixabay.com/p-95475"
 comments: true

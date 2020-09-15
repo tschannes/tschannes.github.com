@@ -3,7 +3,7 @@ layout: post
 title: "Bitcoin-Glossar für Krypto-Neulinge"
 date: 2015-12-10
 excerpt: "Nodes, Blocks und Hashes: Das sind die Bausteine der Bitcoin-Ökonomie. Es sind auch Bausteine, die für mich lange nur Bahnhof bedeuteten. Ein Klärungsversuch."
-img: "images/bitcoin.jpg"
+image: "images/bitcoin.jpg"
 alt: "Bitcoin ist bei Weitem nicht mehr die einzige Krypto-Währung."
 caption: "Bild: Flickr"
 comments: true

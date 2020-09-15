@@ -3,7 +3,7 @@ layout: post
 title: "12 Elemente guter Geschichten"
 date: 2015-05-25
 excerpt: "Storytelling funktioniert dank Erzähl-Bausteinen. Wer diese Bausteine kennt, erzählt vielseitiger, spannender und erfolgreicher. Erfahren Sie mehr."
-img: "images/ingredients.jpg"
+image: "images/ingredients.jpg"
 alt: "Fragen"
 caption: "https://www.flickr.com/photos/marfis75/2145194044"
 comments: true

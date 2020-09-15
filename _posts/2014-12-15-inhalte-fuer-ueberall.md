@@ -3,7 +3,7 @@ layout: post
 title: "Inhalte für Überall"
 date: 2014-12-15
 excerpt: "Content muss modularer und flexibler werden, schreibt Sara Wachter-Boettcher in ihrem Buch 'Content Everywhere'. Sie zeigt, wie eine solide Struktur zu Inhalten führt, die überall funktionieren."
-img: "images/containers.jpg"
+image: "images/containers.jpg"
 alt: "Container: Können modulartig und effizient überall hin transportiert werden."
 caption: "By Lucarelli (Own workby uploader), CC-BY-SA-3.0, via Wikimedia Commons"
 comments: true

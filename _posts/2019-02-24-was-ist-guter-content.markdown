@@ -4,7 +4,7 @@ layout: post
 title: "Was ist guter Content?"
 date: 2019-02-24
 excerpt: "Content Marketing steht und fällt mit der Qualität der Inhalte. Doch was genau macht guten Content aus? Wie immer kommt es darauf an. Aber: Diese fünf Fragen helfen die Spreu vom Weizen zu trennen."
-img: "images/good-content-standards.jpg"
+image: "images/good-content-standards.jpg"
 alt: "Guter Content. Standards können helfen."
 caption: "Photo von chuttersnap auf Unsplash."
 comments: true

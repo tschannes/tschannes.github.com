@@ -5,7 +5,7 @@ date: 2014-11-06
 excerpt: "Gute Web-Texte erzählen Geschichten, zeigen Dinge, statt sie zu beschreiben, bieten Lesenden einen Nutzen. Und sie wiederholen sich."
 comments: false
 related: true
-img: "images/spannend.jpg"
+image: "images/spannend.jpg"
 alt: "Texte überbrücken Distanzen und erzeugen dabei Spannung, wie Stromkabel zwischen Masten."
 caption: "Original Photo: Markus Spiske, www.temporausch.com, CC-BY"
 categories: text

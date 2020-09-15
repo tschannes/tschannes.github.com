@@ -3,7 +3,7 @@ layout: post
 title: "Sechs negative Effekte politischer Korrektheit"
 date: 2015-04-21
 excerpt: "Politische Korrektheit verschleiert klare Aussagen, verschwendet Zeit und stiftet falsche Eintracht. Eine Diagnose und sechs Thesen für den Heilungsweg."
-img: "images/horses.jpg"
+image: "images/horses.jpg"
 alt: "Resultate sind besser, wenn zwei entgegengesetzte Pole zusammen wirken."
 caption: "Bild: https://farm7.staticflickr.com/6183/6150676110_b1c0e71bab_o.jpg"
 comments: true

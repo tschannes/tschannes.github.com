@@ -4,7 +4,7 @@ layout: post
 title: "Template für Video-Briefs"
 date: 2019-01-30
 excerpt: "Video-Content ist relativ teuer. Entsprechend wichtig ist es, Content-Producern ein vollständiges und zielführendes Briefing geben zu können. Ein Template hilft dabei, Video-Projekte auf Kurs zu halten."
-img: "images/video.jpg"
+image: "images/video.jpg"
 alt: "Video Producer"
 caption: "Photo von Andrej Lišakov auf Unsplash."
 comments: false
