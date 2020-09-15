@@ -6,7 +6,9 @@ excerpt: "Wie ist es, mit Hannes Tscherrig zusammenzuarbeiten? Ehemalige Arbeits
 
 ---
 
+### Fernfachhochschule Schweiz FFHS
 
+> Weiterhin zeichnet sich Herr Tscherrig durch eine hohe Lernbereitschaft aus, sich fortdauernd Skills anzueignen, die für eine professionelle Realisierung von Projekten in der neuen Abteilung notwendig sind. (Prof. Dr. Markus Dormann, [Zwischenzeugnis FFHS](/referenzen/ffhs.pdf))
 
 ### Mammut Sports Group
 
