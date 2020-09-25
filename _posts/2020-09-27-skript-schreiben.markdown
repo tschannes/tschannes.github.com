@@ -1,12 +1,11 @@
-```
 ---
 title: "Scriptwriting. Warum und wie."
 excerpt: "Filmemachen fängt mit Vorbereitung an. Eines der besten Tools dazu ist ein Skript. Hier sind meine Erfahrungen zum Thema."
-image: "images/presenter.png"
+image: "images/skript.jpg"
 tags: []
 categories: [video, text]
 ---
-```
+
 
 How to write a script
 
