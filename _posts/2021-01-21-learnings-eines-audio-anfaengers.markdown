@@ -1,6 +1,6 @@
 ---
 title: "Audio bearbeiten für Audio-Anfänger"
-excerpt: "Ein grosser Bestandteil von Video ist Audio. Für mich als Anfänger eine schwarze Kunst. Diese Checkliste hat mir geholfen."
+excerpt: "Ein grosser Bestandteil von Video ist Audio. Für mich als Anfänger schwarze Magie. Diese Checkliste hat mir geholfen."
 image: "images/audio-for-video.jpg"
 tags: []
 categories: [video, audio]
