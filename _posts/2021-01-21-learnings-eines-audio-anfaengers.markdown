@@ -27,7 +27,7 @@ Für mich gab es und gibt es noch immer einiges an Klärungsbedarf. Deswegen mei
 
 - Wähle einen **ruhigen Raum**. Und: Wähle einen Raum, der Schallwellen möglichst wenig reflektiert. Je mehr glatte Flächen (Parkettböden, glatte Wände, Fenster etc.) ein Raum hat, desto schwieriger wird es, guten Ton zu bekommen. Such dir stattdessen Räume mit viel Textil (also z.B. ein Schlafzimmer, eine Garderobe o.ä.).
 - Gehe so **nahe** wie möglich an die Tonquelle heran. Ideal für Sprache sind nicht weiter als 40 oder 50 Zentimeter Abstand.
-- Lerne dein Mikrofon kennen. Egal ob eingebautes Smartphone-Mikrofon, Lavalier- oder Richtmikrofon, probiere verschiedene Positionierungen und Ausrichtungen aus.
+- Lerne dein Mikrofon kennen. Egal ob eingebautes Smartphone-Mikrofon, Lavalier- oder Richtmikrofon, probiere verschiedene Positionierungen und Ausrichtungen aus (siehe auch ([Einführung in Mikrofonierung von Sproutvideo](https://sproutvideo.com/blog/three-essential-mic-setups-when-to-use-them.html)).
 - **Lautstärke**. Achte darauf, dass deine Aufnahme nicht zu leise, vor allem aber nicht zu laut ist. Idealerweise kommen die lautesten Geräusche deiner Aufnahme irgendwo zwischen -6 und -12 Dezibel zu liegen. Warum ist das wichtig? Wenn du zu leise aufzeichnest, musst du später in der Nachbearbeitung dein Signal stark verstärken und je nach Recorder führt das zu vielen Nebengeräuschen. Und wenn du zu laut aufnimmst, führt das zum sogennanten "Clipping" des Audio-Signals, also einer Distortion, die du im Edit nicht mehr korrigieren kannst.
 
 ## Cleaning-up
