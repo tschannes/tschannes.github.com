@@ -1,10 +1,45 @@
+---
+title: "Agile Medienproduktion? So fängt es an"
+excerpt: "Medienproduktion und Agile: Geht das zusammen? Bis zu einem gewissen Grad ja. Die folgenden Artefakte helfen bei der rollenden Realisierung."
+image: "images/agile.jpg"
+tags: []
+categories: [video, audio]
+---
+
+
 ## Making Media Production Agile
 
-## User Story
+Three **Artefacts** that might make your production workflow more agile.
+
+1. Film Vision (Goal and Scope: Um was geht es? Wen soll die Produktion erreichen? Was soll sie auslösen? Wieviel darf es kosten? Wann ist Abgabe?)
+2. Film Statement (aka User Story)
+3. Prototypes (script, storyboard, mini-studio stop motion, full-on production)
+
+Production Value
+
+Production happens on a scale:
+
+Tampelpfad
+
+Naturweg
+
+Dorfstrasse
+
+Autobahn
+
+## User Story (Film Statements)
 
 > As a [PERSONA], I want to [DO STH], so that I can [DERIVE A REWARD].
 
+> As a [persona], I [want to], [so that].
+
+> Als ein BEWERBER, will ich [SEHEN, WIE VIEL ERFAHRUNG FIRMA X HAT], damit [ICH ENTSCHEIDEN KANN, OB ICH MICH BEWERBEN KANN]
+
+> Als Bewerber, bin ich überzeugt, dass Firma X extrem erfahren ist und entscheide mich darum für eine Bewerbung.
+
 > Good Design comes from Focus. Focus comes from understanding (your user).
+
+And what to do with them (Kanban) for clear priorities.
 
 ## User Persona
 
@@ -43,4 +78,3 @@ Why User Research fails? Confirmation Bias and Social Pressure. People do not wa
 ## Tools
 
 - Interviews: Start with general questions, continue with more and more specific questions. Answers do not have to be representative. Our job is to take the specifics and try and generalize.
-
