@@ -4,77 +4,76 @@ excerpt: "Medienproduktion und Agile: Geht das zusammen? Bis zu einem gewissen G
 image: "images/prototyping.jpg"
 tags: []
 categories: [video, audio]
+
 ---
 
+I am not an expert when it comes to Agile. But recently I noticed that we make the same mistakes in most of our productions. 
 
-## Making Media Production Agile
+So I went on a bit of a search for tools that might help us producing media with fewer set-backs and less wasted time.
 
-Three **Artefacts** that might make your production workflow more agile.
+In my experience most media projects suffer from a lack in the conceptual stage before the fun part begins with all its shiny transitions, effects and animations.
 
-1. Film Vision (Goal and Scope: Um was geht es? Wen soll die Produktion erreichen? Was soll sie auslösen? Wieviel darf es kosten? Wann ist Abgabe?)
-2. Film Statement (aka User Story)
-3. Prototypes (script, storyboard, mini-studio stop motion, full-on production)
+So how can agile methods help with media production? It's actually surprisingly simple. We start with the artefacts Agile insists upon. Let me be clear, I am heavily influenced by [Kai Wittmann's Bachelor Thesis on agile media production](https://github.com/kaisky89/bachelor-agile-filmproduktion/blob/master/readme.md). He goes way mor in depth about how to setup the processes for agile. But I know that we can start making improvements by just introducing the following two artefacts into the kick-off phase of a project.
 
-Production Value
+## 1. Film Vision (aka [Mission statement](/mission-statement/))
 
-Production happens on a scale:
+The film vision or (mostly used with regard to brands) the mission statement cements the who, what, and why of a project. Whit this artefact we answer the following questions:
 
-Tampelpfad
+1. What is the message of the film we are about to make?
+2. Who are we making this film for? (and who is making this film?)
+3. Why should these people care? What's in it for them?
 
-Naturweg
+Usually, it is the project owner or our main stakeholder who will be able to provide us answers to these questions. Obviously, at first you will hear things like "oh it's for our users, but also prospects. Oh, and let's not forget our partners." You catch the drift. We are making a movie for everyone.
 
-Dorfstrasse
+And indeed, we could just be content with making something that is not particularly disliked by anyone. But that defeats the purpose of most media productions. Usually you need to be specific, when it comes to messaging, targeting and your pay-off.
 
-Autobahn
+So you will get lots of answers to all three questions. This is an opportunity and the first iteration. Put all answers on post-its and have your stakholders put dots on the most important ones. The answer with the most dots wins. 
 
-## User Story (Film Statements)
+In the end you should bring your answers into a statement that is brief and answers all three questions. It will be used to help decision making further down the line, it will be our compass and our gauge for all creative decisions.
+
+> We, **company X (2)**, want to create an ad that motivates **people at schools and universities (2)** to **register (1)** for our next webinar on the latest advancements in **rocket science (1)**. They will want to register because we hint at **how much they can learn from our experience (3)**.
+
+Don't archive your Film Vision. As I said, it will come in handy pretty soon.
+
+## 2. Film Statements (aka User Stories)
+
+Film Statements or User Stories describe from a user's point of view, what they are experiencing while (hypothetically) viewing our production. User stories always follow a very simple pattern:
 
 > As a [PERSONA], I want to [DO STH], so that I can [DERIVE A REWARD].
 
-> As a [persona], I [want to], [so that].
+Usually, there is not just one user story to be told about a specific production. Collect all stories you can think of. For instance:
 
-> Als ein BEWERBER, will ich [SEHEN, WIE VIEL ERFAHRUNG FIRMA X HAT], damit [ICH ENTSCHEIDEN KANN, OB ICH MICH BEWERBEN KANN]
+> As a person working for university X, I want to see what my competitors are working on, so that I can adjust our research accordingly.
 
-> Als Bewerber, bin ich überzeugt, dass Firma X extrem erfahren ist und entscheide mich darum für eine Bewerbung.
+> As someone super interested in rocket science, I want to hear the science from the horse's mouth.
 
-> Good Design comes from Focus. Focus comes from understanding (your user).
+> As a potential employee of company X, I am intrigued by their bold claims and want to know what's behind it, so that I can decide for or against an application.
 
-And what to do with them (Kanban) for clear priorities.
+> As a stakeholder at company x, I want to show, how are rocket modelling works using top notch visualisations, to blow everyone away.
 
-## User Persona
+> ...
 
-- Think
-- Feel
-- See
-- Do
+There is no limit to the amount of user stories (theoretically). So do set a time limit when you are gathering these.
 
-## Problem Scenarios
+And be aware that you might not fulfill all expectations. This is why you write each user story on a piece of paper and have your stakeholders sort them by relevance.
 
-- Choose the right level of abstraction (Problems persist, whereas solutions are temporary)
-- Find alternatives (find workarounds)
-- Identify your value proposition (where are we adding value, where our competition does not)
+You will start working on the user story with the highest priority. But before you do: Play one more game with your stakeholders.
 
-### Evaluate Problem Scenarios (flight level)
+## 3. Let's buy a car (aka Production Value)
 
-1. Why is Problem Scenario X important?
-2. What is the Parent Problem Scenario for X? What can I learn from Parent Scenario?
-3. Create Child Problem Scenarios. 
+At this stage you have a clear idea of what the overall goal of the project is and which stories you will need to favour in your production. But there is one remaining hurdle. You don't know how much your client is willing to spend.
 
-## User Journey Fail
+And usually, your client is not going to be able to gauge how much a super fancy visualisation is realistically going to cost.
 
-1. Do literally what the customers want
-2. Do what we think the customers want
+So you ask them: If this project were a car, which of the following would you buy:
 
-## Use Hypotheses
+1. Tampelpfad (Lada)
+2. Naturweg (Fiat)
+3. Dorfstrasse (Volkswagen)
+4. Autobahn (RollsRoyce)
 
-- For Personas (ask directly)
-- For Problem Scenarios (ask directly)
-- Derive: Value Hypothesis (do not ask this directly, due to bias below)
-- Customer Creation Hypothesis (pricing, value comms, to motivate customer)
-- Usability Hypothesis (design, structure, placement to motivate customer)
+If they tell you they would buy a Fiat, but insist on super fancy visualisation, you know you will have some clarification to do as to the cost of "RollsRoyce" versus "Fiat" productions. 
 
-Why User Research fails? Confirmation Bias and Social Pressure. People do not want to argue or disagree. So whatever you propose will be agreed upon. E.G. Yellow Walkman.
+If on the other hand they are going for the Rolls and want the bells and whistles, you are good to go to the next level.
 
-## Tools
-
-- Interviews: Start with general questions, continue with more and more specific questions. Answers do not have to be representative. Our job is to take the specifics and try and generalize.
+SCRIPT
