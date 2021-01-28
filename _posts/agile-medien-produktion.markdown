@@ -1,7 +1,7 @@
 ---
 title: "Agile Medienproduktion? So fängt es an"
 excerpt: "Medienproduktion und Agile: Geht das zusammen? Bis zu einem gewissen Grad ja. Die folgenden Artefakte helfen bei der rollenden Realisierung."
-image: "images/agile.jpg"
+image: "images/prototyping.jpg"
 tags: []
 categories: [video, audio]
 ---
