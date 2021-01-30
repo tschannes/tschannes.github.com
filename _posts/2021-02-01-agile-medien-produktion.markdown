@@ -1,9 +1,9 @@
 ---
-title: "Agile Medienproduktion? So fängt es an"
-excerpt: "Medienproduktion und Agile: Geht das zusammen? Bis zu einem gewissen Grad ja. Die folgenden Artefakte helfen bei der rollenden Realisierung."
+title: "Making Media Agile?"
+excerpt: "Media production usually follows a linear path through a project. This is how making media could benefit from agile methods."
 image: "images/prototyping.jpg"
 tags: []
-categories: [video, audio]
+categories: [video, job]
 
 ---
 
