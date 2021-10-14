@@ -11,8 +11,9 @@ img: "images/hannes_tscherrig.jpg"
 
 ## Berufserfahrung
 
-- **Multimedia Production Facilitator**: Media Factory, Fernfachhochschule
-Schweiz FFHS, November 2019 - heute, Brig, VS
+- **Texter und Konzepter**: [Republica AG](https://www.republica.ch/Home), seit Juli 2021
+
+- **Multimedia Production Facilitator**: Media Factory, [Fernfachhochschule Schweiz FFHS](https://www.ffhs.ch/), November 2019 - Mai 2021
 
 - **Freelance Content Creator**: [Advance Gleitschirme](https://advance.ch/), seit September 2018, Thun, BE
 
