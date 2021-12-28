@@ -1,9 +1,10 @@
 ---
-layout: post
+
 title:  "Design-First: Ein Rezept für Flickwerk"
 date:   2014-06-30
 excerpt: "Die neue Website stellt die Organisation vor redaktionelle und strukturelle Probleme und zwingt sie zu improvisieren. Grund fürs Flickwerk ist die Methode: Zuerst kam das Design, dann der Inhalt."
-image: "images/flickwerk.jpg"
+header:
+  image: "images/flickwerk.jpg"
 alt: "Kommt das Design, bevor die Inhaltsstrukturen stehen, entsteht Flickwerk."
 caption: "Bild: http://en.wikipedia.org/wiki/Patchwork."
 comments: true

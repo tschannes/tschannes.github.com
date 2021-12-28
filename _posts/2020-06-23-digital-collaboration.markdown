@@ -1,7 +1,8 @@
 ---
 title: "Wie geht Digital Collaboration?"
 excerpt: "Digital Collaboration steht seit Corona ganz oben auf die Agenda vieler Unternehmen. Doch was braucht's, damit das digitale Zusammenarbeiten funktioniert? Tools, Methoden, Mindset, alles?"
-image: "images/empty-office.jpg"
+header:
+  image: "images/empty-office.jpg"
 tags: []
 categories: [Job, Collaboration]
 

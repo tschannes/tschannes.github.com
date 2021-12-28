@@ -1,9 +1,9 @@
 ---
-layout: post
 title: "Die Zukunft des Browsers"
 date: 2015-07-24
 excerpt: "Bleibt er? Stirbt er? Wandelt er sich? Fünf Prophezeihungen zur Zukunft von Chrome, Safari, Firefox, Edge und Konsorten."
-image: "images/gate.jpg"
+header:
+  image: "images/gate.jpg"
 alt: "Der Browser ist das Tor zur Welt für Internauten."
 caption: "Bild: Wikimedia Commons"
 comments: true

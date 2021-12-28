@@ -1,12 +1,13 @@
 ---
-layout: post
+
 title: "Leichtere Texte fürs Internet"
 date: 2014-10-20
 excerpt: "Web-Texte haben viel mit Texten fürs Radio gemein: Sie müssen kurz, sehr strukturiert und häppchenweise verdaubar sein. Hier wie dort gilt: 'Sag es einfach'. Und: 'Belohne dein Publikum.'"
 categories: text
 comments: false
 related: true
-image: "images/leicht.jpg"
+header:
+  image: "images/leicht.jpg"
 alt: "Leichte Texte tragen Leser, wie heisse Luft Ballonfahrer trägt."
 caption: "Original Photo: Markus Spiske, www.temporausch.com, CC-BY"
 ---
@@ -23,7 +24,7 @@ Als Inhaltsschaffende haben wir also zwei Grössen, die wir manipulieren können
 1. Inhalte müssen möglichst einfach verständlich sein.
 2. Inhalte müssen möglichst grossen Nutzen bieten. 
 
-### Don't make them think! 
+### Don't make them think!
 
 Meine Aufgabe als Texter besteht darin, Information einfacher darzustellen, Wichtiges von weniger Wichtigem zu unterscheiden. Natürlich funktionieren Texte auch ohne sorgfältige Überarbeitung ([Schliesslich ist Text die flexibelste Art Information zu speichern](http://graydon2.dreamwidth.org/193447.html)). 
 

@@ -1,9 +1,10 @@
 ---
-layout: post
+
 title: "15 Content-Formate für effektivere Inhalte"
 date: 2015-05-01
 excerpt: "Erst wer digitale Erzähl-Formate wie Listicles, Vines oder Memes beherrscht, produziert Inhalte, die gefallen, geteilt und verlinkt werden."
-image: "images/squares.jpg"
+header:
+  image: "images/squares.jpg"
 alt: "Digitale Inhalte haben viele Formen und Gesichter."
 caption: "http://pixabay.com/en/pattern-structure-light-patterns-641916/"
 comments: true

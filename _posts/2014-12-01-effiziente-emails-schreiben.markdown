@@ -1,9 +1,10 @@
 ---
-layout: post
+
 title: "Sieben einfache Tipps für effizientere E-Mails"
 date: 2014-12-01
 excerpt: "Kurze, sachliche Texte mit Links, klarer Struktur, etwas Kontext, einer Handlungsanweisung und den nötigen Meta-Daten machen Mails um Meilen besser."
-image: "images/mail.jpg"
+header:
+  image: "images/mail.jpg"
 alt: "Die Postkarte: Eine Vorgängerin der E-Mail."
 caption: "Original Photo: Markus Spiske, www.temporausch.com, CC-BY"
 comments: false
@@ -72,7 +73,7 @@ Die Handlungsanweisung muss keine grosse Sache sein:
 Je präziser eine Handlungsanweisung formuliert ist, desto genauer und nützlicher wird die Antwort ausfallen.
 
 
-## 5. Nutze E-Mail-Metadaten 
+## 5. Nutze E-Mail-Metadaten
 
 Eine E-Mail besteht nicht nur aus der eigentlichen Nachricht. Betreff, gewählte Konversation, Signaturen und CCs liefern wertvolle Zusatzinformationen:
 
@@ -83,7 +84,7 @@ Eine E-Mail besteht nicht nur aus der eigentlichen Nachricht. Betreff, gewählte
 Falsch eingesetzt, führen CCs zu E-Mail-Spamming: Person A will, dass B ihre Arbeit anders priorisiert. Sie will Druck aufsetzen und nimmt deswegen die Vorgesetzten von B ins CC. Die Folge: unnötige E-Mails und übervolle Posteingänge (nicht zu reden vom schlechten Arbeitsklima).
  
 
-## 6. Bleib sachlich 
+## 6. Bleib sachlich
 
 Wenn eine Absenderin oder ein Absender sich nicht an die E-tiquette hält, kann das verärgern. Wenn sich jemand im Ton vergreift, ungenau schreibt und unnötigen Mehraufwand verursacht oder sich für ungemein wichtig hält, gilt: Einmal durchatmen. In schwerwiegenden Fällen: Einmal schlafen. Und dann antworten.
 

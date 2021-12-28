@@ -1,9 +1,9 @@
 ---
-layout: post
 title: "Bitcoin-Glossar für Krypto-Neulinge"
 date: 2015-12-10
 excerpt: "Nodes, Blocks und Hashes: Das sind die Bausteine der Bitcoin-Ökonomie. Es sind auch Bausteine, die für mich lange nur Bahnhof bedeuteten. Ein Klärungsversuch."
-image: "images/bitcoin.jpg"
+header:
+  image: "images/bitcoin.jpg"
 alt: "Bitcoin ist bei Weitem nicht mehr die einzige Krypto-Währung."
 caption: "Bild: Flickr"
 comments: true
@@ -33,13 +33,13 @@ Anders als herkömmliche Austausch-Plattformen (Paypal, Amazon, Online-Retailer)
 
 Die Rolle der Kontrolleure übernehmen die Knotenpunkte im Netzwerk, die Nodes. **Jede ans Bitcoin-Netzwerk angeschlossene Applikation** ist ein solcher Knotenpunkt. Die Mehrheit der Nodes bestimmt, ob ein Block, und damit die darin enthaltenen Zahlungen, gültig sind oder nicht.
 
-### 3. Transaktion 
+### 3. Transaktion
 
 Bitcoin Nutzer tätigen über eine spezielle Applikation Zahlungen, die mehr oder weniger so aussehen, wie klassische Banküberweisungen. Ein Sender X überweist einen Betrag Y an einen Empfänger Z.
 
 Anders als im klassischen Zahlungsverkehr bestimmt jeder Sender, wie viel ihm die Sicherung und schnelle Beglaubigung seiner Überweisung wert sind. Diese selbstbestimmte Gebühr, welche bei jeder Zahlung beiseite gelegt wird, kommt den Minern zugute und motiviert sie damit das Netzwerk weiterhin zu sichern.
 
-### 4. Proof of Work 
+### 4. Proof of Work
 
 Ein Proof of Work ist eine Aufgabe, die nur durch Ausprobieren unzähliger Möglichkeiten sehr mühsam zu einem Resultat führt. Gibt es aber erst einmal ein Resultat, ist es sehr einfach zu überprüfen, ob dieses in der Tat gültig ist.
 
@@ -47,7 +47,7 @@ Das heisst, es ist schwierig den Proof of Work zu erbringen, aber einfach zu bew
 
 Das Bitcoin-System verlangt vor jedem Hinzufügen eines neuen Blocks zur Blockchain einen neuen Proof of Work. Die Schwierigkeit der Aufgaben ist so kalibriert, dass das weltweite Netzwerk alle 10 Minuten einen Proof of Work löst und damit einen Block validiert.
 
-### 5. Hashing- oder Chiffrier-Algorithmus 
+### 5. Hashing- oder Chiffrier-Algorithmus
 
 Hashing oder Chiffrier-Algorithmen sind die **Wurstmaschinen des digitalen Zeitalters**. Man gibt beliebiges Datenmaterial in sie hinein und erhält etwas, dass immer in etwa gleich aussieht, dessen Inhalt aber vollkommen undurchsichtig bleibt: Den Hash. 
 

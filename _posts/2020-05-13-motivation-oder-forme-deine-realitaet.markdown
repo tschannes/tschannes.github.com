@@ -1,7 +1,8 @@
 ---
 title: "Motivation: Forme deine Realität"
 excerpt: "In Zeiten von Social Distancing fallen viele extrinsischen Motivationsfaktoren weg. Umso wichtiger ist es, Rezepte zu kennen, wie man sich selbst zu mehr Antrieb verhelfen kann."
-image: "images/motivation.jpg"
+header:
+  image: "images/motivation.jpg"
 tags: []
 categories: [job]
 

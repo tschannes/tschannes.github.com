@@ -1,10 +1,10 @@
 ---
 published: false
-layout: post
 title: "Langzeit-Review: Skywalk RangeAir"
 date: 2017-10-02
 excerpt: "Das Skywalk RangeAir ist ein ultraleichtes Liegegurtzeug mit grossem Airbag und herausragender Aerodynamik. Doch hält die Leichtkonstruktion? Wir resümieren nach einem Jahr mit dem RangeAir."
-image: "images/rainge-air.jpg"
+header:
+  image: "images/rainge-air.jpg"
 alt: "Beim RangeAir von Skywalk ist alles etwas kompakter. So auch der Packsack..."
 caption: "Bild: Hannes Tscherrig."
 comments: false

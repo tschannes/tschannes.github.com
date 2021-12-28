@@ -1,9 +1,10 @@
 ---
-layout: post
+
 title: "Obskur ist gut: Für Weltmarken, Rockstars und Gurus."
 date: 2015-06-08
 excerpt: "Einfacher ist besser. Nach diesem Grundsatz texten wir im Web. Aber: Für manche lohnt es sich kompliziert zu kommunizieren."
-image: "images/yoda.jpg"
+header:
+  image: "images/yoda.jpg"
 alt: "Yoda: Ein Guru der klaren Worte."
 caption: "https://www.flickr.com/photos/phillipwest/505158448"
 comments: true

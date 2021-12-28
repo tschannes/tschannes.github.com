@@ -1,9 +1,9 @@
 ---
-layout: post
 title: "Content-Falle Produkttext"
 date: 2016-03-16
 excerpt: "Wer über Kauf oder Nichtkauf entscheidet, braucht Informationen und kein Marketing-Geschwätz. Genau das liefern aber viele Produkttexte. Eine vergebene Chance."
-image: "images/supermarket.jpg"
+header:
+  image: "images/supermarket.jpg"
 alt: "Die Auswahl ist gross. Entsprechend wichtig ist es, dass Kunden Unterscheidungsmerkmale."
 caption: "Bild: Wikimedia Commons"
 comments: true
@@ -44,7 +44,7 @@ Reviews, Rezensionen und Product Shots zäumnen das Pfertchen aber von hinten au
 
 Zeit spielt dabei eine Rolle. Eine stringente Strukturierung der Produkttexte entscheidet über Erfolg oder Misserfolg.
 
-## Satz Eins: Die Entscheidung 
+## Satz Eins: Die Entscheidung
 
 1. Muss erklären, was das Produkt kann. Muss andeuten, was das Produkt dem Kunden bringt. Muss sich auf eine Sache beschränken.
 2. Muss zeigen, was das Produkt besser kann, als die anderen. Muss den primären Kaufgrund liefern. 

@@ -1,9 +1,10 @@
 ---
-layout: post
+
 title: "Zwei Inhaltstypen, eine Content-Strategie"
 date: 2015-02-05
 excerpt: "Es gibt Inhalte, die ein Publikum in ihren Bann ziehen und Inhalte, die reibungslos funktionieren müssen. Zusammen bilden diese zwei Inhaltstypen die Grundfeste einer Content-Strategie."
-image: "images/dragons.jpg"
+header:
+  image: "images/dragons.jpg"
 alt: "Die zwei Content-Typen müssen ineineandergreifen wie zwei. "
 caption: "Bild: Deviant Art."
 comments: true

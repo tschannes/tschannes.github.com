@@ -1,7 +1,8 @@
 ---
 title: "Kritikkultur: Der Kontext muss stimmen"
 excerpt: "Kritik ist ebenso wichtig wie schwierig. Neben der Sache entscheidet oft der Ton, die Art und Weise des Kritisierens und der Kontext darüber, wie erfolgreich Kritik ist."
-image: "images/criticism.jpg"
+header:
+  image: "images/criticism.jpg"
 tags: []
 categories: [job, collaboration]
 

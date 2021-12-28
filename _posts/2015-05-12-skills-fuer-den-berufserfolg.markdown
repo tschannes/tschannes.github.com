@@ -1,9 +1,10 @@
 ---
-layout: post
+
 title: "Fachkompetenz allein genügt nicht"
 date: 2015-05-12
 excerpt: "Nicht die Kernkompetenz allein entscheidet über eine Anstellung. Kommunikations-Skills, Team-Tüchtigkeit und Lernwille sind viel wichtiger, so Recruiter Thomas Nanzer."
-image: "images/team.jpg"
+header:
+  image: "images/team.jpg"
 alt: "Team-Mitglieder haben den Vorrang vor Einzelkämpfern."
 caption: "Bild: http://pixabay.com/p-67053/"
 comments: true

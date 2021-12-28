@@ -1,10 +1,10 @@
 ---
 published: true
-layout: post
 title: "Tool für die Magazin-Planung"
 date: 2019-02-05
 excerpt: "Die Produktion eines Print-Magazins folgt der Druckerpresse wegen einem relativ starren Wasserfall-Modell. Wichtig ist es, bei der Planung Leerläufe und Missverständnisse zu vermindern. Effiziente Tools dafür sind allerdings teuer. Ein Plan B für kleine Magazin-Projekte."
-image: "images/magazin.jpg"
+header:
+  image: "images/magazin.jpg"
 alt: "Video Producer"
 caption: "Photo von Rucksack Magazine auf Unsplash."
 comments: true

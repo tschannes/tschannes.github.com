@@ -1,9 +1,10 @@
 ---
-layout: post
+
 title: "Redigieren heisst Verhandeln: Fünf Routinen"
 date: 2015-02-17
 excerpt: "Eine Redigier-Checkliste hilft nicht nur bei der Textarbeit sondern dient Redigierenden und Text-Liferanten als Gesprächs- und Verhandlungsgrundlage."
-image: "images/edit.jpg"
+header:
+  image: "images/edit.jpg"
 alt: "Texte Redigieren ist immer auch eine zwischenmenschliche Aufgabe."
 caption: "Bild: http://en.wikipedia.org/."
 comments: true

@@ -1,9 +1,9 @@
 ---
-layout: post
 title: "Wie produziert sich ein Online-Magazin?"
 date: 2015-09-30
 excerpt: "'Wie setzen wir ein Magazin online um?', fragte mich ein Kollege heute Morgen. Eine auf alles passende Antwort gibt es nicht. Dafür fünf Kriterien und jede Menge Tools und Services, die zeigen, wohin die Reise gehen könnte."
-image: "images/magazines.jpg"
+header:
+  image: "images/magazines.jpg"
 alt: "Wörtliches Übersetzen vom Magazin-Konzept in die Digitale Welt funktioniert nur selten."
 caption: "Bild: Wikimedia Commons"
 comments: true

@@ -1,10 +1,10 @@
 ---
 published: true
-layout: post
 title: "Was ist guter Content?"
 date: 2019-02-24
 excerpt: "Content Marketing steht und fällt mit der Qualität der Inhalte. Doch was genau macht guten Content aus? Wie immer kommt es darauf an. Aber: Diese fünf Fragen helfen die Spreu vom Weizen zu trennen."
-image: "images/good-content-standards.jpg"
+header:
+  image: "images/good-content-standards.jpg"
 alt: "Guter Content. Standards können helfen."
 caption: "Photo von chuttersnap auf Unsplash."
 comments: true
@@ -43,7 +43,7 @@ Wer also bereits einen Inhalt zu seinem Wunschthema findet, hat drei Optionen:
 
 > So oder so: Wer seinen geplanten Inhalt bereits auf Google findet, muss umdenken. 
 
-## 3. Würde der Inhalt mir helfen? 
+## 3. Würde der Inhalt mir helfen?
 
 Sobald klar ist, dass ein gewisses Suchvolumen für einen geplanten Inhalt existiert und auch feststeht, dass es Situationen gibt, in denen man danach suchen würde, geht es an die Qualität der Inhalte.
 

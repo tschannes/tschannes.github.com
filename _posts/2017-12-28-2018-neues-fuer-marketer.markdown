@@ -1,10 +1,10 @@
 ---
 published: false
-layout: post
 title: "Was bringt 2018 für Marketeers?"
 date: 2018-01-02
 excerpt: "Die Prognosen in kurz: Mehr Automation, mehr Video, mehr Kanäle, mehr Content-Formate und für Firmen mehr Kollaboration, höhere Standards und grössere Anforderungen an Content-Teams."
-image: "images/typewriter.jpg"
+header:
+  image: "images/typewriter.jpg"
 alt: "2018 bringt viel Neues für Marketer"
 caption: "Photo by Florian Klauer on Unsplash"
 comments: false

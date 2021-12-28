@@ -1,0 +1,13 @@
+# Authors
+
+Hannes Tscherrig:
+  name        : "Hannes Tscherrig"
+  bio         : "Ich entwerfe, produziere und optimiere Text und Video fürs Web. Ausserdem bin ich Code-Amateur, grosser Fan guter Fragen und passionierter Gleitschirmflieger."
+  avatar      : "/images/hannes_tscherrig.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:tschannes@gmail.com"
+    - label: "Website"
+      icon: "tschannes.github.io"
+      url: "https://tschannes.github.io"

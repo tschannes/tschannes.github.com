@@ -1,9 +1,10 @@
 ---
-layout: post
+
 title: "Schreiben ist Puzzeln"
 date: 2015-03-06
 excerpt: "Texte zu überarbeiten und zu optimieren ist wie das Spiel mit Puzzle-Teilen: Auslegeordnung machen, neu gruppieren und wieder zusammensetzen."
-image: "images/puzzle.jpg"
+header:
+  image: "images/puzzle.jpg"
 alt: "Schreiben ist wie ein Puzzle. Teilchen finden, sich einen Überblick verschaffen und alles neu ordnen und zusammensetzen."
 caption: "Bild: http://commons.wikimedia.org"
 comments: true

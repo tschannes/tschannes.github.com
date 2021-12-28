@@ -1,7 +1,8 @@
 ---
 title: "Lernen mit Metaphern"
 excerpt: "Metaphern wie 'Die Erde ist eine Kugel' sind sehr wirksam, wenn es darum geht ein neues Konzept einzuführen. Gleichzeitig birgt Metaphorik eine gewisse Gefahr."
-image: "images/metapher.png"
+header:
+  image: "images/metapher.png"
 tags: []
 categories: [teaching, video]
 

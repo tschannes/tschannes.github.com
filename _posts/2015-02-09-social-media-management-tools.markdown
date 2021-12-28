@@ -1,9 +1,10 @@
 ---
-layout: post
+
 title: "Elf Tools für effizienteres Social Media Management"
 date: 2015-02-09
 excerpt: "Social Media Management Tools ermöglichen das Publizieren auf mehreren Kanälen, liefern Statistiken, sammeln Inputs an einem Ort und ermöglichen Teams einen effizienten Social Media Workflow."
-image: "images/social-media.jpg"
+header:
+  image: "images/social-media.jpg"
 alt: "Social Media zu managen ist zweitaufwändig. Wichtig also, mit den richtigen Tools zu arbeiten."
 caption: "Bild: http://commons.wikimedia.org/."
 comments: true
@@ -38,7 +39,7 @@ Das wohl professionellste Social Media Management Tool. Alle Social Media. Inklu
 - Instagram
 - Insgesamt über 35 Social Media Services (gemäss Hootsuite)
 
-## 2. [Socioboard](http://www.socioboard.org/) 
+## 2. [Socioboard](http://www.socioboard.org/)
 
 Selbstgehostet flexibel und Open Source: Das sind die Verkaufs- (oder besser Nutzungs-) argumente dieses Frameworks. Standardmässig funktionieren Twitter, Facebook, LinkedIn, Google Plus und Instagram. Basiert auf C# und .NET, ist also grundsätzlich mit Microsoft IT-Umgebungen kompatibel. Existiert auch als [gehostete Variante](http://www.socioboard.com/).
 

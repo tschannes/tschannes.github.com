@@ -1,11 +1,10 @@
 ---
 title: "Making Media Agile?"
 excerpt: "Media production usually follows a linear path through a project. This is how making media could benefit from agile methods."
-image: "images/prototyping.jpg"
 tags: []
 categories: [video, job]
-
-
+header:
+  image: "images/prototyping.jpg"
 ---
 
 We make the same mistakes over and over when we produce media. Which is a pity, really. 

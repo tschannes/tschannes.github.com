@@ -1,9 +1,9 @@
 ---
-layout: post
 title: "URLs besser designen"
 date: 2016-01-17
 excerpt: "Eine überlange und undurchsichtige URL ist wie Tippfehler in der Postadresse: Unschön und schlecht fürs Geschäft. Warum es sich lohnt, URLs richtig zu gestalten. Und: Womit man anfangen könnte."
-image: "images/url.jpg"
+header:
+  image: "images/url.jpg"
 alt: "URLs sind die Postadressen der digitalen Welt."
 caption: "Bild: Wikimedia Commons"
 comments: true
