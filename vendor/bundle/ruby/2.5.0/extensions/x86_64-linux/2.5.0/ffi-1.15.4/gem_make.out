@@ -1,0 +1,20 @@
+current directory: /mnt/c/Users/Hannes Tscherrig/Desktop/websites/mundana-theme-jekyll-master/vendor/bundle/ruby/2.5.0/gems/ffi-1.15.4/ext/ffi_c
+/usr/bin/ruby2.5 -r ./siteconf20211228-7521-5xl4ki.rb extconf.rb
+/usr/lib/ruby/2.5.0/mkmf.rb:1553: warning: Insecure world writable dir /mnt/c in PATH, mode 040777
+checking for ffi.h... no
+checking for ffi.h in /usr/local/include,/usr/include/ffi,/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/ffi,/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/ffi... no
+checking for whether -Wl,--exclude-libs,ALL is accepted as LDFLAGS... yes
+checking for whether -pthread is accepted as LDFLAGS... yes
+creating extconf.h
+creating Makefile
+
+current directory: /mnt/c/Users/Hannes Tscherrig/Desktop/websites/mundana-theme-jekyll-master/vendor/bundle/ruby/2.5.0/gems/ffi-1.15.4/ext/ffi_c
+make "DESTDIR=" clean
+
+current directory: /mnt/c/Users/Hannes Tscherrig/Desktop/websites/mundana-theme-jekyll-master/vendor/bundle/ruby/2.5.0/gems/ffi-1.15.4/ext/ffi_c
+make "DESTDIR="
+/bin/sh: 1: Syntax error: "(" unexpected
+libffi.mk:6: recipe for target '"/mnt/c/Users/Hannes' failed
+make: *** ["/mnt/c/Users/Hannes] Error 2
+
+make failed, exit code 2
