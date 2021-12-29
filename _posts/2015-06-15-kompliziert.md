@@ -9,7 +9,7 @@ alt: "Yoda: Ein Guru der klaren Worte."
 caption: "https://www.flickr.com/photos/phillipwest/505158448"
 comments: true
 related: true
-categories: text
+categories: Text
 ---
 
 Manchmal ist es gut, unverständlich und kryptisch daherzureden, statt sich auf den immer evidenten Klartext zu verlassen.

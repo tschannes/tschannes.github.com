@@ -4,7 +4,7 @@ excerpt: "Ein grosser Bestandteil von Video ist Audio. Für mich als Anfänger s
 header:
   image: "images/audio-for-video.jpg"
 tags: []
-categories: [video, audio]
+categories: [Video, Audio]
 ---
 
 Als quereinsteigender Videomacher lerne ich ständig Dinge dazu. Auf der Videoseite ist dieser Lernprozess ziemlich offensichtlich. Im wahrsten Sinn des Wortes. Wenn etwas schief oder einfach noch nicht optimal läuft, sieht man das auf den ersten Blick.

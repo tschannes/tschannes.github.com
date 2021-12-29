@@ -4,7 +4,7 @@ excerpt: "Kritik ist ebenso wichtig wie schwierig. Neben der Sache entscheidet o
 header:
   image: "images/criticism.jpg"
 tags: []
-categories: [job, collaboration]
+categories: [Job]
 
 ---
 

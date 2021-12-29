@@ -9,7 +9,7 @@ alt: "Schreiben ist wie ein Puzzle. Teilchen finden, sich einen Überblick versc
 caption: "Bild: http://commons.wikimedia.org"
 comments: true
 related: true
-categories: text
+categories: Text
 ---
 
 ## 1. Puzzle-Steine erkennen

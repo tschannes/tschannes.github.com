@@ -9,7 +9,7 @@ header:
   image: "images/spannend.jpg"
 alt: "Texte überbrücken Distanzen und erzeugen dabei Spannung, wie Stromkabel zwischen Masten."
 caption: "Original Photo: Markus Spiske, www.temporausch.com, CC-BY"
-categories: text
+categories: Text
 ---
 
 Erfolgreiche Texte im Internet haben mindestens eine von zwei Eigenschaften:

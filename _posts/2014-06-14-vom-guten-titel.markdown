@@ -3,7 +3,7 @@
 title:  "Geistreich, wortarm, treffend. Vom guten Titel."
 date:   2014-06-14
 excerpt: "Christian Scholz, Photograph und Journalist, sammelt an der Schweizer Journalistenschule (MAZ) zusammen mit drei Seminarteilnehmenden Ingredienzen für Titel, die funktionieren."
-categories: text
+categories: Text
 
 ---
 

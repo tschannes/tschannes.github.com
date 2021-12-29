@@ -9,7 +9,7 @@ alt: "Unternehmenskultur umgibt uns wie Wasser. Sie zu verändern braucht Kraft 
 caption: ""
 comments: true
 related: true
-categories: content
+categories: Content
 ---
 
 ## Klare Rahmenbedingungen setzen

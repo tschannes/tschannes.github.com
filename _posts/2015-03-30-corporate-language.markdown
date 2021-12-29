@@ -9,7 +9,7 @@ alt: "'Wie klingt eine Marke?' Unterwegs zum Corporate Language Manual."
 caption: "Bild: http://pixabay.com/en/microphone-mic-vocal-music-audio-395382/"
 comments: true
 related: true
-categories: text
+categories: Text
 ---
 
 ## Identität, Distanz, Zuverlässigkeit, Medium

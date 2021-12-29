@@ -1,13 +1,16 @@
 # main links links
 main:
+  - title: "Themen"
+    url: /themen/
   - title: "Kontakt"
     url: /kontakt
-  - title: "CV"
-    url: /lebenslauf/
-  - title: "Referenzen"
-    url: /referenzen/
-  - title: "Wetter"
-    url: /wetter
+#  - title: "CV"
+#    url: /lebenslauf/
+#  - title: "Referenzen"
+#    url: /referenzen/
+#  - title: "Wetter"
+#    url: /wetter
+
 
 
 # sidebar navigation list sample

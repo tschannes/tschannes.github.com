@@ -9,7 +9,7 @@ alt: "Notizheft und Kugelschreiber sind schon lange nicht mehr die einzigen Tool
 caption: "Original Photo: Markus Spiske, www.temporausch.com, CC-BY"
 comments: true
 related: true
-categories: tools text
+categories: [Tools, Text]
 ---
 
 [Nur Zusammenfassung lesen?](#short)

@@ -9,7 +9,7 @@ alt: "Guter Content. Standards können helfen."
 caption: "Photo von chuttersnap auf Unsplash."
 comments: true
 related: true
-categories: [content, Strategie]
+categories: [Content, Strategie]
 ---
 
 Content Marketing hat sich zu einer Art Wundermittel in der Marketing-Welt gemausert. Doch wer zu schnell auf den Zug aufspringt und damit beginnt Inhalte zu produzieren, merkt: Irgendwie funktioniert diese Content-Marketing-Chose nicht ganz so einfach, wie es sich anhört.

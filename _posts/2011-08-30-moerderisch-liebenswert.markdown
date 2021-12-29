@@ -3,8 +3,8 @@
 title: "Donna Leon: Eine mörderisch liebenswerte Dame"
 date: 2011-08-30
 excerpt: "Sie erfand Guido Brunetti, den venezianischen Commissario. Mittlerweile hat er achtzehn Fälle gelöst und sie ist weltberühmt. Eine Begegnung mit Donna Leon."
-categories: [text]
-tags: [featured]
+categories: [Text]
+
 ---
 
 

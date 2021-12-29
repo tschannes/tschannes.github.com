@@ -8,8 +8,7 @@ alt: "Wörtliches Übersetzen vom Magazin-Konzept in die Digitale Welt funktioni
 caption: "Bild: Wikimedia Commons"
 comments: true
 related: true
-categories: [content, Technik]
-published: true
+categories: [Content, Tools]
 ---
 
 

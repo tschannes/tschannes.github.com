@@ -4,7 +4,7 @@ excerpt: "Metaphern wie 'Die Erde ist eine Kugel' sind sehr wirksam, wenn es dar
 header:
   image: "images/metapher.png"
 tags: []
-categories: [teaching, video]
+categories: [Video]
 
 ---
 

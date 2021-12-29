@@ -4,7 +4,7 @@ excerpt: "Filmemachen fängt mit Vorbereitung an. Eines der besten Tools dazu is
 header:
   image: "images/skript-landscape.jpg"
 tags: []
-categories: [video, text]
+categories: [Video, Text]
 
 ---
 

@@ -19,8 +19,8 @@ url                      : # the base hostname & protocol for your site e.g. "ht
 baseurl                  : "/"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/images/vortex.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "otxt" # overrides the website title displayed in the masthead, use " " for no title
+logo                     : "/images/querstrichtext.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : "QuerstrichText" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -70,7 +70,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/images/vortex.svg"
+og_image                 : "/images/querstrichtext.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -208,20 +208,20 @@ whitelist:
 #  - <base_path>/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
-  path: ""
-#tag_archive:
-#  type: liquid
-#  path: /tags/
+  path: "/themen/"
+tag_archive:
+  type: liquid
+  path: /tags/
 # https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
+jekyll-archives:
+   enabled:
+     - categories
 #     - tags
-#   layouts:
-#     category: archive-taxonomy
+   layouts:
+     category: archive-taxonomy
 #     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
+   permalinks:
+     category: /topic/:name/
 #     tag: /tags/:name/
 
 
@@ -237,7 +237,7 @@ compress_html:
 collections:
   portfolio:
     output: true
-    permalink: ""
+    permalink: "/:collection/"
 
 
 # Defaults

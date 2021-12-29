@@ -9,7 +9,7 @@ alt: "Regentropfen stehen als 'Pars	pro toto' für Regen oder für Gewitter."
 caption: false
 comments: true
 related: true
-categories: content tools
+categories: [Content, Tools]
 ---
 
 > [Nur Zeit für kurz und bündig?](#short)

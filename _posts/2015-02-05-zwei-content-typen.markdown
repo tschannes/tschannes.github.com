@@ -9,7 +9,7 @@ alt: "Die zwei Content-Typen müssen ineineandergreifen wie zwei. "
 caption: "Bild: Deviant Art."
 comments: true
 related: true
-categories: content
+categories: Content
 ---
 
 > [Nur Zeit für die Kurzfassung?](#short)

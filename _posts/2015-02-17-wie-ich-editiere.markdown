@@ -9,7 +9,7 @@ alt: "Texte Redigieren ist immer auch eine zwischenmenschliche Aufgabe."
 caption: "Bild: http://en.wikipedia.org/."
 comments: true
 related: true
-categories: text
+categories: Text
 ---
 
 Ganz klar: Jeder -- egal ob Profi, Hobby-Literat oder Teilzeit-Epiker -- schreibt genau richtig, Kritik ist immer ein persönlicher Angriff aufs Schreiber-Ego.

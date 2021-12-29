@@ -8,7 +8,7 @@ alt: "Ein klarer Fokus für die Content-Efforts einer Unternehmung ist das Ziel 
 caption: "Bild: http://pixabay.com/p-95475"
 comments: true
 related: true
-categories: content
+categories: Content
 ---
 
 Ein Mission Statement ist eine einfache Aussage, die die drei folgenden Fragen für eine Marke beantwortet:

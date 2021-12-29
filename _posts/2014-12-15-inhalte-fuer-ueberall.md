@@ -9,7 +9,7 @@ alt: "Container: Können modulartig und effizient überall hin transportiert wer
 caption: "By Lucarelli (Own workby uploader), CC-BY-SA-3.0, via Wikimedia Commons"
 comments: true
 related: true
-categories: content
+categories: Content
 ---
 
 > [Nur Zeit für die Kurzfassung?](#short)

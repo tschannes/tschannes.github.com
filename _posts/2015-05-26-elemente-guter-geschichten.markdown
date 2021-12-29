@@ -9,7 +9,7 @@ alt: "Fragen"
 caption: "https://www.flickr.com/photos/marfis75/2145194044"
 comments: true
 related: true
-categories: text
+categories: Text
 ---
 
 Eine Geschichte besteht aus Erzählbausteinen und narrativem Klebstoff: Gute Erzählungen funktionieren, weil sie die richtigen Elemente gekonnt verbinden. Manchmal genügt eine Erzähl-Zutat und aus einem langweiligen Seitenfüller wird packendes Storytelling.

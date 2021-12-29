@@ -4,7 +4,7 @@ excerpt: "Digital Collaboration steht seit Corona ganz oben auf die Agenda viele
 header:
   image: "images/empty-office.jpg"
 tags: []
-categories: [Job, Collaboration]
+categories: [Job]
 
 ---
 

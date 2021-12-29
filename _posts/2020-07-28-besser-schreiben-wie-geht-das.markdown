@@ -4,7 +4,7 @@ excerpt: "Gute Texte sind klar, schnell verständlich und transportieren Botscha
 header:
   image: "images/reader.jpg"
 tags: []
-categories: [Schreiben, Text]
+categories: [Text]
 
 ---
 

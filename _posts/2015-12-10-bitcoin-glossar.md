@@ -8,7 +8,7 @@ alt: "Bitcoin ist bei Weitem nicht mehr die einzige Krypto-Währung."
 caption: "Bild: Flickr"
 comments: true
 related: true
-categories: content
+categories: Content
 ---
 
 Letzens sollte ich einen Text über die Blockchain redigieren, also den Mechanismus, auf dem die Bitcoin-Wirtschaft beruht. Null Problemo sagte ich mir, das packen wir und stürzte mich auf den Beitrag.

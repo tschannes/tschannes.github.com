@@ -8,8 +8,7 @@ alt: "Der Browser ist das Tor zur Welt für Internauten."
 caption: "Bild: Wikimedia Commons"
 comments: true
 related: true
-categories: content
-tags: [technik]
+categories: [Content, Tools]
 ---
 
 ## 1. Der Browser verschwindet

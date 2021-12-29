@@ -4,7 +4,7 @@ excerpt: "Draufhalten, aufnehmen, fertig ist das Video. Was einfach klingt, ist 
 header:
   image: "images/einfach-video.jpg"
 tags: []
-categories: [video, job]
+categories: [Video, Job]
 
 ---
 

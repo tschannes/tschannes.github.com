@@ -9,7 +9,7 @@ alt: "Social Media zu managen ist zweitaufwändig. Wichtig also, mit den richtig
 caption: "Bild: http://commons.wikimedia.org/."
 comments: true
 related: true
-categories: content
+categories: Content
 ---
 
 Social Media stellen Unternehmen nicht nur vor die Herausforderung, mit einer neuen Kommunikationstechnologie umzugehen. Die Vielfalt der Kanäle erhöht auch den Publikationsaufwand. Facebook, Twitter, Google Plus, LinkedIn und unzählige weitere Kanäle könnten oder müssten bespielt werden. 

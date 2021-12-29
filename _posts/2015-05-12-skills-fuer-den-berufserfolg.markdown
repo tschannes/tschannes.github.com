@@ -9,8 +9,7 @@ alt: "Team-Mitglieder haben den Vorrang vor Einzelkämpfern."
 caption: "Bild: http://pixabay.com/p-67053/"
 comments: true
 related: true
-categories: [content, job]
-tags: [sticky]
+categories: [Content, Job]
 ---
 
 > Wen stellen Sie ein: Den tollen Programierer, der aber kommunikativ schwächelt oder den technisch nur mittelmässigen aber sozial-kompetenten Kandidaten?

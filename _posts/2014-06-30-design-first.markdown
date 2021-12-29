@@ -8,7 +8,7 @@ header:
 alt: "Kommt das Design, bevor die Inhaltsstrukturen stehen, entsteht Flickwerk."
 caption: "Bild: http://en.wikipedia.org/wiki/Patchwork."
 comments: true
-categories: content
+categories: Content
 ---
 
 Der Spielstand: Ein müder Internet-Auftritt aus den Anfängen des digitalen Zeitalters kann nicht mehr und muss ausgewechselt werden.

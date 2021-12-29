@@ -8,8 +8,7 @@ alt: "URLs sind die Postadressen der digitalen Welt."
 caption: "Bild: Wikimedia Commons"
 comments: true
 related: true
-categories: [content, communication]
-tags: [text, technik]
+categories: [Text, Tools]
 ---
 
 ## Was muss eine gute URL können?

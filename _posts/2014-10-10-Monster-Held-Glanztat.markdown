@@ -8,6 +8,7 @@ header:
   image: "images/held.jpg"
 alt: "Geschichten mit Helden erzählen sich leichter."
 caption: "Original Photo: Markus Spiske, www.temporausch.com, CC-BY"
+categories: Content
 ---
 
 "Was ist denn falsch mit diesem Text?", fragen mich die Leute? "Falsch ist, dass es keine Monster, keine Helden und keine Glanztaten darin gibt", antworte ich seit kurzem. 

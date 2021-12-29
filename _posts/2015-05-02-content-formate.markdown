@@ -9,7 +9,7 @@ alt: "Digitale Inhalte haben viele Formen und Gesichter."
 caption: "http://pixabay.com/en/pattern-structure-light-patterns-641916/"
 comments: true
 related: true
-categories: content
+categories: Content
 ---
 
 Die folgenden Formen der digitalen Kommunikation sind nach zu erwartendem Aufwand beim Produzieren geordnet. Off we go:

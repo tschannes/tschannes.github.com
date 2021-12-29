@@ -9,7 +9,7 @@ alt: "Video Producer"
 caption: "Photo von Rucksack Magazine auf Unsplash."
 comments: true
 related: true
-categories: [Print, Management]
+categories: [Tools, Job]
 ---
 
 Anders als die [Produktion eines Online-Magazins](/online-magazin-2015) folgt die Herstellung eines Print-Magazins einem relativ starren Wasserfall-Modell. Entsprechend müssen bei der Planung die drei Dimensionen Zeit, Inhalte und Seiten als fixe Grössen berücksichtigt werden:

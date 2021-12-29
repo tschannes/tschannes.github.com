@@ -9,7 +9,7 @@ alt: "Resultate sind besser, wenn zwei entgegengesetzte Pole zusammen wirken."
 caption: "Bild: https://farm7.staticflickr.com/6183/6150676110_b1c0e71bab_o.jpg"
 comments: true
 related: true
-categories: text
+categories: Text
 ---
 
 Als Mensch vom Marketing tausche ich mich ständig aus. Ich kommuniziere, vermittle, höre zu. Bei alledem gilt das Diktat des emotional schwächsten Glides: 

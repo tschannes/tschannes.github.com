@@ -4,7 +4,7 @@ excerpt: "In Zeiten von Social Distancing fallen viele extrinsischen Motivations
 header:
   image: "images/motivation.jpg"
 tags: []
-categories: [job]
+categories: [Job]
 
 ---
 
