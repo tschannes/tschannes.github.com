@@ -12,7 +12,7 @@ minimal_mistakes_skin    : "neon" # "default", "air", "aqua", "contrast", "dark"
 locale                   : "de-CH"
 title                    : "Hannes Tscherrig"
 title_separator          : "|"
-subtitle                 : "Schreiben für Web und Video."
+subtitle                 : "Web-, Video- und Audio-Content."
 name                     : "Hannes Tscherrig"
 description              : "Hallo! Ich entwerfe, produziere und optimiere Text und Video fürs Web. Ausserdem bin ich Code-Amateur, grosser Fan guter Fragen und passionierter Gleitschirmflieger."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -20,7 +20,7 @@ baseurl                  : "/"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/images/querstrichtext.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "QuerstrichText" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "QUERSTRICHtext" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -105,7 +105,15 @@ footer:
     - label: "Linkedin"
       icon: "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831589865?e=1648684800&v=beta&t=QzOoKIIGVs5okNF39yP45w78sOxsgujXskYNqVA4AXo"
       url: "https://www.linkedin.com/in/tschannes"
-
+    - label: "Referenzen"
+      icon: ""      
+      url: "/referenzen"
+    - label: "Lebenslauf"
+      icon: ""      
+      url: "/lebenslauf"
+    - label: "Flugwetter"
+      icon: ""
+      url: "/wetter"
 
 # Reading Files
 include:
