@@ -1,10 +1,78 @@
 ---
-layout: home
+layout: splash
 author_profile: true
 title: "Web-, Video- und Audio-Content"
 pagination:
     enabled: true
 description: ""
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /images/skript.jpg
+  actions:
+    - label: "Beispiele ansehen"
+      url: "/themen/"
+excerpt: "Botschaften-Kuddelmuddel entwirren, hierarchisieren, aufräumen. Aus Kompliziertem Einfaches machen. Dafür steht EinmalEinfach."
+
+feature_row:
+  - image_path: /images/typewriter.jpg
+    alt: ""
+    title: "Referenzen"
+    excerpt: "Was andere Leute über mich sagen."
+    url: "/referenzen"
+    btn_label: "Referenzen ansehen"
+    btn_class: "btn--primary"
+  - image_path: /images/spannend.jpg
+    title: "Flugwetter"
+    excerpt: "Hier geht's zu meiner Checkliste für Flugwetter."
+    url: "/wetter"
+    btn_label: "Wetter checken"
+    btn_class: "btn--primary"
+  - image_path: /images/social-media.jpg
+    alt: ""
+    title: "Kontakt"
+    excerpt: "Fragen? Anregungen? Spannende Missionen für mich? Immer hier entlang..."
+    url: "/Kontakt"
+    btn_label: "Kontakt aufnehmen"
+    btn_class: "btn--primary"
+feature_row4:
+  - image_path: 
+    alt: ""
+    title: "Wer steckt dahinter?"
+    excerpt: "Hier gibt's Antworten zu mir, Indizien dazu, was ich bisher angestellt und verbrochen habe."
+    url: "/lebenslauf"
+    btn_label: "Jetzt stalken"
+    btn_class: "btn--primary"
 ---
 
+{% include feature_row %}
 
+{% include feature_row id="feature_row4" type="center" %}
+
+
+<!--
+    feature_row2:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Left Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row3:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Right Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row4:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Center Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+-->

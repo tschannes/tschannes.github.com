@@ -2,6 +2,7 @@
 title: "Kontakt"
 permalink: "/kontakt"
 excerpt: "Kontaktieren Sie Hannes Tscherrig. Er wird sich so bald als möglich bei Ihnen melden."
+author_profile: true
 ---
 Kommen Sie mit Fragen oder Anregungen gerne auf mich zu. Ich freue mich von Ihnen zu hören.
 <!-- modify this form HTML and place wherever you want your form -->

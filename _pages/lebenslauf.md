@@ -4,10 +4,11 @@ title: "Über"
 permalink: /lebenslauf/
 excerpt: "Berufserfahrung, Ausbildung, Sprachen, Technik, Redaktion und Learning on the Job: Was bisher geschah im Leben von Hannes Tscherrig."
 img: "images/hannes_tscherrig.jpg"
+author_profile: true
 
 ---
 
----
+{{site.description}}
 
 ## Berufserfahrung
 
@@ -76,7 +77,7 @@ img: "images/hannes_tscherrig.jpg"
 *   Markdown (Täglicher Gebrauch)
 
 ---
-
+<!--
 ## Redaktion
 
 ### Am Anfang die Frage
@@ -95,7 +96,7 @@ Als Content-Spezialist und Konzepter entwerfe ich Online-Interaktionen: Ich entw
 
 Im Grunde der Dinge bin ich aber Texter. Es ist meine Leidenschaft, Unnützes zu kürzen, Wörter zu wenden und Texte besser zu machen. Ich arbeite iterativ, denn Texte sind immer Entwürfe. Jede Überarbeitung, jedes konstruktive Feedback macht sie besser und bringt sie etwas näher ans Ziel.
 
-
+-->
 
 [2]: https://www.hslu.ch
 [3]: http://media-work.ch

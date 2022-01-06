@@ -5,9 +5,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-#theme                    : "minimal-mistakes-jekyll"
+theme                    : "minimal-mistakes-jekyll"
 remote_theme             : mmistakes/minimal-mistakes
-minimal_mistakes_skin    : "neon" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+#minimal_mistakes_skin    : "neon" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "de-CH"
@@ -15,7 +15,7 @@ title                    : "Hannes Tscherrig"
 title_separator          : "|"
 subtitle                 : "Web-, Video- und Audio-Content"
 name                     : "Hannes Tscherrig"
-description              : "Hallo! Ich entwerfe, produziere und optimiere Text und Video fürs Web. Ausserdem bin ich Code-Amateur, grosser Fan guter Fragen und passionierter Gleitschirmflieger."
+description              : "Hannes Tscherrig entwirft, produziert und optimiert Text, Video und Audio fürs Web. Ausserdem ist er Code-Amateur, grosser Fan guter Fragen, liebt es, Dinge 'einfacher zu sagen' und ist passionierter Gleitschirmflieger."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -92,7 +92,7 @@ analytics:
 author:
   name             : "Hannes Tscherrig"
   avatar           : "/images/hannes-tscherrig.jpg"
-  bio              : "Hallo! Ich entwerfe, produziere und optimiere Text und Video fürs Web. Ausserdem bin ich Code-Amateur, grosser Fan guter Fragen und passionierter Gleitschirmflieger."
+  bio              : "Texter und Konzepter, Teufels- und Usability-Advokat, sowie Gleitschirmflieger."
   location         : "Schweiz"
   links:
     - label: "Linkedin"
@@ -261,6 +261,7 @@ defaults:
       read_time: true
       share: true
       related: true
+      toc: true
   # _pages
   - scope:
       path: "_pages"
