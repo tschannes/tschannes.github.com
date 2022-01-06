@@ -3,13 +3,21 @@
 title: "Flugwetter"
 header: "Wetter für Gleitschirmflieger"
 permalink: /wetter/
-excerpt: "Wind, Föhntendenz, Niederschlag, Startplätze. Das Wichtigste, was du heute zum Fliegen brauchst auf einem Blick."
+excerpt: "Bise, Föhn, Wolken, Wind. Das wichtigste vom Wetter, was du heute zum Fliegen brauchst auf einem Blick."
 
 ---
 
 ![Grosswetterlage](https://www.wetter.net/components/com_weather/data/images/grosswetterlage.jpg)
 
-**[Windytv.com](https://www.windyty.com/)** visualisiert zwei globale Wettermodelle und lässt gute Kurzzeitprognosen für lokale Wind- und Wetterbedingungen zu.
+**[Windytv.com](https://www.windyty.com/)** visualisiert mehrere globale Wettermodelle und lässt gute Kurzzeitprognosen für lokale Wind- und Wetterbedingungen zu.
+
+## Wind Arome
+
+<iframe width="650" height="450" src="https://embed.windy.com/embed2.html?lat=46.473&lon=8.346&detailLat=46.473&detailLon=8.346&width=650&height=450&zoom=9&level=surface&overlay=wind&product=arome&menu=&message=&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=default&metricTemp=default&radarRange=-1" frameborder="0"></iframe>
+
+## Wolken Arome
+
+<iframe width="650" height="450" src="https://embed.windy.com/embed2.html?lat=46.473&lon=8.346&detailLat=46.473&detailLon=8.346&width=650&height=450&zoom=9&level=surface&overlay=clouds&product=arome&menu=&message=&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=default&metricTemp=default&radarRange=-1" frameborder="0"></iframe>
 
 Zur Kontrolle: Die **[Windy-App](http://windy.atelier-agile.ch/balises?display_all=true)** oder die **[Windfinder-App](http://www.windfinder.com/weather-maps/spots/#8/46.830/8.144)** beschränken sich nicht auf Prognosen sondern liefern Winddaten in Echtzeit. Messpunkte sind über die ganze Schweiz verteilt.
 
@@ -19,18 +27,17 @@ Zur Kontrolle: Die **[Windy-App](http://windy.atelier-agile.ch/balises?display_a
 
 ![Bise](http://www.meteocentrale.ch/uploads/pics/uwz-ch_bise_en.png)
 
-
-
 Das **[Emagramm von Meteo Swiss](http://www.meteoswiss.admin.ch/home/measurement-and-forecasting-systems/atmosphere/radio-soundings.html)** zeigt, wie die Atmosphäre aktuell geschichtet ist. Es erlaubt Aufschlüsse über Wind, Temperatur, Luftfeuchtigkeit und Thermikpotenzial. Unten das aktuellste Emagramm von Meteo Swiss.
 
 Alternativ bietet das **[vereinfachte Emagramm auf Flugbasis.ch](http://www.flugbasis.ch/service/wetter/thermik/)** Informationen dazu, wie hoch man idealerweise startet und wie gut der Thermik-Tag zu werden verspricht.
 
-### Aktuelle Winde
+## Aktuelle Windwerte
 
 - **[Wallis](http://www.meteo-shv.ch/basic/values/valais.html)**
 - **[Zentralschweiz](http://www.meteo-shv.ch/basic/values/zentralschweiz-glarus.html)**
 
-## Fliegen
+
+## Flugplanung
 
 **[Paragliding Map](http://www.paraglidingmap.com/#)** zeigt weltweit Start- und Landeplätze, sowie Thermik-Hotspots und Webcams. Die App kombiniert die Startplatz-Informationen mit aktuellen Wetterdaten und Wettermodellen, um anzuzeigen, ob Startplätze fliegbar sind.
 
@@ -39,6 +46,5 @@ Alternativ bietet das **[vereinfachte Emagramm auf Flugbasis.ch](http://www.flug
 **[Parange](http://www.parange.ch/)** zeigt Gleitschirmfliegern in der Schweiz, wie weit sie von einem gewissen Ort aus theoretisch gleiten können. Oder: Wie hoch sie aufsteigen müssen, um einen bestimmten Zielort zu erreichen.
 
 Der deutsche Pilot Bernd Gassner hat mit seinem **[XC Planner](https://xcplanner.appspot.com/)** ein extrem vielseitiges Planungs-Tool für Thermikflieger entworfen.
-
 
 Die guten Leute vom Cross Country Magazine verraten in ihrem **[Travel Guide](http://www.xcmag.com/travel-guide/)**, wo man auch mitten im Winter sagenhaft-toll Thermik fliegen kann.
