@@ -7,19 +7,41 @@ excerpt: "Bise, Föhn, Wolken, Wind. Das wichtigste vom Wetter, was du heute zum
 
 ---
 
+<style type="text/css">
+	.container{
+		position: relative;
+		overflow: hidden;
+		width: 100%;
+		padding-top: 56.25%;
+	}
+	iframe{
+		position: absolute;
+		top: 0;
+		left: 0;
+		bottom: 0;
+		right: 0;
+		width: 100%;
+		height: 100%;
+	}
+</style>
+
 ![Grosswetterlage](https://www.wetter.net/components/com_weather/data/images/grosswetterlage.jpg)
 
 **[Windytv.com](https://www.windyty.com/)** visualisiert mehrere globale Wettermodelle und lässt gute Kurzzeitprognosen für lokale Wind- und Wetterbedingungen zu.
 
 ## Wind Arome
 
-<iframe width="650" height="450" src="https://embed.windy.com/embed2.html?lat=46.473&lon=8.346&detailLat=46.473&detailLon=8.346&width=650&height=450&zoom=9&level=surface&overlay=wind&product=arome&menu=&message=&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=default&metricTemp=default&radarRange=-1" frameborder="0"></iframe>
+<div class="container">
+	<iframe width="650" height="450" src="https://embed.windy.com/embed2.html?lat=46.473&lon=8.346&detailLat=46.473&detailLon=8.346&width=650&height=450&zoom=9&level=surface&overlay=wind&product=arome&menu=&message=&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=default&metricTemp=default&radarRange=-1" frameborder="0"></iframe>
+</div>
 
 ## Wolken Arome
 
-<iframe width="650" height="450" src="https://embed.windy.com/embed2.html?lat=46.473&lon=8.346&detailLat=46.473&detailLon=8.346&width=650&height=450&zoom=9&level=surface&overlay=clouds&product=arome&menu=&message=&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=default&metricTemp=default&radarRange=-1" frameborder="0"></iframe>
+<div class="container">
+	<iframe width="650" height="450" src="https://embed.windy.com/embed2.html?lat=46.473&lon=8.346&detailLat=46.473&detailLon=8.346&width=650&height=450&zoom=9&level=surface&overlay=clouds&product=arome&menu=&message=&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=default&metricTemp=default&radarRange=-1" frameborder="0"></iframe>
+</div>
 
-Zur Kontrolle: Die **[Windy-App](http://windy.atelier-agile.ch/balises?display_all=true)** oder die **[Windfinder-App](http://www.windfinder.com/weather-maps/spots/#8/46.830/8.144)** beschränken sich nicht auf Prognosen sondern liefern Winddaten in Echtzeit. Messpunkte sind über die ganze Schweiz verteilt.
+## Föhn- und Bisentendenz
 
 **[Meteocentrale.ch](http://www.meteocentrale.ch)** zeigt wie sich Föhn- und Bisentendenz über die nächsten Tage entwickeln werden. Ab 4 hPa Druckunterschied wird's brenzlig zum Fliegen.
 
