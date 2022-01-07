@@ -9,4 +9,7 @@ source "https://rubygems.org"
 #
 gem "jekyll", "4.0.0"
 # If you have any plugins, put them here!
-gem "minimal-mistakes-jekyll"
+group :jekyll_plugins do
+  gem "jekyll-remote-theme"
+  gem "minimal-mistakes-jekyll"
+end
