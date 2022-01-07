@@ -3,7 +3,7 @@
 title: "Referenzen"
 permalink: /referenzen/
 excerpt: "Wie ist es, mit Hannes Tscherrig zusammenzuarbeiten? Ehemalige Arbeitskollegen und Vorgesetzte geben Antwort."
-
+author_profile: true
 ---
 
 ### Fernfachhochschule Schweiz FFHS
@@ -34,7 +34,7 @@ excerpt: "Wie ist es, mit Hannes Tscherrig zusammenzuarbeiten? Ehemalige Arbeits
 
 > Er verfügt über eine gute Feedbackkultur, ging mit Kritik konstruktiv um und äusserte Kritik sachlich. (Marc Lustenberger und Ueli Bischof, [Arbeitszeugnis media-work](/referenzen/media-work.pdf))
 
-### Instituto Chileno Suizo de Idiomas y Cultura 
+### Instituto Chileno Suizo de Idiomas y Cultura
 
 > Die Studenten haben Herrn Tscherrigs Leistung mit guten und sehr guten Noten bewertet.
 
