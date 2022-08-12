@@ -6,6 +6,10 @@ excerpt: "Wie ist es, mit Hannes Tscherrig zusammenzuarbeiten? Ehemalige Arbeits
 author_profile: true
 ---
 
+### Republica AG
+
+> Er ist als Texter in allen Stilformen und Mediengattungen versiert. [...] Dank  seinem breiten Wissen und der Fähigkeit, verschiedenste Perspektiven einzunehmen, hat er uns immer wieder mit überraschenden Ideen überzeugt. (Bala Trachsel und Stefanie Berchtold, [Arbeitszeugnis Republica](/referenzen/republica-1.jpg))
+
 ### Fernfachhochschule Schweiz FFHS
 
 > Weiterhin zeichnet sich Herr Tscherrig durch eine hohe Lernbereitschaft aus, sich fortdauernd Skills anzueignen, die für eine professionelle Realisierung von Projekten in der neuen Abteilung notwendig sind. (Prof. Dr. Markus Dormann, [Zwischenzeugnis FFHS](/referenzen/ffhs.pdf))
