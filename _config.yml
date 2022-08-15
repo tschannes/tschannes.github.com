@@ -13,7 +13,7 @@ minimal_mistakes_skin    : "neon" # "default", "air", "aqua", "contrast", "dark"
 locale                   : "de-CH"
 title                    : "Hannes Tscherrig"
 title_separator          : "|"
-subtitle                 : "Web-, Video- und Audio-Content"
+subtitle                 : "Text, Konzept, Video"
 name                     : "Hannes Tscherrig"
 description              : "Hannes Tscherrig entwirft, produziert und optimiert Text, Video und Audio fürs Web. Ausserdem ist er Code-Amateur, grosser Fan guter Fragen, liebt es, Dinge 'einfacher zu sagen' und ist passionierter Gleitschirmflieger."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -21,7 +21,7 @@ baseurl                  : "/"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : #
 logo                     : "/images/querstrichtext.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "EinmalEinfach" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Hannes Tscherrig" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
