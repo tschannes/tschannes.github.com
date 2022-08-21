@@ -12,7 +12,7 @@ author_profile: true
 
 ## Berufserfahrung
 
-- **Texter und Konzepter**: [Republica AG](https://www.republica.ch/Home), seit Juli 2021
+- **Texter und Konzepter**: [Republica AG](https://www.republica.ch/Home), Juli 2021 - Juni 2022
 
 - **Multimedia Production Facilitator**: Media Factory, [Fernfachhochschule Schweiz FFHS](https://www.ffhs.ch/), November 2019 - Mai 2021
 
