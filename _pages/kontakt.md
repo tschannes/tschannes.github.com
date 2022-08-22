@@ -5,9 +5,9 @@ excerpt: "Kontaktieren Sie Hannes Tscherrig. Er wird sich so bald als möglich b
 author_profile: true
 ---
 
-Sie haben zu viel Text auf dem Teller? Sehen vor lauter Nebensätzen, die Story nicht mehr? Wittern tolle Geschichten, haben aber keine Zeit zum Erzählen?
+Sie haben zu viel Text auf dem Teller? Sehen vor lauter Nebensätzen die Story nicht mehr? Wittern tolle Geschichten, haben aber keine Zeit zum Erzählen?
 
-Am besten schildern Sie mir Ihre Challenge ganz kurz im Formular. Und dann formulieren wir zusammen, eine Mission die Sie weiterbringt. Am besten bei einem Tässchen Kaffee, versteht sich.
+Am besten schildern Sie mir Ihre Challenge ganz kurz im Formular. Und dann formulieren wir zusammen eine Mission, die Sie weiterbringt. Am besten bei einem Tässchen Kaffee, versteht sich.
 
 <!-- modify this form HTML and place wherever you want your form -->
 <form
