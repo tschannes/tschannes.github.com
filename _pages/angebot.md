@@ -14,7 +14,7 @@ author_profile: true
 
 Bevor wir mit Schreiben, Erzählen und Redigieren durchstarten können, braucht es einen roten Faden: Die Idee.
 
-Ob als Ideen-Ping-Pong-Meister, als Externer mit Aussensicht oder als Teufelsadvokat erster Güte. Wenn Sie auf der Suche nach einer Idee (oder der Schärfung einer solchen sind), [sollten wir uns unterhalten](/kontakt).
+Ob als Ideen-Ping-Pong-Meister, als Externer mit Aussensicht oder als Teufelsadvokat erster Güte. Wenn Sie auf der Suche nach einer (besseren) Idee sind, [sollten wir uns unterhalten](/kontakt).
 
 ## Professionelle Schreibe. Der Text.
 
