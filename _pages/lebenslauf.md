@@ -12,6 +12,8 @@ author_profile: true
 
 ## Berufserfahrung
 
+- **Freelance-Texter**: [Hannes Tscherrig Text, Konzept, Video](https://www.tschannes.github.io/), seit August 2022
+
 - **Texter und Konzepter**: [Republica AG](https://www.republica.ch/Home), Juli 2021 - Juni 2022
 
 - **Multimedia Production Facilitator**: Media Factory, [Fernfachhochschule Schweiz FFHS](https://www.ffhs.ch/), November 2019 - Mai 2021
