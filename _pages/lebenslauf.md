@@ -16,7 +16,7 @@ author_profile: true
 
 - **Texter und Konzepter**: [Republica AG](https://www.republica.ch/Home), Juli 2021 - Juni 2022
 
-- **Multimedia Production Facilitator**: Media Factory, [Fernfachhochschule Schweiz FFHS](https://www.ffhs.ch/), November 2019 - Mai 2021
+- **Video Maker**: Media Factory, [Fernfachhochschule Schweiz FFHS](https://www.ffhs.ch/), November 2019 - Mai 2021
 
 - **Freelance Content Creator**: [Advance Gleitschirme](https://advance.ch/), seit September 2018, Thun, BE
 
