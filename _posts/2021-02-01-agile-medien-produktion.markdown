@@ -47,11 +47,11 @@ Usually, there is not just one user story to be told about a specific production
 
 > As a person working for university X, I want to see what my competitors are working on, so that I can adjust our research accordingly.
 
-> As someone super interested in rocket science, I want to hear the science from the horse's mouth.
+> As someone super interested in rocket science, I want to hear the science straight from the horse's mouth.
 
 > As a potential employee of company X, I am intrigued by their bold claims and want to know what's behind it, so that I can decide for or against an application.
 
-> As a stakeholder at company x, I want to show, how rocket modeling works using top notch visualizations, to impress and boost the image of company X.
+> As a stakeholder at company X, I want to show, how rocket modeling works using top notch visualizations, to impress and boost the image of company X.
 
 > ...
 
