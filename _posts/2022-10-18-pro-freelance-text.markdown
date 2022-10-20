@@ -13,11 +13,11 @@ Sie wissen es vielleicht noch nicht, aber es ist ziemlich sicher so: Sie und Ihr
 
 Kann sein. Möglich. Unwahrscheinlich. Wahrscheinlich werden Sie sich beim Schreiben aber grün und rosa ärgern und dabei Texte erstellen, über die sich Ihre Kundschaft grün und rosa ärgert. Viel einfacher, schneller und nervenschonender geht das mit einem Profi.
 
-### Kurz zusammengefasst
+## 0 Kurz zusammengefasst
 
 1. Erstens tut ein Texter mehr als nur texten. Er gibt nebenbei Inputs, Feedback und Ideen. 
 2. Zweitens textet er ziemlich sicher doch ein kleines bisschen verständlicher, korrekter und vielleicht kreativer als Otto-Gelegenheits-Poet.
-3. Und vielleicht am wichtigsten: ein Profi macht aus der nervenaufreibenden Pflichtübung ein Plaisierchen für Sie und Ihre Kundschaft.
+3. Und vielleicht am wichtigsten: ein Profi macht aus der Pflichtübung ein Plaisierchen. Für Sie und Ihre Kundschaft.
 
 ## 1 Klartext statt Tacheles
 
@@ -49,7 +49,7 @@ Wenn es ums Geschäftliche geht, ist aber eine gewisse Verbundenheit mit dem Dud
 
 Wem die Rechtschreiberei zu langweilig und automatisierte Korrektur-Tools noch zu unzuverlässig sind, ist mit einer Anfrage beim Freelancer gut beraten.
 
-## 4 Ihr Stil statt ihrgendwie
+## 4 Ihr Stil statt Ihrgendwie
 
 Korrekte Sprache ist selbstverständlich erst der Anfang. Getreu dem Credo "C'est le ton qui fait la musique" wollen Sie als Bäckerei nicht klingen wie eine Anwaltskanzlei (und umgekehrt). 
 
@@ -63,7 +63,7 @@ Ein Freelance-Texter begegnet Ihrem Betrieb aber erst einmal wie ein Kunde. Dadu
 
 Wenn ein Freelancer in ein Unternehmen kommt, alles mit offenen Augen und Ohren aufsaugt und "dumme" Fragen stellt, bedeutet das für Firmen in erster Linie Aufwand. 
 
-Dieser Aufwand fürs Briefen und Einarbeiten zahlt sich aber gleich doppelt aus. Einerseits ermöglicht eine gute Einarbeitung dem Freelancer seinen Job zu machen.
+Dieser Aufwand fürs Briefen und Einarbeiten zahlt sich aber gleich doppelt aus. Einerseits ermöglicht eine gute Einarbeitung es dem Freelancer seinen Job zu machen.
 
 Aber die Kennenlernphase bietet auch ein weiteres, oft nicht ausgeschöpftes, Potenzial. Als Aussenseiter sieht ein Freelancer Dinge, die nicht funktionieren, ob bei Prozessen, Produkten oder in der Kommunikation. Die Kollaboration mit einem Freelance-Texter kann also weit über den rein sprachlichen Support hinausgehen.
 
@@ -72,7 +72,7 @@ Aber die Kennenlernphase bietet auch ein weiteres, oft nicht ausgeschöpftes, Po
 
 ## 7 Wie weiter
 
-Bei Fragen zu Wirkungen und Nebenwirkungen guter und schlechter Texte, wenden Sie sich gerne an Ihren Freelance-Texter. Zusammen beantworten wir Ihre Frage zu Text und Kommunikation:
+Bei Fragen zu Wirkungen und Nebenwirkungen guter und schlechter Texte, wenden Sie sich gerne an Ihren Freelance-Texter. [Im Workshop beantworten wir Ihre Frage zu Text und Kommunikation](/angebot#workshop-zum-selber-schreiben):
 
 - Was sagen wir jetzt genau?
 - Wie sagen wir es am besten?

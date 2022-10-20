@@ -39,3 +39,14 @@ Als Storyteller finde und forme ich die unwiderstehlich spannende Erzählungen i
 Wer kennt ihn nicht: Der Text, der aus dem Ruder läuft und sich -- sowie sein Publikum -- dabei komplett in verwinkelten Nebensätzen und cleveren Jargon verliert. 
 
 Mit abnehmender Aufmerksamkeitsspanne müssen Texte immer kürzer und dichter werden. Wenn Sie gerade Unterstrukturiertes, Überfrachtetes oder Undurchsichtiges vor sich herschieben, [schreiben Sie mich an](/kontakt)!
+
+
+## Workshop zum Selber-Schreiben?
+
+> Lieber Angelrute als ein paar Fische?
+
+Vielleicht brauchen Sie mehr als ein paar Texte? Wollen selbst Hand anlegen? 
+
+Das macht durchaus Sinn, sparen Sie dadurch langfristig doch massiv Ressourcen. Als Text-Coach vermittle ich Ihnen und Ihrem Team die Skills, die Sie benétigen. Egal ob Sie Texte fèr den Webshop, Blog-Beitràge oder Google-Ad-Texte benétigen.
+
+Fragen Sie mich an für ein unverbindliches Angebot.
