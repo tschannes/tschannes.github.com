@@ -45,8 +45,10 @@ Mit abnehmender Aufmerksamkeitsspanne müssen Texte immer kürzer und dichter we
 
 > Lieber Angelrute als ein paar Fische?
 
-Vielleicht brauchen Sie mehr als ein paar Texte? Wollen selbst Hand anlegen? 
+Vielleicht brauchen Sie mehr als ein paar Texte? Wollen selbst Hand anlegen? Müssen regelmässig Texte machen und können sich keinen Profi leisten?
 
-Das macht durchaus Sinn, sparen Sie dadurch langfristig doch massiv Ressourcen. Als Text-Coach vermittle ich Ihnen und Ihrem Team die Skills, die Sie benétigen. Egal ob Sie Texte fèr den Webshop, Blog-Beitràge oder Google-Ad-Texte benétigen.
+Das macht durchaus Sinn, sparen Sie durch Schulung Ihrer Mitarbeitenden doch langfristig massiv Ressourcen. Als Text-Coach vermittle ich Ihnen und Ihrem Team die Skills, die Sie benötigen. 
 
-Fragen Sie mich an für ein unverbindliches Angebot.
+Sie definieren, wo bei in Ihrem Unternehmen der Schuh drückt. Im Workshop erarbeiten wir Mechanismen zur Themensuche, Vereinfachung, Stilfindung uww. entdecken Tools und definieren Checklisten zur Qualitätssicherung mit denen Ihr Team Ihre Challenge meistert.
+
+[Fragen Sie mich an](/kontakt) für ein unverbindliches Angebot.
