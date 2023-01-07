@@ -35,6 +35,8 @@ excerpt: "Bise, Föhn, Wolken, Wind. Das wichtigste vom Wetter, was du heute zum
 	<iframe width="650" height="450" src="https://embed.windy.com/embed2.html?lat=46.473&lon=8.346&detailLat=46.473&detailLon=8.346&width=650&height=450&zoom=9&level=surface&overlay=wind&product=arome&menu=&message=&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=default&metricTemp=default&radarRange=-1" frameborder="0"></iframe>
 </div>
 
+Alternativ: [Windprognose bei search.ch](https://meteo.search.ch/wind/brig) (basierend auf Daten von Meteoschweiz).
+
 ## Wolken Arome
 
 <div class="container">
@@ -55,18 +57,12 @@ Alternativ bietet das **[vereinfachte Emagramm auf Flugbasis.ch](http://www.flug
 
 ## Aktuelle Windwerte
 
-- **[Wallis](http://www.meteo-shv.ch/basic/values/valais.html)**
-- **[Zentralschweiz](http://www.meteo-shv.ch/basic/values/zentralschweiz-glarus.html)**
+- **[Messwerte Meteoschweiz](https://www.meteoschweiz.admin.ch/service-und-publikationen/applikationen/messwerte-und-messnetze.html#param=messwerte-windgeschwindigkeit-kmh-10min&lang=de)**
+- **[Messwerte winds.mobi](https://winds.mobi/stations/map)**
 
 
 ## Flugplanung
 
-**[Paragliding Map](http://www.paraglidingmap.com/#)** zeigt weltweit Start- und Landeplätze, sowie Thermik-Hotspots und Webcams. Die App kombiniert die Startplatz-Informationen mit aktuellen Wetterdaten und Wettermodellen, um anzuzeigen, ob Startplätze fliegbar sind.
-
-**[Flyland.ch](http://flyland.ch/fl_gis_2d_all.php?ST=1&LP=0&PP=0&CAM=0&GG=0&VZ=0&SZ=0&HI=0&BB=0)** zeigt auf einer Google-Karte, wo es sich in der Schweiz überall hochoffiziell und ganz korrekt starten lässt. Und wo zu landen, was zu vermeiden und welcher Wind ideal ist.
+**[Burnair](http://www.paraglidingmap.com/#)** zeigt weltweit Start- und Landeplätze, sowie Thermik-Hotspots, Webcams, Flugrouten mit Schlüssel- und Gefahrenstellen und vieles mehr. 
 
 **[Parange](http://www.parange.ch/)** zeigt Gleitschirmfliegern in der Schweiz, wie weit sie von einem gewissen Ort aus theoretisch gleiten können. Oder: Wie hoch sie aufsteigen müssen, um einen bestimmten Zielort zu erreichen.
-
-Der deutsche Pilot Bernd Gassner hat mit seinem **[XC Planner](https://xcplanner.appspot.com/)** ein extrem vielseitiges Planungs-Tool für Thermikflieger entworfen.
-
-Die guten Leute vom Cross Country Magazine verraten in ihrem **[Travel Guide](http://www.xcmag.com/travel-guide/)**, wo man auch mitten im Winter sagenhaft-toll Thermik fliegen kann.
