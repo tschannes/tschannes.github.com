@@ -60,6 +60,7 @@ Die **[Emagramme von Meteo Swiss](http://www.meteoswiss.admin.ch/home/measuremen
 
 - **[Messwerte Meteoschweiz](https://www.meteoschweiz.admin.ch/service-und-publikationen/applikationen/messwerte-und-messnetze.html#param=messwerte-windgeschwindigkeit-kmh-10min&lang=de)**
 - **[Messwerte winds.mobi](https://winds.mobi/stations/map)**
+- **[Regenradar Meteoschweiz](https://www.meteoschweiz.admin.ch/service-und-publikationen/applikationen/niederschlag.html)**
 
 ## Flugplanung
 
