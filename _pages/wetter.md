@@ -64,6 +64,8 @@ Die **[Emagramme von Meteo Swiss](http://www.meteoswiss.admin.ch/home/measuremen
 
 ## Flugplanung
 
+**[Paraglidable](https://paraglidable.com/?lat=46.643&lon=7.729&zoom=9)** zeigt ganz grob, ob es in den nächsten Tagen fliegt und in welcher Region das XC-Potenzial am grössten ist.
+
 **[Burnair](https://www.burnair.cloud/)** zeigt weltweit Start- und Landeplätze, sowie Thermik-Hotspots, Webcams, Flugrouten mit Schlüssel- und Gefahrenstellen und vieles mehr. 
 
 **[Parange](http://www.parange.ch/)** zeigt Gleitschirmfliegern in der Schweiz, wie weit sie von einem gewissen Ort aus theoretisch gleiten können. Oder: Wie hoch sie aufsteigen müssen, um einen bestimmten Zielort zu erreichen.
