@@ -46,7 +46,7 @@ author_profile: true
 
 ## Ausbildung
 
-- **Gleitschirm Tandem-Ausbildung**: [Flyingcenter Oberwallis](https://www.flyingcenter.ch/allgemeines/startseite), März 2020 - heute
+- **Gleitschirm Biplace Pilot**: [Flugtaxi](https://flug-taxi.ch), Juli 2020 - April 2023
 
 - **Videobasiertes Storytelling**: Autodidaktisch, Januar 2017 - heute
 
