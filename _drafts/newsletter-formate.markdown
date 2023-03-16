@@ -4,7 +4,7 @@ title: newsletter-formate
 excerpt: ""
 categories: [Newsletter]
 header:
-  image: "images/newsletter.jpg"
+  image: "images/newsletter-formate.jpg"
 ---
 
 - Messaging

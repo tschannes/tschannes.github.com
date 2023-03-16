@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Newsletter-Typen
 excerpt: "Wer seinen Newsletter-Typ kennt, ist erfolgreicher unterwegs."
 tags: []
