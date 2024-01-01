@@ -7,14 +7,14 @@
 
 #theme                    : "minimal-mistakes-jekyll"
 remote_theme             : mmistakes/minimal-mistakes
-minimal_mistakes_skin    : "neon" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" #"neon", "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "de-CH"
 title                    : "Hannes Tscherrig"
 uid                      : "CHE-449.732.709"
 title_separator          : "|"
-subtitle                 : "Text, Konzept, Video"
+subtitle                 : "Texter und Pilot"
 name                     : "Hannes Tscherrig"
 description              : "Hannes Tscherrig entwirft, produziert und optimiert Text, Video und Audio fürs Web. Ausserdem ist er Code-Amateur, grosser Fan guter Fragen, liebt es, Dinge 'einfacher zu sagen' und ist passionierter Gleitschirmflieger."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

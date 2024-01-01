@@ -4,6 +4,8 @@ main:
     url: /angebot/
   - title: "Themen"
     url: /themen/
+  - title: "Tandem-Gleitschirmflug"
+    url: /gleitschirm-tandem/
   - title: "Kontakt"
     url: /kontakt
 #  - title: "CV"
