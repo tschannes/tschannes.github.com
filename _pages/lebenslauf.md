@@ -12,9 +12,11 @@ author_profile: true
 
 ## Berufserfahrung
 
-- **Freelance-Texter**: [Hannes Tscherrig Text, Konzept, Video](https://www.tschannes.github.io/), seit August 2022
+- **Gleitschirm-Tandem-Pilot**: [selbstständig](https://www.tschannes.github.io/gleitschirm-tandem), seit April 2023
 
-- **Corporate Journalist/PR-Redaktor**: [Berner Fachhochschule](https://www.bfh.ch/de/), Dezember 2022 - Juli 2023
+- **Freelance-Texter**: [selbstständig](https://www.tschannes.github.io/), seit August 2022
+
+- **Corporate Journalist/PR-Redaktor**: [Berner Fachhochschule](https://www.bfh.ch/de/), seit Dezember 2022
 
 - **Texter und Konzepter**: [Republica AG](https://www.republica.ch/Home), Juli 2021 - Juni 2022
 
