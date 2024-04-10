@@ -14,15 +14,15 @@ header:
 excerpt: "Komm flieg mit! Melde dich jetzt an zum einmaligen Flugerlebnis in der Region Leuk-Leukerbad."
 gallery:
   - url: /images/tandem-gallery/one.jpg
-    image_path: /images/tandem-gallery/one-min.jpg
+    image_path: /images/tandem-gallery/one-min.webp
     alt: ""
     title: "So frei wie sonst nirgends..."
   - url: /images/tandem-gallery/three.jpg
-    image_path: /images/tandem-gallery/three-min.jpg
+    image_path: /images/tandem-gallery/three-min.webp
     alt: ""
     title: "Flug hoch über dem Aletschgletscher."
   - url: /images/tandem-gallery/four.jpg
-    image_path: /images/tandem-gallery/four-min.jpg
+    image_path: /images/tandem-gallery/four-min.webp
     alt: ""
     title: "Einfach mitfliegen."
 
