@@ -1,6 +1,6 @@
 ---
 
-published: false
+published: true
 title: "Gleitschirm-Tandemflug mit Hannes Tscherrig"
 permalink: /gleitschirm-tandem/
 layout: "splash"
@@ -43,17 +43,15 @@ gallery:
 
 ### Vorbereitung
 
-Ein Gleitschirmflug über Leukerbad? Das geht ganz einfach: Als erstes reservierst du dir einen Termin, der für dich passt. Am Vorabend des Fluges melde ich mich kurz telefonisch, um Treffpunkt und Uhrzeit definitiv zu besprechen. Sollte uns das Wetter einen Strich durch die Rechnung machen, vereinbaren wir einen Ersatztermin.
+Ein Gleitschirmflug über den Walliser Bergen? Das geht ganz einfach: Als erstes reservierst du dir einen Termin, der für dich passt. Am Vorabend des Fluges melde ich mich kurz telefonisch, um Treffpunkt und Uhrzeit definitiv zu besprechen. Sollte uns das Wetter einen Strich durch die Rechnung machen, vereinbaren wir einen Ersatztermin.
 
 ### Am Flugtag
 
-Wir treffen uns am ausgemachten Treffpunkt und machen uns bereit für den Flug. Alles, was du zum abheben wissen musst, besprechen wir am Startplatz. Aber keine Bange, es ist nicht viel.
+Wir begrüssen uns am ausgemachten Treffpunkt und machen uns bereit für den Flug. Alles, was du zum Abheben wissen musst, besprechen wir am Startplatz. Aber keine Bange, es ist nicht viel.
 
 {% include gallery %}
 
-### Fotos und Videos
 
-Natürlich möchtest du deinen Flug auf Fotos und Videos festhalten. Gerne stellen wir dir unsere Bilder und Videos als Erinnerung zur Verfügung (CHF 30.-). Weil das Risiko relativ gross ist, dass du dein Smartphone oder deine Kamera im Flug verlierst, empfehlen wir dir nicht, selbst zu fotografieren.
 
 ## Wer kann fliegen?
 
@@ -61,7 +59,20 @@ Mitfliegen kannst du, wenn du sicher zu Fuss unterwegs bist. Besonders im Winter
 
 ## Ausrüstung
 
-Alles, was du zum Fliegen benötigst bringen wir mit (Gleitschirm, Gurtzeug, Helme, Kamera). Dein Job ist es, dich den Temperaturen und Wetterbedingungen entsprechend zu kleiden. Im Winter empfiehlt sich ein Outfit, das du auch zum Skifahren anziehen würdest, im Sommer gehen auch leichtere Kleider, aber eine Windschutzjacke, lange Hosen und knöchelhohe Schuhe sind immer eine gute Idee.
+Alles, was du zum Fliegen benötigst, bringen wir mit (Gleitschirm, Gurtzeug, Helme, Kamera). Dein Job ist es, dich den Temperaturen und Wetterbedingungen entsprechend zu kleiden. Im Winter empfiehlt sich ein Outfit, das du auch zum Skifahren anziehen würdest, im Sommer gehen auch leichtere Kleider, aber eine Windschutzjacke, lange Hosen und knöchelhohe Schuhe sind immer eine gute Idee.
+
+## Kosten
+
+Abgerechnet wird ähnlich wie bei einer Taxifahrt nach Flugzeit. Die erste Viertelstunde kostet 150 Franken, für jede weitere Viertelstunde kommen 50 Franken dazu. Aber keine Angst, als Gast bestimmst du, wann es zur Landung geht.
+
+- **15min**: CHF 150.-
+- **+15min**: CHF 50.-
+
+Für Flüge von speziellen Startplätzen oder bei besonders langen Erkundungstouren durch die Lüfte können wir auch gerne eine Tagespauschale vereinbaren.
+
+### Fotos und Videos
+
+Natürlich möchtest du deinen Flug auf Fotos und Videos festhalten. Gerne stellen wir dir unsere Bilder und Videos als Erinnerung zur Verfügung (CHF 30.-). Weil das Risiko relativ gross ist, dass du dein Smartphone oder deine Kamera im Flug verlierst, empfehlen wir dir nicht, selbst zu fotografieren.
 
 ## Fragen?
 

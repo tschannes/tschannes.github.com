@@ -3,7 +3,7 @@
 Hannes Tscherrig:
   name        : "Hannes Tscherrig"
   bio         : "Ich entwerfe, produziere und optimiere Text und Video fürs Web. Ausserdem bin ich Code-Amateur, grosser Fan guter Fragen und passionierter Gleitschirmflieger."
-  avatar      : "/images/hannes_tscherrig.jpg"
+  avatar      : "/images/hannes-tscherrig-compressed.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
