@@ -1,5 +1,6 @@
 ---
 
+published: false
 title: "Gleitschirm-Tandemflug mit Hannes Tscherrig"
 permalink: /gleitschirm-tandem/
 layout: "splash"
