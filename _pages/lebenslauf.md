@@ -3,7 +3,7 @@
 title: "Über"
 permalink: /lebenslauf/
 excerpt: "Berufserfahrung, Ausbildung, Sprachen, Technik, Redaktion und Learning on the Job: Was bisher geschah im Leben von Hannes Tscherrig."
-img: "images/hannes_tscherrig.jpg"
+img: "images/hannes-tscherrig.webp"
 author_profile: true
 
 ---
@@ -94,7 +94,7 @@ Gute Information und spannende Geschichten sind die Kehrseite besserer Fragen. D
 
 Gute Kommunikation steht und fällt mit einem Plan. Wer nicht weiss, was er sagen will, schweigt besser. Das Entwerfen eines Planes zwingt dazu, grundlegende Fragen zu beantworten: Wer spricht? Was ist die Botschaft? Wer ist angesprochen?
 
-Mit einem soliden Plan fällt es leichter, klare Aussagen zu machen. Es fällt leichter Produkte zu verkaufen, wenn klar ist, worin -- immer aus Kundensicht -- die besonderen Vorteile liegen. Diese Einfachheit ist gerade für Internet-Inhalte ungeheuer wichtig. 
+Mit einem soliden Plan fällt es leichter, klare Aussagen zu machen. Es fällt leichter Produkte zu verkaufen, wenn klar ist, worin -- immer aus Kundensicht -- die besonderen Vorteile liegen. Diese Einfachheit ist gerade für Internet-Inhalte ungeheuer wichtig.
 
 Als Content-Spezialist und Konzepter entwerfe ich Online-Interaktionen: Ich entwickle Ideen für spannende Geschichten, setze sie um, plane den Seitenaufbau oder prüfe Kleinst-Texte, welche Nutzenden die Orientierung auf einer Internetseite erleichtern.
 

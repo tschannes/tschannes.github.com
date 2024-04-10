@@ -3,14 +3,14 @@
 title: "Angebot: Texte, die etwas erreichen."
 permalink: /angebot/
 excerpt: "Ich suche für Sie Ideen, schreibe Texte, erzähle Geschichten und reduziere Palaver zu Power-Texten, die etwas erreichen."
-img: "images/hannes_tscherrig.jpg"
+img: "images/hannes-tscherrig.webp"
 author_profile: true
 
 ---
 
 ## Immer auf der Suche. Die Idee.
 
-> Manche nennen es "Konzept", andere "Mecano", wieder andere "Schlachtplan". Alle haben recht. 
+> Manche nennen es "Konzept", andere "Mecano", wieder andere "Schlachtplan". Alle haben recht.
 
 Bevor wir mit Schreiben, Erzählen und Redigieren durchstarten können, braucht es einen roten Faden: Die Idee.
 
@@ -18,7 +18,7 @@ Ob als Ideen-Ping-Pong-Meister, als Externer mit Aussensicht oder als Teufelsadv
 
 ## Professionelle Schreibe. Der Text.
 
-> Texte machen Ton, Ton Musik und Musik ist Emotion. 
+> Texte machen Ton, Ton macht Musik und Musik ist Emotion.
 
 Trotz Video und Foto. Noch immer ist er das Mass aller Dinge, wenn es darum geht etwas zu sagen. Analog, digital, responsive und oft unterschätzt. Der Text.
 
@@ -26,28 +26,28 @@ Gute Texte bewegen, beruhigen, führen, unterhalten. Sie erreichen etwas. [Eine 
 
 ## Einfach spannend. Die Story.
 
-> Hürde, Held und Glanztat, fertig die Geschicht. 
+> Hürde, Held und Glanztat, fertig die Geschicht.
 
 Viele Corporate-Texte übersehen ob der Zahlen und Fakten die Geschichten, Menschen und Erfolgserlebnisse hinter dem Business.
 
-Als Storyteller finde und forme ich die unwiderstehlich spannende Erzählungen in Ihrem Betrieb. Wenn Sie also auch schon über dem hauseigenen Firmenmagazin eingedöst sind, [müssen wir uns kennenlernen](/kontakt). 
+Als Storyteller finde und forme ich die unwiderstehlich spannende Erzählungen in Ihrem Betrieb. Wenn Sie also auch schon über dem hauseigenen Firmenmagazin eingedöst sind, [müssen wir uns kennenlernen](/kontakt).
 
 ## Too long didn't read. Das Lektorat.
 
 > Als Texter schreibe ich nicht mehr als andere. Ich streiche mehr.
 
-Wer kennt ihn nicht: Der Text, der aus dem Ruder läuft und sich -- sowie sein Publikum -- dabei komplett in verwinkelten Nebensätzen und cleveren Jargon verliert. 
+Wer kennt ihn nicht: Der Text, der aus dem Ruder läuft und sich -- sowie sein Publikum -- dabei komplett in verwinkelten Nebensätzen und cleveren Jargon verliert.
 
 Mit abnehmender Aufmerksamkeitsspanne müssen Texte immer kürzer und dichter werden. Wenn Sie gerade Unterstrukturiertes, Überfrachtetes oder Undurchsichtiges vor sich herschieben, [schreiben Sie mich an](/kontakt)!
 
 
 ## Workshop zum Selber-Schreiben?
 
-> Lieber Angelrute als ein paar Fische?
+> Lieber eine Angelrute als ein paar Fische?
 
 Vielleicht brauchen Sie mehr als ein paar Texte? Wollen selbst Hand anlegen? Müssen regelmässig Texte machen und können sich keinen Profi leisten?
 
-Das macht durchaus Sinn, sparen Sie durch Schulung Ihrer Mitarbeitenden doch langfristig massiv Ressourcen. Als Text-Coach vermittle ich Ihnen und Ihrem Team die Skills, die Sie benötigen. 
+Das macht durchaus Sinn, sparen Sie durch Schulung Ihrer Mitarbeitenden doch langfristig massiv Ressourcen. Als Text-Coach vermittle ich Ihnen und Ihrem Team die Skills, die Sie benötigen.
 
 Sie definieren, wo bei in Ihrem Unternehmen der Schuh drückt. Im Workshop erarbeiten wir Mechanismen zur Themensuche, Vereinfachung, Stilfindung uww. entdecken Tools und definieren Checklisten zur Qualitätssicherung mit denen Ihr Team Ihre Challenge meistert.
 
