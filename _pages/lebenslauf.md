@@ -12,6 +12,8 @@ author_profile: true
 
 ## Berufserfahrung
 
+- **Stiftungsrat**: [Stiftung La Résidence](https://www.les-residences.ch/), seit Mai 2023
+
 - **Gleitschirm-Tandem-Pilot**: [selbstständig](https://www.tschannes.github.io/gleitschirm-tandem), seit April 2023
 
 - **Freelance-Texter**: [selbstständig](https://www.tschannes.github.io/), seit August 2022
