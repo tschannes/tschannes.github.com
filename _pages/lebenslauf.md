@@ -46,8 +46,6 @@ author_profile: true
 
 - **Praktikant News-Redaktor**: [Radio Rottu Oberwallis][8] Juli 2009 – Juli 2009, Visp, VS
 
----
-
 ## Ausbildung
 
 - **Gleitschirm Biplace Pilot**: [Flugtaxi](https://flug-taxi.ch), Juli 2020 - April 2023
@@ -62,16 +60,12 @@ author_profile: true
 
 - **Austauschjahr Amerikanische Literatur und Linguistik**: [University of Arizona][12], Austauschjahr, August 2007 – Juli 2008
 
----
-
 ## Sprachen
 
 *   Deutsch (Muttersprache oder zweisprachig)
 *   Englisch (Verhandlungssicher)
 *   Französisch (Fließend)
 *   Spanisch (Grundkenntnisse)
-
----
 
 ## Technik
 
@@ -84,7 +78,6 @@ author_profile: true
 *   PHP, WordPress (Solide Grundkenntnisse)
 *   Markdown (Täglicher Gebrauch)
 
----
 <!--
 ## Redaktion
 
