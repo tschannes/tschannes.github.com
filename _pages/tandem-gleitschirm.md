@@ -1,6 +1,6 @@
 ---
 
-published: false
+published: true
 title: "Gleitschirm-Tandemflug mit Hannes Tscherrig"
 permalink: /gleitschirm-tandem/
 layout: "splash"
@@ -35,8 +35,12 @@ gallery:
 ## Reserviere jetzt deinen Termin!
 
 <!-- Google Calendar Appointment Scheduling begin -->
+<!--
 <iframe id="kalender" src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ1o-XuiEtIQImbOzwiTFtHaoZav03DVXH9Tt9h9ZTWhAFfVeGfYroIB7ngQvtlG5Wv-_Ddkcu3d?gv=true" style="border: 0" width="100%" height="600px"  frameborder="0"></iframe>
+-->
 <!-- end Google Calendar Appointment Scheduling -->
+
+Interessiert an einem Höhenflug? <a href="tel:0791543046">Rufen Sie mich kurz an!</a> oder <a href="mailto:tschannes@gmail.com?subject=Anfrage Höhenflug Leukerbad">schreiben Sie mir eine Mail</a>. Ich freue mich von Ihnen zu hören.
 
 
 ## Wie funktioniert's?
