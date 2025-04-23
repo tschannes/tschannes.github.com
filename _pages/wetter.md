@@ -47,11 +47,11 @@ excerpt: "Bise, Föhn, Wolken, Wind. Das wichtigste vom Wetter, was du heute zum
 
 ## Föhn- und Bisentendenz
 
-**[Meteocentrale.ch](http://www.meteocentrale.ch)** zeigt wie sich Föhn- und Bisentendenz über die nächsten Tage entwickeln werden. Ab 4 hPa Druckunterschied wird's brenzlig zum Fliegen.
+**[srf.ch](https://www.srf.ch/meteo/surf-und-segelwetter/diagramme-foehn-und-bise)** zeigt wie sich Föhn- und Bisentendenz über die nächsten Tage entwickeln werden. Ab 4 hPa Druckunterschied wird's brenzlig zum Fliegen.
 
-![Föhn](http://www.meteocentrale.ch/uploads/pics/uwz-ch_foehn_en.png)
+![Föhn](https://www.srf.ch/meteo/static/prognosetafeln/wind/FOEHNDIAGRAMM.jpg)
 
-![Bise](http://www.meteocentrale.ch/uploads/pics/uwz-ch_bise_en.png)
+![Bise](https://www.srf.ch/meteo/static/prognosetafeln/wind/BISENDIAGRAMM.jpg)
 
 Die **[Emagramme von Meteo Swiss](http://www.meteoswiss.admin.ch/home/measurement-and-forecasting-systems/atmosphere/radio-soundings.html)** zeigen, wie die Atmosphäre aktuell geschichtet ist. Es erlaubt Aufschlüsse über Wind, Temperatur, Luftfeuchtigkeit und Thermikpotenzial. Unten das aktuellste Emagramm von Meteo Swiss.
 
