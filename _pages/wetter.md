@@ -7,6 +7,37 @@ excerpt: "Bise, Föhn, Wolken, Wind. Das wichtigste vom Wetter, was du heute zum
 
 ---
 
+<script>
+	//redirecting focus from fullscreen iframe back to main page
+	setInterval(_ => {
+	    if (document.activeElement.tagName == "IFRAME") {
+	        document.activeElement.blur();
+	    }
+	}, 500);
+	//making iframes fullscreen when button is pressed
+	document.addEventListener('keydown', function(event) {
+		console.log("kepress registered.");
+	    const targetMap = {
+	        t: '.thermik',
+	        w: '.winds',
+	        c: '.clouds'
+	        // add more key-selector pairs as needed
+	    };
+
+	    const key = event.key.toLowerCase();
+	    const selector = targetMap[key];
+
+	    if (selector) {
+	    	console.log(selector);
+	        const targetElement = document.querySelector(selector);
+	        if (targetElement) {
+	            targetElement.classList.toggle('fullscreen');
+	            targetElement.classList.toggle('container');
+	        }
+	    }
+	});
+</script>
+
 <style type="text/css">
 	.container{
 		position: relative;
@@ -23,27 +54,42 @@ excerpt: "Bise, Föhn, Wolken, Wind. Das wichtigste vom Wetter, was du heute zum
 		width: 100%;
 		height: 100%;
 	}
+	.fullscreen {
+	    position: fixed;
+	    top: 0;
+	    left: 0;
+	    width: 100vw;
+	    height: 100vh;
+	    z-index: 9999;
+	    background: white; /* or any background color/image you want */
+	}
 </style>
 
 ![Grosswetterlage](https://www.wetter.net/components/com_weather/data/images/grosswetterlage.jpg)
 
 **[Windytv.com](https://www.windyty.com/)** visualisiert mehrere globale Wettermodelle und lässt gute Kurzzeitprognosen für lokale Wind- und Wetterbedingungen zu.
 
-## Wind Arome
+## Wind Arome (w)
 
-<div class="container">
+<div class="container winds">
 	<iframe width="650" height="450" src="https://embed.windy.com/embed2.html?lat=46.473&lon=8.346&detailLat=46.473&detailLon=8.346&width=650&height=450&zoom=9&level=surface&overlay=wind&product=arome&menu=&message=&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=default&metricTemp=default&radarRange=-1" frameborder="0"></iframe>
 </div>
 
-### Alternativ
 
-[Windprognose bei search.ch](https://meteo.search.ch/wind/brig) (basierend auf Daten von Meteoschweiz).
+## Wolken Arome (c)
 
-## Wolken Arome
-
-<div class="container">
+<div class="container clouds">
 	<iframe width="650" height="450" src="https://embed.windy.com/embed2.html?lat=46.473&lon=8.346&detailLat=46.473&detailLon=8.346&width=650&height=450&zoom=9&level=surface&overlay=clouds&product=arome&menu=&message=&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=default&metricTemp=default&radarRange=-1" frameborder="0"></iframe>
 </div>
+
+
+## Thermikprognose SoaringMeteo (t)
+
+<div class="container thermik">
+	<iframe width="650" height="450" src="https://soaringmeteo.org/v2/?lat=46.674&lng=9.239&z=8.7&model=wrf&zone=alps-overview">
+	</iframe>
+</div>
+
 
 ## Föhn- und Bisentendenz
 
@@ -61,6 +107,7 @@ Die **[Emagramme von Meteo Swiss](http://www.meteoswiss.admin.ch/home/measuremen
 - **[Messwerte Meteoschweiz](https://www.meteoschweiz.admin.ch/service-und-publikationen/applikationen/messwerte-und-messnetze.html#param=messwerte-windgeschwindigkeit-kmh-10min&lang=de)**
 - **[Messwerte winds.mobi](https://winds.mobi/stations/map)**
 - **[Regenradar Meteoschweiz](https://www.meteoschweiz.admin.ch/service-und-publikationen/applikationen/niederschlag.html)**
+
 
 ## Flugplanung
 
